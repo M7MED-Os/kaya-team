@@ -1,0 +1,15 @@
+{
+  "title": "Lecture Title",
+  "questions": [
+    {
+      "question": "What is the capital of Egypt?",
+      "options": ["London", "Cairo", "Alex", "Madrid"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Are you okay?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

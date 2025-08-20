@@ -1,0 +1,19 @@
+{
+  "subject": "Subject Title",
+  "lectures": [
+    {
+      "title": "lecture title",
+      "video": "lecture link",
+      "quiz": "exam.html?file=data/subjects/third_year_pediatric_nursing/subject1-exams/lecture1exam.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "lecture title",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    }
+  ]
+}
