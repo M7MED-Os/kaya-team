@@ -196,6 +196,7 @@
         <h3>Your Score</h3>
         <p id="score-text"></p>
         <button id="try-again-btn">Try Again</button>
+        <button id="home-btn">Home</button>
       </div>
     </div>
 
@@ -226,6 +227,7 @@
       let currentQuestionIndex = 0;
       let score = 0;
 
+      const homeBtn = document.getElementById("home-btn");
       const startBtn = document.getElementById("start-btn");
       const nextBtn = document.getElementById("next-btn");
       const tryAgainBtn = document.getElementById("try-again-btn");
@@ -237,6 +239,10 @@
       const resultBox = document.getElementById("result-box");
       const scoreText = document.getElementById("score-text");
       const themeToggleBtn = document.getElementById("theme-toggle");
+
+      homeBtn.addEventListener("click", () => {
+        window.location.href = "index.html";
+      });
 
       function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
