@@ -54,6 +54,10 @@
         grid-template-columns: repeat(6, 1fr);
       }
 
+      body.dark #questions-nav {
+        background-color: #353535;
+      }
+
       #questions-nav li {
         display: flex;
         justify-content: center;
@@ -312,7 +316,7 @@
             li.style.color = "";
           } else if (answersState[i].correct) {
             li.style.backgroundColor = "#2ecc71";
-            li.style.color = "#fff"; // #2ecc71 #e74c3c
+            li.style.color = "#fff";
           } else {
             li.style.backgroundColor = "#e74c3c";
             li.style.color = "#fff";
