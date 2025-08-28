@@ -16,10 +16,8 @@
         transition: background 0.3s ease, color 0.3s ease;
       }
 
-      #theme-toggle {
+      .btn {
         position: fixed;
-        top: 15px;
-        right: 15px;
         padding: 8px 14px;
         font-size: 14px;
         border: none;
@@ -29,6 +27,51 @@
         color: white;
         box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
         transition: background-color 0.3s ease;
+        z-index: 1000;
+      }
+
+      #theme-toggle {
+        top: 15px;
+        right: 15px;
+      }
+
+      #questions-btn {
+        top: 15px;
+        left: 15px;
+      }
+
+      #questions-nav {
+        position: absolute;
+        top: 50px;
+        padding: 10px;
+        background-color: #fff;
+        border-radius: 10px;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.3s ease;
+        z-index: 1000;
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+      }
+
+      #questions-nav li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+      }
+
+      #questions-nav.show-questions-nav {
+        opacity: 1;
+        visibility: visible;
+      }
+
+      body.active::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: #0000008f;
         z-index: 1000;
       }
 
@@ -176,7 +219,10 @@
     </style>
   </head>
   <body>
-    <button id="theme-toggle">Dark mode</button>
+    <button id="theme-toggle" class="btn">Dark mode</button>
+
+    <button id="questions-btn" class="btn">Questions</button>
+    <ul id="questions-nav"></ul>
 
     <div class="container">
       <h2 id="quiz-title"></h2>
@@ -205,11 +251,21 @@
       const params = new URLSearchParams(window.location.search);
       const file = params.get("file");
 
+      // هنخزن حالة كل سؤال (محلوله ولا لأ و الإجابة صح ولا غلط و أي اختيار اتعلم)
+      let answersState = [];
+      // شكلها: [{answered: true, correct: true/false, chosenIndex: رقم}], ...
+
       if (file) {
         fetch(file)
           .then((res) => res.json())
           .then((data) => {
             allQuestions = data.questions || [];
+            answersState = allQuestions.map(() => ({
+              answered: false,
+              correct: null,
+              chosenIndex: null,
+            }));
+            buildQuestionsNav();
 
             const examTitle = data.title || data.examTitle || "Exam";
             document.getElementById("quiz-title").textContent = examTitle;
@@ -222,6 +278,51 @@
       } else {
         document.getElementById("quiz-container").innerHTML =
           "<p style='color:red'>No exam file specified</p>";
+      }
+
+      function buildQuestionsNav() {
+        questionsNav.innerHTML = "";
+        allQuestions.forEach((q, index) => {
+          const li = document.createElement("li");
+          li.textContent = index + 1;
+          li.style.cursor = "pointer";
+          li.style.display = "inline-block";
+          li.style.margin = "5px";
+          li.style.padding = "8px 12px";
+          li.style.border = "1px solid #ccc";
+          li.style.borderRadius = "6px";
+
+          li.addEventListener("click", (e) => {
+            e.stopPropagation();
+            currentQuestionIndex = index;
+            setNextQuestion();
+            questionsNav.classList.remove("show-questions-nav");
+            document.body.classList.remove("active");
+          });
+
+          questionsNav.appendChild(li);
+        });
+      }
+
+      function highlightCurrentNav() {
+        const items = questionsNav.querySelectorAll("li");
+        items.forEach((li, i) => {
+          if (!answersState[i].answered) {
+            li.style.backgroundColor = "";
+            li.style.color = "";
+          } else if (answersState[i].correct) {
+            li.style.backgroundColor = "#2ecc71";
+            li.style.color = "#fff"; // #2ecc71 #e74c3c
+          } else {
+            li.style.backgroundColor = "#e74c3c";
+            li.style.color = "#fff";
+          }
+
+          if (i === currentQuestionIndex) {
+            li.style.backgroundColor = "#3498db";
+            li.style.color = "#fff";
+          }
+        });
       }
 
       let currentQuestionIndex = 0;
@@ -239,6 +340,21 @@
       const resultBox = document.getElementById("result-box");
       const scoreText = document.getElementById("score-text");
       const themeToggleBtn = document.getElementById("theme-toggle");
+      const questionsBtn = document.getElementById("questions-btn");
+      const questionsNav = document.getElementById("questions-nav");
+
+      questionsBtn.onclick = function (event) {
+        event.stopPropagation();
+        questionsNav.classList.toggle("show-questions-nav");
+        document.body.classList.toggle("active");
+      };
+
+      document.addEventListener("click", function () {
+        if (questionsNav.classList.contains("show-questions-nav")) {
+          questionsNav.classList.remove("show-questions-nav");
+          document.body.classList.remove("active");
+        }
+      });
 
       homeBtn.addEventListener("click", () => {
         window.location.href = "index.html";
@@ -262,6 +378,11 @@
         currentQuestionIndex = 0;
         score = 0;
         shuffleArray(allQuestions);
+        answersState = allQuestions.map(() => ({
+          answered: false,
+          correct: null,
+          chosenIndex: null,
+        }));
         startBox.classList.add("hide");
         resultBox.classList.add("hide");
         quizBox.classList.remove("hide");
@@ -270,10 +391,52 @@
 
       function setNextQuestion() {
         resetState();
+
+        // CASE: in-range question index
         if (currentQuestionIndex < allQuestions.length) {
           showQuestion(allQuestions[currentQuestionIndex]);
+          highlightCurrentNav();
+
+          // update Next button label: if last question show "Show Result"
+          if (currentQuestionIndex === allQuestions.length - 1) {
+            nextBtn.textContent = "Show Result";
+          } else {
+            nextBtn.textContent = "Next";
+          }
+
+          // if current question already answered — السماح بالـ Next فوراً
+          if (answersState[currentQuestionIndex].answered) {
+            nextBtn.disabled = false;
+          } else {
+            nextBtn.disabled = true;
+          }
         } else {
-          showResult();
+          // CASE: user clicked Next while on last question (currentQuestionIndex == allQuestions.length)
+          if (answersState.every((q) => q.answered)) {
+            // كل الأسئلة محلولة → اعرض النتيجة
+            showResult();
+          } else {
+            // في أسئلة مش محلولة → انقله لأول سؤال غير محلول
+            const firstUnanswered = answersState.findIndex((q) => !q.answered);
+            if (firstUnanswered !== -1) {
+              currentQuestionIndex = firstUnanswered;
+              // نعيد عرض السؤال غير المحلول
+              resetState();
+              showQuestion(allQuestions[currentQuestionIndex]);
+              highlightCurrentNav();
+              // ونجعل زر Next يعكس الحالة (قد يكون في آخر سؤال أو لا)
+              if (currentQuestionIndex === allQuestions.length - 1) {
+                nextBtn.textContent = "Show Result";
+              } else {
+                nextBtn.textContent = "Next";
+              }
+              // بما أن السؤال غير محلول، نترك Next معطل حتى يجيب
+              nextBtn.disabled = true;
+            } else {
+              // بالشكل النظري هذا لا يحدث لأن كل الأسئلة مش محلولة سيُكشف أعلاه
+              showResult();
+            }
+          }
         }
       }
 
@@ -286,6 +449,7 @@
         const optionsWithFlag = questionObj.options.map((opt, i) => ({
           text: opt,
           isCorrect: i === questionObj.correctIndex,
+          index: i,
         }));
 
         if (!isTrueFalseQuestion(questionObj)) {
@@ -315,9 +479,26 @@
           const button = document.createElement("button");
           button.textContent = option.text;
           button.classList.add("answer-btn");
-          button.addEventListener("click", () =>
-            selectAnswer(button, option.isCorrect)
-          );
+
+          // لو السؤال محلول بالفعل → نظهر اختياراته زي ما اتعلمت قبل كده
+          if (answersState[currentQuestionIndex].answered) {
+            button.disabled = true;
+
+            if (option.isCorrect) {
+              button.classList.add("correct");
+            }
+            if (
+              answersState[currentQuestionIndex].chosenIndex === option.index &&
+              !option.isCorrect
+            ) {
+              button.classList.add("wrong");
+            }
+          } else {
+            button.addEventListener("click", () =>
+              selectAnswer(button, option.isCorrect, option.index)
+            );
+          }
+
           answerButtons.appendChild(button);
         });
       }
@@ -327,13 +508,18 @@
         answerButtons.innerHTML = "";
       }
 
-      function selectAnswer(button, isCorrect) {
+      function selectAnswer(button, isCorrect, chosenIndex) {
         const buttons = answerButtons.querySelectorAll("button");
         buttons.forEach((btn) => (btn.disabled = true));
 
         if (isCorrect) {
           button.classList.add("correct");
           score++;
+          answersState[currentQuestionIndex] = {
+            answered: true,
+            correct: true,
+            chosenIndex,
+          };
         } else {
           button.classList.add("wrong");
           buttons.forEach((btn) => {
@@ -346,8 +532,14 @@
               btn.classList.add("correct");
             }
           });
+          answersState[currentQuestionIndex] = {
+            answered: true,
+            correct: false,
+            chosenIndex,
+          };
         }
 
+        highlightCurrentNav();
         nextBtn.disabled = false;
       }
 
@@ -357,7 +549,6 @@
         scoreText.textContent = `${score} out of ${allQuestions.length}`;
       }
 
-      // Theme toggle
       themeToggleBtn.addEventListener("click", () => {
         document.body.classList.toggle("dark");
         themeToggleBtn.textContent = document.body.classList.contains("dark")
@@ -365,7 +556,6 @@
           : "Dark mode";
       });
 
-      // Event listeners
       startBtn.addEventListener("click", startQuiz);
       nextBtn.addEventListener("click", () => {
         currentQuestionIndex++;
