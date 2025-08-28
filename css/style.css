@@ -567,7 +567,8 @@ footer ul li a i {
   color: #fff;
 }
 
-footer .by {
+footer .by,
+footer .v {
   color: var(--text-color);
   text-align: center;
 }
