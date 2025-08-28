@@ -228,11 +228,10 @@
       /* Quran overlay */
       #quran-overlay {
         position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
+        top: 0;
         left: 0;
-        height: 100%;
         width: 100%;
+        height: 100%;
         background: rgba(248, 249, 250, 0.98);
         display: flex;
         justify-content: center;
@@ -265,8 +264,12 @@
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
       }
       .surah > * {
-        margin: 18px 0;
+        margin: 0;
         line-height: 1.8;
+      }
+
+      .surah h2 {
+        margin-bottom: 10px;
       }
 
       body.dark #quran-overlay {
@@ -297,13 +300,18 @@
     </style>
   </head>
   <body>
+    <!-- Controls -->
     <button id="theme-toggle" class="btn">Dark mode</button>
     <button id="questions-btn" class="btn">Questions</button>
     <ul id="questions-nav"></ul>
 
+    <!-- Quiz container -->
     <div class="container">
+      <!-- Quran Overlay -->
       <div id="quran-overlay">
         <div class="overlay-content">
+          <div id="countdown">20</div>
+
           <div class="surah">
             <h2>﷽ سورة الإخلاص</h2>
             <p>
@@ -329,11 +337,10 @@
               يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾
             </p>
           </div>
-
-          <div id="countdown">20</div>
         </div>
       </div>
 
+      <!-- Quiz -->
       <h2 id="quiz-title"></h2>
       <div id="start-box"><button id="start-btn">Start</button></div>
 
@@ -344,6 +351,7 @@
         <button id="next-btn" disabled>Next</button>
       </div>
 
+      <!-- Result -->
       <div id="result-box" class="hide">
         <h3>Your Score</h3>
         <p id="score-text"></p>
@@ -353,14 +361,16 @@
     </div>
 
     <script>
+      /* Global Variables */
       let allQuestions = [];
-      let answersState = [];
+      let answersState = []; // [{answered, correct, chosenIndex}, ...]
       let currentQuestionIndex = 0;
       let score = 0;
 
       const params = new URLSearchParams(window.location.search);
       const file = params.get("file");
 
+      /* DOM Elements */
       const homeBtn = document.getElementById("home-btn");
       const startBtn = document.getElementById("start-btn");
       const nextBtn = document.getElementById("next-btn");
@@ -383,6 +393,7 @@
       const quranOverlay = document.getElementById("quran-overlay");
       const countdown = document.getElementById("countdown");
 
+      /* Load Exam File */
       if (file) {
         fetch(file)
           .then((res) => res.json())
@@ -407,6 +418,7 @@
           "<p style='color:red'>No exam file specified</p>";
       }
 
+      /* Build Questions Navigation */
       function buildQuestionsNav() {
         questionsNav.innerHTML = "";
         allQuestions.forEach((q, index) => {
@@ -431,6 +443,7 @@
         });
       }
 
+      /* Highlight Current Question in Nav */
       function highlightCurrentNav() {
         const items = questionsNav.querySelectorAll("li");
         items.forEach((li, i) => {
@@ -452,6 +465,7 @@
         });
       }
 
+      /* Utility Functions*/
       function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
@@ -466,9 +480,10 @@
         );
       }
 
+      /* Overlay Quran Display */
       function showQuranOverlay(callback) {
         quranOverlay.classList.add("show");
-        let timeLeft = 30;
+        let timeLeft = 20;
         countdown.textContent = timeLeft;
 
         let timer = setInterval(() => {
@@ -483,12 +498,15 @@
         }, 1000);
       }
 
+      /* Event Listeners*/
+      // Questions Nav Toggle
       questionsBtn.onclick = function (event) {
         event.stopPropagation();
         questionsNav.classList.toggle("show-questions-nav");
         document.body.classList.toggle("active");
       };
 
+      // Close nav on body click
       document.addEventListener("click", function () {
         if (questionsNav.classList.contains("show-questions-nav")) {
           questionsNav.classList.remove("show-questions-nav");
@@ -496,10 +514,12 @@
         }
       });
 
+      // Home button
       homeBtn.addEventListener("click", () => {
         window.location.href = "index.html";
       });
 
+      // Theme toggle
       themeToggleBtn.addEventListener("click", () => {
         document.body.classList.toggle("dark");
         themeToggleBtn.textContent = document.body.classList.contains("dark")
@@ -507,6 +527,7 @@
           : "Dark mode";
       });
 
+      // Start button
       startBtn.addEventListener("click", () => {
         startBox.classList.add("hide");
         showQuranOverlay(() => {
@@ -515,13 +536,16 @@
         });
       });
 
+      // Next button
       nextBtn.addEventListener("click", () => {
         currentQuestionIndex++;
         setNextQuestion();
       });
 
+      // Try again button
       tryAgainBtn.addEventListener("click", startQuiz);
 
+      /*  Quiz Logic */
       function startQuiz() {
         currentQuestionIndex = 0;
         score = 0;
