@@ -255,9 +255,7 @@
       const params = new URLSearchParams(window.location.search);
       const file = params.get("file");
 
-      // هنخزن حالة كل سؤال (محلوله ولا لأ و الإجابة صح ولا غلط و أي اختيار اتعلم)
       let answersState = [];
-      // شكلها: [{answered: true, correct: true/false, chosenIndex: رقم}], ...
 
       if (file) {
         fetch(file)
@@ -396,48 +394,37 @@
       function setNextQuestion() {
         resetState();
 
-        // CASE: in-range question index
         if (currentQuestionIndex < allQuestions.length) {
           showQuestion(allQuestions[currentQuestionIndex]);
           highlightCurrentNav();
-
-          // update Next button label: if last question show "Show Result"
           if (currentQuestionIndex === allQuestions.length - 1) {
             nextBtn.textContent = "Show Result";
           } else {
             nextBtn.textContent = "Next";
           }
 
-          // if current question already answered — السماح بالـ Next فوراً
           if (answersState[currentQuestionIndex].answered) {
             nextBtn.disabled = false;
           } else {
             nextBtn.disabled = true;
           }
         } else {
-          // CASE: user clicked Next while on last question (currentQuestionIndex == allQuestions.length)
           if (answersState.every((q) => q.answered)) {
-            // كل الأسئلة محلولة → اعرض النتيجة
             showResult();
           } else {
-            // في أسئلة مش محلولة → انقله لأول سؤال غير محلول
             const firstUnanswered = answersState.findIndex((q) => !q.answered);
             if (firstUnanswered !== -1) {
               currentQuestionIndex = firstUnanswered;
-              // نعيد عرض السؤال غير المحلول
               resetState();
               showQuestion(allQuestions[currentQuestionIndex]);
               highlightCurrentNav();
-              // ونجعل زر Next يعكس الحالة (قد يكون في آخر سؤال أو لا)
               if (currentQuestionIndex === allQuestions.length - 1) {
                 nextBtn.textContent = "Show Result";
               } else {
                 nextBtn.textContent = "Next";
               }
-              // بما أن السؤال غير محلول، نترك Next معطل حتى يجيب
               nextBtn.disabled = true;
             } else {
-              // بالشكل النظري هذا لا يحدث لأن كل الأسئلة مش محلولة سيُكشف أعلاه
               showResult();
             }
           }
@@ -484,7 +471,6 @@
           button.textContent = option.text;
           button.classList.add("answer-btn");
 
-          // لو السؤال محلول بالفعل → نظهر اختياراته زي ما اتعلمت قبل كده
           if (answersState[currentQuestionIndex].answered) {
             button.disabled = true;
 

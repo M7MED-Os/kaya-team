@@ -57,7 +57,6 @@ goTopBtn.addEventListener("click", () => {
 //!
 
 document.addEventListener("DOMContentLoaded", () => {
-  // helper: slugify (fallback لو مش بتحط data-json)
   const slugify = (str) =>
     str
       .toString()
@@ -67,7 +66,6 @@ document.addEventListener("DOMContentLoaded", () => {
       .replace(/[^\w\-]+/g, "")
       .replace(/\-\-+/g, "-");
 
-  // sanitize minimal (prevent breaking HTML)
   const esc = (s) =>
     String(s ?? "")
       .replaceAll("&", "&amp;")
@@ -80,29 +78,24 @@ document.addEventListener("DOMContentLoaded", () => {
     const headingEl = subject.querySelector(".heading");
     if (!btn || !panel || !headingEl) return;
 
-    // 1) حدد ملف JSON: من data-json إن وُجد، وإلا من اسم المادة (slug)
     const dataJson = subject.dataset.json
       ? subject.dataset.json.trim()
       : `data/subjects/${slugify(headingEl.textContent)}.json`;
 
-    // 2) جلب البيانات من JSON (إذا الملف موجود)
     fetch(dataJson)
       .then((res) => {
         if (!res.ok) throw new Error("Not found");
         return res.json();
       })
       .then((data) => {
-        // لو JSON يحتوي قائمة محاضرات، نعرضها
         const lectures = Array.isArray(data.lectures) ? data.lectures : [];
         if (lectures.length === 0) {
           panel.innerHTML = `<p class="empty">No lectures yet.</p>`;
           return;
         }
 
-        // generate HTML
         panel.innerHTML = lectures
           .map((lec) => {
-            // each field or null
             const video = lec.video
               ? `<a href="${esc(
                   lec.video
@@ -138,25 +131,20 @@ document.addEventListener("DOMContentLoaded", () => {
           })
           .join("");
 
-        // إذا البانل مفتوح الآن (مثلاً ضغطت فورًا) عدّل maxHeight
         if (panel.classList.contains("show")) {
           panel.style.maxHeight = panel.scrollHeight + "px";
         }
       })
       .catch((err) => {
-        // لو مفيش JSON أو خطأ في التحميل: خليه يظهر رسالة، وترك المحتوى القديم لو عايز
         console.warn("Could not load subject data:", dataJson, err);
         if (!panel.innerHTML.trim()) {
           panel.innerHTML = `<p class="empty">No lectures available (data file missing or error).</p>`;
         }
       });
-
-    // 3) setup toggle behaviour (show / hide) مع حساب الارتفاع الحقيقي
     btn.setAttribute("aria-expanded", "false");
 
     const openPanel = () => {
       panel.classList.add("show");
-      // set maxHeight to scrollHeight for smooth open
       panel.style.maxHeight = panel.scrollHeight + "px";
       btn.textContent = "Hide Content";
       btn.setAttribute("aria-expanded", "true");
@@ -164,7 +152,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const closePanel = () => {
       panel.classList.remove("show");
-      panel.style.maxHeight = null; // يعود لقيمة CSS (0)
+      panel.style.maxHeight = null;
       btn.textContent = "View Content";
       btn.setAttribute("aria-expanded", "false");
     };
@@ -174,7 +162,6 @@ document.addEventListener("DOMContentLoaded", () => {
       else openPanel();
     });
 
-    // 4) لو محتوى البانل اتغيّر (تم تحميل JSON) نحتاج ResizeObserver لتحديث maxHeight لو مفتوح
     const ro = new ResizeObserver(() => {
       if (panel.classList.contains("show")) {
         panel.style.maxHeight = panel.scrollHeight + "px";

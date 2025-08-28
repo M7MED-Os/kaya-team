@@ -576,3 +576,9 @@ footer .name {
   color: var(--main-color);
   text-align: center;
 }
+
+.ver {
+  text-align: center;
+  color: var(--text-color);
+  font-size: 14px;
+}
