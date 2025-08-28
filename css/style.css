@@ -467,6 +467,7 @@ a.chat-link:hover {
 .years .container .content .box .title h3 {
   color: var(--spe-text-color);
   margin-bottom: 5px;
+  font-size: 18px;
 }
 
 .years .container .content .box .title p {
@@ -575,10 +576,4 @@ footer .name {
   margin-top: 5px;
   color: var(--main-color);
   text-align: center;
-}
-
-.ver {
-  text-align: center;
-  color: var(--text-color);
-  font-size: 14px;
 }

@@ -4,7 +4,7 @@
     {
       "title": "lecture title",
       "video": "lecture link",
-      "quiz": "exam.html?file=data/subjects/third_year_pediatric_nursing/subject1-exams/lecture1exam.json",
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/lecture1exam.json",
       "file": null,
       "summary": null
     },
