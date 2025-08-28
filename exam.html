@@ -5,6 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Quiz</title>
     <style>
+      :root {
+        --main-color: #03a9f4;
+        --second-color: #2196f3;
+        --green-color: #06d6a0;
+        --main-transition-duration: 0.3s;
+        --main-sec-padding: 50px;
+        --spe-text-color: #002147;
+        --text-color: #a1a1a1;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
       body {
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
         background: linear-gradient(135deg, #3498db 0%, #6dd5fa 100%);
@@ -16,6 +30,7 @@
         transition: background 0.3s ease, color 0.3s ease;
       }
 
+      /* Buttons */
       .btn {
         position: fixed;
         padding: 8px 14px;
@@ -34,12 +49,16 @@
         top: 15px;
         right: 15px;
       }
-
       #questions-btn {
         top: 15px;
         left: 15px;
       }
 
+      #theme-toggle:hover {
+        background-color: #1c5980;
+      }
+
+      /* Questions navigation */
       #questions-nav {
         position: absolute;
         top: 50px;
@@ -52,10 +71,6 @@
         z-index: 1000;
         display: grid;
         grid-template-columns: repeat(6, 1fr);
-      }
-
-      body.dark #questions-nav {
-        background-color: #353535;
       }
 
       #questions-nav li {
@@ -79,10 +94,7 @@
         z-index: 1000;
       }
 
-      #theme-toggle:hover {
-        background-color: #1c5980;
-      }
-
+      /* Quiz container */
       .container {
         width: 420px;
         background: #ffffff;
@@ -107,6 +119,15 @@
         transition: background-color 0.3s ease, color 0.3s ease;
       }
 
+      #question-number {
+        margin-bottom: 15px;
+        font-size: 16px;
+        color: #666;
+        font-weight: 500;
+        transition: color 0.3s ease;
+      }
+
+      /* Buttons grid */
       .btn-grid {
         display: flex;
         flex-direction: column;
@@ -139,7 +160,6 @@
       .correct:hover {
         background-color: #2ecc71 !important;
       }
-
       .wrong,
       .wrong:hover {
         background-color: #e74c3c !important;
@@ -149,14 +169,7 @@
         margin-bottom: 10px;
       }
 
-      #question-number {
-        margin-bottom: 15px;
-        font-size: 16px;
-        color: #666;
-        font-weight: 500;
-        transition: color 0.3s ease;
-      }
-
+      /* Result */
       #result-box {
         margin-top: 20px;
         font-size: 20px;
@@ -173,67 +186,156 @@
         display: none;
       }
 
+      /* Dark mode */
       body.dark {
         background: linear-gradient(135deg, #181818 0%, #0c0c0c 100%);
         color: #ddd;
       }
-
+      body.dark #questions-nav {
+        background-color: #353535;
+      }
       body.dark .container {
         background: #1c1c1c;
         box-shadow: 0 8px 24px rgba(0, 0, 0, 0.7);
       }
-
       body.dark #question-text {
         background-color: #353535;
         color: #f0f0f0;
-        box-shadow: 0 5px 1px rgba(70, 130, 180, 0.5);
       }
-
       body.dark #question-number {
         color: #bbb;
       }
-
       body.dark #result-box {
         background-color: #3a3a3a;
         color: #eee;
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
       }
-
       body.dark button {
         background-color: #1b4f72;
       }
-
       body.dark button:hover {
         background-color: #1c5980;
       }
-
       body.dark button:disabled {
         background-color: #555;
       }
-
-      body.dark .correct,
-      body.dark .correct:hover {
+      body.dark .correct {
         background-color: #27ae60;
       }
-
-      body.dark .wrong,
-      body.dark .wrong:hover {
+      body.dark .wrong {
         background-color: #c0392b;
+      }
+
+      /* Quran overlay */
+      #quran-overlay {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background: rgba(248, 249, 250, 0.98);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 999;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s ease-in-out;
+        direction: rtl;
+        padding: 10px;
+        border-radius: 5px;
+      }
+
+      #quran-overlay.show {
+        opacity: 1;
+        pointer-events: auto;
+      }
+      .overlay-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .surah {
+        width: 100%;
+        background: #fff;
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+      }
+      .surah > * {
+        margin: 18px 0;
+        line-height: 1.8;
+      }
+
+      body.dark #quran-overlay {
+        background: linear-gradient(135deg, #181818 0%, #0c0c0c 100%);
+      }
+      body.dark #quran-overlay .surah {
+        background: #1c1c1c;
+      }
+
+      #countdown {
+        margin-top: 15px;
+        font-size: 22px;
+        font-weight: bold;
+        width: 50px;
+        height: 50px;
+        padding: 5px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #fff;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+      }
+      body.dark #countdown {
+        color: #fff;
+        background: #1c1c1c;
       }
     </style>
   </head>
   <body>
     <button id="theme-toggle" class="btn">Dark mode</button>
-
     <button id="questions-btn" class="btn">Questions</button>
     <ul id="questions-nav"></ul>
 
     <div class="container">
-      <h2 id="quiz-title"></h2>
+      <div id="quran-overlay">
+        <div class="overlay-content">
+          <div class="surah">
+            <h2>﷽ سورة الإخلاص</h2>
+            <p>
+              قُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ
+              وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾
+            </p>
+          </div>
 
-      <div id="start-box">
-        <button id="start-btn">Start</button>
+          <div class="surah">
+            <h2>﷽ سورة الفلق</h2>
+            <p>
+              قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن
+              شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي
+              الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾
+            </p>
+          </div>
+
+          <div class="surah">
+            <h2>﷽ سورة الناس</h2>
+            <p>
+              قُلْ أَعُوذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ إِلَٰهِ
+              النَّاسِ ﴿٣﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِي
+              يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾
+            </p>
+          </div>
+
+          <div id="countdown">20</div>
+        </div>
       </div>
+
+      <h2 id="quiz-title"></h2>
+      <div id="start-box"><button id="start-btn">Start</button></div>
 
       <div id="quiz-box" class="hide">
         <div id="question-number"></div>
@@ -252,12 +354,34 @@
 
     <script>
       let allQuestions = [];
+      let answersState = [];
+      let currentQuestionIndex = 0;
+      let score = 0;
+
       const params = new URLSearchParams(window.location.search);
       const file = params.get("file");
 
-      // هنخزن حالة كل سؤال (محلوله ولا لأ و الإجابة صح ولا غلط و أي اختيار اتعلم)
-      let answersState = [];
-      // شكلها: [{answered: true, correct: true/false, chosenIndex: رقم}], ...
+      const homeBtn = document.getElementById("home-btn");
+      const startBtn = document.getElementById("start-btn");
+      const nextBtn = document.getElementById("next-btn");
+      const tryAgainBtn = document.getElementById("try-again-btn");
+
+      const quizBox = document.getElementById("quiz-box");
+      const startBox = document.getElementById("start-box");
+      const questionBox = document.getElementById("question-box");
+      const resultBox = document.getElementById("result-box");
+
+      const questionNumberElement = document.getElementById("question-number");
+      const questionText = document.getElementById("question-text");
+      const answerButtons = document.getElementById("answer-buttons");
+      const scoreText = document.getElementById("score-text");
+
+      const themeToggleBtn = document.getElementById("theme-toggle");
+      const questionsBtn = document.getElementById("questions-btn");
+      const questionsNav = document.getElementById("questions-nav");
+
+      const quranOverlay = document.getElementById("quran-overlay");
+      const countdown = document.getElementById("countdown");
 
       if (file) {
         fetch(file)
@@ -269,14 +393,13 @@
               correct: null,
               chosenIndex: null,
             }));
+
             buildQuestionsNav();
 
             const examTitle = data.title || data.examTitle || "Exam";
             document.getElementById("quiz-title").textContent = examTitle;
 
-            document
-              .getElementById("start-btn")
-              .addEventListener("click", startQuiz);
+            startBtn.addEventListener("click", startQuiz);
           })
           .catch((err) => console.error("Error loading exam file:", err));
       } else {
@@ -329,23 +452,36 @@
         });
       }
 
-      let currentQuestionIndex = 0;
-      let score = 0;
+      function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+        }
+      }
 
-      const homeBtn = document.getElementById("home-btn");
-      const startBtn = document.getElementById("start-btn");
-      const nextBtn = document.getElementById("next-btn");
-      const tryAgainBtn = document.getElementById("try-again-btn");
-      const quizBox = document.getElementById("quiz-box");
-      const startBox = document.getElementById("start-box");
-      const questionNumberElement = document.getElementById("question-number");
-      const questionText = document.getElementById("question-text");
-      const answerButtons = document.getElementById("answer-buttons");
-      const resultBox = document.getElementById("result-box");
-      const scoreText = document.getElementById("score-text");
-      const themeToggleBtn = document.getElementById("theme-toggle");
-      const questionsBtn = document.getElementById("questions-btn");
-      const questionsNav = document.getElementById("questions-nav");
+      function isTrueFalseQuestion(questionObj) {
+        const opts = questionObj.options;
+        return (
+          opts.length === 2 && opts.includes("True") && opts.includes("False")
+        );
+      }
+
+      function showQuranOverlay(callback) {
+        quranOverlay.classList.add("show");
+        let timeLeft = 30;
+        countdown.textContent = timeLeft;
+
+        let timer = setInterval(() => {
+          timeLeft--;
+          countdown.textContent = timeLeft;
+
+          if (timeLeft <= 0) {
+            clearInterval(timer);
+            quranOverlay.classList.remove("show");
+            if (typeof callback === "function") callback();
+          }
+        }, 1000);
+      }
 
       questionsBtn.onclick = function (event) {
         event.stopPropagation();
@@ -364,19 +500,27 @@
         window.location.href = "index.html";
       });
 
-      function shuffleArray(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [array[i], array[j]] = [array[j], array[i]];
-        }
-      }
+      themeToggleBtn.addEventListener("click", () => {
+        document.body.classList.toggle("dark");
+        themeToggleBtn.textContent = document.body.classList.contains("dark")
+          ? "Light mode"
+          : "Dark mode";
+      });
 
-      function isTrueFalseQuestion(questionObj) {
-        const opts = questionObj.options;
-        return (
-          opts.length === 2 && opts.includes("True") && opts.includes("False")
-        );
-      }
+      startBtn.addEventListener("click", () => {
+        startBox.classList.add("hide");
+        showQuranOverlay(() => {
+          quizBox.classList.remove("hide");
+          setNextQuestion();
+        });
+      });
+
+      nextBtn.addEventListener("click", () => {
+        currentQuestionIndex++;
+        setNextQuestion();
+      });
+
+      tryAgainBtn.addEventListener("click", startQuiz);
 
       function startQuiz() {
         currentQuestionIndex = 0;
@@ -387,59 +531,34 @@
           correct: null,
           chosenIndex: null,
         }));
+
         startBox.classList.add("hide");
         resultBox.classList.add("hide");
         quizBox.classList.remove("hide");
+
         setNextQuestion();
       }
 
       function setNextQuestion() {
         resetState();
 
-        // CASE: in-range question index
         if (currentQuestionIndex < allQuestions.length) {
           showQuestion(allQuestions[currentQuestionIndex]);
           highlightCurrentNav();
 
-          // update Next button label: if last question show "Show Result"
-          if (currentQuestionIndex === allQuestions.length - 1) {
-            nextBtn.textContent = "Show Result";
-          } else {
-            nextBtn.textContent = "Next";
-          }
+          nextBtn.textContent =
+            currentQuestionIndex === allQuestions.length - 1
+              ? "Show Result"
+              : "Next";
 
-          // if current question already answered — السماح بالـ Next فوراً
-          if (answersState[currentQuestionIndex].answered) {
-            nextBtn.disabled = false;
-          } else {
-            nextBtn.disabled = true;
-          }
+          nextBtn.disabled = !answersState[currentQuestionIndex].answered;
         } else {
-          // CASE: user clicked Next while on last question (currentQuestionIndex == allQuestions.length)
-          if (answersState.every((q) => q.answered)) {
-            // كل الأسئلة محلولة → اعرض النتيجة
-            showResult();
+          const firstUnanswered = answersState.findIndex((q) => !q.answered);
+          if (firstUnanswered !== -1) {
+            currentQuestionIndex = firstUnanswered;
+            setNextQuestion();
           } else {
-            // في أسئلة مش محلولة → انقله لأول سؤال غير محلول
-            const firstUnanswered = answersState.findIndex((q) => !q.answered);
-            if (firstUnanswered !== -1) {
-              currentQuestionIndex = firstUnanswered;
-              // نعيد عرض السؤال غير المحلول
-              resetState();
-              showQuestion(allQuestions[currentQuestionIndex]);
-              highlightCurrentNav();
-              // ونجعل زر Next يعكس الحالة (قد يكون في آخر سؤال أو لا)
-              if (currentQuestionIndex === allQuestions.length - 1) {
-                nextBtn.textContent = "Show Result";
-              } else {
-                nextBtn.textContent = "Next";
-              }
-              // بما أن السؤال غير محلول، نترك Next معطل حتى يجيب
-              nextBtn.disabled = true;
-            } else {
-              // بالشكل النظري هذا لا يحدث لأن كل الأسئلة مش محلولة سيُكشف أعلاه
-              showResult();
-            }
+            showResult();
           }
         }
       }
@@ -450,7 +569,7 @@
         } of ${allQuestions.length}`;
         questionText.textContent = questionObj.question;
 
-        const optionsWithFlag = questionObj.options.map((opt, i) => ({
+        let optionsWithFlag = questionObj.options.map((opt, i) => ({
           text: opt,
           isCorrect: i === questionObj.correctIndex,
           index: i,
@@ -466,12 +585,11 @@
             "All of the answers are recommended",
             "None of the above",
           ];
-          const fixedOptionIndex = optionsWithFlag.findIndex((option) =>
-            fixedOptions.includes(option.text.trim())
+          const fixedIndex = optionsWithFlag.findIndex((opt) =>
+            fixedOptions.includes(opt.text.trim())
           );
-
-          if (fixedOptionIndex !== -1) {
-            const fixedOption = optionsWithFlag.splice(fixedOptionIndex, 1)[0];
+          if (fixedIndex !== -1) {
+            const fixedOption = optionsWithFlag.splice(fixedIndex, 1)[0];
             shuffleArray(optionsWithFlag);
             optionsWithFlag.push(fixedOption);
           } else {
@@ -484,13 +602,9 @@
           button.textContent = option.text;
           button.classList.add("answer-btn");
 
-          // لو السؤال محلول بالفعل → نظهر اختياراته زي ما اتعلمت قبل كده
           if (answersState[currentQuestionIndex].answered) {
             button.disabled = true;
-
-            if (option.isCorrect) {
-              button.classList.add("correct");
-            }
+            if (option.isCorrect) button.classList.add("correct");
             if (
               answersState[currentQuestionIndex].chosenIndex === option.index &&
               !option.isCorrect
@@ -548,24 +662,12 @@
       }
 
       function showResult() {
-        quizBox.classList.add("hide");
-        resultBox.classList.remove("hide");
-        scoreText.textContent = `${score} out of ${allQuestions.length}`;
+        showQuranOverlay(() => {
+          quizBox.classList.add("hide");
+          resultBox.classList.remove("hide");
+          scoreText.textContent = `${score} out of ${allQuestions.length}`;
+        });
       }
-
-      themeToggleBtn.addEventListener("click", () => {
-        document.body.classList.toggle("dark");
-        themeToggleBtn.textContent = document.body.classList.contains("dark")
-          ? "Light mode"
-          : "Dark mode";
-      });
-
-      startBtn.addEventListener("click", startQuiz);
-      nextBtn.addEventListener("click", () => {
-        currentQuestionIndex++;
-        setNextQuestion();
-      });
-      tryAgainBtn.addEventListener("click", startQuiz);
     </script>
   </body>
 </html>
