@@ -3,6 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="shortcut icon"
+      href="data/images/favicon-16x16.png"
+      type="image/x-icon"
+    />
     <title>Quiz</title>
     <style>
       :root {
@@ -483,7 +488,7 @@
       /* Overlay Quran Display */
       function showQuranOverlay(callback) {
         quranOverlay.classList.add("show");
-        let timeLeft = 20;
+        let timeLeft = 30;
         countdown.textContent = timeLeft;
 
         let timer = setInterval(() => {
