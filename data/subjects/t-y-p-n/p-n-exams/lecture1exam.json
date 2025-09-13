@@ -13,8 +13,8 @@
     },
     {
       "question": "What is the capital of America?",
-      "options": ["London", "Cairo", "New york", "New york"],
-      "correctIndex": 0
+      "options": ["London", "Cairo", "New york", "Alex"],
+      "correctIndex": 2
     },
     {
       "question": "Are you not okay?",
@@ -44,7 +44,7 @@
     {
       "question": "What is the capital of America?",
       "options": ["London", "Cairo", "New york", "Madrid"],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "question": "Are you not okay?",
