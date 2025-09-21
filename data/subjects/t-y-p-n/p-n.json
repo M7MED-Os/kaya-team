@@ -1,10 +1,10 @@
 {
-  "subject": "تمريض اطفال عملي",
+  "subject": "name",
   "lectures": [
     {
-      "title": "Oxygen therapy",
+      "title": null,
       "video": null,
-      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/o2&h.json",
+      "quiz": null,
       "file": null,
       "summary": null
     }
