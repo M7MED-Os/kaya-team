@@ -373,7 +373,7 @@
       let score = 0;
 
       const params = new URLSearchParams(window.location.search);
-      const quiz = params.get("quiz");
+      const file = params.get("file");
 
       /* DOM Elements */
       const homeBtn = document.getElementById("home-btn");
@@ -399,8 +399,8 @@
       const countdown = document.getElementById("countdown");
 
       /* Load Exam File */
-      if (quiz) {
-        fetch(quiz)
+      if (file) {
+        fetch(file)
           .then((res) => res.json())
           .then((data) => {
             allQuestions = data.questions || [];
