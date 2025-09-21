@@ -533,17 +533,17 @@
       });
 
       // Start button
-      // startBtn.addEventListener("click", () => {
-      //   startBox.classList.add("hide");
-      //   showQuranOverlay(() => {
-      //     quizBox.classList.remove("hide");
-      //     setNextQuestion();
-      //   });
-      // });
       startBtn.addEventListener("click", () => {
         startBox.classList.add("hide");
-        setNextQuestion();
+        showQuranOverlay(() => {
+          quizBox.classList.remove("hide");
+          setNextQuestion();
+        });
       });
+      // startBtn.addEventListener("click", () => {
+      //   startBox.classList.add("hide");
+      //   setNextQuestion();
+      // });
 
       // Next button
       nextBtn.addEventListener("click", () => {
@@ -694,18 +694,18 @@
         nextBtn.disabled = false;
       }
 
-      function showResult() {
-        quizBox.classList.add("hide");
-        resultBox.classList.remove("hide");
-        scoreText.textContent = `${score} out of ${allQuestions.length}`;
-      }
       // function showResult() {
-      //   showQuranOverlay(() => {
-      //     quizBox.classList.add("hide");
-      //     resultBox.classList.remove("hide");
-      //     scoreText.textContent = `${score} out of ${allQuestions.length}`;
-      //   });
+      //   quizBox.classList.add("hide");
+      //   resultBox.classList.remove("hide");
+      //   scoreText.textContent = `${score} out of ${allQuestions.length}`;
       // }
+      function showResult() {
+        showQuranOverlay(() => {
+          quizBox.classList.add("hide");
+          resultBox.classList.remove("hide");
+          scoreText.textContent = `${score} out of ${allQuestions.length}`;
+        });
+      }
     </script>
   </body>
 </html>
