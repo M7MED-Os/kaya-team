@@ -1,0 +1,180 @@
+{
+  "title": "Oxygen & Hypoxia Lecture",
+  "questions": [
+    {
+      "question": "Oxygen is a colorless, odorless, tasteless gas that is essential for the body to survive.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The brain is the last organ affected by hypoxia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "It takes 6 minutes for the brain to be damaged from a lack of oxygen.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The normal environmental air we breathe contains about 21% oxygen.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Decreased work of breathing is a sign of inadequate oxygenation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which organ is the first affected by hypoxia?",
+      "options": ["Liver", "Brain", "Heart", "Kidney"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an indication of oxygen therapy?",
+      "options": [
+        "Hypertension",
+        "Acute respiratory failure",
+        "Hyperglycemia",
+        "Dehydration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a low-flow oxygen delivery system?",
+      "options": [
+        "Non-rebreathing mask",
+        "Venturi mask",
+        "Nasal cannula",
+        "Oxygen tent"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a high-flow oxygen system?",
+      "options": [
+        "Simple mask",
+        "Nasal catheter",
+        "Venturi mask",
+        "Nasal cannula"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which signs indicate decreased oxygen saturation?",
+      "options": [
+        "Hypertension and headache",
+        "Cyanosis, anxiety, altered consciousness",
+        "Increased appetite and energy",
+        "Increased urine output"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Before starting oxygen therapy, the nurse should FIRST:",
+      "options": [
+        "Check for smoking and flammable items",
+        "Adjust the flow rate",
+        "Place the mask on the patient",
+        "Explain the procedure to the family"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oxygen therapy means giving oxygen at the same concentration as in normal air.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The heart relies on oxygen mainly to maintain electrical conduction, not to pump blood.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Signs of inadequate oxygenation include tachypnea, nasal flaring, and cyanosis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A humidifier used with oxygen should be filled with tap water.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Children with cyanotic heart disease may have normal low oxygen saturation levels.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which system is considered low flow oxygen delivery?",
+      "options": [
+        "Venturi mask",
+        "Nasal cannula",
+        "Oxygen tent",
+        "Non-rebreathing mask"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which sign best indicates decreased oxygen saturation?",
+      "options": [
+        "Hypertension",
+        "Cyanosis",
+        "Increased appetite",
+        "Warm skin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT an indication for oxygen therapy?",
+      "options": [
+        "Asthma",
+        "Acute myocardial infarction",
+        "Hyperglycemia",
+        "Pulmonary edema"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a high flow oxygen system?",
+      "options": [
+        "Simple mask",
+        "Venturi mask",
+        "Nasal catheter",
+        "Nasal cannula"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which organ is MOST sensitive to hypoxia?",
+      "options": ["Brain", "Kidneys", "Stomach", "Skin"],
+      "correctIndex": 0
+    },
+    {
+      "question": "O2 cylinders or O2 tanks should be kept secure in the downright position and near heat.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cylinders are a method of oxygen administration.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Permanent lung damage caused by pulmonary oxygen toxicity is due to lengthy exposure to low levels of oxygen.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In children with chronic lung disease, if they are dependent on hypercarbic drive rather than hypoxic.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Alcohol and other inflammatory liquids should be used without caution in the area of oxygen.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
