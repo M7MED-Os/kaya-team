@@ -10,46 +10,6 @@
       "question": "Are you okay?",
       "options": ["True", "False"],
       "correctIndex": 0
-    },
-    {
-      "question": "What is the capital of America?",
-      "options": ["London", "Cairo", "New york", "Alex"],
-      "correctIndex": 2
-    },
-    {
-      "question": "Are you not okay?",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
-      "question": "What is the capital of Spain?",
-      "options": ["London", "Cairo", "Alex", "Madrid"],
-      "correctIndex": 3
-    },
-    {
-      "question": "Are you good?",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "What is the capital of Egypt?",
-      "options": ["London", "Cairo", "Alex", "Madrid"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Are you okay?",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "What is the capital of America?",
-      "options": ["London", "Cairo", "New york", "Madrid"],
-      "correctIndex": 2
-    },
-    {
-      "question": "Are you not okay?",
-      "options": ["True", "False"],
-      "correctIndex": 1
     }
   ]
 }
