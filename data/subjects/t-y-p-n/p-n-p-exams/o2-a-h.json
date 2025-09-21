@@ -107,16 +107,6 @@
       "correctIndex": 0
     },
     {
-      "question": "Which system is considered low flow oxygen delivery?",
-      "options": [
-        "Venturi mask",
-        "Nasal cannula",
-        "Oxygen tent",
-        "Non-rebreathing mask"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "Which sign best indicates decreased oxygen saturation?",
       "options": [
         "Hypertension",
@@ -135,16 +125,6 @@
         "Pulmonary edema"
       ],
       "correctIndex": 2
-    },
-    {
-      "question": "Which of the following is a high flow oxygen system?",
-      "options": [
-        "Simple mask",
-        "Venturi mask",
-        "Nasal catheter",
-        "Nasal cannula"
-      ],
-      "correctIndex": 1
     },
     {
       "question": "Which organ is MOST sensitive to hypoxia?",
