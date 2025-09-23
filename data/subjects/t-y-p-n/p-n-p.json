@@ -3,9 +3,7 @@
   "lectures": [
     {
       "title": "Oxygen therapy",
-      "video": null,
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-p-exams/o2-a-h.json",
-      "file": null,
       "summary": null
     }
   ]
