@@ -1,11 +1,11 @@
 {
-  "subject": "Subject Title",
+  "subject": "تمريض الأطفال نظري",
   "lectures": [
     {
       "title": "Introduction of growth and development",
       "video": null,
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/iogandd.json",
-      "file": null,
+      "file": "https://t.me/M7KAYA290/8445",
       "summary": null
     }
   ]
