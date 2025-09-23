@@ -1,0 +1,421 @@
+{
+  "title": " Introduction of growth and development",
+  "questions": [
+    {
+      "question": "Growth is defined as a natural increase in physical size due to the increase in the number of cells of different organs. This process primarily involves which type of change?",
+      "options": [
+        "Qualitative change",
+        "Organizational change",
+        "Quantitative change",
+        "Abstract change"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which term refers to the sequential characteristic of biological growth and development, where biological changes occur in a specific order and give children new abilities?",
+      "options": ["Development", "Maturation", "Learning", "Growth"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Development is defined as a progressive increase in skills and capacity of function and the acquisition of social relations. This process involves a change that is described as:",
+      "options": ["Quantitative", "Cellular", "Qualitative", "Physiological"],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the source, growth is measured using all of the following assessments except:",
+      "options": [
+        "Height and weight",
+        "Problem-solving capacity",
+        "Head circumference",
+        "Chest circumference"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Development occurs due to both maturation and:",
+      "options": [
+        "Multiplication of cells",
+        "Interaction with the environment",
+        "Decrease in physical size",
+        "Hormonal factors only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of development involves raising and training a child in the culture of his family group?",
+      "options": [
+        "Motor development",
+        "Intellectual development",
+        "Physiological growth",
+        "Social development"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Physiological growth can be assessed through the measurement of all of the following except:",
+      "options": [
+        "Temperature",
+        "Pulse",
+        "Head circumference",
+        "Blood pressure"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An example of Mental or Intellectual development provided in the source is:",
+      "options": [
+        "Usage of fine muscles",
+        "Needs for trust and love",
+        "Problem solving",
+        "Acquisition of social relations"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "One primary way knowledge of growth and development helps the nurse is to:",
+      "options": [
+        "Manipulate all influencing factors to change the outcome",
+        "Plan and provide comprehensive care to the child",
+        "Teach complex medical procedures to parents",
+        "Ensure all children develop at the same rate"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The nurse's knowledge of growth and development aids in diagnosing which type of disorders that affect growth?",
+      "options": [
+        "Under nutrition",
+        "Over nutrition",
+        "Any other deficiency disorders",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The principle stating that development occurs from head to tail is known as:",
+      "options": [
+        "Proximodistal",
+        "Cephalocaudal",
+        "General to specific",
+        "Continuous process"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The pattern of growth where progress goes from the midline to the peripheral (e.g., arms developing before hands) is called:",
+      "options": [
+        "General to specific",
+        "Cephalocaudal",
+        "Proximal to distal (Proximodistal)",
+        "Predictable"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which principle of development acknowledges that all children go through a normal sequence of development but not in the same rate?",
+      "options": [
+        "Development is predictable",
+        "Development depends on maturation and learning",
+        "Individual difference is noticed",
+        "Early development is more critical"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Development is described as a continuous process where:",
+      "options": [
+        "Genetic factors override environmental factors completely.",
+        "Each stage depends upon the proceeding one.",
+        "It stops once maturity is reached.",
+        "It involves quantitative change only."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The source emphasizes that development in which stages of life is more critical?",
+      "options": [
+        "Later development",
+        "Early development",
+        "Adolescence stage",
+        "School years"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Prenatal period is characterized by the transformation of a single cell into a human body and:",
+      "options": [
+        "Increased responsibility",
+        "Rapid changes",
+        "Extreme dependency",
+        "Increased autonomy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The age period defined as 1 to 3 years is known as the:",
+      "options": [
+        "Infant stage",
+        "Newborn stage",
+        "Toddler stage",
+        "Preschool stage"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Extreme dependency is a characteristic of which stage of growth and development?",
+      "options": [
+        "Infant (1 month up to 1 year)",
+        "Newborn (Birth to 28/29 days)",
+        "Adolescence (10 to 20 years)",
+        "Preschool (3 to 6 years)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A considerable expansion in thought and language, along with psychological and moral development, characterizes which stage?",
+      "options": [
+        "Infant",
+        "Toddler",
+        "Preschool (3 to 6 years)",
+        "School years (6 to 12 years)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Increased autonomy, abstract thinking, reasoning, and the development of a strong belief system are characteristics of which part of adolescence?",
+      "options": [
+        "Early (10 to 14 years)",
+        "Middle (15 to 17 years)",
+        "Late (18 to 20 years)",
+        "School years"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of factor influencing growth includes physical characteristics like height, weight, and eye color transmitted from one generation to the next?",
+      "options": [
+        "Drugs",
+        "Nationality and racial factors",
+        "Hereditary and genetic factors",
+        "Socioeconomic factors"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Congenital rubella in the mother during the prenatal period can lead to:",
+      "options": [
+        "Rickets",
+        "Malformed infant",
+        "Cleft palate",
+        "Intrauterine growth retardation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The drug Amphetamine, if taken by the mother, can cause which congenital anomaly?",
+      "options": [
+        "Cleft palate",
+        "Malformed ears",
+        "Congenital heart anomalies",
+        "Microcephaly"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "High doses of which medication during the prenatal period may cause a cleft palate?",
+      "options": [
+        "Cytotoxic drugs",
+        "Amphetamine",
+        "Corticosteroids",
+        "Thyroid hormone"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Regarding maternal nutrition, the fetus is usually able to obtain adequate nutrition for prenatal growth unless:",
+      "options": [
+        "The mother is over 40 years old.",
+        "The mother lives in a cold climate.",
+        "The mother's nutrition is very poor.",
+        "The baby is a girl."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Growth in height appears to be faster during which months?",
+      "options": [
+        "Autumn and winter",
+        "Spring and summer",
+        "Only during adolescence",
+        "All seasons equally"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Children with disorders that produce chronic hypoxia (low oxygen concentration) are typically:",
+      "options": [
+        "Taller than children of the same chorological age",
+        "Small as compared with children of the same chorological age",
+        "Faster in growth rate regardless of climate",
+        "Prone to late adolescence"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the source, children from upper or middle class families are more likely to ensure good growth compared to children from:",
+      "options": [
+        "Hot climate localities",
+        "Families with parental height issues",
+        "Low class families",
+        "Families with chronic illness"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is considered an internal factor influencing growth and development?",
+      "options": [
+        "Geographic location",
+        "Trauma (e.g., poliomyelitis)",
+        "Endocrinal factors (hormonal)",
+        "Socioeconomic state"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which hormonal factor stimulates protein anabolism and produces retention of elements essential for building protoplasm and bony tissue?",
+      "options": [
+        "Growth hormone",
+        "Thyroid hormone",
+        "Androgen hormone",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The source states that boys typically have greater strength and higher activity levels than girls, especially during which stage?",
+      "options": [
+        "Preschool",
+        "Infant stage",
+        "Adolescence stage",
+        "Prenatal stage"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What might result from maternal deprivation and emotional deprivation in a child, according to the source?",
+      "options": [
+        "Increased autonomy",
+        "Loss of weight due to lack of love and refuse of food",
+        "Rapid physical changes",
+        "Improved thought processes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which drug category, if taken by the mother, may cause microcephaly, cleft palate, and deafness?",
+      "options": [
+        "Corticosteroids",
+        "Amphetamine",
+        "Cytotoxic drugs",
+        "Androgen hormone"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When assessing growth, the nurse uses measurements of physical size. When assessing development, the nurse uses observation of:",
+      "options": [
+        "Weight and length",
+        "Teeth eruption",
+        "Motor and social development",
+        "Head circumference"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Understanding the influences on physical growth and development is useful to the nurse primarily for:",
+      "options": [
+        "Manipulating all environmental factors.",
+        "Performing complex surgeries.",
+        "Teaching parents how to enhance their child growth and development.",
+        "Measuring genetic characteristics."
+      ],
+      "correctIndex": 2
+    },
+
+    {
+      "question": "Growth is organization on a systemic level, while development occurs at the cellular level.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The process of development continues only until the individual reaches physical maturity.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The term 'development' is a wider and more comprehensive term than 'growth.'",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Physiological growth can be assessed by measuring temperature, pulse, respiration, and blood pressure.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The knowledge of growth and development helps the nurse modify the child's environment to optimize growth levels.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "According to the principles of development, development is entirely independent of learning and experience.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The cephalocaudal pattern means the child gains control of the arms and legs before gaining control of the head.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the General to Specific pattern, children are first able to pick up small objects like peas or cereals before they can hold big things with both arms.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Newborn period lasts from birth up to 1 month of age.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Rapid physical changes are characteristic of Middle Adolescence (15 to 17 years).",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "American racial groups are cited as typically shorter than Chinese racial groups regarding physical characteristics.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chronic illness in the mother, such as metabolic disorders, can lead to rickets in the infant.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The source indicates that a hot climate generally slows down growth, while a cold climate speeds it up.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Growth in weight proceeds more rapidly during the autumn and winter months than in the spring and summer.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The ordinal position (birth order) of the child in the family is listed as a potential postnatal internal factor influencing growth and development.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
