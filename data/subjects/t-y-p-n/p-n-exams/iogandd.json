@@ -1,5 +1,5 @@
 {
-  "title": " Introduction of growth and development",
+  "title": "Introduction of growth and development",
   "questions": [
     {
       "question": "Growth is defined as a natural increase in physical size due to the increase in the number of cells of different organs. This process primarily involves which type of change?",
@@ -22,7 +22,7 @@
       "correctIndex": 2
     },
     {
-      "question": "According to the source, growth is measured using all of the following assessments except:",
+      "question": "Growth is measured using all of the following assessments except:",
       "options": [
         "Height and weight",
         "Problem-solving capacity",
@@ -106,8 +106,7 @@
       "options": [
         "General to specific",
         "Cephalocaudal",
-        "Proximal to distal (Proximodistal)",
-        "Predictable"
+        "Proximal to distal (Proximodistal)"
       ],
       "correctIndex": 2
     },
@@ -132,7 +131,7 @@
       "correctIndex": 1
     },
     {
-      "question": "The source emphasizes that development in which stages of life is more critical?",
+      "question": "Development in which stages of life is more critical?",
       "options": [
         "Later development",
         "Early development",
@@ -142,7 +141,7 @@
       "correctIndex": 1
     },
     {
-      "question": "The Prenatal period is characterized by the transformation of a single cell into a human body and:",
+      "question": "The Prenatal period is characterized by:",
       "options": [
         "Increased responsibility",
         "Rapid changes",
@@ -224,7 +223,7 @@
     {
       "question": "High doses of which medication during the prenatal period may cause a cleft palate?",
       "options": [
-        "Cytotoxic drugs",
+        "Growth hormone",
         "Amphetamine",
         "Corticosteroids",
         "Thyroid hormone"
@@ -262,21 +261,11 @@
       "correctIndex": 1
     },
     {
-      "question": "According to the source, children from upper or middle class families are more likely to ensure good growth compared to children from:",
-      "options": [
-        "Hot climate localities",
-        "Families with parental height issues",
-        "Low class families",
-        "Families with chronic illness"
-      ],
-      "correctIndex": 2
-    },
-    {
       "question": "Which of the following is considered an internal factor influencing growth and development?",
       "options": [
         "Geographic location",
-        "Trauma (e.g., poliomyelitis)",
-        "Endocrinal factors (hormonal)",
+        "Trauma",
+        "Endocrinal factors",
         "Socioeconomic state"
       ],
       "correctIndex": 2
@@ -292,7 +281,7 @@
       "correctIndex": 3
     },
     {
-      "question": "The source states that boys typically have greater strength and higher activity levels than girls, especially during which stage?",
+      "question": "Boys typically have greater strength and higher activity levels than girls, especially during which stage?",
       "options": [
         "Preschool",
         "Infant stage",
@@ -302,7 +291,7 @@
       "correctIndex": 2
     },
     {
-      "question": "What might result from maternal deprivation and emotional deprivation in a child, according to the source?",
+      "question": "What might result from maternal deprivation and emotional deprivation in a child?",
       "options": [
         "Increased autonomy",
         "Loss of weight due to lack of love and refuse of food",
@@ -322,7 +311,7 @@
       "correctIndex": 2
     },
     {
-      "question": "When assessing growth, the nurse uses measurements of physical size. When assessing development, the nurse uses observation of:",
+      "question": "When assessing development, the nurse uses observation of:",
       "options": [
         "Weight and length",
         "Teeth eruption",
@@ -341,7 +330,16 @@
       ],
       "correctIndex": 2
     },
-
+    {
+      "question": "At what stage is a child self-sufficient?",
+      "options": [
+        "Toddler.",
+        "Preschool.",
+        "Middle Adolescence.",
+        "School years."
+      ],
+      "correctIndex": 1
+    },
     {
       "question": "Growth is organization on a systemic level, while development occurs at the cellular level.",
       "options": ["True", "False"],
@@ -383,9 +381,9 @@
       "correctIndex": 1
     },
     {
-      "question": "The Newborn period lasts from birth up to 1 month of age.",
+      "question": "The Newborn period lasts from birth up to 29 days.",
       "options": ["True", "False"],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Rapid physical changes are characteristic of Middle Adolescence (15 to 17 years).",
@@ -403,7 +401,7 @@
       "correctIndex": 0
     },
     {
-      "question": "The source indicates that a hot climate generally slows down growth, while a cold climate speeds it up.",
+      "question": "Hot climate generally slows down growth, while a cold climate speeds it up.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
