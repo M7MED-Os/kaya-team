@@ -131,7 +131,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Development in which stages of life is more critical?",
+      "question": "which development is more critica?",
       "options": [
         "Later development",
         "Early development",
@@ -184,8 +184,8 @@
       "question": "Increased autonomy, abstract thinking, reasoning, and the development of a strong belief system are characteristics of which part of adolescence?",
       "options": [
         "Early (10 to 14 years)",
-        "Middle (15 to 17 years)",
-        "Late (18 to 20 years)",
+        "Preschool (3 to 6 years)",
+        "Adolescence (10 to 20 years)",
         "School years"
       ],
       "correctIndex": 2
@@ -396,7 +396,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Chronic illness in the mother, such as metabolic disorders, can lead to rickets in the infant.",
+      "question": "Metabolic disorders can lead to rickets in the infant.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
