@@ -1,0 +1,12 @@
+{
+  "subject": "تغذية",
+  "lectures": [
+    {
+      "title": "Anatomy of female reproductive organs",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/n-exams/n-nandh.json",
+      "file": null,
+      "summary": null
+    }
+  ]
+}

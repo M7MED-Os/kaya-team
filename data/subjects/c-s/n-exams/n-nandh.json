@@ -1,0 +1,105 @@
+{
+  "title": "المحاضرة الاولى + نص التانيه",
+  "questions": [
+    {
+      "question": "Adequate nutrition is a necessary second step for the improvement of the quality of life?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "..... maintaining a nutritional status that enables us to grow well and enjoy good health?",
+      "options": [
+        "Nutrition",
+        "applied nutrition",
+        "good nutrition",
+        "Malnutrition"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nutrition is the relationship to health?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nutrition has a relationship to health?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "......are the compounds in food that provide energy that help repair and growth?",
+      "options": ["nutrition", "good nutrition", "nutrients", "dietetics"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Food factors are the compounds in food that provide energy that help repair and growth and that are also called nutrients?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "..... is the practical application of the principals of nutrition, it includes the planning meals for the well and sick?",
+      "options": [
+        "nutrition",
+        "dietetics",
+        "applied nutrition",
+        "nutritionist"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Breathing unobstructed from the effects of ...?",
+      "options": ["malnutrition", "good nutrition", "dietetics", "nutrients"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Twisted spine from the effects of good nutrition on the people?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Weight too much or too little from the effects of malnutrition on the people?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bow legs or knock from the effects of good nutrition on the people?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these answers is correct about malnutrition?",
+      "options": [
+        "limb straight",
+        "nerves steady",
+        "rounded shoulders",
+        "tonsil small"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Are people with adequate nutrition less productive?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Do nutrition help and protect human from illness and disease?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "There are three major classes of nutrients in food?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "\"proximate principles\" means vitamins and minerals?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "People required macronutrients in small amounts?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
