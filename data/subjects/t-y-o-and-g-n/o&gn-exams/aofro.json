@@ -1,0 +1,700 @@
+{
+  "title": "Anatomy of female reproductive organs",
+  "questions": [
+    {
+      "question": "What is the collective term for the external female genital organs?",
+      "options": ["Vagina", "Uterus", "Vulva", "Fallopian tubes"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The mons pubis is a pad of fat located over which structure?",
+      "options": ["Coccyx", "Symphysis pubis", "Sacrum", "Ischial spine"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary function of the labia majora?",
+      "options": [
+        "Production of ova",
+        "Protection of the vaginal introitus",
+        "Secretion of estrogen",
+        "Site of fertilization"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The labia minora are characterized by being:",
+      "options": [
+        "Covered with pubic hair",
+        "Two thin folds of hairless skin",
+        "The site of Bartholin's glands",
+        "Composed of muscle tissue"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which structure is highly sensitive and corresponds to the male penis?",
+      "options": ["Clitoris", "Urethral orifice", "Hymen", "Perineum"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The area enclosed by the labia minora that contains the openings to the urethra and vagina is called the:",
+      "options": ["Vestibule", "Perineum", "Vaginal canal", "Introitus"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The Skene's glands are located on either side of the:",
+      "options": ["Vaginal orifice", "Urethral orifice", "Clitoris", "Hymen"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Bartholin's glands function to:",
+      "options": [
+        "Produce ova",
+        "Secrete estrogen",
+        "Secrete mucus for lubrication during intercourse",
+        "Protect the urethra"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The membrane that partially closes the vaginal orifice is called the:",
+      "options": ["Fourchette", "Hymen", "Perimetrium", "Mesovarium"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The region between the vulva and the anus is the:",
+      "options": ["Vestibule", "Perineum", "Mons pubis", "Isthmus"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary female gonads, responsible for producing ova and hormones, are the:",
+      "options": ["Fallopian tubes", "Ovaries", "Uterus", "Bartholin's glands"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The fallopian tubes are also known as:",
+      "options": [
+        "Ovarian ligaments",
+        "Uterine tubes",
+        "The cervix",
+        "The fundus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The pear-shaped organ that shelters the fetus during pregnancy is the:",
+      "options": ["Vagina", "Uterus", "Ovary", "Vulva"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lower, narrow part of the uterus that projects into the vagina is the:",
+      "options": ["Fundus", "Body", "Cervix", "Cornua"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The muscular tube that receives the penis during intercourse and serves as the birth canal is the:",
+      "options": ["Urethra", "Vagina", "Cervical canal", "Vestibule"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The bony pelvis is divided into the false pelvis and the true pelvis. The part with obstetric importance is the:",
+      "options": [
+        "True pelvis",
+        "False pelvis",
+        "Pelvic inlet",
+        "Pelvic outlet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The plane of the greatest pelvic dimensions is found in the:",
+      "options": [
+        "Pelvic inlet",
+        "Pelvic cavity",
+        "Pelvic outlet",
+        "False pelvis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most common type of female pelvis is:",
+      "options": ["Android", "Gynecoid", "Anthropoid", "Platypelloid"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The fetal skull bones that are not fused and allow for molding during labor are the bones of the:",
+      "options": ["Face", "Base", "Vault", "Temples"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The diamond-shaped space between the coronal and sagittal sutures of the fetal skull is the:",
+      "options": [
+        "Posterior fontanelle",
+        "Anterior fontanelle",
+        "Lambdoid suture",
+        "Sagittal suture"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The elongated fimbria that attaches to the ovary is called the:",
+      "options": [
+        "Infundibular fimbria",
+        "Ovarian fimbria",
+        "Ampulla fimbria",
+        "Isthmic fimbria"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fertilization of the ovum by the sperm typically occurs in which part of the fallopian tube?",
+      "options": ["Interstitial portion", "Isthmus", "Ampulla", "Infundibulum"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The narrow area between the uterine cavity and the cervix that enlarges during pregnancy is the:",
+      "options": ["Fundus", "Cornua", "Isthmus", "External os"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The external os of the cervix appears as a transverse slit characteristically in women who have:",
+      "options": [
+        "Never reached puberty",
+        "Had a childbirth",
+        "An intact hymen",
+        "A retroverted uterus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The layer of the uterus that is shed during menstruation is the:",
+      "options": ["Perimetrium", "Myometrium", "Endometrium", "Mesometrium"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which ligament is a fold of peritoneum draped over the fallopian tubes but provides little support to the uterus?",
+      "options": [
+        "Round ligament",
+        "Broad ligament",
+        "Transverse cervical ligament",
+        "Uterosacral ligament"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The ligaments that provide the primary support for the cervix at the level of the pelvis are the:",
+      "options": [
+        "Round ligaments",
+        "Ovarian ligaments",
+        "Transverse cervical (cardinal) ligaments",
+        "Broad ligaments"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The acidic pH of the vaginal environment is primarily due to:",
+      "options": [
+        "Skene's gland secretions",
+        "The action of Döderlein's bacilli on glycogen",
+        "Bartholin's gland secretions",
+        "Cervical mucus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The anterior relation of the vagina is the:",
+      "options": [
+        "Rectum",
+        "Bladder and urethra",
+        "Perineal body",
+        "Pouch of Douglas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The posterior fornix of the vagina is related to which important peritoneal pouch?",
+      "options": [
+        "Vesicouterine pouch",
+        "Pouch of Douglas (Rectouterine pouch)",
+        "Paravesical pouch",
+        "Morison's pouch"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The obstetric conjugate is measured from the sacral promontory to the:",
+      "options": [
+        "Upper border of the symphysis pubis",
+        "Most bulging point on the back of the symphysis pubis",
+        "Lower border of the symphysis pubis",
+        "Pubic tubercle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which diameter of the pelvic inlet is the largest?",
+      "options": [
+        "True conjugate",
+        "Anatomical transverse diameter",
+        "Obstetric conjugate",
+        "Right oblique diameter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The pelvic outlet is bounded posteriorly by the:",
+      "options": [
+        "Symphysis pubis",
+        "Ischial spines",
+        "Sacrococcygeal joint",
+        "Iliac crest"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An android pelvis is characterized by a:",
+      "options": [
+        "Rounded inlet",
+        "Heart-shaped inlet",
+        "Long, narrow canal",
+        "Kidney-shaped inlet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which ligament runs from the lateral aspect of the sacrum to the ischial spine?",
+      "options": [
+        "Sacrotuberous ligament",
+        "Sacrospinous ligament",
+        "Sacroiliac ligament",
+        "Iliolumbar ligament"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The suture found between the two parietal bones of the fetal skull is the:",
+      "options": [
+        "Coronal suture",
+        "Sagittal suture",
+        "Lambdoid suture",
+        "Frontal suture"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The part of the ovary containing blood vessels, nerves, and lymphatic vessels is the:",
+      "options": [
+        "Cortex",
+        "Medulla",
+        "Germinal epithelium",
+        "Tunica albuginea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The outer layer of the ovary is called the:",
+      "options": ["Medulla", "Germinal epithelium", "Mesovarium", "Hilum"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The part of the fallopian tube that lies within the uterine wall is the:",
+      "options": ["Ampulla", "Isthmus", "Infundibulum", "Interstitial portion"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The dome-shaped upper portion of the uterus between the fallopian tube insertions is the:",
+      "options": ["Cornua", "Fundus", "Body", "Cervix"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The internal os is the opening between the:",
+      "options": [
+        "Cervix and vagina",
+        "Isthmus and cervix",
+        "Fundus and body",
+        "Uterus and fallopian tube"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The layer of the uterus composed of smooth muscle is the:",
+      "options": ["Endometrium", "Myometrium", "Perimetrium", "Mesometrium"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The round ligaments terminate in the:",
+      "options": ["Ovaries", "Sacrum", "Labia majora", "Bladder"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The vaginal environment is normally:",
+      "options": ["Alkaline", "Acidic", "Neutral", "Sterile"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The diagonal conjugate is measured during a:",
+      "options": [
+        "Ultrasound scan",
+        "Vaginal examination",
+        "External pelvimetry",
+        "Abdominal examination"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The area where blood vessels and nerves enter the ovary is called the:",
+      "options": ["Cortex", "Hilum", "Mesovarium", "Tunica albuginea"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The fibrous tissue layer immediately beneath the germinal epithelium of the ovary is the:",
+      "options": ["Medulla", "Tunica albuginea", "Mesovarium", "Stroma"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The ovarian ligament connects the ovary to the:",
+      "options": [
+        "Pelvic side wall",
+        "Uterus (at the cornua)",
+        "Broad ligament",
+        "Sacrum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The infundibulopelvic ligament is also known as the:",
+      "options": [
+        "Round ligament",
+        "Ovarian ligament",
+        "Suspensory ligament of the ovary",
+        "Cardinal ligament"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The fimbriae of the fallopian tube are part of the:",
+      "options": ["Ampulla", "Isthmus", "Infundibulum", "Interstitial portion"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The triangular-shaped uterine cavity is lined with which type of epithelium?",
+      "options": [
+        "Stratified squamous",
+        "Columnar",
+        "Cuboidal",
+        "Transitional"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The thickest part of the myometrium is found in the:",
+      "options": [
+        "Cervix",
+        "Isthmus",
+        "Upper part of the uterus",
+        "Lower uterine segment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The uterosacral ligaments run from the cervix to the:",
+      "options": ["Pubic bones", "Sacrum", "Ischial spines", "Ovaries"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The pubocervical ligaments extend from the cervix under the bladder to the:",
+      "options": [
+        "Sacrum",
+        "Pubic bones",
+        "Ischial tuberosities",
+        "Pelvic side walls"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The anterior relation of the uterus is the:",
+      "options": ["Rectum", "Bladder", "Ovaries", "Small intestine"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lateral relations of the uterus include all EXCEPT:",
+      "options": ["Broad ligaments", "Fallopian tubes", "Ovaries", "Vagina"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The posterior wall of the vagina is longer than the anterior wall because:",
+      "options": [
+        "The bladder is anterior",
+        "The cervix projects into its upper anterior part",
+        "The rectum is posterior",
+        "The perineal body supports it"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The transverse folds in the vagina that allow for stretching are called:",
+      "options": ["Fornices", "Rugae", "Villi", "Crypts"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The plane of the least pelvic dimensions passes through the:",
+      "options": [
+        "Sacral promontory",
+        "Ischial spines",
+        "Pubic crest",
+        "Acetabulum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a gynecoid pelvis, the ischial spines are:",
+      "options": [
+        "Very prominent",
+        "Not prominent",
+        "Sharply pointed",
+        "Inverted"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An anthropoid pelvis is characterized by being:",
+      "options": [
+        "Wide and shallow",
+        "Heart-shaped",
+        "Long and narrow",
+        "Kidney-shaped"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The sacrospinous and sacrotuberous ligaments help to convert the greater and lesser sciatic notches into:",
+      "options": [
+        "The pelvic inlet",
+        "The obturator foramen",
+        "The sciatic foramina",
+        "The acetabulum"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The suture between the parietal and occipital bones of the fetal skull is the:",
+      "options": [
+        "Sagittal suture",
+        "Coronal suture",
+        "Lambdoid suture",
+        "Frontal suture"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Molding of the fetal head is possible because the bones of the vault are:",
+      "options": [
+        "Not fused",
+        "Made of cartilage",
+        "Very thin",
+        "Covered by fontanelles"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The posterior fontanelle is the junction of the sagittal suture and the:",
+      "options": [
+        "Coronal suture",
+        "Lambdoid suture",
+        "Frontal suture",
+        "Temporal suture"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The portion of the cervix that protrudes into the vagina is the:",
+      "options": [
+        "Supravaginal portion",
+        "Vaginal portion",
+        "Internal os",
+        "External os"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The narrowest part of the fallopian tube is the:",
+      "options": ["Ampulla", "Isthmus", "Infundibulum", "Interstitial portion"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The ligament that carries the ovarian blood vessels is the:",
+      "options": [
+        "Round ligament",
+        "Ovarian ligament",
+        "Infundibulopelvic ligament",
+        "Broad ligament"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The vaginal pH is maintained at approximately:",
+      "options": ["2.5", "4.5", "7.0", "8.5"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The largest diameter of the pelvic outlet is the:",
+      "options": [
+        "Transverse diameter",
+        "Anteroposterior diameter",
+        "Oblique diameter",
+        "Sacro-cotyloid diameter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The vulva includes the mons pubis, labia, clitoris, and vestibule.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The labia minora are covered with pubic hair.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The clitoris is an erectile organ.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The urethral orifice is located posterior to the vaginal orifice.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The hymen has no opening in a virgin (virgo intacta).",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bartholin's glands open on either side of the urethral orifice.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The perineum is located between the vulva and the anus.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The ovaries are responsible for producing estrogen and progesterone.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The fallopian tubes are the site of fertilization.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The infundibulum is the part of the fallopian tube attached to the uterus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The uterus is a hollow, muscular organ.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The endometrium is the outermost layer of the uterus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The broad ligament is a strong, fibrous ligament that is the main support of the uterus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The vagina has an alkaline pH to protect against infection.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The true pelvis is above the pelvic brim and has no obstetric importance.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The true conjugate is the shortest anteroposterior diameter of the pelvic inlet.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The gynecoid pelvis is the most common type in females.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The fetal skull bones of the face and base are fused and do not allow molding.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The anterior fontanelle is triangular in shape.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The sacrospinous ligament runs from the sacrum to the ischial tuberosity.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Skene's glands secrete mucus to lubricate the urethral opening.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The fourchette is formed by the posterior fusion of the labia minora.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The ovary is attached to the broad ligament by the mesovarium.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The ampulla is the narrowest part of the fallopian tube.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The external os is the opening between the isthmus and the cervix.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The round ligament passes through the inguinal canal.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The pouch of Douglas is an anterior relation of the vagina.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The anatomical transverse diameter is the smallest diameter of the pelvic inlet.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "An android pelvis is a typical male pelvis shape.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The lambdoid suture is between the parietal and frontal bones.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
