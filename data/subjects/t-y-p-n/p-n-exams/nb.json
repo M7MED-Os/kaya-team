@@ -1,0 +1,320 @@
+{
+  "title": "Normal growth and development of Newborn",
+  "questions": [
+    {
+      "question": "The newborn period includes the time from birth through the first 28 days of life?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "During the neonatal period the newborn adjusts from extrautrine to intrautrine?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is not included in the newborn screening test?",
+      "options": [
+        "Hearing screening",
+        "blood test",
+        "eye screening",
+        "oxygen screening"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Hearing screening performed after a baby leaves the birthing center?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A few drops of blood are taken from a prick made in your baby's hand to perform a blood test?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these following answers test helps doctors see if your child has a congenital heart defect?",
+      "options": [
+        "Hearing screening",
+        "blood test",
+        "eye screening",
+        "oxygen screening"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The average crown-heel length of a term baby male 49cm and female 50 cm?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "During the first few days after birth the neonate tends to lose about 10 to 15% of his/her birth weight?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these following answers are factors contributing to this physiological weight loss?",
+      "options": [
+        "the withdrawal of water",
+        "the withholding of hormones",
+        "loose of feaces and urine",
+        "the withholding of feaces"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The neonate's temperature at birth is slightly higher than his mother?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The temperature of neonate rises to normal within about 8 hours?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Average length of male newborn is slightly longer than female?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Normal respiratory rate of newborn is 35–50/min?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Mongolian spots are pathological and require treatment?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sweat glands are fully active from the first day of life?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Posterior fontanel closes at 12–18 months?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Normal head circumference at birth is about 33–37 cm?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Caput succedaneum disappears by the 3rd day?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Cephalohematoma increases in size when the baby cries?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Eye color of newborn remains constant from birth?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn can easily breathe through the mouth if the nose is blocked?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Crying at birth is usually without tears?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Meconium is thick, tarry, and dark green/black?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pseudo-menstruation in female newborns is abnormal?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sweat glands play a major role in thermoregulation at birth?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Moro reflex disappears around 2 months of age?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Grasp reflex is strong enough to hold body weight?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Reflexes in newborn are mainly controlled by midbrain and spinal cord?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Teething usually starts at birth?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Newborns sleep about 16–18 hours per day?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Normal birth weight of a term newborn:",
+      "options": ["1.5 – 2.5 kg", "2.7 – 3.85 kg", "4 – 5 kg", "Over 5 kg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which reflex disappears first?",
+      "options": [
+        "Moro reflex",
+        "Sucking reflex",
+        "Eye blink reflex",
+        "Rooting reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Normal pulse rate of newborn:",
+      "options": ["60–100/min", "100–120/min", "120–150/min", "160–200/min"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Anterior fontanel closes at:",
+      "options": ["2–3 months", "6–9 months", "12–18 months", "24 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vernix caseosa:",
+      "options": [
+        "More in preterm infants",
+        "More in full-term infants",
+        "Equal in both",
+        "Absent in both"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The umbilical cord normally contains:",
+      "options": [
+        "1 artery, 2 veins",
+        "2 arteries, 1 vein",
+        "2 arteries, 2 veins",
+        "1 artery, 1 vein"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Normal blood pressure in a term newborn:",
+      "options": ["50/30 mmHg", "60/40 mmHg", "74/47 mmHg", "100/60 mmHg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "First breath usually occurs within:",
+      "options": ["5 seconds", "30 seconds", "2 minutes", "5 minutes"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Meconium should be passed within:",
+      "options": ["2–6 hours", "12–48 hours", "3–5 days", "1 week"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pseudo-menstruation in female newborn is due to:",
+      "options": [
+        "Infection",
+        "Maternal hormone withdrawal",
+        "Trauma",
+        "Congenital anomaly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Average newborn stomach capacity:",
+      "options": ["10–20 ml", "30–40 ml", "50–60 ml", "100 ml"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Newborn thermoregulation depends mainly on:",
+      "options": [
+        "Shivering",
+        "Brown fat metabolism",
+        "Sweating",
+        "Vasodilation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cephalohematoma differs from caput succedaneum because:",
+      "options": [
+        "Crosses suture lines",
+        "Increases with crying",
+        "Does not cross suture lines",
+        "Disappears within hours"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which sign indicates good newborn skin condition?",
+      "options": [
+        "Cyanosis",
+        "Turgor elasticity",
+        "Yellowish patches",
+        "Pallor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Eye color at birth is usually:",
+      "options": ["Brown", "Blue/gray", "Green", "Permanent"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which reflex is lifelong?",
+      "options": ["Moro", "Rooting", "Eye blink", "Sucking"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Average daily urine volume in newborn:",
+      "options": ["50–100 ml", "100–150 ml", "200–300 ml", "500 ml"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Breast swelling and 'witch’s milk' in newborns is:",
+      "options": [
+        "Due to maternal hormones",
+        "A sign of infection",
+        "Abnormal",
+        "Due to dehydration"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A newborn sleeps mostly:",
+      "options": [
+        "10 hours/day",
+        "12–14 hours/day",
+        "16–18 hours/day",
+        "More than 20 hours/day"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The most important method to reduce heat loss immediately after birth:",
+      "options": [
+        "Sweating",
+        "Shivering",
+        "Drying the baby",
+        "Exposure to cool air"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
