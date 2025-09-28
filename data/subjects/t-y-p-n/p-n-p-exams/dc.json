@@ -1,0 +1,440 @@
+{
+  "title": "Daily Care",
+  "questions": [
+    {
+      "question": "The main purpose of neonatal eye care is:",
+      "options": [
+        "To promote growth of eyelashes",
+        "To prevent and relieve pain and discomfort",
+        "To improve vision in newborns",
+        "To make eyes brighter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following may cause damage to neonatal eyes if not protected?",
+      "options": [
+        "Phototherapy and radiant heat",
+        "Cold environment",
+        "Loud noises",
+        "Breastfeeding"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Eye care in neonates is indicated for all of the following EXCEPT:",
+      "options": [
+        "Cleaning sticky eyes",
+        "Following eye treatments",
+        "To change eye color",
+        "Preventing eye infections"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A sign of neonatal eye infection is:",
+      "options": [
+        "Yellow skin discoloration",
+        "Redness of the white of the eye",
+        "Crying loudly",
+        "Excessive blinking only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "If both eyes are infected, which eye should be cleaned first?",
+      "options": [
+        "Most infected eye",
+        "Least affected eye",
+        "Either one randomly",
+        "Do not clean at all"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "After one sweep with a swab during neonatal eye care, what should be done?",
+      "options": [
+        "Reuse the same swab",
+        "Wash and reuse the swab",
+        "Discard the swab",
+        "Keep it for the next cleaning"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Eye care in neonates may be required for babies on CPAP or unconscious patients.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Purulent discharge is considered a sign of eye infection in neonates.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Redness of the eye connected to birth trauma is always a sign of infection.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "It is recommended to observe and report signs of infection before cleaning the eyes.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A single swab can be used for both eyes if cleaned carefully.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Eye care is the practice of assessing, cleaning or irrigating eye.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A neonate on phototherapy develops eye irritation. The nurse should provide eye care primarily to:",
+      "options": [
+        "Prevent excessive tearing",
+        "Protect the eyes from light-induced damage",
+        "Enhance blinking reflex",
+        "Reduce nasal congestion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following findings should alert the nurse that a neonate’s eye condition is infectious rather than trauma-related?",
+      "options": [
+        "Small bruise around the eye after delivery",
+        "Swelling of eyelid connected to forceps delivery",
+        "New swelling of the eyelid not related to birth trauma",
+        "Presence of meconium-stained secretions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "During neonatal eye cleaning, the principle of discarding the swab after one sweep is to:",
+      "options": [
+        "Prevent drying of secretions",
+        "Ensure the swab stays moist",
+        "Avoid cross-contamination and spread of infection",
+        "Save time during procedure"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A nurse observes purulent discharge in one eye of a neonate. What is the MOST appropriate next step?",
+      "options": [
+        "Clean both eyes thoroughly starting with the infected one",
+        "Report findings before proceeding with cleaning",
+        "Wait 24 hours to reassess",
+        "Apply warm compress immediately"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Eye care for neonates is MOST critical in which of the following conditions?",
+      "options": [
+        "When the neonate is sedated or unconscious",
+        "When the neonate is crying excessively",
+        "When the neonate is being bathed",
+        "When the neonate is being breastfed"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is the primary assessment in neonatal eye care?",
+      "options": [
+        "Checking for watery eyes only",
+        "Observing for redness, swelling, and discharge",
+        "Ensuring the eyelashes are intact",
+        "Checking for pupil size only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Neonatal eye care is performed only when there are visible signs of infection.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cleaning the least affected eye first reduces the risk of transmitting infection.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "If a neonate’s eyelid swelling is due to birth trauma, it should still be reported as infection.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "CPAP use in neonates is an indication for eye care because it increases the risk of eye dryness and irritation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Purulent discharge in a neonate’s eye is a normal finding and does not require reporting.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Discarding the swab after one sweep helps in maintaining asepsis and preventing reinfection.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The umbilical cord consists of:",
+      "options": [
+        "One vein and one artery",
+        "Two arteries and one vein",
+        "Two veins and one artery",
+        "One artery only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The main function of the umbilical cord before birth is:",
+      "options": [
+        "Help baby cry",
+        "Supply oxygen and nutrients, and remove wastes",
+        "Connect baby to amniotic sac only",
+        "Prevent infection after birth"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "After birth, the healthcare provider usually:",
+      "options": [
+        "Removes the whole umbilical cord",
+        "Cuts all but a small stump of the cord",
+        "Leaves the cord intact",
+        "Reattaches the cord to placenta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The umbilical cord stump usually falls off in:",
+      "options": ["1–5 days", "7–21 days", "1–2 months", "After 3 months"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Immediately after birth, the cord looks:",
+      "options": [
+        "Yellow and dry",
+        "Blue-white and cool",
+        "Black and hard",
+        "Brown and sticky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a normal change in the umbilical cord stump?",
+      "options": [
+        "Turns yellow-brown then black",
+        "Remains blue permanently",
+        "Becomes red and swollen",
+        "Produces pus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following signs suggest infection of the cord stump?",
+      "options": [
+        "Foul smell and yellow drainage",
+        "Drying and falling off",
+        "Hardening and darkening",
+        "Becoming black before separation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A normal umbilical cord stump should:",
+      "options": [
+        "Stay moist for weeks",
+        "Dry, harden, and fall off",
+        "Bleed continuously",
+        "Remain attached forever"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which assessment finding requires immediate medical attention?",
+      "options": [
+        "Cord turning black before falling off",
+        "Cord stump with redness and tenderness around skin",
+        "Cord falling off after 10 days",
+        "Cord looking dry and hard"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The umbilical cord is an important channel between:",
+      "options": [
+        "Baby and amniotic fluid",
+        "Baby and placenta",
+        "Mother’s lungs and baby",
+        "Baby’s liver and stomach"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "After the cord falls off, what remains?",
+      "options": [
+        "Nothing",
+        "A permanent wound",
+        "A bellybutton",
+        "A scar that never heals"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The sticky wetness sometimes seen at the bottom of the stump is:",
+      "options": [
+        "A normal finding before drying",
+        "A sign of severe infection",
+        "Caused by internal bleeding",
+        "A reason for immediate surgery"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The umbilical cord contains three blood vessels: two arteries and one vein.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "After birth, the baby still needs the umbilical cord for oxygen.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Umbilical cord is cord like tissue connection fetus and placenta.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A foul-smelling discharge from the cord stump is a normal healing process.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cord care is care for baby's umbilical cord stump.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Redness, swelling, or tenderness around the stump may indicate infection.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The cord stump should always stay moist until it falls off.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cord care involves keeping the stump clean and dry until it naturally falls off.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Frequent diaper changes are essential mainly because:",
+      "options": [
+        "They increase baby’s appetite",
+        "They prevent prolonged skin exposure to moisture and irritants",
+        "They strengthen the umbilical cord stump",
+        "They help the baby sleep longer without feeding"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A baby presents with redness, small bumps, and irritation in the diaper area. Which of the following is the most likely cause?",
+      "options": [
+        "Inadequate diaper changes leading to moisture accumulation",
+        "Vitamin deficiency",
+        "Excessive sun exposure",
+        "Lack of breast milk intake"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "One of the purposes of diaper care is to prevent urinary tract infections. This is achieved primarily by:",
+      "options": [
+        "Using scented wipes",
+        "Keeping perineal skin clean and dry",
+        "Applying thick powder layers",
+        "Increasing fluid restriction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During assessment of diaper care, the nurse observes foul odor and unusual stool color. The priority nursing action is:",
+      "options": [
+        "Ignore since it is normal",
+        "Document only",
+        "Inform the physician for further evaluation",
+        "Apply extra cream to mask the smell"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "If diaper care is neglected, the baby is most at risk of:",
+      "options": [
+        "Hypothermia",
+        "Diaper dermatitis and secondary infection",
+        "Growth retardation",
+        "Tooth eruption delay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The main purpose of wearing a disposable diaper is to:",
+      "options": [
+        "Decorate the baby",
+        "Absorb the moisture of the baby’s excretions",
+        "Prevent the baby from crying completely",
+        "Increase the baby’s weight"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a benefit of proper diaper care?",
+      "options": [
+        "Prevents diaper rash",
+        "Causes dryness of skin",
+        "Reduces baby’s appetite",
+        "Prevents hair loss"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Keeping the baby’s skin clean and dry during diaper care helps to:",
+      "options": [
+        "Increase fussiness",
+        "Prevent urinary tract infection",
+        "Slow down growth",
+        "Delay sleep"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Assessment during diaper care includes:",
+      "options": [
+        "Checking baby’s blood pressure",
+        "Assessing color, amount, and odor of stool and urine",
+        "Measuring baby’s length",
+        "Listening to heart sounds"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is not a goal of diaper care?",
+      "options": [
+        "Keep baby comfortable",
+        "Keep skin clean and dry",
+        "Prevent fussiness",
+        "Increase sweating"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}

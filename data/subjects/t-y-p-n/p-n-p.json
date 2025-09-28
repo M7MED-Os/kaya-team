@@ -7,6 +7,20 @@
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-p-exams/o2-t.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Vital Signs",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Daily Care",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-p-exams/dc.json",
+      "file": null,
+      "summary": null
     }
   ]
 }
