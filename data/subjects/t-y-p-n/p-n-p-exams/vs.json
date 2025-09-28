@@ -1,0 +1,155 @@
+{
+  "title": "Vital Signs",
+  "questions": [
+    {
+      "question": "What is the definition of blood pressure?",
+      "options": [
+        "The force exerted by the heart during diastole",
+        "The force that blood exerts against the walls of blood vessels",
+        "The number of heartbeats per minute",
+        "The volume of blood ejected by the left ventricle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Systolic pressure is:",
+      "options": [
+        "The pressure exerted when the heart muscle is relaxing",
+        "The pressure caused by atrial filling",
+        "The pressure exerted when the heart muscle is contracting",
+        "The pressure at the end of diastole"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following factors may alter blood pressure?",
+      "options": [
+        "Medications",
+        "Exercise",
+        "Postural changes",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Normal blood pressure for a preschooler (3–5 years) is:",
+      "options": [
+        "72–104 / 37–56 mmHg",
+        "85–106 / 42–58 mmHg",
+        "90–110 / 48–70 mmHg",
+        "93–120 / 60–78 mmHg"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most common arterial site used to measure blood pressure is:",
+      "options": [
+        "Femoral artery",
+        "Brachial artery",
+        "Temporal artery",
+        "Carotid artery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the definition of pulse?",
+      "options": [
+        "The amount of blood pumped by the heart per minute",
+        "A pressure wave of blood caused by the recoil of elastic arteries",
+        "The movement of blood in veins",
+        "The strength of left ventricular contraction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The purpose of pulse measurement is:",
+      "options": [
+        "To evaluate respiration rate",
+        "To assess blood pressure only",
+        "To obtain baseline measurement of heart rate, volume, and rhythm",
+        "To measure body temperature"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a precaution before measuring pulse?",
+      "options": [
+        "Measure immediately after crying",
+        "Apply pressure to both carotid arteries simultaneously",
+        "Take the pulse before rectal temperature for accuracy",
+        "Ignore previous medical history"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The most commonly used site for measuring pulse is:",
+      "options": [
+        "Temporal artery",
+        "Femoral artery",
+        "Radial artery",
+        "Apical site"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In children under 2 years of age, the preferred method to assess heart rate is:",
+      "options": [
+        "Radial pulse",
+        "Femoral pulse",
+        "Apical pulse using a stethoscope",
+        "Temporal pulse"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Blood pressure is the force that blood exerts against the walls of the blood vessels.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Systolic pressure is the pressure exerted when the heart muscle is relaxing.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Diastolic pressure is measured when the heart is between beats.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Blood pressure in children does not change with age and growth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The brachial artery is commonly used to measure blood pressure.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The pulse is a pressure wave of blood caused by the alternating contraction and relaxation of the heart.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pulse measurement helps obtain baseline data for heart rate, rhythm, and volume.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "It is safe to press both carotid arteries at the same time during pulse assessment.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In children under 2 years, the radial pulse is the most accurate site to measure heart rate.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anxiety and exercise can influence pulse rate.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

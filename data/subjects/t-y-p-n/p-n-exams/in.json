@@ -1,0 +1,292 @@
+{
+  "title": "Normal growth and development of Infant",
+  "questions": [
+    {
+      "question": "The second year of life is the period of most rapid gain in physical size and development.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "....... period starts at the end of the first month up to first year of life.",
+      "options": ["newborn", "toddler", "infant", "pre school"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The average weight infant gain during first 4 months is:",
+      "options": ["3/4 kg", "1/4 kg", "1/2 kg", "1 kg"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The infant double birth weight by:",
+      "options": ["6 months", "4–5 months", "12 months", "8 months"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The infant will triple birth weight by 10 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The average length of an infant at 6 months is:",
+      "options": ["55 cm", "65 cm", "75 cm", "45 cm"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant length increases about 2.5 cm during first 6 months.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What happens to infant length during second 6 months?",
+      "options": [
+        "Increase about 1.3 cm/month",
+        "It slows",
+        "Increase 2.5 cm/month"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The average length of an infant at 12 months is 65 cm.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The posterior fontanel usually closes by:",
+      "options": ["12–18 months", "2–6 months", "3–6 months"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Head circumference increases each month during first 6 months by about:",
+      "options": ["0.5 cm", "1 cm", "1.5 cm", "2 cm"],
+      "correctIndex": 2
+    },
+    {
+      "question": "By the end of first year the chest circumference is:",
+      "options": [
+        "Smaller than head circumference",
+        "Equal to head circumference",
+        "Double head circumference"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal temperature of infant is:",
+      "options": ["35–45", "36.5–37.5", "37.5–38.5", "39–40"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal infant pulse rate is:",
+      "options": ["60–90", "120–150", "110–150", "150–180"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The normal respiratory rate of an infant is range from 25–45.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Normal blood pressure of an infant is 80/50 ±20/10.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Tooth eruption usually begin at:",
+      "options": ["3 months", "6 months", "6 weeks", "6 years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first teeth to erupt are the upper central incisors.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant will have ...... teeth at the end of first year.",
+      "options": ["10", "20", "12", "36"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Number of deciduous teeth by 2.5 to 3 years is about:",
+      "options": ["12", "20", "10", "16"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Milky teeth or deciduous teeth are called like this because they are replaced by permanent teeth in late childhood.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lower lateral teeth erupt at .... months.",
+      "options": ["7", "11", "9", "5–6"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lower first two molar erupt at ..... months.",
+      "options": ["11", "12", "7", "10"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lower central incisor erupt at ..... months.",
+      "options": ["7", "5–6", "9", "11"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Preference for food taste appear at ... months.",
+      "options": ["5", "6", "9", "4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant follows moving person nearby at ....",
+      "options": ["3", "2", "4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant will have hand-eye coordination at ....",
+      "options": ["3", "4", "2", "5"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant visual acuity is 6/6 at ....",
+      "options": ["6", "5", "4", "9"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The infant follow object through transition from one place to another by 6 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant has binocular coordination at 3 months.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Rolling from front to back occurs at about:",
+      "options": ["3", "4", "6"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sitting with slight support occurs at 5 months.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hold head erect in mid position occurs at about ....",
+      "options": ["2", "3", "4"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Holding a cup occurs at:",
+      "options": ["4", "7", "8", "9"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant sits alone at:",
+      "options": ["7", "8", "6", "9"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Infant walk with help at:",
+      "options": ["11", "10", "9", "12"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Turn completely over occurs at 5 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant can hold head erect and steady while in sitting position at 5 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Crawl means use hands and legs.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant can creep well at 9 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Stand erect with minimal support is at 12 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sitting down from standing position alone occur at ....",
+      "options": ["11", "10", "12"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Rise from standing position alone occurs at 9 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant walk holding furniture at 11 months.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Piaget's cognitive development stage is called:",
+      "options": [
+        "sensorimotor",
+        "oral stage",
+        "anal stage",
+        "trust versus mistrust"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Freud's stage for infancy is called anal stage.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Erikson's psychosexual stage is called trust versus mistrust.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oral stage extends from:",
+      "options": [
+        "birth to 12 months",
+        "birth to 15 months",
+        "birth to 18 months"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Loud laughing usually appears at 4 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cradle hold is a technique used for washing infant's head over a basin.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "At first year old the infant sleeps about 12 h out of 24 h.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Failure to sit alone by 1 year is a red flag.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The infant red flag is about failure to speak recognizable words by ....",
+      "options": ["18 months", "2 years", "15 months", "1 year"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infant can vocalize da, ma, pa at 9 months.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

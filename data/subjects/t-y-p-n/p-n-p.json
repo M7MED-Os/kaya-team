@@ -11,7 +11,7 @@
     {
       "title": "Vital Signs",
       "video": null,
-      "quiz": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-p-exams/vs.json",
       "file": null,
       "summary": null
     },
