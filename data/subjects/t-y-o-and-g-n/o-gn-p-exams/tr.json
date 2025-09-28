@@ -1,0 +1,240 @@
+{
+  "title": "Tendon Reflex",
+  "questions": [
+    {
+      "question": "What is the primary purpose of Deep Tendon Reflex (DTR) assessment in a patient receiving magnesium sulfate for preeclampsia?",
+      "options": [
+        "To prevent seizures from occurring",
+        "To provide early detection of magnesium sulfate toxicity",
+        "To assess the patient's pain level",
+        "To measure blood pressure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which reflex is tested by striking the tendon just below the kneecap?",
+      "options": [
+        "Biceps reflex",
+        "Triceps reflex",
+        "Patellar reflex",
+        "Achilles reflex"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the reflex grading scale provided, what does a score of +3 indicate?",
+      "options": [
+        "Absent reflex",
+        "Normal reflex",
+        "Hyperactive reflex",
+        "Clonus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The presence of Clonus is a sign of:",
+      "options": [
+        "Magnesium sulfate effectiveness",
+        "Normal neuromuscular function",
+        "Severe pre-eclampsia and neuromuscular irritability",
+        "Hypoactive reflexes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When checking the biceps reflex, where should the nurse place their thumb before striking with the hammer?",
+      "options": [
+        "On the triceps tendon insertion at the elbow",
+        "On the patellar tendon",
+        "On the biceps tendon at the elbow",
+        "On the Achilles tendon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In preeclampsia, rising blood pressure can lead to hyperreflexia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The absence of deep tendon reflexes is a late sign of magnesium sulfate toxicity.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When testing the patellar reflex, the patient's lower leg should be hanging off the edge of the table.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A reflex grade of +1 signifies a hyperactive reflex.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Checking for clonus involves sharply dorsiflexing the foot and maintaining pressure to observe for rhythmic beats.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Before beginning the reflex assessment, what is the FIRST step the healthcare provider should take?",
+      "options": [
+        "Wash hands",
+        "Explain the procedure to the mother",
+        "Strike the patellar tendon",
+        "Greet the mother to gain her cooperation"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "How should the woman's elbow be positioned for the triceps reflex test?",
+      "options": [
+        "Fully extended",
+        "Flexed at a 45-degree angle",
+        "Flexed at a 90-degree angle",
+        "Relaxed by her side"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the expected normal response (+2 on the scale) for the patellar reflex?",
+      "options": [
+        "Absent movement",
+        "Diminished movement",
+        "Extension or kicking out of the leg",
+        "Clonus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When assessing the biceps reflex, why is it important to repeat the procedure on the opposite arm?",
+      "options": [
+        "To confirm the absence of reflexes",
+        "To compare the two responses",
+        "To practice the technique",
+        "To check for clonus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What action follows recording the findings of the reflex assessment?",
+      "options": [
+        "Reassure the mother about the findings",
+        "Check for clonus",
+        "Remove equipment",
+        "Explain the procedure again"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The final step in the procedure is to wash hands.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The patellar reflex is also known as the knee-jerk reflex.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A reflex score of +4 indicates a normal, healthy reflex response.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For the Achilles reflex test, the patient's ankle should be supported.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The document states that increasing hyperreflexia can eventually lead to uncontrollable seizures in preeclampsia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "With preeclampsia, a woman's reflexes become unusually:",
+      "options": ["Diminished", "Absent", "Active", "Painful"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The __ reflex is tested by striking the Achilles tendon.",
+      "options": ["Patellar", "Plantar", "Triceps", "Ankle jerk"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Clonus is evaluated by counting the number of times the muscle __ and __ after it has been sharply stretched.",
+      "options": [
+        "Contracts and relaxes",
+        "Flexes and extends",
+        "Hurts and recovers",
+        "Swells and contracts"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "According to the reflex grading scale, a reflex that is completely absent is graded as:",
+      "options": ["+1", "+2", "+3", "0"],
+      "correctIndex": 3
+    },
+    {
+      "question": "When testing the patellar reflex, placing one hand above the knee helps to feel for __ in the thigh muscles.",
+      "options": [
+        "A pulse",
+        "A contraction",
+        "Temperature changes",
+        "Bone structure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does the acronym DTR stand for in neurological assessment?",
+      "options": [
+        "Deep Tissue Response",
+        "Deep Tendon Reflex",
+        "Digital Temperature Reading",
+        "Dorsal Tibial Response"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which reflex requires the patient's knee to be semi-flexed and involves dorsiflexion of the foot?",
+      "options": [
+        "Biceps reflex",
+        "Patellar reflex",
+        "Clonus test",
+        "Triceps reflex"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the significance of hyperreflexia in a patient with preeclampsia?",
+      "options": [
+        "It indicates adequate magnesium sulfate levels",
+        "It suggests improving condition",
+        "It shows decreasing blood pressure",
+        "It can progress to seizures if untreated"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which equipment is specifically mentioned for deep tendon reflex assessment?",
+      "options": [
+        "Blood pressure cuff",
+        "Reflex hammer",
+        "Stethoscope",
+        "Thermometer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "After completing the reflex assessment, what should be done regarding the mother?",
+      "options": [
+        "Discharge immediately",
+        "Reassure her about the findings",
+        "Administer medication",
+        "Schedule surgery"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
