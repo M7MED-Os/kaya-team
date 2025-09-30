@@ -39,7 +39,7 @@
         "90–110 / 48–70 mmHg",
         "93–120 / 60–78 mmHg"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "The most common arterial site used to measure blood pressure is:",
@@ -148,6 +148,226 @@
     },
     {
       "question": "Anxiety and exercise can influence pulse rate.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is considered a vital sign?",
+      "options": [
+        "Respiratory rate – Temperature – Blood pressure – Pulse",
+        "Height – Weight – Pulse – Blood pressure",
+        "Appetite – Respiratory rate – Blood pressure – Weight",
+        "Pulse – Height – Blood pressure – Sleep"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "High fever is defined as:",
+      "options": [
+        "37.8 – 38.4 °C",
+        "38.5 – 39.5 °C",
+        "39.6 – 41 °C",
+        "Above 41 °C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The normal respiratory rate for an adult is:",
+      "options": [
+        "12 – 20 breaths/min",
+        "16 – 19 breaths/min",
+        "20 – 30 breaths/min",
+        "25 – 32 breaths/min"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which method is commonly used to measure body temperature in children under 6 years?",
+      "options": [
+        "Oral method",
+        "Rectal method",
+        "Axillary method",
+        "Tympanic method"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is an advantage of the rectal method?",
+      "options": [
+        "Safe for unconscious children",
+        "Easily accessible",
+        "Less influenced by environmental temperature",
+        "Not affected by hot or cold fluids"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vital signs include: body temperature, pulse, respiratory rate, and blood pressure.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Rectal method values may be altered by the presence of stool.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The normal respiratory rate for a newborn is 30–40 breaths per minute.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oral method is recommended for children under 5 years.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A body temperature above 41 °C is called hyperpyrexia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT a vital sign?",
+      "options": ["Blood pressure", "Respiratory rate", "Pulse rate", "Height"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Moderate fever is classified when the temperature is:",
+      "options": [
+        "37.8 – 38.4 °C",
+        "38.5 – 39.5 °C",
+        "39.6 – 41 °C",
+        "Above 41 °C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal respiratory rate for a child (age 6–12 years) is:",
+      "options": [
+        "30 – 40 breaths/min",
+        "20 – 30 breaths/min",
+        "16 – 19 breaths/min",
+        "12 – 20 breaths/min"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which equipment is required to measure respiratory rate?",
+      "options": [
+        "Stethoscope, antiseptic wipes, watch with second hand",
+        "Thermometer, gloves, cotton ball",
+        "Sphygmomanometer, stethoscope",
+        "Pulse oximeter only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A disadvantage of the axillary method is:",
+      "options": [
+        "Risk of rectal perforation",
+        "Influenced by environmental temperature",
+        "Contraindicated after oral surgery",
+        "Requires only 1 minute to measure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "One respiration cycle consists of one inspiration and one expiration.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oral method is contraindicated for unconscious children.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Adolescents normally have a respiratory rate of 16–19 breaths per minute.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Axillary method requires 3 minutes to measure temperature.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Newborns normally have a respiratory rate of 12–20 breaths per minute.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vital signs are important because they:",
+      "options": [
+        "Indicate the patient’s appetite and sleep pattern",
+        "Reflect the body’s basic functions and response to stressors",
+        "Show the nutritional status only",
+        "Measure body height and weight"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hyperpyrexia is defined as a body temperature:",
+      "options": [
+        "38.5 – 39.5 °C",
+        "39.6 – 41 °C",
+        "Above 41 °C",
+        "37.8 – 38.4 °C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following respiratory rates is normal for an infant (6 months)?",
+      "options": [
+        "12 – 20 breaths/min",
+        "16 – 19 breaths/min",
+        "20 – 40 breaths/min",
+        "25 – 32 breaths/min"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which thermometer type is safer and more modern for measuring temperature?",
+      "options": [
+        "Mercury thermometer",
+        "Digital thermometer",
+        "Rectal thermometer",
+        "Glass thermometer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT an advantage of the oral method?",
+      "options": [
+        "Easily accessible",
+        "Responds quickly to temperature changes",
+        "Can be used for children under 5 years",
+        "Placement of thermometer is easy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Rectal method is safe for unconscious children.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oral method values may be influenced by ingestion of hot or cold fluids.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Axillary method usually takes around 5 minutes to obtain a reading.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "An adult’s normal respiratory rate is 25–32 breaths per minute.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Mild fever ranges between 37.8 and 38.4 °C.",
       "options": ["True", "False"],
       "correctIndex": 0
     }
