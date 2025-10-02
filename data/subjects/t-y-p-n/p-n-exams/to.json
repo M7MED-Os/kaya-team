@@ -1,0 +1,361 @@
+{
+  "title": "Normal growth and development of Toddler",
+  "questions": [
+    {
+      "question": "At 15 months, a child is expected to:",
+      "options": [
+        "Walks up stairs using both feet on same step",
+        "Builds tower of 2-3 blocks",
+        "Jumps from chairs",
+        "Runs well"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "By 18 months, which of the following fine motor skills appears?",
+      "options": [
+        "Builds a tower of 2-3 cubes",
+        "Imitates a vertical line",
+        "Imitates a circle",
+        "Imitates simple lines"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "At 24 months, the gross motor milestone is:",
+      "options": [
+        "Walks well alone",
+        "Can jump in place",
+        "Runs well",
+        "Takes steps on tiptoe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which motor milestone is correct for 30 months?",
+      "options": [
+        "Imitates vertical line",
+        "Walks up stairs with two feet per step",
+        "Takes a few steps on tiptoe",
+        "Can climb furniture"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fine motor skill at 30 months is:",
+      "options": [
+        "Makes simple lines",
+        "Builds tower of 2-3 cubes",
+        "Imitates circle",
+        "Run well"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "At 15 months, a child usually says:",
+      "options": ["7–20 words", "4–6 words", "20 words", "50 words"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vocabulary of 7–20 words is typical at:",
+      "options": ["12 months", "15 months", "18 months", "24 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child who can say 50 words and use 2-word sentences is likely:",
+      "options": ["12 months", "18 months", "24 months", "36 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "At 30 months, language ability includes:",
+      "options": [
+        "Knows full name and one color",
+        "4–6 words",
+        "2-word sentences",
+        "Silent pointing only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Playing in the company of other children is common at:",
+      "options": ["12 months", "15 months", "18 months", "30 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Daytime dryness usually achieved by:",
+      "options": ["12 months", "18 months", "24 months", "36 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "By 36 months, the child usually:",
+      "options": [
+        "Explores drawers",
+        "Plays in company of others",
+        "Knows full name, age, and sex",
+        "Uses 50 words"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Separation anxiety usually develops when:",
+      "options": [
+        "Child is left with toys",
+        "Child is separated from caregiver (usually mother)",
+        "Child is introduced to new food",
+        "Child is exposed to pets"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Tantrums are mainly a child’s way of:",
+      "options": [
+        "Expressing hunger",
+        "Expressing anger",
+        "Communicating needs",
+        "Showing joy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Erikson, the stage between 1–3 years is:",
+      "options": [
+        "Trust vs Mistrust",
+        "Autonomy vs Shame and Doubt",
+        "Initiative vs Guilt",
+        "Industry vs Inferiority"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child who fails to achieve autonomy may develop:",
+      "options": [
+        "Confidence",
+        "Shame and self-doubt",
+        "Initiative",
+        "Independence"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Freud, the anal stage extends from:",
+      "options": ["Birth–1 year", "1–3 years", "8 months–4 years", "3–6 years"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Self-concept as a boy or girl is usually completed by:",
+      "options": ["18 months", "2 years", "2.5–3 years", "4 years"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Toddlers are called “little scientists” because they:",
+      "options": [
+        "Observe nature",
+        "Like to memorize facts",
+        "Try to discover new ways to handle objects",
+        "Do experiments in school"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Piaget’s pre-operational stage extends from:",
+      "options": ["Birth–2 years", "2–7 years", "7–11 years", "11+ years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Parents of a toddler who is slow to warm up should:",
+      "options": [
+        "Avoid new places",
+        "Expose gradually to new situations with patience",
+        "Force the child into social settings",
+        "Ignore child’s fear"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which strategy helps manage a child with difficult temperament?",
+      "options": [
+        "Strict punishment",
+        "Ignoring routines",
+        "Attention to eating and nap times",
+        "Leaving child alone often"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A toddler may feel jealous when:",
+      "options": [
+        "Parents maintain old routines",
+        "Parents give all attention to new baby",
+        "Parents involve toddler in baby care",
+        "Toddler is given importance"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "To minimize sibling rivalry, parents should:",
+      "options": [
+        "Change the toddler’s routine",
+        "Give toddler sense of importance",
+        "Ignore toddler’s jealousy",
+        "Avoid spending time with toddler"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Regression in toddlers is most likely triggered by:",
+      "options": [
+        "Receiving gifts",
+        "Hospitalization or new sibling birth",
+        "Learning to talk",
+        "Playing with peers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During regression, a toddler may:",
+      "options": [
+        "Advance milestones quickly",
+        "Want bottle or pacifier again",
+        "Refuse caregiver",
+        "Learn new words faster"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 24-month-old who can run well but cannot say more than 5 words shows delay in:",
+      "options": [
+        "Motor development",
+        "Language development",
+        "Emotional development",
+        "Social development"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "If a 2.5-year-old feels ashamed when failing at tasks, this reflects difficulty in:",
+      "options": [
+        "Freud’s anal stage",
+        "Erikson’s autonomy vs shame and doubt",
+        "Piaget’s sensorimotor stage",
+        "Language development"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 3-year-old who insists on dressing himself but fails may develop:",
+      "options": [
+        "Independence",
+        "Shame and doubt",
+        "Strong motor skills",
+        "Libido fixation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Parents notice their toddler regressed to bottle feeding after new baby arrived. This is an example of:",
+      "options": ["Normal growth", "Regression", "Sibling rivalry", "Autonomy"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "At 15 months, a child can build a tower of 2–3 blocks.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "By 18 months, a toddler can imitate a circle.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "At 24 months, children say about 7–20 words.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "By 30 months, the child knows full name, one color, and shows age with fingers.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Social development at 15 months includes exploring drawers.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "By 36 months, most children are dry both day and night.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Separation anxiety happens when the child is away from toys.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Erikson’s stage for toddlers is trust vs mistrust.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Freud, the anal stage is from 8 months to 4 years.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Freud says gender self-concept develops at around 2.5–3 years.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Piaget’s pre-operational stage starts at 7 years.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Toddlers are called “little scientists” because they memorize facts.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Parents should expose shy toddlers slowly to new environments.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A child with difficult temperament needs more attention to nap and meal routines.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sibling rivalry is rare when a new baby arrives.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Keeping the toddler’s routine close to normal reduces rivalry.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Giving a toddler a sense of importance minimizes jealousy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Regression may occur during stressful events like hospitalization.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Regression means permanent loss of milestones.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A toddler experiencing regression may ask for a bottle or pacifier again.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -7,6 +7,13 @@
       "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/aofro.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "menstruation",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/mens.json",
+      "file": null,
+      "summary": null
     }
   ]
 }
