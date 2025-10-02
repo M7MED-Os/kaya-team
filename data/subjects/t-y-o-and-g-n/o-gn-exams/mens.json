@@ -347,425 +347,420 @@
       "correctIndex": 1
     },
     {
-      "title": "Menstruation Lecture Part 2",
-      "questions": [
-        {
-          "question": "The 'Key of menstruation' (D/C) refers to:",
-          "options": [
-            "Duration of bleeding / Cycle frequency",
-            "Density / Color",
-            "Discharge / Contraction",
-            "Diet / Cycle"
-          ],
-          "correctIndex": 0
-        },
-        {
-          "question": "The combination of Polymenorrhea and Menorrhagia is called:",
-          "options": [
-            "Menometrorrhagia",
-            "Polymerorrhagia",
-            "Hypomenorrhea",
-            "Oligomenorrhea"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "Which phase is NOT part of the ovarian cycle?",
-          "options": ["Follicular", "Luteal", "Proliferative", "Ovulation"],
-          "correctIndex": 2
-        },
-        {
-          "question": "The precise mechanism causing Graafian follicle rupture is:",
-          "options": [
-            "Well understood",
-            "Caused by a drop in FSH",
-            "Not known",
-            "Triggered by estrogen alone"
-          ],
-          "correctIndex": 2
-        },
-        {
-          "question": "In the secretory phase, the endometrium increases in thickness to approximately:",
-          "options": ["2-4 mm", "4-6 mm", "6-8 mm", "8-10 mm"],
-          "correctIndex": 2
-        },
-        {
-          "question": "The spiral arteries are most directly involved in which process?",
-          "options": [
-            "Ovulation",
-            "Endometrial regeneration",
-            "Ischemia and shedding of the endometrium",
-            "Production of cervical mucus"
-          ],
-          "correctIndex": 2
-        },
-        {
-          "question": "If fertilization occurs, the corpus luteum continues to produce hormones until:",
-          "options": [
-            "Menstruation begins",
-            "The next ovulation",
-            "Placenta formation",
-            "Menopause"
-          ],
-          "correctIndex": 2
-        },
-        {
-          "question": "The term for a duration of bleeding less than 2 days is:",
-          "options": [
-            "Menorrhagia",
-            "Oligomenorrhea",
-            "Hypomenorrhea",
-            "Polymenorrhea"
-          ],
-          "correctIndex": 2
-        },
-        {
-          "question": "According to the document, what is the recommended action if a girl changes her pad at school?",
-          "options": [
-            "Flush it down the toilet",
-            "Leave it in the school bathroom",
-            "Take the soiled one home in a bag",
-            "Burn it immediately"
-          ],
-          "correctIndex": 2
-        },
-        {
-          "question": "Benson's relaxation technique is mentioned as an example of:",
-          "options": [
-            "Herbal remedies",
-            "Relaxation techniques",
-            "Analgesics",
-            "Essential oils"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The H.P.O axis stands for:",
-          "options": [
-            "Uterine-Pelvic-Ovary axis",
-            "Hypothalamo-Pituitary-Ovarian axis",
-            "Hormonal-Progesterone-Ovulation axis",
-            "None of the above"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The two intermittent cycles that make up the menstrual cycle are the ovarian cycle and the:",
-          "options": [
-            "Vaginal cycle",
-            "Endometrial cycle",
-            "Hormonal cycle",
-            "Fallopian tube cycle"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The follicular phase of the ovarian cycle varies in length:",
-          "options": [
-            "From woman to woman",
-            "But is always 14 days",
-            "Only if there is a disease",
-            "From cycle to cycle, but is constant for each woman"
-          ],
-          "correctIndex": 0
-        },
-        {
-          "question": "The corpus luteum produces:",
-          "options": [
-            "Only Estrogen",
-            "Only Progesterone",
-            "Both Estrogen and Progesterone",
-            "FSH and LH"
-          ],
-          "correctIndex": 2
-        },
-        {
-          "question": "The raw endometrium is covered by flat cells during the:",
-          "options": [
-            "Menstrual phase",
-            "Regenerative phase",
-            "Proliferative phase",
-            "Secretory phase"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The three layers of the endometrium formed in the secretory phase are:",
-          "options": [
-            "Inner, Middle, Outer",
-            "Superficial compact, Middle spongy, Deep basal",
-            "Primary, Secondary, Tertiary",
-            "Glandular, Vascular, Stromal"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The document recommends avoiding too many:",
-          "options": [
-            "Fruits and vegetables",
-            "Processed foods",
-            "Iron-rich foods",
-            "Glasses of water"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The combination of Metrorrhagia and Menorrhagia is called:",
-          "options": [
-            "Polymerorrhagia",
-            "Menometrorrhagia",
-            "Oligomenorrhea",
-            "Hypomenorrhea"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The document states that the amount of menstrual flow can be affected by:",
-          "options": [
-            "The weather",
-            "Thickness of the endometrium, medication, and diseases affecting clotting",
-            "The color of the blood",
-            "The woman's height"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "In the proliferative phase, the endometrial cells are described as:",
-          "options": ["Columnar", "Cuboidal", "Flat", "Squamous"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The drop in estrogen and progesterone levels directly leads to:",
-          "options": [
-            "Ovulation",
-            "Endometrial shedding",
-            "Follicle development",
-            "Increased FSH production"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The term 'menstrual molimina' symptoms usually begin:",
-          "options": [
-            "During menstruation",
-            "7 days after menses",
-            "7 days before menses",
-            "At ovulation"
-          ],
-          "correctIndex": 2
-        },
-        {
-          "question": "What is the primary cause of the necrosis of the endometrium?",
-          "options": [
-            "Increased estrogen",
-            "Ischemia and hypoxia of spiral arterioles",
-            "Bacterial infection",
-            "Excessive exercise"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "The purpose of myometrium contraction by prostaglandins is to:",
-          "options": [
-            "Induce ovulation",
-            "Control the amount of bleeding",
-            "Thicken the endometrium",
-            "Produce cervical mucus"
-          ],
-          "correctIndex": 1
-        },
-        {
-          "question": "Which of the following is NOT listed as a content of menstrual flow?",
-          "options": ["Blood", "Mucus", "Leukocytes", "Intact fertilized ovum"],
-          "correctIndex": 3
-        },
-        {
-          "question": "The normal 'Key of menstruation' (D/C) is:",
-          "options": [
-            "3-5 days / 3-5 weeks",
-            "1-2 days / 2-3 weeks",
-            "5-7 days / 4-5 weeks",
-            "7 days / 5 weeks"
-          ],
-          "correctIndex": 0
-        },
-        {
-          "question": "The follicular phase lasts from approximately day to day of the cycle.",
-          "options": ["1, 14", "5, 10", "14, 28", "15, 28"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The luteal phase begins on approximately which day of the menstrual cycle?",
-          "options": ["1st", "14th", "15th", "28th"],
-          "correctIndex": 2
-        },
-        {
-          "question": "The document recommends taking a two-hour nap in addition to how many hours of nightly sleep?",
-          "options": ["6 hours", "8 hours", "10 hours", "12 hours"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Which of these is a recommended component of diet during menstruation?",
-          "options": [
-            "Sugary drinks",
-            "Processed takeaways",
-            "Foods rich in iron and folic acid",
-            "Crisps"
-          ],
-          "correctIndex": 2
-        },
+      "question": "The 'Key of menstruation' (D/C) refers to:",
+      "options": [
+        "Duration of bleeding / Cycle frequency",
+        "Density / Color",
+        "Discharge / Contraction",
+        "Diet / Cycle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The combination of Polymenorrhea and Menorrhagia is called:",
+      "options": [
+        "Menometrorrhagia",
+        "Polymerorrhagia",
+        "Hypomenorrhea",
+        "Oligomenorrhea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which phase is NOT part of the ovarian cycle?",
+      "options": ["Follicular", "Luteal", "Proliferative", "Ovulation"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The precise mechanism causing Graafian follicle rupture is:",
+      "options": [
+        "Well understood",
+        "Caused by a drop in FSH",
+        "Not known",
+        "Triggered by estrogen alone"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the secretory phase, the endometrium increases in thickness to approximately:",
+      "options": ["2-4 mm", "4-6 mm", "6-8 mm", "8-10 mm"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The spiral arteries are most directly involved in which process?",
+      "options": [
+        "Ovulation",
+        "Endometrial regeneration",
+        "Ischemia and shedding of the endometrium",
+        "Production of cervical mucus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "If fertilization occurs, the corpus luteum continues to produce hormones until:",
+      "options": [
+        "Menstruation begins",
+        "The next ovulation",
+        "Placenta formation",
+        "Menopause"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The term for a duration of bleeding less than 2 days is:",
+      "options": [
+        "Menorrhagia",
+        "Oligomenorrhea",
+        "Hypomenorrhea",
+        "Polymenorrhea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the document, what is the recommended action if a girl changes her pad at school?",
+      "options": [
+        "Flush it down the toilet",
+        "Leave it in the school bathroom",
+        "Take the soiled one home in a bag",
+        "Burn it immediately"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Benson's relaxation technique is mentioned as an example of:",
+      "options": [
+        "Herbal remedies",
+        "Relaxation techniques",
+        "Analgesics",
+        "Essential oils"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The H.P.O axis stands for:",
+      "options": [
+        "Uterine-Pelvic-Ovary axis",
+        "Hypothalamo-Pituitary-Ovarian axis",
+        "Hormonal-Progesterone-Ovulation axis",
+        "None of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The two intermittent cycles that make up the menstrual cycle are the ovarian cycle and the:",
+      "options": [
+        "Vaginal cycle",
+        "Endometrial cycle",
+        "Hormonal cycle",
+        "Fallopian tube cycle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The follicular phase of the ovarian cycle varies in length:",
+      "options": [
+        "From woman to woman",
+        "But is always 14 days",
+        "Only if there is a disease",
+        "From cycle to cycle, but is constant for each woman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The corpus luteum produces:",
+      "options": [
+        "Only Estrogen",
+        "Only Progesterone",
+        "Both Estrogen and Progesterone",
+        "FSH and LH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The raw endometrium is covered by flat cells during the:",
+      "options": [
+        "Menstrual phase",
+        "Regenerative phase",
+        "Proliferative phase",
+        "Secretory phase"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The three layers of the endometrium formed in the secretory phase are:",
+      "options": [
+        "Inner, Middle, Outer",
+        "Superficial compact, Middle spongy, Deep basal",
+        "Primary, Secondary, Tertiary",
+        "Glandular, Vascular, Stromal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The document recommends avoiding too many:",
+      "options": [
+        "Fruits and vegetables",
+        "Processed foods",
+        "Iron-rich foods",
+        "Glasses of water"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The combination of Metrorrhagia and Menorrhagia is called:",
+      "options": [
+        "Polymerorrhagia",
+        "Menometrorrhagia",
+        "Oligomenorrhea",
+        "Hypomenorrhea"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The document states that the amount of menstrual flow can be affected by:",
+      "options": [
+        "The weather",
+        "Thickness of the endometrium, medication, and diseases affecting clotting",
+        "The color of the blood",
+        "The woman's height"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the proliferative phase, the endometrial cells are described as:",
+      "options": ["Columnar", "Cuboidal", "Flat", "Squamous"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The drop in estrogen and progesterone levels directly leads to:",
+      "options": [
+        "Ovulation",
+        "Endometrial shedding",
+        "Follicle development",
+        "Increased FSH production"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The term 'menstrual molimina' symptoms usually begin:",
+      "options": [
+        "During menstruation",
+        "7 days after menses",
+        "7 days before menses",
+        "At ovulation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary cause of the necrosis of the endometrium?",
+      "options": [
+        "Increased estrogen",
+        "Ischemia and hypoxia of spiral arterioles",
+        "Bacterial infection",
+        "Excessive exercise"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The purpose of myometrium contraction by prostaglandins is to:",
+      "options": [
+        "Induce ovulation",
+        "Control the amount of bleeding",
+        "Thicken the endometrium",
+        "Produce cervical mucus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT listed as a content of menstrual flow?",
+      "options": ["Blood", "Mucus", "Leukocytes", "Intact fertilized ovum"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The normal 'Key of menstruation' (D/C) is:",
+      "options": [
+        "3-5 days / 3-5 weeks",
+        "1-2 days / 2-3 weeks",
+        "5-7 days / 4-5 weeks",
+        "7 days / 5 weeks"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The follicular phase lasts from approximately day to day of the cycle.",
+      "options": ["1, 14", "5, 10", "14, 28", "15, 28"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The luteal phase begins on approximately which day of the menstrual cycle?",
+      "options": ["1st", "14th", "15th", "28th"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The document recommends taking a two-hour nap in addition to how many hours of nightly sleep?",
+      "options": ["6 hours", "8 hours", "10 hours", "12 hours"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is a recommended component of diet during menstruation?",
+      "options": [
+        "Sugary drinks",
+        "Processed takeaways",
+        "Foods rich in iron and folic acid",
+        "Crisps"
+      ],
+      "correctIndex": 2
+    },
 
-        {
-          "question": "Menstruation occurs when the ovum is fertilized.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The normal range for a menstrual cycle is 21 to 35 days.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Menorrhagia is defined as a blood loss of less than 30 cc.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The ovarian cycle consists of three phases: follicular, ovulation, and luteal.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The luteal phase is under the primary influence of Follicle Stimulating Hormone (FSH).",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The corpus luteum produces both estrogen and progesterone.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The secretory phase of the endometrial cycle occurs before ovulation.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Prostaglandins help control bleeding by causing vasodilation.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "A positive spinnbarkeit test involves cervical mucus stretching 5-10 cm.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "It is recommended to avoid showering during menstruation to prevent infection.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Violent and excessive exercise should be avoided during menses.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Yoga is not recommended during menstruation as it increases cramps.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Applying local heat to the abdomen may relieve menstrual pain.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Ibuprofen is an example of a prostaglandin inhibitor.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Drinking plenty of water can help reduce bloating during menstruation.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Oligomenorrhea is defined as a cycle frequency of less than 21 days.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The Graafian follicle is filled with estrogenic fluid.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The precise mechanism causing the Graafian follicle to rupture is well understood.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The menstrual phase marks the end of the endometrial cycle.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The regenerative phase starts just after menses and is under the influence of progesterone.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "In the secretory phase, the endometrial glands become straight and short.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The ischemic phase begins around the 26th day of the cycle if pregnancy has not occurred.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "A used sanitary pad should be flushed down the toilet.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Girls should wash their hands with soap after changing a pad.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "Herbal remedies like ginger tea can reduce muscle contractions associated with menstrual pain.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The document recommends eating at least five portions of fruit and vegetables every day during menstruation.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The H.P.O axis involves the hypothalamus, pituitary, and ovaries.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        },
-        {
-          "question": "The follicular phase length is constant at 14 days for all women.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "Metrorrhagia refers to regular bleeding related to menstruation.",
-          "options": ["True", "False"],
-          "correctIndex": 1
-        },
-        {
-          "question": "The drop in estrogen and progesterone levels causes the endometrium to shed.",
-          "options": ["True", "False"],
-          "correctIndex": 0
-        }
-      ]
+    {
+      "question": "Menstruation occurs when the ovum is fertilized.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal range for a menstrual cycle is 21 to 35 days.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Menorrhagia is defined as a blood loss of less than 30 cc.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The ovarian cycle consists of three phases: follicular, ovulation, and luteal.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The luteal phase is under the primary influence of Follicle Stimulating Hormone (FSH).",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The corpus luteum produces both estrogen and progesterone.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The secretory phase of the endometrial cycle occurs before ovulation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prostaglandins help control bleeding by causing vasodilation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A positive spinnbarkeit test involves cervical mucus stretching 5-10 cm.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "It is recommended to avoid showering during menstruation to prevent infection.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Violent and excessive exercise should be avoided during menses.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Yoga is not recommended during menstruation as it increases cramps.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Applying local heat to the abdomen may relieve menstrual pain.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ibuprofen is an example of a prostaglandin inhibitor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Drinking plenty of water can help reduce bloating during menstruation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oligomenorrhea is defined as a cycle frequency of less than 21 days.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Graafian follicle is filled with estrogenic fluid.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The precise mechanism causing the Graafian follicle to rupture is well understood.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The menstrual phase marks the end of the endometrial cycle.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The regenerative phase starts just after menses and is under the influence of progesterone.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the secretory phase, the endometrial glands become straight and short.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The ischemic phase begins around the 26th day of the cycle if pregnancy has not occurred.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A used sanitary pad should be flushed down the toilet.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Girls should wash their hands with soap after changing a pad.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Herbal remedies like ginger tea can reduce muscle contractions associated with menstrual pain.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The document recommends eating at least five portions of fruit and vegetables every day during menstruation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The H.P.O axis involves the hypothalamus, pituitary, and ovaries.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The follicular phase length is constant at 14 days for all women.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Metrorrhagia refers to regular bleeding related to menstruation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The drop in estrogen and progesterone levels causes the endometrium to shed.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     }
   ]
 }
