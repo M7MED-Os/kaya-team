@@ -32,7 +32,14 @@
     {
       "title": "Normal growth and development of preschool",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/to.json",
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/presc.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Normal growth and development of school",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/sc.json",
       "file": null,
       "summary": null
     }

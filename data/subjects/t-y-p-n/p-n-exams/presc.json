@@ -1,0 +1,345 @@
+{
+  "title": "Preschool Child Development",
+  "questions": [
+    {
+      "question": "Average weight gain of a preschool child per year is:",
+      "options": ["1.5 kg", "2.3 kg", "2.8 kg", "2.7 kg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "At the age of 6 years, the average weight of a child is:",
+      "options": ["12 kg", "15 kg", "18 kg", "22 kg"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The weight of a 6-year-old child is approximately:",
+      "options": [
+        "Double the birth weight",
+        "Double the weight at 1 year",
+        "Same as birth weight",
+        "Triple the weight at 2 years"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Average height increase of preschool children per year is:",
+      "options": ["6–7 cm", "6.25–7.5 cm", "11–12 cm", "12 cm"],
+      "correctIndex": 1
+    },
+    {
+      "question": "At the age of 6 years, the average height of a child is:",
+      "options": ["85 cm", "105 cm", "101 cm", "117 cm"],
+      "correctIndex": 2
+    },
+    {
+      "question": "At 6 years, the child’s height is approximately:",
+      "options": [
+        "Double the first year length",
+        "Double the birth length",
+        "Equal to the birth length",
+        "None of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Normal temperature of a preschool child is:",
+      "options": ["36–37°C", "36.5–37°C", "36.1–37.2°C", "36.5–37.5°C"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal pulse rate of preschool children is:",
+      "options": [
+        "100–150 beats/min",
+        "120–150 beats/min",
+        "90–110 beats/min",
+        "98–110 beats/min"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Respiratory rate of preschool children is:",
+      "options": ["35 c/min", "22–35 c/min", "19 c/min", "20 c/min"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Normal blood pressure of preschool children is:",
+      "options": [
+        "74/47 mmHg",
+        "86–106/42–63 mmHg",
+        "85/60 mmHg",
+        "90/60 mmHg"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "During preschool years, physical growth:",
+      "options": [
+        "Rapidly increases",
+        "Slows down and stabilizes",
+        "Completely stops",
+        "Doubles every year"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A healthy preschool child usually appears:",
+      "options": [
+        "Obese and tall",
+        "Slender, graceful, and erect",
+        "Thin and short",
+        "Weak and bent"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "By the end of preschool years, a child appears:",
+      "options": [
+        "Thin and tall",
+        "Short and fat",
+        "Same as toddler",
+        "Overweight"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Motor development includes:",
+      "options": [
+        "Fine motor skills",
+        "Gross motor skills",
+        "Sensory skills",
+        "a & b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Using scissors is an example of:",
+      "options": [
+        "Gross motor skill",
+        "Fine motor skill",
+        "Reflex action",
+        "None of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Catching and throwing a ball is:",
+      "options": [
+        "Gross motor skill",
+        "Fine motor skill",
+        "Mental skill",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "At 3 years, a child can:",
+      "options": [
+        "Wash hands",
+        "Ride a bicycle",
+        "Build a tower of 10–15 blocks",
+        "All of the above"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "At 4 years, a child can:",
+      "options": [
+        "Go only up stairs",
+        "Jump briefly",
+        "Lace shoes",
+        "All of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "At 5 years, a child can balance on one foot for:",
+      "options": ["5 seconds", "7 seconds", "8 seconds", "10 seconds"],
+      "correctIndex": 2
+    },
+    {
+      "question": "In Piaget’s theory, the Intuitive phase occurs between:",
+      "options": ["1–2 years", "2–4 years", "4–7 years", "7–12 years"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The major mode of communication during preschool years is:",
+      "options": ["Crying", "Body language", "Language", "Gestures"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vocabulary increases from 300 words at 2 years to about 2100 words at:",
+      "options": ["3 years", "4 years", "5 years", "6 years"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bowel control usually starts at the age of:",
+      "options": ["6 months", "1 year", "1.5 years", "2.5 years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Complete bowel control is achieved at:",
+      "options": ["1.5 years", "1 year", "2.5 years", "3.5 years"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bladder control during the day is usually at:",
+      "options": ["1.5 year", "2–2.5 years", "3.5–5 years", "5 years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bladder control during the night is usually at:",
+      "options": ["1.5 year", "2–2.5 years", "3.5–5 years", "5 years"],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to Freud, the preschool child is in the:",
+      "options": ["Oral stage", "Anal stage", "Phallic stage", "Latency stage"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The pleasure center during the phallic stage is around the:",
+      "options": ["Mouth", "Genitalia", "Hands", "Brain"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Answer about sex questions that the child asked should be:",
+      "options": [
+        "Ignored",
+        "Punished",
+        "Direct and honest and detailed",
+        "Direct and honest without additional details"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The chief psychosocial task of the preschool child is:",
+      "options": ["Autonomy", "Initiative", "Trust", "Industry"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The psychosocial crisis of preschool (Erikson) is called:",
+      "options": [
+        "Autonomy vs Shame",
+        "Initiative vs Guilt",
+        "Trust vs Mistrust",
+        "Industry vs Inferiority"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The preschool child feels security and independence mainly from:",
+      "options": ["Toys", "Teachers", "Parents", "Friends"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Parents should guide their children using:",
+      "options": ["Commands", "Suggestions", "Threats", "Punishment"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Religious education at this age focuses on teaching the child that God is within our lives and loves us.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Thumb sucking may be a sign of:",
+      "options": [
+        "Happiness",
+        "Dissatisfaction or feeling unloved",
+        "Intelligence",
+        "Anger"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Enuresis is defined as:",
+      "options": [
+        "Repeated involuntary urination after bladder control age",
+        "Uncontrolled stool passage",
+        "Thumb sucking",
+        "Bed wetting before 1 year"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nocturnal enuresis refers to:",
+      "options": [
+        "Daytime urination",
+        "Nighttime involuntary urination",
+        "Bowel incontinence",
+        "Thumb sucking"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Encopresis means:",
+      "options": [
+        "Uncontrolled urination",
+        "Uncontrolled stool passage beyond expected age",
+        "Thumb sucking",
+        "Masturbation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Selfishness in preschool child can be reduced by Isolation",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bad language in children should be managed by Ignoring and not reacting.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A destructive child is usually:",
+      "options": [
+        "Happy",
+        "Unhappy, jealous, or angry",
+        "Independent",
+        "Curious only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Masturbation at this stage should be managed by:",
+      "options": ["Punishment", "Threats", "Distraction", "Isolation"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Hurting others during play may indicate the child is Jealous or frustrated",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The term enuresis alone is commonly used to indicate wetting during the night?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nocturnal enuresis refers to voluntary voiding during the night?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Darkness or coldness in the environment affect a child's bladder control?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In preschool age, the child has rapid vocabulary growth?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The oedipal stage typically resolves in the early preschool period with a little identification with the same sex parent?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "During preschool years, language becomes less sophisticated and simple?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
