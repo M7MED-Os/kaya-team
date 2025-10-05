@@ -1,0 +1,335 @@
+{
+  "title": "Normal growth and development of School",
+  "questions": [
+    {
+      "question": "During the school-age period, general growth is rapid and completed before puberty.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "At 6 years old, the average height of a child is about 150cm.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The pulse rate of a school-age child is typically around 90-110 beats per minute.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The urinary system becomes functionally mature and can concentrate urine better during this age.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The circulatory system’s functional murmur is usually significant and requires medical intervention.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The skeletal and muscular systems may experience aches, so correct posture should be encouraged.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The endocrine system is fully mature in all functions, including reproductive regulation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Piaget, the child takes more responsibility and orders activities, transitioning from objective thinking to egocentric.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The neurological system during school age has full voluntary control of gross motor function.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lymphoid tissues reach greater amounts in adults than in school-age children.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Freud, during latency, the child’s main focus shifts from socialization to sexuality.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Erikson’s psychosocial crisis for this stage is Autonomy vs Shame.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Freud, the latency period extends from 7–12 years.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Piaget classified children aged 7–11 years in the preoperational stage.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 10-year-old child can typically write short letters to friends and read storybooks.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Children at 8 years can usually count to 20 and identify their right arm.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The stage of cooperation in moral development usually appears around age 6.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Socially, 7-year-old children begin to enjoy group games and sharing.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Spiritually, 11-year-old children believe their prayers should be answered.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Poor posture in school-age children may lead to skeletal issues such as scoliosis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Obesity and underfeeding are both considered nutritional problems in this age group.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bullying is usually a one-time act and not repetitive in nature.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Streptococcal infections are associated with nephritis.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Abuse in children can include physical abuse only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The nurse should monitor immunization status and booster dose requirements for school-age children.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "According to motor development, a 7-year-old child is able to jump and ride a tricycle.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The school-age period extends from:",
+      "options": ["2–6 years", "6–12 years", "10–18 years", "1–5 years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first permanent teeth eruption occurs during:",
+      "options": ["Preschool age", "Infancy", "School age", "Adolescence"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Average yearly gain in height for school-age children is about:",
+      "options": ["3 cm", "6 cm", "10 cm", "12 cm"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Average yearly gain in weight for school-age children is about:",
+      "options": ["1 kg", "2 kg", "3 kg", "5 kg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "At 12 years, the expected weight is approximately:",
+      "options": ["22 kg", "30 kg", "44 kg", "50 kg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following systems is not fully mature during school age?",
+      "options": [
+        "Gastrointestinal",
+        "Endocrine (reproductive)",
+        "Circulatory",
+        "Neurological"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to motor development, an 8–9-year-old child is able to:",
+      "options": [
+        "Understand past, present, and future",
+        "Play musical instruments",
+        "Help in household, skillful in manual activity",
+        "Jump, ride bicycle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The main function of the immunological system is:",
+      "options": [
+        "Hormone secretion",
+        "Circulation of oxygen",
+        "Elimination of foreign substances",
+        "Muscle contraction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to Freud, the main developmental task during latency is:",
+      "options": [
+        "Independence",
+        "Industry and socialization",
+        "Sexual exploration",
+        "Self-reliance"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Erikson, failure to develop a sense of industry leads to:",
+      "options": ["Guilt", "Inferiority", "Isolation", "Shame"],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to mental development, a 7-year-old child is expected to:",
+      "options": [
+        "Ride a bicycle",
+        "Read a clock",
+        "Be oriented to time, months, reason",
+        "Jump"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cognitive development in this age allows the child to:",
+      "options": [
+        "Think abstractly",
+        "Use concrete operations",
+        "Focus on fantasy",
+        "Lack logical reasoning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Tonsillitis and rheumatic fever are caused by:",
+      "options": ["Staphylococcus", "Streptococcus", "Influenza", "Diphtheria"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Spiritually, at 11 years the child:",
+      "options": [
+        "Has the concept of God as creator",
+        "Seeks God for protection when fearful",
+        "Expects prayer to be answered",
+        "Learns basic tenets of religion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to social development, a 9-year-old child is most likely to:",
+      "options": [
+        "Be less resistant and stubborn",
+        "Be dramatic and like rewards",
+        "Have temper tantrums",
+        "Be aware of family roles and responsibilities"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nephritis is caused by:",
+      "options": ["Staphylococcus", "Streptococcus", "Diphtheria"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Learning difficulties are usually seen in:",
+      "options": [
+        "Reading and writing",
+        "Speech only",
+        "Drawing",
+        "Physical strength"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Behavioral problems among school-age children may include:",
+      "options": [
+        "Sadness",
+        "Aggression, lying, or stealing",
+        "Laziness",
+        "Abuse"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Parents can help prevent abuse by:",
+      "options": [
+        "Avoiding discussions about it",
+        "Teaching children about good touch and bad touch",
+        "Punishment",
+        "Discouraging communication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nutritional education for parents should emphasize:",
+      "options": [
+        "Quantity of food",
+        "Quality of food",
+        "Fasting",
+        "Skipping meals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Communicable diseases common in this age include:",
+      "options": [
+        "Measles, malaria, cholera",
+        "Diphtheria, typhoid, hepatitis A",
+        "Influenza only",
+        "Sinusitis, urticaria"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A common allergic condition during this period is all except:",
+      "options": ["Bronchial asthma", "Sinusitis", "Hepatitis", "Urticaria"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A major skeletal issue among school-age children is:",
+      "options": [
+        "Motor car accident",
+        "Bone fracture or scoliosis",
+        "Arthritis",
+        "Rickets"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Common accidents in this age group include:",
+      "options": ["Bone fractures", "Scoliosis", "Electrical shock", "Burn"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bullying is best defined as:",
+      "options": [
+        "Playful teasing",
+        "Repeated intentional aggressive behavior with power imbalance",
+        "Repeated unintentional behavior with power imbalance",
+        "Physical fight among equals"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "title": "Fertilization",
+  "questions": [
+    {
+      "question": "At what stage is the ovum released from the ovary?",
+      "options": [
+        "Primary oocyte",
+        "Secondary oocyte (after meiosis I)",
+        "Mature ovum (after meiosis II)",
+        "Zygote"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the direct consequence of the conversion of proacrosin to acrosin?",
+      "options": [
+        "Capacitation of the sperm",
+        "Penetration of the zona pellucida",
+        "Formation of the male pronucleus",
+        "Dissolution of the corona radiata"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The nuclear membrane of the sperm head disappears once it is inside the ovum.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Maturation of the ovum (completion of meiosis II) occurs before the sperm enters it.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "How many cells make up the morula stage?",
+      "options": ["8", "16", "4", "2"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What determines the male sex of the fetus?",
+      "options": [
+        "Fertilization of a mature ovum (23X) by a mature sperm (23X)",
+        "Fertilization of a mature ovum (23X) by a mature sperm (23Y)",
+        "The formation of the inner cell mass",
+        "The site of implantation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary function of the trophoblast?",
+      "options": [
+        "It forms the embryo proper.",
+        "It secretes uterine milk.",
+        "It is the layer that undergoes implantation.",
+        "It pushes the zygote towards the uterus."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How is the zygote primarily transported towards the uterine cavity?",
+      "options": [
+        "By its own motility",
+        "By the movement of cilia and peristalsis of the fallopian tube",
+        "By the flow of uterine milk",
+        "By the force of ovulation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When is the implantation process typically completed?",
+      "options": [
+        "By the end of the 4th day after fertilization",
+        "By the end of the 7th day after fertilization",
+        "By the 10th or 11th day after fertilization",
+        "After 16 days of fertilization"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the source of nourishment for the ovum during the 3 days before implantation in the uterine cavity?",
+      "options": [
+        "The trophoblast",
+        "The corona radiata",
+        "Endometrial secretions (uterine milk)",
+        "The fallopian tube fluid"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The morula is a hollow ball of cells filled with fluid.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The inner cell mass and the trophoblast are two distinct cell groups formed in the blastocyst stage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the term for the endometrium during pregnancy?",
+      "options": ["Trophoblast", "Embryo", "Decidua", "Blastocyst"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which part of the developing structure becomes the embryo?",
+      "options": [
+        "Trophoblast",
+        "Decidua basalis",
+        "Inner cell mass",
+        "Yolk sac"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which layer of the decidua is located between the ovum and the uterine muscle?",
+      "options": [
+        "Decidua capsularis",
+        "Decidua parietalis",
+        "Decidua basalis",
+        "Decidua functionalis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "From which germ layer does the endoderm develop?",
+      "options": [
+        "In the floor of the amniotic cavity",
+        "In the roof of the yolk sac",
+        "Between the ectoderm and endoderm",
+        "From the trophoblast"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is one of the protective functions of the endometrium?",
+      "options": [
+        "It produces hormones to sustain pregnancy.",
+        "It forms a mucopolysaccharide barrier against trophoblast penetration.",
+        "It contracts to push the embryo into the uterus.",
+        "It differentiates into the three germ layers."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which two cavities appear in the inner cell mass after implantation?",
+      "options": [
+        "Amniotic cavity and Chorionic cavity",
+        "Amniotic cavity and Yolk sac",
+        "Yolk sac and Allantois",
+        "Placental cavity and Decidual cavity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The trophoblast gives rise to the placenta and chorion.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The mesoderm develops in the roof of the yolk sac.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which part of the sperm cell contains the genetic information and chromosomes?",
+      "options": ["Acrosome", "Middle-piece", "Nucleus", "Tail"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which part of the sperm is primarily responsible for providing the energy needed for movement?",
+      "options": ["Head", "Middle-piece", "Neck", "Tail"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary function of the enzyme secreted by the sperm's head?",
+      "options": [
+        "Providing energy",
+        "Destroying the hyaluronic acid of the egg cell",
+        "Helping the tail to swim",
+        "Forming the axial filaments"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following parts contains the centrioles?",
+      "options": ["Head", "Middle-piece", "Neck", "Tail"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The middle-piece contains spirally arranged mitochondria. What is the consequence of this feature?",
+      "options": [
+        "It contains the genetic material",
+        "It allows the sperm to enter the egg",
+        "It gives energy to the sperm, allowing it to swim",
+        "It helps the sperm to swim fast enough"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which membrane is secreted by the egg itself in mammals?",
+      "options": [
+        "Corona Radiata",
+        "Chorion",
+        "Zona Pellucida",
+        "Follicular Membrane"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The tail of the sperm contains the nucleus and the genetic material.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The acrosome is part of the sperm's head and secretes an enzyme that helps the sperm enter the egg.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "According to the definition provided, what is the final product of the process of fertilization?",
+      "options": ["Spermatozoon", "Mature Ovum", "Zygote", "Fallopian Tube"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Where does fertilization typically occur in the female reproductive system?",
+      "options": [
+        "Uterus",
+        "Ampullary portion of the Fallopian Tube",
+        "Ovary",
+        "Vagina"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of a tertiary egg membrane?",
+      "options": [
+        "Zona Pellucida",
+        "Vitelline Membrane",
+        "Corona Radiata",
+        "The shell of a hen's egg"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The jelly around frog’s egg is classified as what type of egg membrane?",
+      "options": [
+        "Primary Membrane",
+        "Secondary Membrane",
+        "Tertiary Membrane",
+        "Vitelline Membrane"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "By Day 3 after fertilization, what stage of development is present?",
+      "options": ["Zygote", "2-cell stage", "4-cell stage", "Morula"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Fertilization begins with implantation and ends with the fetus formation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The albumen (egg white) of a hen's egg is an example of a tertiary membrane.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Where does sperm capacitation typically occur?",
+      "options": ["Vagina", "Uterus", "Ovary", "Fallopian Tube"],
+      "correctIndex": 3
+    },
+    {
+      "question": "How many chromosomes does a zygote have?",
+      "options": ["23", "46", "92", "16"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the role of prostaglandins in the seminal plasma?",
+      "options": [
+        "They directly fertilize the ovum",
+        "They help the ascent of sperm by increasing motility and peristalsis",
+        "They trigger the acrosomal reaction",
+        "They form the pronucleus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What enzyme is released during the acrosomal reaction to help penetrate the layers surrounding the ovum?",
+      "options": ["Acrosin", "Proacrosin", "Hyaluronidase", "Protease"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The placental membrane consists of the epithelial walls of which two structures?",
+      "options": [
+        "Maternal artery and embryonic vein",
+        "Embryonic capillary and chorionic villus",
+        "Decidua basalis and amniotic sac",
+        "Yolk sac and umbilical cord"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "By which week is placental development completed?",
+      "options": ["6th week", "12th week", "16th week", "21st week"],
+      "correctIndex": 1
+    },
+    {
+      "question": "On which day of development do the tertiary villi appear?",
+      "options": ["13th day", "16th day", "21st day", "12th week"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the principal fetal component of the placenta?",
+      "options": ["Decidua basalis", "Chorion frondosum", "Amnion", "Yolk sac"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Where is the most common site for the placenta in the uterus?",
+      "options": [
+        "Lower segment of anterior wall",
+        "Cervix",
+        "Upper segment of posterior wall",
+        "Fallopian tube"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Placental development begins in which week?",
+      "options": ["3rd week", "6th week", "12th week", "21st day"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The placenta is derived entirely from fetal tissues.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The maternal portion of the placenta is formed by the decidua basalis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
