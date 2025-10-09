@@ -1,0 +1,280 @@
+{
+  "title": "Management",
+  "questions": [
+    {
+      "question": "What is the comprehensive definition of management?",
+      "options": [
+        "Giving orders to employees.",
+        "The process of planning, organizing, leading, and controlling resources to achieve organizational goals.",
+        "Only about making a profit.",
+        "The same as leadership."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which level of management is responsible for setting organizational policies and preparing departmental budgets?",
+      "options": [
+        "Lower-level Management",
+        "Middle-level Management",
+        "Top-level Management",
+        "Supervisory Management"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A Nursing Supervisor typically belongs to which level of management?",
+      "options": [
+        "Top-level Management",
+        "Lower-level Management",
+        "Middle-level Management",
+        "Non-Managerial Staff"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to George Terry, which of the following is NOT one of the five core functions of the management process?",
+      "options": ["Planning", "Staffing", "Marketing", "Controlling"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The function of management that involves monitoring performance and taking corrective action is:",
+      "options": ["Planning", "Organizing", "Directing", "Controlling"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which management skill is most crucial for a top-level manager to analyze complex situations and formulate strategy?",
+      "options": [
+        "Technical Skill",
+        "Human Skill",
+        "Conceptual Skill",
+        "Clinical Skill"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which management skill is considered most important at the lower level of management for performing specific tasks?",
+      "options": [
+        "Conceptual Skill",
+        "Human Skill",
+        "Technical Skill",
+        "Financial Skill"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to Henri Fayol's principles, 'Every employee should receive orders from only one superior' is the principle of:",
+      "options": [
+        "Unity of Direction",
+        "Scalar Chain",
+        "Unity of Command",
+        "Discipline"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The principle of 'Subordination of Individual Interest to General Interest' emphasizes that:",
+      "options": [
+        "Individual goals are more important.",
+        "The organization's goals should supersede personal interests.",
+        "Employees should not have personal interests.",
+        "Only top management's interests matter."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a common cause of management failure?",
+      "options": [
+        "Excellent communication",
+        "Strong leadership skills",
+        "Poor change management and toxic culture",
+        "Fast decision-making"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Management is only about controlling people and giving orders.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Improving productivity and ensuring high-quality outcomes is one of the importances of management.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Head Nurses typically belong to the top-level management.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The function of 'Staffing' ensures the right person is matched to the right job.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Human skills, like communication and conflict management, are only important for middle managers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Paralysis by analysis' refers to making decisions too quickly without thought.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Henri Fayol's principle of 'Division of Work' suggests that specialization increases efficiency.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "'Scalar Chain' refers to the line of authority from the lowest to the top management ranks.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The principle of 'Equity' states that managers should have more rights than subordinates.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Esprit de Corps' means promoting team spirit and unity within the organization.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The management function that involves deciding in advance what to do, how to do it, and who is to do it is:",
+      "options": ["Organizing", "Directing", "Planning", "Staffing"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which level of management spends most of its time on directing and controlling daily tasks?",
+      "options": [
+        "Top-level Management",
+        "Middle-level Management",
+        "Lower-level Management",
+        "Board of Directors"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The importance of management that involves responding to challenges in a dynamic environment is:",
+      "options": [
+        "Improved Productivity",
+        "Employee Motivation",
+        "Adaptation to Change",
+        "Sustainability & Growth"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the lecture, the process of delegating authority and assigning responsibilities is part of which function?",
+      "options": ["Controlling", "Organizing", "Planning", "Directing"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key part of the 'Directing' function?",
+      "options": [
+        "Monitoring performance",
+        "Creating organizational structure",
+        "Motivating and leading staff",
+        "Recruiting the right people"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A manager's ability to get the best out of their people by communicating and listening is known as a:",
+      "options": [
+        "Technical Skill",
+        "Conceptual Skill",
+        "Human Skill",
+        "Analytical Skill"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Henri Fayol's principle of 'Unity of Direction' emphasizes:",
+      "options": [
+        "One manager for each employee",
+        "One plan for each group of activities with the same objective",
+        "Centralization of authority",
+        "Equity for all employees"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle that ensures 'the right person in the right job' is:",
+      "options": ["Scalar Chain", "Order", "Initiative", "Stability of Tenure"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which cause of management failure is described as 'over-analyzing a situation, leading to slow or no decision-making'?",
+      "options": [
+        "Toxic Culture",
+        "Poor Communication",
+        "Paralysis by Analysis",
+        "Resource Misallocation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to Fayol, the principle that encourages employees to come up with new ideas and take responsibility is:",
+      "options": [
+        "Discipline",
+        "Remuneration",
+        "Initiative",
+        "Esprit de Corps"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Management is defined solely as the process of formulating goals and policies for a health organization.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Scalar Chain' principle refers to the right of employees to report to multiple managers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Staffing' is the function that follows organizing and involves matching individuals to jobs.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Conceptual skills are least important for a top-level manager like a Director of Nursing.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Lack of accountability' is listed as a cause of management failure.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The principle of 'Centralization' means that all decision-making power must remain only with top management.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Stability of Tenure of Personnel' suggests that high employee turnover is beneficial for an organization.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Directing' includes the tasks of guiding, motivating, and leading employees.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "One of the importances of management is ensuring long-term success and competitive advantage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In the context of management levels, intermediaries between top and lower management are called first-line managers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

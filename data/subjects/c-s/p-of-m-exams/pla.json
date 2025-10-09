@@ -1,0 +1,310 @@
+{
+  "title": "Planning",
+  "questions": [
+    {
+      "question": "What is the fundamental reason planning is considered the first function of management?",
+      "options": [
+        "It is the easiest function to perform.",
+        "It is required by law for all organizations.",
+        "All other management functions depend on it.",
+        "It is the primary responsibility of lower-level managers."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the lecture, what is the primary purpose of planning?",
+      "options": [
+        "To increase the number of employees.",
+        "To give direction to the organization and eliminate duplication of efforts.",
+        "To reduce the need for communication.",
+        "To focus solely on short-term gains."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which characteristic of planning is described as 'forward-looking'?",
+      "options": ["Goal-oriented", "Futuristic", "Pervasive", "Continuous"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The statement 'We believe in respecting the individual's dignity and worth' is an example of a:",
+      "options": ["Policy", "Procedure", "Objective", "Philosophy"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the key difference between a goal and an objective?",
+      "options": [
+        "Goals are set by top management, objectives by lower management.",
+        "Objectives are more global, while goals are very specific.",
+        "Objectives are more measurable and specific than goals.",
+        "There is no significant difference; the terms are interchangeable."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A sequence of actions to be followed to achieve an objective is known as a:",
+      "options": ["Policy", "Vision", "Rule", "Procedure"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Strategic plans are primarily the responsibility of:",
+      "options": [
+        "Operational-level managers",
+        "Middle-level managers",
+        "Top-level management",
+        "External consultants"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A plan that covers a time frame of one year or less is classified as a(n):",
+      "options": [
+        "Long-term plan",
+        "Operational plan",
+        "Strategic plan",
+        "Directional plan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of plan is flexible and sets out general guidelines, making it suitable for situations of high uncertainty?",
+      "options": [
+        "Specific Plan",
+        "Standing Plan",
+        "Single-use Plan",
+        "Directional Plan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Policies, procedures, and rules are all examples of:",
+      "options": [
+        "Single-use plans",
+        "Standing plans",
+        "Strategic plans",
+        "Operational plans"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a way to overcome the limitations of planning?",
+      "options": [
+        "Top management support",
+        "Strictly avoiding employee participation to maintain control",
+        "Better forecasting based on scientific planning",
+        "Sound communication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The step in the planning process that involves 'Discovering various alternatives' comes immediately after:",
+      "options": [
+        "Evaluating alternatives",
+        "Setting up objectives",
+        "Implementing the plan",
+        "Choosing the best alternative"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Planning is only a function of top-level management.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A mission statement identifies what an organization hopes to be in the future.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Planning is a continuous process and never truly ends.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Objectives should be vague to allow for flexibility.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A rule is a plan that defines specific action or non-action.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Operational plans are designed with the entire organization in mind and cover a long time frame (5-10 years).",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A budget is an example of a single-use plan.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "'Directional plans' are rigid and leave no room for interpretation by managers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "One purpose of planning is to reduce guesswork in organizational activities.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The final step in the planning process is 'Choosing the best alternative.'",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Planning improves efficiency and concentration of resources on important services.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Resistance to change is a factor that needs to be overcome for successful planning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The quote 'We must plan for future, because people who stay in the present will remain in the past' emphasizes that planning is:",
+      "options": [
+        "A primary function of management",
+        "Futuristic",
+        "An intellectual process",
+        "Pervasive"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Planning is described as 'pervasive.' This means it:",
+      "options": [
+        "Is a one-time activity",
+        "Is required at all levels of the organization",
+        "Is only for large corporations",
+        "Is a theoretical concept"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which element of the planning hierarchy is a 'dream' that clarifies what the organization hopes to be in the future?",
+      "options": ["Mission", "Objective", "Vision", "Policy"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A plan that is 'clearly defined with no ambiguity' is best classified as a:",
+      "options": [
+        "Standing plan",
+        "Directional plan",
+        "Specific plan",
+        "Single-use plan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The step in the planning process that involves 'Periodic revision' is known as:",
+      "options": [
+        "Implementation",
+        "Follow-up",
+        "Evaluating alternatives",
+        "Determining subsidiary plans"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key characteristic of a well-written objective?",
+      "options": [
+        "It is global and vague.",
+        "It has a specific timeframe for completion.",
+        "It is written only by top management.",
+        "It avoids being measurable."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "'General guidelines to be followed when making decisions' best describes a:",
+      "options": ["Procedure", "Rule", "Policy", "Objective"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A plan designed to meet the needs of a unique, one-time situation is called a:",
+      "options": [
+        "Standing plan",
+        "Operational plan",
+        "Single-use plan",
+        "Strategic plan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The planning hierarchy from most general to most specific typically flows as:",
+      "options": [
+        "Procedures -> Policies -> Objectives",
+        "Vision -> Mission -> Objectives -> Procedures",
+        "Objectives -> Philosophy -> Rules",
+        "Policies -> Vision -> Mission"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is directly aided by planning according to the lecture?",
+      "options": [
+        "Duplication of efforts",
+        "Improved communication and coordination",
+        "Increased guesswork",
+        "Concentration on unimportant services"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A philosophy is a written statement that sets out the values and beliefs of an organization.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The main purpose of a mission statement is to provide a sequence of actions for employees to follow.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Planning facilitates decision making' is listed as a characteristic of planning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Rules and regulations are generally included as part of policies and procedures.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Operational plans are the responsibility of top-level management.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Intermediate plans cover a time frame of 1 to 3 years.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Developing clear-cut objectives is a way to overcome the limitations of planning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sound communication is irrelevant to the success of the planning process.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Choosing the best alternative' step comes before 'Evaluating alternatives' in the planning process.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Unity of planning is mentioned as a characteristic of effective planning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "subject": "استراتيجيات تعلم",
+  "lectures": [
+    {
+      "title": "Management",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/man.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Planning",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/pla.json",
+      "file": null,
+      "summary": null
+    }
+  ]
+}
