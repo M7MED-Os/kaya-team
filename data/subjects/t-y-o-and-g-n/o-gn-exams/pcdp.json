@@ -172,6 +172,106 @@
       "correctIndex": 1
     },
     {
+      "question": "What is the main role of Relaxin during pregnancy?",
+      "options": [
+        "Stimulating uterine contractions",
+        "Maintaining myometrial quiescence and ripening the cervix",
+        "Increasing basal metabolic rate",
+        "Promoting milk production"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'mask of pregnancy' characterized by butterfly pigmentation on the face is called:",
+      "options": [
+        "Linea Nigra",
+        "Chloasma Gravidarum",
+        "Palmar Erythema",
+        "Striae Gravidarum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why might a pregnant woman be more susceptible to urinary tract infections?",
+      "options": [
+        "Due to urinary stasis from dilated ureters",
+        "Because of increased urinary glucose",
+        "Due to decreased bladder tone",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The enlargement of the thyroid gland during pregnancy is primarily due to:",
+      "options": [
+        "Iodine deficiency",
+        "Increased vascularity and hyperplasia",
+        "Increased demand for thyroxine",
+        "Pressure from the gravid uterus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What causes the sensation of shortness of breath (dyspnea) in the last trimester?",
+      "options": [
+        "Decreased oxygen consumption",
+        "Elevation of the diaphragm by the gravid uterus",
+        "Decreased tidal volume",
+        "Lowered maternal blood CO2 tension"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The hormone Human Placental Lactogen (HPL) primarily affects:",
+      "options": [
+        "Uterine development",
+        "Maternal metabolism of glucose to favor fetal growth",
+        "Suppression of FSH and LH",
+        "Initiation of labor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Parathyroid hormone levels increase during pregnancy primarily to:",
+      "options": [
+        "Regulate blood pressure",
+        "Meet the increased demand for calcium",
+        "Antagonize insulin",
+        "Stimulate uterine contractions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Carpal tunnel syndrome during pregnancy can be caused by:",
+      "options": [
+        "Fluid retention compressing nerves",
+        "Increased levels of estrogen",
+        "Vitamin B12 deficiency",
+        "Lordosis of the spine"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is a key change in adrenal gland function during pregnancy?",
+      "options": [
+        "Decrease in gland size",
+        "Marked increase in cortisol secretion",
+        "Decrease in aldosterone secretion",
+        "No significant changes occur"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The white blood cell count (leukocyte count) during pregnancy and labor:",
+      "options": [
+        "Decreases significantly",
+        "Remains unchanged",
+        "Increases",
+        "Becomes undetectable"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "The term 'destroflexed' and 'destrorotated' for the pregnant uterus refers to its common deviation and rotation towards which side?",
       "options": ["Left", "Right", "Anterior", "Posterior"],
       "correctIndex": 1
@@ -202,7 +302,17 @@
       "correctIndex": 1
     },
     {
-      "question": "Which insulin antagonists cause decreased tissue sensitivity during pregnancy?",
+      "question": "The conversion of amino acids to urea is inhibited during pregnancy. This is related to changes in which type of metabolism?",
+      "options": [
+        "Fat metabolism",
+        "Carbohydrate metabolism",
+        "Protein metabolism",
+        "Mineral metabolism"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which insulin antagonists are mentioned as causing decreased tissue sensitivity during pregnancy?",
       "options": [
         "hCG and Relaxin",
         "hPL, Estrogen, Progesterone, and Cortisol",
@@ -210,6 +320,11 @@
         "Oxytocin and Prostaglandins"
       ],
       "correctIndex": 1
+    },
+    {
+      "question": "The broadening of the thoracic circumference during pregnancy is facilitated by the relaxation of muscles and cartilage under the influence of which hormone?",
+      "options": ["Progesterone", "Estrogen", "Relaxin", "Cortisol"],
+      "correctIndex": 2
     },
     {
       "question": "The supine hypotension syndrome in late pregnancy is primarily due to:",
@@ -232,14 +347,249 @@
       "correctIndex": 2
     },
     {
+      "question": "The increased levels of which adrenal hormone help overcome the salt-wasting effects of progesterone?",
+      "options": ["Cortisol", "Aldosterone", "Epinephrine", "Norepinephrine"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Palmar erythema and vascular spiders during pregnancy are attributed to:",
+      "options": [
+        "Increased progesterone levels",
+        "Increased estrogen levels",
+        "Vitamin deficiencies",
+        "Liver impairment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which part of the pituitary gland shows a gradual increase in oxytocin production as the fetus matures?",
+      "options": [
+        "Anterior lobe",
+        "Posterior lobe",
+        "Intermediate lobe",
+        "Infundibulum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The alteration in immune function during pregnancy primarily allows for:",
+      "options": [
+        "Increased resistance to all infections",
+        "Acceptance and growth of the fetal foreign tissue",
+        "Decreased risk of autoimmune disorders",
+        "Enhanced vaccine efficacy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary source of progesterone production after the first trimester (around 10 weeks)?",
+      "options": [
+        "Corpus Luteum",
+        "Maternal Ovaries",
+        "Placenta",
+        "Fetal Liver"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The characteristic change in the shape of the uterus from an inverted pear to a globular form occurs around which week?",
+      "options": ["4th week", "8th week", "12th week", "16th week"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary cause of the physiological edema often seen in the ankles during pregnancy?",
+      "options": [
+        "Decreased venous return due to vena cava compression",
+        "Preeclampsia",
+        "Renal failure",
+        "Excessive salt intake"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The term 'striae albicantes' refers to:",
+      "options": [
+        "The pink lines of striae gravidarum during pregnancy",
+        "The pale, silvery-white appearance of striae after delivery",
+        "The line of pigmentation on the abdomen",
+        "Vascular changes on the skin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The increase in serum alkaline phosphatase during pregnancy is primarily due to:",
+      "options": [
+        "Liver dysfunction",
+        "Increased bone turnover",
+        "Increased placental alkaline phosphatase isoenzymes",
+        "Gallbladder stasis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The resting position of the diaphragm is shifted upwards by approximately how much during pregnancy?",
+      "options": ["1-2 cm", "2-3 cm", "4-5 cm", "6-7 cm"],
+      "correctIndex": 2
+    },
+    {
       "question": "Which hormone is responsible for the softening and relaxation of the pelvic joints during pregnancy?",
       "options": ["Estrogen", "Progesterone", "Relaxin", "Cortisol"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The 'liability to develop varicose veins' during pregnancy is due to all EXCEPT:",
+      "options": [
+        "Pressure of the gravid uterus on pelvic veins",
+        "Relaxation of vessel wall smooth muscle by progesterone",
+        "Increased venous return",
+        "Genetic predisposition (implied by 'liability')"
+      ],
       "correctIndex": 2
     },
     {
       "question": "The initial creamy, white-to-yellowish pre-milk fluid that can be expressed from the nipples as early as 16 weeks is called:",
       "options": ["Precolostrum", "Colostrum", "Mature milk", "Lactose"],
       "correctIndex": 1
+    },
+    {
+      "question": "What is the primary stimulus for the marked increase in cortisol secretion during pregnancy?",
+      "options": [
+        "Increased progesterone levels",
+        "Increased estrogen levels",
+        "Fetal demand",
+        "Maternal stress"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The subcostal angle increases from 69° to what approximate value by 37 weeks of pregnancy?",
+      "options": ["80°", "90°", "103°", "110°"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT a stated reason for constipation during pregnancy?",
+      "options": [
+        "Slower gastrointestinal transit time",
+        "Relaxation of smooth muscle by progesterone",
+        "Increased water reabsorption in the colon",
+        "Decreased gastric acidity"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The pain of appendicitis during pregnancy may be felt higher than expected because:",
+      "options": [
+        "The appendix becomes inflamed more easily",
+        "The growing uterus displaces the appendix upward",
+        "Pain perception is altered by hormones",
+        "The omentum cannot wall off the infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The development of Montgomery's tubercles is related to the enlargement of which structures?",
+      "options": [
+        "Mammary alveoli",
+        "Lactiferous sinuses",
+        "Sebaceous glands around the areola",
+        "Lymph nodes in the axilla"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In which position is the cardiac output lowest for a pregnant woman in late pregnancy?",
+      "options": [
+        "Right lateral position",
+        "Left lateral position",
+        "Knee-chest position",
+        "Supine position"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The term 'pregnancy plea' refers to:",
+      "options": [
+        "Morning sickness",
+        "Longing for or aversion to certain foods and odors",
+        "Excessive salivation",
+        "Heartburn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The hypertrophy and hyperplasia of the vaginal epithelium during pregnancy are primarily due to the effects of:",
+      "options": ["Estrogen", "Progesterone", "hCG", "Relaxin"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The leukocyte count during labor can normally reach as high as:",
+      "options": [
+        "5,000-12,000/mL",
+        "15,000-20,000/mL",
+        "25,000-30,000/mL",
+        "35,000-40,000/mL"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary role of prostaglandins during pregnancy as mentioned in the document?",
+      "options": [
+        "Maintaining pregnancy",
+        "Starting labor",
+        "Preparing the breasts for lactation",
+        "Suppressing the maternal immune system"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'fiery-red branching spots' on the skin, particularly on the thighs, are called:",
+      "options": ["Palmar Erythema", "Chloasma", "Vascular Spiders", "Striae"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The decrease in peripheral resistance that contributes to a potential drop in blood pressure in the second trimester is caused by:",
+      "options": [
+        "Estrogen and Progesterone",
+        "hCG and hPL",
+        "Cortisol and Aldosterone",
+        "Relaxin and Oxytocin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The renal plasma flow rate increases during pregnancy by how much?",
+      "options": ["10-15%", "25-50%", "60-75%", "80-100%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The pH of the vaginal environment during pregnancy becomes:",
+      "options": [
+        "Highly alkaline",
+        "Neutral",
+        "Acidic (3.5-6)",
+        "The same as non-pregnant state"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The uterine blood flow at full term increases to approximately:",
+      "options": ["50 ml/min", "150 ml/min", "300 ml/min", "500 ml/min"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The hormone responsible for the feeling of increased body heat and sweating during pregnancy is:",
+      "options": ["Estrogen", "Progesterone", "hCG", "Thyroxine"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The development of the ductal system of the breasts in preparation for lactation is primarily stimulated by:",
+      "options": ["Progesterone", "Estrogen", "hPL", "Prolactin"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The weight of the uterus increases from about 50 gm to what approximate weight at term?",
+      "options": ["500 gm", "750 gm", "1000 gm", "1200 gm"],
+      "correctIndex": 2
     },
     {
       "question": "The vagina becomes alkaline in pH during pregnancy.",
@@ -328,6 +678,61 @@
     },
     {
       "question": "Oxygen consumption decreases during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The anterior lobe of the pituitary gland increases significantly in size during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Insulin production decreases during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Immune function is enhanced during pregnancy to protect against all infections.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The fall in blood pressure during the second trimester is due to decreased peripheral resistance.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The ureters become less dilated during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Palmar erythema is redness and itching on the feet due to increased estrogen.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The basal metabolic rate (BMR) increases by up to 20% in the last trimester.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Prostaglandins play an active role in starting labor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Relaxin is secreted by the corpus luteum and later by the placenta and myometrium.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The pH of the oral cavity increases during pregnancy, protecting against tooth decay.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The development of diastasis recti is a separation of the oblique muscles.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
