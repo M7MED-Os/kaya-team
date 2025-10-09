@@ -1,0 +1,760 @@
+{
+  "title": "Diagnosis of Pregnancy",
+  "questions": [
+    {
+      "question": "What is the most common symptom indicating pregnancy?",
+      "options": [
+        "Morning sickness",
+        "Frequency of micturition",
+        "Amenorrhea",
+        "Breast tenderness"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Morning sickness typically begins at how many weeks after the last menstrual period?",
+      "options": ["2 weeks", "4 weeks", "6 weeks", "8 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a possible cause of morning sickness mentioned in the text?",
+      "options": [
+        "Allergy to estrogen",
+        "Allergy to HCG",
+        "Low progesterone",
+        "High blood pressure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Frequency of micturition in the first trimester is due to:",
+      "options": [
+        "Increased urine production",
+        "Pressure on the bladder",
+        "Bladder infection",
+        "Fetal movement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which breast change is NOT mentioned as a sign of pregnancy?",
+      "options": [
+        "Increase in size",
+        "Decreased pigmentation",
+        "Appearance of Montgomery tubercles",
+        "Expression of colostrum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Goodell's sign refers to:",
+      "options": [
+        "Softening of the cervix",
+        "Bluish discoloration of the vagina",
+        "Uterine contractions",
+        "Breast enlargement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chadwick's sign is characterized by:",
+      "options": [
+        "Violet, moist vagina",
+        "Soft cervix",
+        "Intermittent uterine contractions",
+        "Expression of colostrum"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hegar's sign can be elicited between which weeks?",
+      "options": ["4-6 weeks", "6-10 weeks", "10-14 weeks", "14-18 weeks"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Palmer's sign involves:",
+      "options": [
+        "Uterine contractions felt during bimanual examination",
+        "Softening of the lower uterine segment",
+        "Bluish discoloration of the cervix",
+        "Fetal movement felt by the examiner"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Urine pregnancy tests typically become positive how many days after fertilization?",
+      "options": ["7 days", "10 days", "14 days", "21 days"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Serum pregnancy tests can be positive as early as:",
+      "options": [
+        "3-5 days after fertilization",
+        "7-10 days after fertilization",
+        "14 days after fertilization",
+        "21 days after fertilization"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Via trans abdominal ultrasound, the gestational sac can be visualized at:",
+      "options": ["4 weeks", "6 weeks", "8 weeks", "10 weeks"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Via trans vaginal ultrasound, the gestational sac and fetal heart sound can be detected how compared to trans abdominal?",
+      "options": [
+        "One week later",
+        "At the same time",
+        "One week earlier",
+        "Two weeks earlier"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Quickening in a primigravida typically occurs at:",
+      "options": ["14-16 weeks", "16-18 weeks", "18-20 weeks", "20-22 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "In a multipara, quickening typically occurs at:",
+      "options": ["14-16 weeks", "16-18 weeks", "18-20 weeks", "20-22 weeks"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a skin sign of pregnancy?",
+      "options": [
+        "Hegar's sign",
+        "Chadwick's sign",
+        "Linea nigra",
+        "Palmer's sign"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Braxton Hick's contractions are described as:",
+      "options": [
+        "Painful and regular",
+        "Painful and irregular",
+        "Painless and regular",
+        "Painless and irregular"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Internal ballottement can be elicited at how many weeks?",
+      "options": ["12 weeks", "16 weeks", "20 weeks", "24 weeks"],
+      "correctIndex": 1
+    },
+    {
+      "question": "External ballottement can be elicited at how many weeks?",
+      "options": ["16 weeks", "18 weeks", "20 weeks", "22 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fetal parts and movements can be palpated by the obstetrician at:",
+      "options": ["16 weeks", "18 weeks", "20 weeks", "22 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The umbilical soufflé is a murmur with the same rate as:",
+      "options": [
+        "Maternal heart rate",
+        "Uterine soufflé",
+        "Fetal heart sounds",
+        "Braxton Hick's contractions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The uterine soufflé is caused by:",
+      "options": [
+        "Blood rush in the umbilical arteries",
+        "Blood rush in the uterine arteries",
+        "Fetal heart sounds",
+        "Fetal movement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fetal heart sounds can be auscultated using a Pinard's stethoscope at:",
+      "options": ["10-12 weeks", "16-18 weeks", "20-22 weeks", "24 weeks"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Why has X-ray largely been replaced by ultrasonography in pregnancy diagnosis?",
+      "options": [
+        "It is more expensive",
+        "It is less accurate",
+        "It has potential hazards",
+        "It cannot detect the fetus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is NOT mentioned as a hazard of X-ray during pregnancy?",
+      "options": [
+        "Teratogenic effects",
+        "Chromosomal changes in fetal gonads",
+        "Immediate maternal hemorrhage",
+        "Subsequent leukemia in childhood"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The fetal skeleton can be detected by X-ray starting from:",
+      "options": ["10 weeks", "12 weeks", "14 weeks", "16 weeks"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is a probable sign of pregnancy?",
+      "options": [
+        "Palpation of fetal parts",
+        "Positive hormonal tests",
+        "Auscultation of fetal heart sounds",
+        "Detection of fetal skeleton by X-ray"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a sure sign of pregnancy?",
+      "options": [
+        "Abdominal enlargement",
+        "Positive hormonal test",
+        "Palpation of fetal movements",
+        "Morning sickness"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Amenorrhea in pregnancy is primarily due to:",
+      "options": [
+        "Increased HCG",
+        "Increased estrogen and progesterone",
+        "Decreased FSH",
+        "Pressure on the pituitary gland"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Slight bleeding at the expected time of menstruation in early pregnancy may be due to:",
+      "options": [
+        "Implantation bleeding",
+        "Separation of parts of the decidua vera",
+        "Ectopic pregnancy",
+        "Placental abruption"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Frequency of micturition reappears near the end of pregnancy due to:",
+      "options": [
+        "Increased fluid intake",
+        "Fetal head engagement",
+        "Urinary tract infection",
+        "Bladder muscle weakness"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which breast sign is diagnostic only in a primigravida?",
+      "options": [
+        "Increase in size",
+        "Increase in pigmentation",
+        "All listed breast signs",
+        "Expression of colostrum"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Montgomery tubercles are:",
+      "options": [
+        "Stretch marks on the abdomen",
+        "Dilated sebaceous glands in the areola",
+        "Pigmented lines on the abdomen",
+        "Areas of breast tenderness"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During pregnancy, the uterus becomes:",
+      "options": [
+        "Smaller and firmer",
+        "Enlarged, globular, and soft",
+        "Irregular and hard",
+        "Elongated and firm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lower part of the uterus softens in:",
+      "options": [
+        "Hegar's sign",
+        "Palmer's sign",
+        "Goodell's sign",
+        "Chadwick's sign"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The cervix in pregnancy is described as:",
+      "options": [
+        "Firm and white",
+        "Hard and red",
+        "Soft, hypertrophied, and violet",
+        "Long and closed"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The vagina in pregnancy is described as all EXCEPT:",
+      "options": ["Violet", "Dry", "Warm", "Increased acidity"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The secondary areola is a:",
+      "options": [
+        "Type of Montgomery tubercle",
+        "A darker area around the primary areola",
+        "A sign of colostrum production",
+        "A type of stretch mark"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the second trimester, which symptom typically decreases?",
+      "options": [
+        "Abdominal enlargement",
+        "Quickening",
+        "Morning sickness",
+        "Breast enlargement"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Striae gravidarum are:",
+      "options": [
+        "Fetal movements",
+        "Skin pigmentation",
+        "Stretch marks",
+        "Uterine contractions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Cloasma is a:",
+      "options": [
+        "Fetal heart sound",
+        "Skin discoloration",
+        "Type of uterine soufflé",
+        "Cervical sign"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Braxton Hick's contractions are felt by:",
+      "options": [
+        "Fetal monitoring",
+        "Abdominal examination",
+        "Vaginal examination",
+        "Urine test"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Internal ballottement is performed through the:",
+      "options": ["Abdominal wall", "Anterior fornix", "Cervix", "Rectum"],
+      "correctIndex": 1
+    },
+    {
+      "question": "External ballottement involves:",
+      "options": [
+        "One hand on the abdomen and one receiving the impulse",
+        "Two hands on the abdomen",
+        "A speculum examination",
+        "Use of a stethoscope"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The umbilical soufflé is detected when:",
+      "options": [
+        "The uterus contracts",
+        "A loop of cord is below the stethoscope",
+        "The mother has high blood pressure",
+        "The fetus is moving"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fetal heart sounds can be detected earliest by:",
+      "options": [
+        "Pinard's stethoscope",
+        "Sonicaid",
+        "Abdominal palpation",
+        "Maternal perception"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sonicaid can detect FHS at:",
+      "options": ["6-8 weeks", "8-10 weeks", "10-12 weeks", "12-14 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A probable sign of pregnancy is:",
+      "options": [
+        "Fetal heart sounds",
+        "Fetal movements felt by doctor",
+        "Ultrasonography visualization",
+        "Uterine changes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A sure sign of pregnancy is:",
+      "options": [
+        "Amenorrhea",
+        "Morning sickness",
+        "X-ray of fetal skeleton",
+        "Positive pregnancy test"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which investigation is considered diagnostic in the third trimester?",
+      "options": [
+        "Pregnancy test",
+        "Presence of striae",
+        "Ultrasonography",
+        "Goodell's sign"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Amenorrhea during lactation:",
+      "options": [
+        "Cannot occur",
+        "Makes pregnancy impossible",
+        "Can still be associated with pregnancy",
+        "Is a sure sign of pregnancy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The primary cause of amenorrhea in pregnancy is hormonal changes from the:",
+      "options": ["Placenta", "Pituitary", "Corpus luteum", "Fetus"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Hegar's sign is possible due to:",
+      "options": [
+        "Emptiness of the lower uterus",
+        "Fullness of the lower uterus",
+        "Cervical softening",
+        "Vaginal discoloration"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which sign is related to the cervix?",
+      "options": ["Hegar's", "Chadwick's", "Goodell's", "Palmer's"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which sign is related to the vagina?",
+      "options": ["Hegar's", "Chadwick's", "Goodell's", "Palmer's"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Urine tests detect:",
+      "options": ["Estrogen", "Progesterone", "HCG", "FSH"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The gestational age when FHS can be heard via TAS is:",
+      "options": ["6 weeks", "7 weeks", "8 weeks", "9 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "TVS is advantageous because it detects signs:",
+      "options": [
+        "Later than TAS",
+        "At the same time as TAS",
+        "Earlier than TAS",
+        "Less accurately than TAS"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Abdominal enlargement becomes noticeable in the:",
+      "options": [
+        "First trimester",
+        "Second trimester",
+        "Third trimester",
+        "Immediately"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Quickening is:",
+      "options": [
+        "A fetal heart sound",
+        "The mother's first sensation of fetal movement",
+        "A type of uterine contraction",
+        "A skin change"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Linea nigra is a:",
+      "options": [
+        "Fetal structure",
+        "Uterine ligament",
+        "Dark line on the abdomen",
+        "Type of fetal movement"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Braxton Hick's contractions are characterized as:",
+      "options": [
+        "Painful and regular",
+        "Painless and intermittent",
+        "Audible with a stethoscope",
+        "A sure sign of pregnancy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ballottement is a technique to detect:",
+      "options": [
+        "Fetal heart sounds",
+        "Fetal parts",
+        "Uterine size",
+        "Cervical softening"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The soufflé that is synchronous with the maternal pulse is the:",
+      "options": [
+        "Umbilical soufflé",
+        "Uterine soufflé",
+        "Fetal soufflé",
+        "Cardiac soufflé"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A Pinard's stethoscope is used at 24 weeks to detect:",
+      "options": [
+        "Fetal movements",
+        "Uterine contractions",
+        "Fetal heart sounds",
+        "Umbilical soufflé"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "X-ray is avoided in early pregnancy due to risks of:",
+      "options": [
+        "Maternal diabetes",
+        "Fetal teratogenicity",
+        "Preterm labor",
+        "Placenta previa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the third trimester, which sign is NOT mentioned as more evident?",
+      "options": [
+        "Breast signs",
+        "Skin signs",
+        "Morning sickness",
+        "Uterine size"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A positive pregnancy test (HCG) is classified as a:",
+      "options": [
+        "Sure sign",
+        "Probable sign",
+        "Positive sign",
+        "Diagnostic sign"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Palpation of fetal parts is a:",
+      "options": [
+        "Sure sign",
+        "Probable sign",
+        "Presumptive sign",
+        "Immunological sign"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ultrasonography detection of fetal heart movements is a:",
+      "options": [
+        "Sure sign",
+        "Probable sign",
+        "Presumptive sign",
+        "Possible sign"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Amenorrhea is the most common symptom of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pregnancy cannot occur during lactational amenorrhea.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Morning sickness always involves vomiting.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Frequency of micturition disappears completely after the first trimester and does not return.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Breast signs are diagnostic only in primigravida.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Montgomery tubercles are dilated sweat glands.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hegar's sign is related to the softening of the lower uterine segment.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chadwick's sign refers to the softening of the cervix.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Urine pregnancy tests can be positive 7 days after fertilization.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Trans vaginal ultrasound can detect the gestational sac later than trans abdominal ultrasound.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Quickening in a multipara occurs later than in a primigravida.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Linea nigra is a skin sign of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Braxton Hick's contractions are painful.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Internal ballottement can be elicited at 20 weeks.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "External ballottement can be elicited at 16 weeks.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The umbilical soufflé has the same rate as the fetal heart sound.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The uterine soufflé is synchronous with the maternal pulse.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fetal heart sounds can be heard with a Pinard's stethoscope at 20 weeks.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "X-ray is the preferred method for fetal skeleton detection due to its safety.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Teratogenic effects are a hazard of X-ray, especially after 20 weeks.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "All signs of pregnancy are most evident in the first trimester.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Abdominal enlargement is a probable sign of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Palpation of fetal movements by the mother is a sure sign of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Auscultation of fetal heart sounds is a sure sign of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A positive hormonal test for HCG is a sure sign of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ultrasonography is a sure sign of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Amenorrhea in pregnancy is solely due to increased HCG.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Slight bleeding in early pregnancy always indicates miscarriage.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Colostrum can be expressed from the breasts during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The secondary areola appears before the primary areola.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

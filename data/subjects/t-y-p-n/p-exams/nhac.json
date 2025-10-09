@@ -1,0 +1,330 @@
+{
+  "title": "Neonatal Hypothermia and Constipation",
+  "questions": [
+    {
+      "question": "Neonatal hypothermia is defined as a core body temperature below 36.5°C.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Premature infants are less likely to develop hypothermia because they have more brown fat.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Skin-to-skin contact is one of the most effective methods to prevent hypothermia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Severe hypothermia is classified when temperature is between 32°C and 35.9°C.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypoglycemia can occur in neonates with hypothermia due to increased metabolic demands.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Functional constipation usually results from an underlying anatomical or metabolic disorder.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Organic constipation can be caused by Hirschsprung disease or hypothyroidism.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A low-fiber diet and inadequate fluid intake can lead to functional constipation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The first line of management for constipation is usually surgical correction.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Behavioral modification is an important part of constipation management in children.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following defines neonatal hypothermia?",
+      "options": [
+        "Temp < 37°C",
+        "Temp < 36.5°C",
+        "Temp < 36°C",
+        "Temp < 35.5°C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a mild hypothermia range?",
+      "options": ["36.0–36.4°C", "32.0–35.9°C", "<32°C", ">37°C"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A newborn with temperature 31°C has:",
+      "options": [
+        "Normal temperature",
+        "Mild hypothermia",
+        "Moderate hypothermia",
+        "Severe hypothermia"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is NOT a risk factor for neonatal hypothermia?",
+      "options": ["Prematurity", "Sepsis", "Cold delivery room", "Overheating"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Newborns are more susceptible to hypothermia because they have:",
+      "options": [
+        "Thick skin",
+        "High subcutaneous fat",
+        "Large surface area-to-weight ratio",
+        "Mature thermoregulation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A major sign of moderate hypothermia is:",
+      "options": [
+        "Fever",
+        "Cold skin and poor feeding",
+        "Cyanosis only",
+        "Jaundice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In hypothermic neonates, glucose levels should be:",
+      "options": [
+        "Ignored",
+        "Monitored frequently",
+        "Increased artificially",
+        "Measured only once"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the most common type of constipation in children?",
+      "options": ["Organic", "Functional", "Neurological", "Infectious"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a functional cause of constipation?",
+      "options": [
+        "Low fiber diet",
+        "Hirschsprung disease",
+        "Hypothyroidism",
+        "Spinal cord lesion"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of these is an organic cause of constipation?",
+      "options": [
+        "Toilet training stress",
+        "Cystic fibrosis",
+        "Low water intake",
+        "Poor eating habits"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following best explains why neonates are more prone to hypothermia?",
+      "options": [
+        "Their skin contains abundant sweat glands",
+        "They have a large surface area compared to body weight",
+        "They produce excess brown fat heat",
+        "They maintain stable metabolic rate"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn’s temperature is 35.5°C with mild lethargy. This indicates:",
+      "options": [
+        "Normal temperature",
+        "Mild hypothermia",
+        "Moderate hypothermia",
+        "Severe hypothermia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In hypothermic neonates, hypoglycemia occurs primarily because:",
+      "options": [
+        "Increased glucose utilization",
+        "Insulin deficiency",
+        "Low feeding frequency only",
+        "Liver glycogen overload"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A nurse caring for a preterm baby notes apnea, cold skin, and poor feeding. The priority action is:",
+      "options": [
+        "Start antibiotics immediately",
+        "Begin gradual rewarming",
+        "Offer feeding",
+        "Give oxygen only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT recommended in rewarming a hypothermic neonate?",
+      "options": [
+        "Skin-to-skin contact",
+        "Radiant warmer",
+        "Hot water bottles directly on skin",
+        "Monitoring temperature closely"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Neonatal hypothermia can lead to metabolic acidosis due to:",
+      "options": [
+        "Reduced oxygen consumption",
+        "Anaerobic metabolism",
+        "Hyperventilation",
+        "Liver enzyme activation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Constipation is best defined as:",
+      "options": [
+        "Complete absence of stool for 12 hours",
+        "Painful or infrequent defecation",
+        "Liquid stool twice a week",
+        "Delayed toilet training"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an organic cause of constipation?",
+      "options": [
+        "Low fiber intake",
+        "Hirschsprung disease",
+        "Stress during school",
+        "Poor toilet training"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child avoids defecation because it causes pain. This behavior can lead to:",
+      "options": [
+        "Diarrhea",
+        "Stool withholding and functional constipation",
+        "Rectal bleeding",
+        "Organic obstruction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A distinguishing feature of functional constipation is:",
+      "options": [
+        "Detectable anatomical defect",
+        "Absence of underlying disease",
+        "Presence of infection",
+        "Blood in stool"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following drugs may cause constipation as a side effect?",
+      "options": [
+        "Iron supplements",
+        "Vitamin C",
+        "Antibiotics",
+        "Antihistamines"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chronic constipation can lead to soiling due to:",
+      "options": [
+        "Loss of appetite",
+        "Overflow of retained stool",
+        "Diarrheal infection",
+        "Dehydration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In managing functional constipation, the nurse should first:",
+      "options": [
+        "Educate about diet and hydration",
+        "Administer laxatives immediately",
+        "Refer to surgery",
+        "Restrict fluids"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Organic constipation differs from functional constipation mainly by:",
+      "options": [
+        "Age of onset",
+        "Presence of underlying medical cause",
+        "Duration of symptoms",
+        "Type of stool"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Neonates can maintain body heat effectively through shivering.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prematurity and low birth weight both increase the risk of hypothermia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hypothermia may mask signs of neonatal infection.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "All cases of constipation in children are considered functional.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Functional constipation can become chronic if behavior is not corrected.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Rewarming of a neonate should always be rapid to prevent shock.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Low-fiber diets and emotional stress both contribute to constipation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In neonatal hypothermia, brown fat metabolism is impaired.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Constipation caused by hypothyroidism is an example of functional constipation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Early breastfeeding helps prevent both hypothermia and constipation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

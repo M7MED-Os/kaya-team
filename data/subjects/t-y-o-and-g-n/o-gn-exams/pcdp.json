@@ -1,0 +1,340 @@
+{
+  "title": "Physiological Changes During Pregnancy",
+  "questions": [
+    {
+      "question": "What is the characteristic bluish-violet discoloration of the vagina and cervix during pregnancy known as?",
+      "options": [
+        "Goodell's sign",
+        "Chadwick's sign",
+        "Palmer's sign",
+        "Braxton Hicks sign"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which hormone is primarily responsible for maintaining the endometrium and inhibiting uterine contractions during pregnancy?",
+      "options": [
+        "Estrogen",
+        "Human Chorionic Gonadotropin (hCG)",
+        "Progesterone",
+        "Relaxin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the common term for the irregular, painless uterine contractions that occur during pregnancy?",
+      "options": [
+        "Labor contractions",
+        "Palmer's sign",
+        "Braxton Hicks contractions",
+        "Preterm contractions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Morning sickness typically appears and disappears at which weeks of pregnancy?",
+      "options": ["2-4 weeks", "6-12 weeks", "14-20 weeks", "24-30 weeks"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the name of the pigmented line that can appear between the umbilicus and symphysis pubis during pregnancy?",
+      "options": [
+        "Chloasma",
+        "Striae Gravidarum",
+        "Linea Nigra",
+        "Palmer's sign"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why does urinary frequency often increase during pregnancy?",
+      "options": [
+        "Increased kidney size",
+        "Pressure from the uterus on the bladder",
+        "Increased glomerular filtration rate (GFR)",
+        "All of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the approximate total weight gain recommended during a normal pregnancy?",
+      "options": ["5-7 kg", "8-10 kg", "12-13 kg", "15-17 kg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which part of the breast becomes darker and more pigmented during pregnancy?",
+      "options": [
+        "Montgomery's tubercles",
+        "Lactiferous ducts",
+        "Areola and nipples",
+        "Mammary alveoli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Heartburn during pregnancy is primarily caused by:",
+      "options": [
+        "Increased stomach acid",
+        "Progesterone relaxing the cardiac sphincter",
+        "Slower intestinal motility",
+        "Vitamin C deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary function of the mucous plug in the cervix during pregnancy?",
+      "options": [
+        "To aid in dilation during labor",
+        "To provide a protective barrier between the vagina and uterus",
+        "To increase vascularity",
+        "To soften the cervix"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The softening of the cervix during pregnancy, which may be observed around the sixth week, is known as:",
+      "options": [
+        "Chadwick's sign",
+        "Goodell's sign",
+        "Hegar's sign",
+        "Braxton Hicks sign"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Until approximately which week does the corpus luteum remain active in maintaining pregnancy?",
+      "options": ["4-6 weeks", "8-10 weeks", "12-14 weeks", "16-18 weeks"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which hormone, secreted by the trophoblast, is the basis for most pregnancy tests?",
+      "options": [
+        "Human Placental Lactogen (HPL)",
+        "Progesterone",
+        "Estrogen",
+        "Human Chorionic Gonadotropin (hCG)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the primary reason for physiological anemia during pregnancy?",
+      "options": [
+        "Decreased red blood cell production",
+        "Plasma volume increases more than red blood cell mass",
+        "Iron deficiency is universal",
+        "Increased destruction of red blood cells"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The upward displacement of the appendix during pregnancy is a result of:",
+      "options": [
+        "The growing uterus displacing the stomach and intestines",
+        "Increased intra-abdominal pressure",
+        "Relaxation of the abdominal muscles",
+        "Changes in the liver size"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the term for the separation of the rectus abdominis muscles during pregnancy?",
+      "options": [
+        "Lordosis",
+        "Diastasis Recti",
+        "Linea Nigra",
+        "Striae Gravidarum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following clotting factors shows a marked increase during pregnancy?",
+      "options": ["Platelets", "Fibrinogen", "Factor VIII", "Prothrombin"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cardiac output during pregnancy increases by approximately:",
+      "options": ["10%", "25%", "40%", "60%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The increase in tidal volume during pregnancy is approximately:",
+      "options": ["10%", "20%", "40%", "60%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Glycosuria (glucose in the urine) during pregnancy is often due to:",
+      "options": [
+        "Development of gestational diabetes",
+        "Increased glomerular filtration rate with impaired tubular reabsorption",
+        "Excessive sugar intake",
+        "Decreased insulin production"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The term 'destroflexed' and 'destrorotated' for the pregnant uterus refers to its common deviation and rotation towards which side?",
+      "options": ["Left", "Right", "Anterior", "Posterior"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lower uterine segment is formed from the expansion of which anatomical part after 12 weeks of pregnancy?",
+      "options": ["The fundus", "The corpus", "The isthmus", "The external os"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary reason for the decrease in total lung capacity during pregnancy?",
+      "options": [
+        "Decreased respiratory rate",
+        "Elevation of the diaphragm",
+        "Weakening of the respiratory muscles",
+        "Decreased oxygen consumption"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Maternal hyperventilation during pregnancy leads to:",
+      "options": [
+        "Increased maternal blood CO2 tension",
+        "Decreased maternal blood CO2 tension",
+        "Decreased alveolar oxygen tension",
+        "Respiratory acidosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which insulin antagonists cause decreased tissue sensitivity during pregnancy?",
+      "options": [
+        "hCG and Relaxin",
+        "hPL, Estrogen, Progesterone, and Cortisol",
+        "FSH and LH",
+        "Oxytocin and Prostaglandins"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The supine hypotension syndrome in late pregnancy is primarily due to:",
+      "options": [
+        "Compression of the aorta",
+        "Compression of the inferior vena cava by the enlarged uterus",
+        "Increased cardiac output",
+        "Decreased blood volume"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A blood pressure reading of what value is considered abnormal during pregnancy?",
+      "options": [
+        "120/80 mmHg or above",
+        "130/85 mmHg or above",
+        "140/90 mmHg or above",
+        "110/70 mmHg or below"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which hormone is responsible for the softening and relaxation of the pelvic joints during pregnancy?",
+      "options": ["Estrogen", "Progesterone", "Relaxin", "Cortisol"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The initial creamy, white-to-yellowish pre-milk fluid that can be expressed from the nipples as early as 16 weeks is called:",
+      "options": ["Precolostrum", "Colostrum", "Mature milk", "Lactose"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The vagina becomes alkaline in pH during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chadwick's sign refers to the bluish-violet discoloration of the cervix and vagina.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The corpus luteum remains active throughout the entire pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Progesterone is the hormone that plays the greatest role in maintaining pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Colostrum can be expressed from the nipples as early as 16 weeks of gestation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Morning sickness occurs in nearly 100% of pregnant women.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Constipation during pregnancy can be caused by progesterone relaxing smooth muscle.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The liver significantly increases in size during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The total lung capacity increases during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lordosis of pregnancy helps to maintain the center of gravity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Striae Gravidarum always remain pink after delivery.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The glomerular filtration rate (GFR) decreases during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Blood volume increases by up to 45-50% during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The white blood cell count decreases during pregnancy and labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cardiac output decreases during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Supine hypotension syndrome is caused by compression of the aorta.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nasal congestion during pregnancy can be a response to increased estrogen levels.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oxygen consumption decreases during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The term 'lightening' refers to the relief of diaphragmatic pressure before labor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

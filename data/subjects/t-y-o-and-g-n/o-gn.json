@@ -21,6 +21,20 @@
       "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/mens.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Physiological Changes During Pregnancy",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/pcdp.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Diagnosis of Pregnancy",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/dop.json",
+      "file": null,
+      "summary": null
     }
   ]
 }
