@@ -62,7 +62,7 @@
       "correctIndex": 2
     },
     {
-      "question": "An example of Mental or Intellectual development provided in the source is:",
+      "question": "Which of the following is considered an Intellectual development:",
       "options": [
         "Usage of fine muscles",
         "Needs for trust and love",
@@ -131,7 +131,7 @@
       "correctIndex": 1
     },
     {
-      "question": "which development is more critica?",
+      "question": "which development is more critical?",
       "options": [
         "Later development",
         "Early development",
@@ -163,7 +163,7 @@
     {
       "question": "Extreme dependency is a characteristic of which stage of growth and development?",
       "options": [
-        "Infant (1 month up to 1 year)",
+        "School years (6 to 12 years)",
         "Newborn (Birth to 28/29 days)",
         "Adolescence (10 to 20 years)",
         "Preschool (3 to 6 years)"
@@ -182,12 +182,7 @@
     },
     {
       "question": "Increased autonomy, abstract thinking, reasoning, and the development of a strong belief system are characteristics of which part of adolescence?",
-      "options": [
-        "Early (10 to 14 years)",
-        "Preschool (3 to 6 years)",
-        "Adolescence (10 to 20 years)",
-        "School years"
-      ],
+      "options": ["Toddler", "Preschool", "Adolescence", "School years"],
       "correctIndex": 2
     },
     {
@@ -332,12 +327,7 @@
     },
     {
       "question": "At what stage is a child self-sufficient?",
-      "options": [
-        "Toddler.",
-        "Preschool.",
-        "Middle Adolescence.",
-        "School years."
-      ],
+      "options": ["Toddler.", "Preschool.", "Newborn.", "Infant."],
       "correctIndex": 1
     },
     {
@@ -386,7 +376,7 @@
       "correctIndex": 0
     },
     {
-      "question": "Rapid physical changes are characteristic of Middle Adolescence (15 to 17 years).",
+      "question": "Rapid physical changes are characteristic of Adolescence.",
       "options": ["True", "False"],
       "correctIndex": 0
     },

@@ -1,0 +1,33 @@
+{
+  "subject": "استراتيجيات تعلم",
+  "lectures": [
+    {
+      "title": "Introduction of teaching and learning",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Teaching Methods 1",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/tm.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Teaching and learning",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Teaching Methods 2",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    }
+  ]
+}

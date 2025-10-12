@@ -1,0 +1,185 @@
+{
+  "title": "Teaching Methods 1",
+  "questions": [
+    {
+      "question": "According to the text, what is the primary role of a teaching method?",
+      "options": [
+        "To make the teacher's job easier.",
+        "To act as a bridge between educational goals and student achievement.",
+        "To ensure students are always entertained.",
+        "To replace the need for a curriculum."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT listed as a benefit of using effective teaching methods?",
+      "options": [
+        "Increase Motivation",
+        "Guaranteeing high grades for all students",
+        "Develop Critical Thinking",
+        "Promote Lifelong Learning Skills"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Problem-Based Learning (PBL) falls under which category of teaching methods?",
+      "options": [
+        "Teacher-centered",
+        "Technology-enhanced",
+        "Learner-centered / Active",
+        "Assessment-driven"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key factor influencing the selection of a teaching method?",
+      "options": [
+        "The teacher's favorite method.",
+        "The educational objectives.",
+        "The number of students who failed the last exam.",
+        "The color of the classroom walls."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A major advantage of the Lecture Method is:",
+      "options": [
+        "It is highly effective for teaching practical skills.",
+        "It covers large content in less time.",
+        "It requires no preparation from the teacher.",
+        "It ensures all students participate actively."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A significant disadvantage of the Lecture Method is:",
+      "options": [
+        "It is too expensive.",
+        "It promotes passive learning.",
+        "It can only be used for small groups.",
+        "It doesn't allow for a systematic presentation of knowledge."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For effective use of the Lecture Method, it is recommended to:",
+      "options": [
+        "Keep lectures long to cover more material.",
+        "Avoid using any audiovisual aids to prevent distraction.",
+        "Involve learners with questions or brief discussions.",
+        "Never summarize, to encourage students to take their own notes."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the Discussion Method, the teacher primarily acts as a:",
+      "options": [
+        "Sole source of knowledge.",
+        "Facilitator or guide.",
+        "Silent observer.",
+        "Strict disciplinarian."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of discussion involves students arguing opposing views in a structured format?",
+      "options": [
+        "Brainstorming",
+        "Panel Discussion",
+        "Debate",
+        "Whole-class Discussion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A common disadvantage of the Discussion Method is:",
+      "options": [
+        "It is too cheap to implement.",
+        "It develops critical thinking skills too quickly.",
+        "It can be time-consuming and may be dominated by a few students.",
+        "It does not allow for any student interaction."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "To use the Discussion Method effectively, a teacher should:",
+      "options": [
+        "Choose topics that are irrelevant to challenge students.",
+        "Let the discussion flow without any guidance.",
+        "Encourage participation from all students.",
+        "Only allow the most intelligent students to speak."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which category do methods like 'simulation' and 'role-play' belong to?",
+      "options": [
+        "Teacher-centered",
+        "Collaborative",
+        "Experimental / Practice-based",
+        "Technology-enhanced"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Teaching is simply about transferring information from teacher to student.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Teaching methods are defined as the 'what' that a teacher teaches.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Learner-centered methods encourage students to be passive recipients of knowledge.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The energy level of both the teacher and students is a factor in selecting a teaching method.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The Lecture Method is ideal for teaching practical, hands-on skills.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Using audiovisual aids is a recommended strategy for making lectures more effective.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In the Discussion Method, the teacher should be the only person speaking.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Brainstorming is a type of discussion where ideas are generated freely without immediate criticism.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A key advantage of the Discussion Method is that it always allows more topics to be covered than the Lecture Method.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Blending different teaching methods (e.g., lecture + discussion) is suggested for creating engaging lessons.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The comfort of the learner is not a consideration when choosing a teaching method.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Summarizing key points is an important step in both the Lecture and Discussion methods.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
