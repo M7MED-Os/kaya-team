@@ -32,7 +32,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Infant length increases about 2.5 cm during first 6 months.",
+      "question": "Infant length increases about 2.5 cm/month during first 6 months.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
@@ -220,7 +220,7 @@
       "correctIndex": 2
     },
     {
-      "question": "Rise from standing position alone occurs at 9 months.",
+      "question": "Stand alone occurs at 9 months.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
@@ -274,7 +274,7 @@
       "correctIndex": 0
     },
     {
-      "question": "Failure to sit alone by 1 year is a red flag.",
+      "question": "Failure to sit alone by 6 months is a red flag.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
