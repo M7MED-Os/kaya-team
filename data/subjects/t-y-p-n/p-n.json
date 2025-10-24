@@ -42,6 +42,13 @@
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/sc.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "High risk neonates",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/hrn.json",
+      "file": null,
+      "summary": null
     }
   ]
 }

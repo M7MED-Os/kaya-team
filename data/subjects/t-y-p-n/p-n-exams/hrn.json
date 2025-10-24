@@ -1,0 +1,320 @@
+{
+  "title": "Premature and Newborn Characteristics Quiz",
+  "questions": [
+    {
+      "question": "Which of the following from the physical characteristics of extremities in premature babies?",
+      "options": [
+        "Thick, small muscles",
+        "Slow frequent movements of limbs",
+        "The soles and palm have maximal creases",
+        "Tiny muscles"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "In premature babies fingernails and toe nails are normally soft short and extend to the end of the fingers?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Dysmature baby is an infant suffering from extrauterine malnutrition due to placental insufficiency?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "60% of cases of low birth weight are due to intrauterine growth retardation?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following are the physical characteristics of a premature baby?",
+      "options": [
+        "Shape is very small and thin",
+        "Head small in proportion to body",
+        "Abdomen small",
+        "All of the following is true"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Very preterm baby range from:",
+      "options": ["34 to <36", "32 to 33", "<28", "28 to 31"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Gestational age is 2 weeks less than the embryologic age?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following from the neonatal factors of high risk neonate?",
+      "options": [
+        "Premature rupture of membrane",
+        "Obstructed labor",
+        "Low birth weight infants",
+        "Multiple gestation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A premature baby is more prone to hypothermia mainly because:",
+      "options": [
+        "He has thick skin and poor circulation",
+        "He has less subcutaneous fat and immature temperature control",
+        "His metabolic rate is too high",
+        "He has increased muscle activity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Premature infants can regulate their body temperature effectively.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Respiratory distress in premature infants is primarily due to:",
+      "options": [
+        "Immature alveoli and lack of surfactant",
+        "Excess surfactant",
+        "Narrow airways due to infection",
+        "Strong respiratory effort"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Premature babies are less resistant to infections than full-term babies.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Premature infants have the weakness of sucking and swallowing reflexes, and the large capacity of the stomach?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a premature baby, the kidney is unable to concentrate urine?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In a premature baby, sweating mechanisms are defect?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Premature babies have difficulty to establish respiration due to:",
+      "options": [
+        "Mature respiratory center",
+        "Good coughing reflex",
+        "Complete development of the capillaries and alveoli of the lung",
+        "Frequent episodes of apnea"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following complications in premature infants is caused by immature pulmonary surfactant production?",
+      "options": ["NEC", "HMD", "RLF", "Kernicterus"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Necrotizing enterocolitis is mainly associated with:",
+      "options": [
+        "Vitamin deficiency",
+        "Infection or artificial milk feeding",
+        "Lack of oxygen",
+        "Low blood sugar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The immature temperature control in premature infants is mainly due to:",
+      "options": [
+        "Thin skin and low fat",
+        "Brain hemorrhage",
+        "Kidney immaturity",
+        "Liver dysfunction"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT a complication of prematurity?",
+      "options": [
+        "Apnea",
+        "Hyaline membrane disease",
+        "Obesity",
+        "Hypoglycemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Hypoglycemia is common because the premature infant stores too much glycogen.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Necrotizing enterocolitis may occur due to infection and artificial feeding.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Regular prenatal care can reduce the risk of premature birth.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Jaundice usually begins on the feet and hands?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Conjugated bilirubin is water insurable and it cannot be directly excreted from the body?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Adults generally secrete more bilirubin than newborns?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following filters bilirubin from bloodstream?",
+      "options": ["Kidney", "Liver", "Bile duct", "GIT"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal values of total bilirubin in newborns range from 0.3–1.0 mg/dl.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Breast milk jaundice can occur in healthy, full term newborns?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kernicterus is the most serious complication of hyperbilirubinemia?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kernicterus is a condition where very high bilirubin levels in the blood are deposited in the brain tissue causing reversible damage to the brain?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following from the early stage of kernicterus?",
+      "options": [
+        "Hypotonia",
+        "High frequency hearing loss",
+        "Speech difficulty",
+        "Seizure"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hyperbilirubinemia can be managed by early feeding to lower bilirubin level by stimulating peristalsis?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Phototherapy causes the breakdown of bilirubin by the process of photo oxidation?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Most cases from RDS are seen in babies born before 28 weeks?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following not from the causes of RDS?",
+      "options": [
+        "Lack of surfactant",
+        "Premature",
+        "Cesarean delivery",
+        "Maternal hypertension"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "All of the following from treatment of RDS, except?",
+      "options": [
+        "Oxygen therapy",
+        "Artificial surfactant",
+        "Blood transfusion",
+        "CPAP"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The ventilator is used until the neonate's lungs are making surfactant and the neonate is strong enough to breathe without help?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In RDS, the caregiver makes suctioning frequently for neonate?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infants who are born to mothers with diabetes are often smaller than other infants?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Blue skin color is one of the symptoms of infant of diabetic mother?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following not from specific disorders encountered in infant of diabetic mother?",
+      "options": [
+        "Hypoglycemia",
+        "Congenital malformation",
+        "Hypomagnesemia",
+        "Hypercalcemia"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Early feeding as soon as possible may prevent low blood sugar in mild cases?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The neonate may need breathing support or medications to treat other effects of diabetes?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Infection in babies can be contracted during pregnancy from the mother's genital tract during labor and delivery or often after birth from contact with others?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fever in the mother can develop sepsis in a newborn?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Respiratory distress is a complication of neonatal sepsis?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sepsis in newborn leads to poor feeding?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Increased activity like irritability is one of the clinical manifestations of neonatal sepsis?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Baby weight ranges from 1000 to 1499 g, it's called:",
+      "options": ["ELBW", "VLBW", "LBW"],
+      "correctIndex": 1
+    }
+  ]
+}
