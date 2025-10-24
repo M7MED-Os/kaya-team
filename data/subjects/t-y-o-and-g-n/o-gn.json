@@ -35,6 +35,20 @@
       "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/dop.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Antenatal care",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/ac.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Physiology of normal labor",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/dop.json",
+      "file": null,
+      "summary": null
     }
   ]
 }

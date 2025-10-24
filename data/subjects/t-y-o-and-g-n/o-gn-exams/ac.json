@@ -1,0 +1,820 @@
+{
+  "title": "Antenatal Care",
+  "questions": [
+    {
+      "question": "What is the primary goal of antenatal care?",
+      "options": [
+        "To perform surgery if needed",
+        "To provide preventive healthcare for mother and baby",
+        "To focus only on the mother's mental health",
+        "To replace all other forms of medical care"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the schedule for a low-risk pregnancy, how often should visits occur from 28 to 36 weeks?",
+      "options": ["Every week", "Every month", "Every 2 weeks", "Every day"],
+      "correctIndex": 2
+    },
+    {
+      "question": "For a high-risk pregnancy, when should hospitalization typically begin?",
+      "options": [
+        "From 28 weeks",
+        "From 36 weeks",
+        "From 32 weeks",
+        "From 40 weeks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key objective of the first antenatal visit?",
+      "options": [
+        "To deliver the baby",
+        "To assess maternal and fetal health and screen for risks",
+        "To perform a cesarean section",
+        "To provide genetic modification"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What personal history detail is NOT typically collected during the first visit?",
+      "options": [
+        "Mother's name and age",
+        "Husband's income",
+        "Mother's favorite color",
+        "Number of living children"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why is it important to ask about medication use in the first trimester?",
+      "options": [
+        "To charge more for the visit",
+        "Because some medications can be teratogenic",
+        "To stop all medication immediately",
+        "Because it is not important"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does FDLMP stand for?",
+      "options": [
+        "Final Day of Last Menstrual Phase",
+        "First Day of Last Menstrual Period",
+        "First Delivery Last Month Pregnancy",
+        "Fetal Development Last Menstrual Period"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A pelvic examination includes all EXCEPT:",
+      "options": [
+        "Speculum examination",
+        "Bimanual examination",
+        "Evaluation of bony pelvis",
+        "Fetal heart surgery"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the purpose of a Pap smear during antenatal care?",
+      "options": [
+        "To determine fetal sex",
+        "To evaluate for cervical and vaginal lesions",
+        "To listen to the fetal heart",
+        "To measure blood pressure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is a routine urine test during antenatal investigations?",
+      "options": [
+        "For protein and glucose",
+        "For calcium and iron",
+        "For vitamins",
+        "For hormones"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A routine blood test does NOT typically check for:",
+      "options": [
+        "Hemoglobin",
+        "Blood group and Rh type",
+        "Blood glucose level",
+        "Hair color"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the recommended total caloric intake per day during pregnancy?",
+      "options": ["1500 kc", "2000 kc", "2400 kc", "3000 kc"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why should coffee and tea be restricted during pregnancy?",
+      "options": [
+        "They cause immediate labor",
+        "They reduce iron absorption",
+        "They increase fetal weight too much",
+        "They have no effect"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "From which week is supplementary iron therapy typically recommended for all pregnant mothers?",
+      "options": [
+        "From 10 weeks",
+        "From 20 weeks",
+        "From 30 weeks",
+        "From 40 weeks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How much sleep is a pregnant woman encouraged to get at night?",
+      "options": ["6 hours", "8 hours", "10 hours", "12 hours"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is lying on the left side recommended during rest?",
+      "options": [
+        "It is more fashionable",
+        "It increases blood supply to the fetus",
+        "It makes the baby move less",
+        "It prevents all dreams"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What type of exercises should be avoided during pregnancy?",
+      "options": [
+        "Walking",
+        "Violent exercises like diving",
+        "Homework",
+        "Stretching"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why are high-heeled shoes not recommended during pregnancy?",
+      "options": [
+        "They are not stylish",
+        "They may increase back strain and risk of falling",
+        "They are too expensive",
+        "They make the feet smaller"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is shower bathing preferred over tub bathing?",
+      "options": [
+        "It uses less water",
+        "For fear of ascending infection",
+        "It is colder",
+        "It is more social"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When is coitus particularly advised to be avoided?",
+      "options": [
+        "Only in the second trimester",
+        "Throughout the entire pregnancy",
+        "In the first and last months",
+        "It is never avoided"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of these is a listed warning sign requiring immediate contact with an obstetrician?",
+      "options": [
+        "Mild hunger",
+        "Any vaginal bleeding",
+        "Feeling happy",
+        "Slight tiredness"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a common cause of nausea and vomiting in early pregnancy?",
+      "options": [
+        "Increased estrogen levels",
+        "Increased levels of Human Chorionic Gonadotropin (HCG)",
+        "Decreased progesterone",
+        "Lack of exercise"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An intervention for morning sickness is:",
+      "options": [
+        "Eating large, fatty meals",
+        "Drinking liquids only at meals",
+        "Eating dry crackers upon waking",
+        "Avoiding fresh air"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fainting in early pregnancy can be due to:",
+      "options": [
+        "Vasoconstriction",
+        "Vasodilatation under progesterone's influence",
+        "Eating too much",
+        "Too much sleep"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What can help relieve fatigue in the first trimester?",
+      "options": [
+        "Eating junk food",
+        "Taking naps during the day",
+        "Avoiding all rest",
+        "Drinking more coffee"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Urinary frequency in pregnancy is often caused by:",
+      "options": [
+        "Drinking too much water",
+        "Pressure of the uterus on the bladder",
+        "Kidney failure",
+        "Vitamin deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is Ptyalism?",
+      "options": [
+        "Excessive salivation",
+        "Excessive urination",
+        "Excessive hunger",
+        "Excessive thirst"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Heartburn in pregnancy can result from:",
+      "options": [
+        "Increased gastrointestinal motility",
+        "Decreased progesterone levels",
+        "Esophageal reflux and displacement of the stomach",
+        "Eating too few meals"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A recommended intervention for heartburn is:",
+      "options": [
+        "Lying down immediately after eating",
+        "Eating large, spicy meals",
+        "Sitting upright for 30 minutes after a meal",
+        "Drinking less milk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common cause of backache in pregnancy?",
+      "options": [
+        "Wearing high heels",
+        "An enlarged uterus causing an exaggerated lumbosacral curve",
+        "Sleeping too much",
+        "Drinking cold water"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Shortness of breath in late pregnancy can be due to:",
+      "options": [
+        "Pressure on the diaphragm from the enlarged uterus",
+        "Too much exercise",
+        "Not eating enough",
+        "Sleeping too much"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "To help with shortness of breath, a woman is advised to:",
+      "options": [
+        "Avoid all rest",
+        "Sleep flat on her back",
+        "Sit and sleep with the head elevated",
+        "Exercise vigorously"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Constipation during pregnancy can be caused by:",
+      "options": [
+        "Increased intestinal motility",
+        "Decreased progesterone",
+        "Pressure of the uterus and iron supplements",
+        "Eating too much fiber"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An intervention for constipation is:",
+      "options": [
+        "Eating low-fiber foods",
+        "Drinking less fluid",
+        "Exercising regularly",
+        "Avoiding all fruits"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Leg cramps may result from:",
+      "options": [
+        "An altered calcium-phosphorus balance",
+        "Too much rest",
+        "Wearing supportive shoes",
+        "Drinking milk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "For leg cramps, one recommended intervention is:",
+      "options": [
+        "Pointing the toes downward",
+        "Dorsiflexing the foot of the affected leg",
+        "Avoiding all movement",
+        "Applying ice packs only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ankle edema in pregnancy is often due to:",
+      "options": [
+        "Increased venous pressure below the uterus",
+        "Drinking too much water",
+        "Lack of swelling",
+        "Too much exercise"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "To manage ankle edema, a woman should:",
+      "options": [
+        "Stand for long periods",
+        "Elevate her legs frequently",
+        "Wear tight stockings",
+        "Reduce all fluid intake"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Insomnia in the third trimester can be helped by:",
+      "options": [
+        "Drinking plenty of fluids before bed",
+        "Taking a warm bath before bedtime",
+        "Avoiding all pillows",
+        "Sleeping on the stomach"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Leucorrhea is:",
+      "options": [
+        "Excessive vaginal discharge",
+        "Excessive bleeding",
+        "Lack of discharge",
+        "Urinary incontinence"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "For leucorrhea, it is recommended to:",
+      "options": [
+        "Wear tight synthetic clothing",
+        "Avoid bathing",
+        "Wear cotton underwear",
+        "Use scented soaps"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Varicosities can be managed by:",
+      "options": [
+        "Crossing legs frequently",
+        "Wearing tight stockings",
+        "Elevating legs regularly",
+        "Standing for long periods"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What can help with breast enlargement discomfort?",
+      "options": [
+        "Wearing no bra",
+        "Wearing a good supporting bra",
+        "Avoiding all touch",
+        "Applying ice constantly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hemorrhoids in pregnancy can be caused by:",
+      "options": [
+        "Diarrhea",
+        "Constipation and uterine pressure on the rectum",
+        "Too much exercise",
+        "Drinking too much water"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For hemorrhoids, an intervention is:",
+      "options": [
+        "Straining during bowel movements",
+        "Using prescribed stool softeners",
+        "Applying irritant ointments",
+        "Sitting for long periods"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which component is part of antenatal care?",
+      "options": [
+        "Health education",
+        "Financial investment advice",
+        "Travel planning",
+        "Career counseling"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The 'booking visit' is another term for:",
+      "options": [
+        "The delivery visit",
+        "The first antenatal visit",
+        "The postpartum visit",
+        "A visit to book a holiday"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Obstetric history includes:",
+      "options": [
+        "Gravida and parity",
+        "Mother's childhood nickname",
+        "Father's occupation",
+        "Favorite food"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Abdominal examination aims to do all EXCEPT:",
+      "options": [
+        "Confirm pregnancy",
+        "Determine gestational age",
+        "Detect abnormalities like polyhydramnios",
+        "Change the fetal position surgically"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which is NOT a routine investigation?",
+      "options": [
+        "Urine analysis",
+        "Blood group and Rh",
+        "Hemoglobin",
+        "Fetal haircolor determination"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Subsequent antenatal visits focus on:",
+      "options": [
+        "Assessing fetal well-being",
+        "Planning for retirement",
+        "Choosing a baby name",
+        "Selling baby clothes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Health education during pregnancy includes advice on:",
+      "options": [
+        "Diet and rest",
+        "Stock market investing",
+        "Learning to drive",
+        "Foreign languages"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Why is fluid intake important during pregnancy?",
+      "options": [
+        "It helps form amniotic fluid",
+        "It causes dehydration",
+        "It makes the baby swim",
+        "It is not important"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What should be restricted to avoid abnormal weight gain?",
+      "options": [
+        "Fat intake",
+        "Vegetable intake",
+        "Water intake",
+        "Vitamin intake"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hard work, like lifting heavy weights, should be avoided especially in:",
+      "options": [
+        "The first trimester and last 4 weeks",
+        "Only the second trimester",
+        "Only after delivery",
+        "Throughout pregnancy without exception"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is a recommended sleeping position?",
+      "options": [
+        "Prone (on stomach)",
+        "Supine (on back)",
+        "Left side",
+        "Sitting upright all night"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Violent exercises to avoid include:",
+      "options": [
+        "Walking",
+        "Diving and water sports",
+        "Stretching",
+        "Prenatal yoga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Liquid paraffin should not be used long-term for constipation because it:",
+      "options": [
+        "Tastes bad",
+        "Interferes with absorption of fat-soluble vitamins",
+        "Causes diarrhea immediately",
+        "Is too expensive"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Flying during pregnancy is:",
+      "options": [
+        "Always forbidden",
+        "Not contraindicated but not long and near term",
+        "Recommended daily",
+        "The best mode of travel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Exposure to which of the following should be avoided due to teratogenicity?",
+      "options": ["Rubella virus", "Fresh air", "Sunlight", "Mild exercise"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Smoking during pregnancy may cause:",
+      "options": [
+        "Intrauterine growth retardation",
+        "Increased fetal growth",
+        "No effect",
+        "Improved placenta function"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is a danger sign in pregnancy?",
+      "options": [
+        "Mild, occasional headache",
+        "Blurring of vision",
+        "Slight ankle edema in the evening",
+        "Occasional fatigue"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For fainting, an intervention is:",
+      "options": [
+        "Rising quickly from sitting to standing",
+        "Avoiding all fluids",
+        "Evaluating hemoglobin and hematocrit",
+        "Staying in hot environments"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Kegel exercises are recommended for:",
+      "options": [
+        "Urinary urgency and frequency",
+        "Heartburn",
+        "Backache",
+        "Shortness of breath"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Tailor-sitting exercises may help with:",
+      "options": ["Heartburn", "Leg cramps", "Backache", "Constipation"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pelvic tilt exercises are for:",
+      "options": ["Backache", "Ptyalism", "Varicosities", "Leucorrhea"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Resting in Sims' position is recommended for:",
+      "options": ["Varicosities", "Hemorrhoids", "Leg cramps", "Heartburn"],
+      "correctIndex": 0
+    },
+    {
+      "question": "For hemorrhoids, one should:",
+      "options": [
+        "Strain during bowel movements",
+        "Maintain regular bowel habits",
+        "Avoid sitting",
+        "Use irritant laxatives"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The objective of antenatal care includes reducing:",
+      "options": [
+        "Maternal and perinatal mortality",
+        "The number of hospital visits",
+        "The cost of delivery",
+        "The baby's weight"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Laboratory studies may check for parameters like:",
+      "options": [
+        "Blood group and Rh typing",
+        "Parent's eye color",
+        "Family income level",
+        "Number of siblings"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antenatal care is a program of preventive obstetrics.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The schedule for a low-risk pregnancy includes weekly visits from the start.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For a high-risk pregnancy, visits are more frequent than for a low-risk pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The first antenatal visit is called the booking visit.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Personal history includes asking about the woman's level of education.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Family history includes asking about the history of congenital abnormalities.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "FDLMP is used to calculate the expected date of delivery.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A Pap smear is done to listen to the fetal heartbeat.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Abdominal examination can help detect multiple pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Routine urine analysis checks for protein and glucose.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The recommended total caloric intake during pregnancy is 3000 kc per day.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Iron therapy is typically started for all pregnant women from 20 weeks onwards.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pregnant women are encouraged to sleep 6 hours at night.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lying on the left side increases blood supply to the fetus.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Violent exercises like diving are encouraged during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "High-heeled shoes are recommended during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vaginal douching is encouraged during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Coitus should be avoided in the first and last months of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Long travelling is encouraged for all pregnant women.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Medications can be taken without obstetrician advice during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Exposure to irradiation should be avoided during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Smoking during pregnancy may cause premature labor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Cessation of fetal movement is a warning sign.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Morning sickness is caused by decreased HCG levels.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Eating dry crackers upon waking can help with morning sickness.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fainting in pregnancy is due to vasoconstriction.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fatigue never occurs during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Urinary frequency is caused by pressure on the bladder from the uterus.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Heartburn is caused by decreased progesterone levels.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Shortness of breath can occur due to pressure on the diaphragm.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

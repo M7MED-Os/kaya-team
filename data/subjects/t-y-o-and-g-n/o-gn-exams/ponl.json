@@ -1,0 +1,735 @@
+{
+  "title": "Physiology of Normal Labor",
+  "questions": [
+    {
+      "question": "What is the general objective of the lecture on normal labor?",
+      "options": [
+        "To perform a cesarean section",
+        "To develop a comprehensive understanding of normal labor",
+        "To focus only on postpartum care",
+        "To learn about surgical procedures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Labor is defined as the process of expelling a viable fetus, which is typically at the end of how many weeks?",
+      "options": ["20 weeks", "24 weeks", "28 weeks", "32 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the criteria for normal labor, what is the maximum duration from the onset of true labor pain?",
+      "options": ["3 hours", "12 hours", "18 hours", "24 hours"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is a prolonged labor?",
+      "options": [
+        "Labor lasting less than 3 hours",
+        "Labor lasting more than 24 hours",
+        "Labor with no pain",
+        "Labor requiring forceps"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Precipitate labor is defined as labor lasting less than:",
+      "options": ["1 hour", "2 hours", "3 hours", "4 hours"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fetal lie refers to the relationship between:",
+      "options": [
+        "Fetal head and maternal spine",
+        "Long axis of the fetus and long axis of the mother",
+        "Fetal heart rate and uterine contractions",
+        "Fetal shoulders and maternal pelvis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a type of fetal lie?",
+      "options": ["Longitudinal", "Transverse", "Oblique", "Flexed"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Fetal attitude describes the relationship of:",
+      "options": [
+        "Fetus to the placenta",
+        "Fetal parts to one another",
+        "Mother to the doctor",
+        "Uterus to the bladder"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In fetal position notation, what does the initial 'A' stand for?",
+      "options": ["Axial", "Anterior", "Abdominal", "Auscultation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "If the fetal occiput is directed to the mother's right posterior side, the position is:",
+      "options": ["LOP", "ROP", "ROA", "LOA"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fetal station 0 indicates that the presenting part is at the level of the:",
+      "options": [
+        "Cervix",
+        "Ischial spines",
+        "Symphysis pubis",
+        "Sacral promontory"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Engagement occurs when the __ enters the maternal pelvis.",
+      "options": [
+        "Largest diameter of the fetal head",
+        "Smallest diameter of the fetal head",
+        "Fetal shoulders",
+        "Placenta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which theory suggests that labor begins due to a decrease in progesterone and an increase in estrogen?",
+      "options": [
+        "Uterine Distention Theory",
+        "Progesterone Withdrawal Theory",
+        "Prostaglandin Production Theory",
+        "Oxytocin Stimulation Theory"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the Uterine Distention Theory, labor begins because:",
+      "options": [
+        "Prostaglandin levels drop",
+        "Fetal growth exceeds uterine expansion",
+        "Oxytocin is blocked",
+        "The placenta detaches"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prostaglandin Production Theory states that withdrawal of progesterone activates which enzyme?",
+      "options": ["Amylase", "Phospholipase A2", "Lipase", "Protease"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Placental Ischemic Theory proposes that labor starts due to:",
+      "options": [
+        "Increased blood flow to the placenta",
+        "Decreased blood flow to the placenta, causing ischemia",
+        "Excess oxygen in the placenta",
+        "Placental enlargement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oxytocin peaks during which stage of labor?",
+      "options": ["First stage", "Second stage", "Third stage", "Fourth stage"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT one of the 5 Ps (factors) affecting labor?",
+      "options": ["Passenger", "Passage", "Power", "Pain medication"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The 'Passenger' factor includes all EXCEPT:",
+      "options": [
+        "Fetal lie",
+        "Fetal attitude",
+        "Fetal position",
+        "Maternal age"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "'Show' as a sign of true labor involves:",
+      "options": [
+        "Expulsion of the mucus plug stained with blood",
+        "Clear amniotic fluid",
+        "Urinary incontinence",
+        "Fetal movement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "True labor pains are characterized by contractions that:",
+      "options": [
+        "Are irregular and do not increase in intensity",
+        "Increase in frequency, duration, and intensity",
+        "Are relieved by sedation",
+        "Occur only in the abdomen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a characteristic of FALSE labor pains?",
+      "options": [
+        "Progressive cervical dilatation",
+        "Regular rhythm",
+        "Relieved by sedatives",
+        "Pain in abdomen and lower back"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Lightening is defined as:",
+      "options": [
+        "Increased abdominal distention",
+        "Sensation of decreased abdominal distention after fetal head descent",
+        "Onset of strong contractions",
+        "Rupture of membranes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a premonitory sign of labor?",
+      "options": [
+        "Decreased vaginal discharge",
+        "Increased frequency of urination",
+        "Decreased pelvic pressure",
+        "Improved energy levels"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The three phases of a uterine contraction are:",
+      "options": [
+        "Contraction, relaxation, pause",
+        "Increment, acme, decrement",
+        "Dilatation, effacement, expulsion",
+        "Latent, active, transition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The phase of a contraction with maximal pressure is called:",
+      "options": ["Increment", "Acme", "Decrement", "Interval"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is NOT an importance of uterine contractions?",
+      "options": [
+        "Effacement and dilatation of cervix",
+        "Fetal engagement and rotation",
+        "Increasing maternal blood sugar",
+        "Separation and expulsion of placenta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The frequency of uterine contractions refers to the time from:",
+      "options": [
+        "Start of one contraction to the start of the next",
+        "Start of one contraction to its end",
+        "Acme of one contraction to the acme of the next",
+        "The end of one contraction to the start of the next"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The duration of a contraction is measured from:",
+      "options": [
+        "Start of increment to end of decrement",
+        "Start of acme to end of acme",
+        "End of one contraction to start of the next",
+        "The peak of one contraction to the peak of the next"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "How many stages of labor are there?",
+      "options": ["2", "3", "4", "5"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first stage of labor begins with:",
+      "options": [
+        "Full cervical dilatation",
+        "Onset of true labor pain",
+        "Delivery of the fetus",
+        "Expulsion of the placenta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first stage of labor ends with:",
+      "options": [
+        "Delivery of the baby",
+        "Full dilatation of the cervix",
+        "Expulsion of the placenta",
+        "Mother's recovery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The average duration of the first stage for a primigravida is:",
+      "options": ["3-5 hours", "6-8 hours", "10-15 hours", "16-20 hours"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The second stage of labor begins with:",
+      "options": [
+        "Onset of true labor pain",
+        "Full cervical dilatation",
+        "Delivery of the fetus",
+        "Expulsion of the placenta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The second stage of labor ends with:",
+      "options": [
+        "Full cervical dilatation",
+        "Delivery of the fetus",
+        "Expulsion of the placenta",
+        "Mother's recovery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The average duration of the second stage for a multigravida is:",
+      "options": ["15-60 minutes", "1-2 hours", "2-3 hours", "3-4 hours"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The third stage of labor involves:",
+      "options": [
+        "Cervical effacement",
+        "Expulsion of the fetus",
+        "Expulsion of the placenta and membranes",
+        "Mother's recovery"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The fourth stage of labor is the:",
+      "options": [
+        "Expulsion stage",
+        "Recovery stage (2 hours after delivery)",
+        "Placental stage",
+        "Transition phase"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the first stage, the latent phase involves cervical dilatation of:",
+      "options": ["1-3 cm", "4-7 cm", "8-10 cm", "0 cm"],
+      "correctIndex": 0
+    },
+    {
+      "question": "During the active acceleration phase of the first stage, cervical dilatation is:",
+      "options": ["1-3 cm", "4-7 cm", "8-10 cm", "Fully dilated"],
+      "correctIndex": 1
+    },
+    {
+      "question": "During the active deceleration phase, effacement is:",
+      "options": ["30%", "50%", "80%", "100%"],
+      "correctIndex": 3
+    },
+    {
+      "question": "A sign of the second stage of labor is:",
+      "options": [
+        "Decreased frequency of contractions",
+        "Involuntary bearing down",
+        "Cervix dilated to 5 cm",
+        "Mother feels sleepy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first movement in the mechanism of labor is usually:",
+      "options": [
+        "Internal rotation",
+        "Extension",
+        "Descent",
+        "External rotation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Engagement involves the passage of the __ through the pelvic inlet.",
+      "options": [
+        "Biparietal diameter",
+        "Suboccipitobregmatic diameter",
+        "Mentovertical diameter",
+        "Occipitofrontal diameter"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Internal rotation brings the fetal head in line with the:",
+      "options": [
+        "Transverse diameter of the pelvic inlet",
+        "Antero-posterior diameter of the pelvic outlet",
+        "Oblique diameter of the mid-pelvis",
+        "Long axis of the fetal spine"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Extension of the fetal head occurs when the suboccipital region hinges under the:",
+      "options": [
+        "Coccyx",
+        "Sacral promontory",
+        "Symphysis pubis",
+        "Ischial spine"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "External rotation (restitution) occurs to:",
+      "options": [
+        "Flex the fetal head",
+        "Undo the twist of the neck from internal rotation",
+        "Engage the head",
+        "Separate the placenta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a sign of placental separation?",
+      "options": [
+        "Shortening of the cord",
+        "Uterus becomes softer and larger",
+        "Gush of blood from the vagina",
+        "Decreased maternal pulse"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In Schulze's mechanism of placental separation, the placenta:",
+      "options": [
+        "Separates at the lower pole",
+        "Is delivered sideways",
+        "Separates centrally and delivers like an inverted umbrella",
+        "Causes more bleeding"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Duncan's mechanism of placental separation is associated with:",
+      "options": [
+        "Less blood loss",
+        "Separation starting at the lower pole",
+        "Fetal surface presenting first",
+        "Less retained fragments"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Viability is defined as a reasonable chance of the fetus to live outside the uterus, usually at the end of:",
+      "options": ["20 weeks", "24 weeks", "28 weeks", "32 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Premature labor occurs between which weeks of gestation?",
+      "options": ["20-28 weeks", "28-37 weeks", "37-40 weeks", "40-42 weeks"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a longitudinal lie, the long axis of the fetus is:",
+      "options": [
+        "Perpendicular to the mother's long axis",
+        "Parallel to the mother's long axis",
+        "At a 45-degree angle to the mother's long axis",
+        "Not related to the mother's axis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal fetal attitude is:",
+      "options": ["Extension", "Flexion", "Lateral bending", "Rotation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fetal station is measured in relation to the:",
+      "options": ["Sacrum", "Ischial spines", "Symphysis pubis", "Cervical os"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A station of +3 indicates the presenting part is:",
+      "options": [
+        "3 cm above the ischial spines",
+        "At the ischial spines",
+        "3 cm below the ischial spines",
+        "At the pelvic inlet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the Oxytocin Stimulation Theory, oxytocin encourages contractions by promoting:",
+      "options": [
+        "Decreased intracellular calcium",
+        "Adequate levels of intracellular calcium",
+        "Uterine relaxation",
+        "Progesterone release"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Power' factor in labor includes:",
+      "options": [
+        "Fetal size",
+        "Maternal pelvis shape",
+        "Uterine contractions",
+        "Maternal position"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "True labor pain is typically felt in the:",
+      "options": [
+        "Abdomen only",
+        "Lower back only",
+        "Abdomen and lower back",
+        "Upper thighs only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a difference between true and false labor?",
+      "options": [
+        "True labor pains are irregular",
+        "False labor pains show progressive cervical dilatation",
+        "True labor pains increase in strength",
+        "False labor pains are not relieved by sedatives"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Prodromal signs of labor include:",
+      "options": [
+        "Decreased vaginal discharge",
+        "Lightening",
+        "Increased appetite",
+        "Decreased pelvic pressure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Braxton Hicks contractions are:",
+      "options": [
+        "True labor pains",
+        "Premonitory signs of labor",
+        "Signs of placental separation",
+        "Occur only in the second stage"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The intensity of a uterine contraction refers to its:",
+      "options": ["Frequency", "Duration", "Strength", "Regularity"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The first stage of labor for a multigravida typically lasts:",
+      "options": ["10-15 hours", "6-8 hours", "3-5 hours", "1-2 hours"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The third stage of labor typically lasts:",
+      "options": ["1-2 hours", "10-20 minutes", "30-60 minutes", "2-3 hours"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the latent phase, uterine contractions are typically:",
+      "options": [
+        "Severe",
+        "Mild",
+        "Occurring every 2 minutes",
+        "Lasting 90 seconds"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During the active deceleration phase, the mother may experience:",
+      "options": [
+        "Talkativeness and excitement",
+        "Involuntary bearing down",
+        "Deep sleep",
+        "Lack of sensation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A sign that the second stage is imminent is:",
+      "options": [
+        "Decreased rectal pressure",
+        "Bulging of the perineum",
+        "Cervix dilated to 5 cm",
+        "Mother feels hungry"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The mechanism of labor step that follows internal rotation is:",
+      "options": ["Engagement", "Extension", "Descent", "External rotation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "After the fetal head is delivered, the next step in the mechanism is:",
+      "options": [
+        "Internal rotation",
+        "External rotation (restitution)",
+        "Expulsion",
+        "Engagement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Normal labor must be completed within 18 hours.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A precipitate labor lasts less than 3 hours.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fetal lie refers to the relationship between fetal parts and each other.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A transverse lie is a normal finding at term.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fetal attitude is normally one of flexion.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The fetal station is measured in centimeters above or below the ischial spines.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Engagement occurs when the smallest diameter of the fetal head enters the pelvis.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Progesterone Withdrawal Theory suggests an increase in progesterone starts labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Uterine over-distention is a theory based on mechanical factors.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Prostaglandins are known to relax the uterine muscles.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oxytocin levels peak during the first stage of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Passenger' is one of the factors affecting labor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "'Show' is a sign of false labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True labor pains are relieved by sedatives.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lightening is a premonitory sign of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Diarrhea can be a prodromal sign of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Uterine contractions have two phases: contraction and relaxation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The acme phase is when uterine pressure is at its peak.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Uterine contractions help in fetal oxygenation by allowing periods of relaxation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The first stage of labor ends with the delivery of the baby.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The second stage of labor begins with full cervical dilatation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The fourth stage of labor lasts for 1 hour after delivery.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the latent phase, cervical dilatation reaches 4-7 cm.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Involuntary bearing down is a sign of the second stage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Descent is the first movement in the mechanism of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Internal rotation is a 90-degree turn of the fetal head.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Extension of the head occurs under the sacrum.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A gush of blood is a sign of placental separation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Schulze's mechanism is associated with more blood loss.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Duncan's mechanism presents the maternal surface first.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
