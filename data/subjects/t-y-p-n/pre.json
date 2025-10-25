@@ -1,0 +1,26 @@
+{
+  "subject": "البريزنتيشن",
+  "lectures": [
+    {
+      "title": "Play",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/pre-exams/p.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Accident Prevention",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/pre-exams/ap.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Nursery school",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/pre-exams/ns.json",
+      "file": null,
+      "summary": null
+    }
+  ]
+}

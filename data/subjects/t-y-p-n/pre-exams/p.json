@@ -1,0 +1,245 @@
+{
+  "title": "Play",
+  "questions": [
+    {
+      "question": "What is the primary purpose of play in childhood?",
+      "options": [
+        "Entertainment only",
+        "Punishment",
+        "Learning and development",
+        "Avoiding school"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of play involves running, climbing, and physical movement?",
+      "options": [
+        "Quiet play",
+        "Constructive play",
+        "Physical play",
+        "Imaginative play"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What stage of play involves children playing side by side without interaction?",
+      "options": [
+        "Cooperative play",
+        "Parallel play",
+        "Associative play",
+        "Onlooker play"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of play helps children develop creativity and planning skills?",
+      "options": [
+        "Physical play",
+        "Constructive play",
+        "Games with rules",
+        "Social play"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a risk factor that can limit a child’s ability to play?",
+      "options": [
+        "Access to toys",
+        "Parental support",
+        "Chronic illness",
+        "Clean environment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What type of play involves pretending to be someone else?",
+      "options": [
+        "Constructive play",
+        "Imaginative play",
+        "Physical play",
+        "Games with rules"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the final stage of play development?",
+      "options": [
+        "Solitary play",
+        "Onlooker play",
+        "Cooperative play",
+        "Unoccupied play"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which factor is considered a psychological risk to play?",
+      "options": ["Unsafe playground", "Poverty", "Anxiety", "Lack of toys"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a complication of play that involves emotional harm?",
+      "options": ["Bruises", "Bullying", "Choking", "Overexertion"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of play helps build friendships and social skills?",
+      "options": [
+        "Solitary play",
+        "Social play",
+        "Quiet play",
+        "Unoccupied play"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What stage of play involves watching others without joining?",
+      "options": [
+        "Solitary play",
+        "Onlooker play",
+        "Parallel play",
+        "Cooperative play"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a preventive measure for injuries during play?",
+      "options": [
+        "Ignoring children",
+        "Providing supervision",
+        "Giving more toys",
+        "Encouraging competition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What type of play includes board games and sports with rules?",
+      "options": [
+        "Imaginative play",
+        "Games with rules",
+        "Constructive play",
+        "Physical play"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a benefit of play for emotional development?",
+      "options": [
+        "Increased aggression",
+        "Reduced confidence",
+        "Stress relief",
+        "Isolation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which stage of play is typical for infants under 3 months?",
+      "options": [
+        "Solitary play",
+        "Unoccupied play",
+        "Cooperative play",
+        "Associative play"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a complication of excessive physical play?",
+      "options": [
+        "Improved health",
+        "Fatigue",
+        "Better sleep",
+        "Increased focus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a cultural factor affecting play?",
+      "options": [
+        "Gender-specific expectations",
+        "Clean toys",
+        "Parental involvement",
+        "Safe environment"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What does constructive play help develop?",
+      "options": [
+        "Language skills",
+        "Planning and problem-solving",
+        "Physical strength",
+        "Social interaction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a preventive measure for infection during play?",
+      "options": [
+        "Sharing toys",
+        "Ignoring hygiene",
+        "Cleaning toys regularly",
+        "Avoiding group play"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a sign of social isolation in children?",
+      "options": [
+        "Playing in groups",
+        "Using electronic devices only",
+        "Participating in sports",
+        "Talking with peers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Play is only for entertainment.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Physical play helps develop motor skills.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Onlooker play involves active participation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cooperative play includes teamwork and shared goals.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anxiety can reduce a child’s motivation to play.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Constructive play does not help with problem-solving.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Games with rules teach children about fairness.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Cultural norms never affect play behavior.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Emotional distress during play can be caused by bullying.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Quiet play always involves group interaction.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "title": "Accident Prevention",
+  "questions": [
+    {
+      "question": "What is the definition of an accident?",
+      "options": [
+        "A planned event",
+        "A joyful experience",
+        "An unexpected event causing harm",
+        "A routine activity"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a major accident?",
+      "options": [
+        "Small bruise",
+        "Minor scratch",
+        "Severe head injury with hemorrhage",
+        "Paper cut"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common accident in toddlers?",
+      "options": ["Poisoning", "Choking", "Animal bites", "Drowning"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a psychological effect of accidents?",
+      "options": ["Fracture", "Anxiety", "Fever", "Vomiting"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a key cause of accidents in children?",
+      "options": [
+        "Overprotection",
+        "Lack of supervision",
+        "Too many toys",
+        "Excessive sleep"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a recommended prevention for falls?",
+      "options": [
+        "Leave toys on the floor",
+        "Use safety gates",
+        "Keep windows open",
+        "Let infants play on beds"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What should be done to prevent drowning?",
+      "options": [
+        "Leave buckets full",
+        "Supervise bath time",
+        "Allow children to swim alone",
+        "Keep bathroom doors open"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a safe water heater temperature to prevent burns?",
+      "options": ["60°C", "49°C", "70°C", "100°C"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a choking hazard for young children?",
+      "options": ["Mashed potatoes", "Grapes", "Bread", "Soup"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a safe practice for medication storage?",
+      "options": [
+        "Leave on table",
+        "Store in food containers",
+        "Lock in cabinets",
+        "Keep in pockets"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a nursing goal for fall prevention?",
+      "options": [
+        "Encourage walking alone",
+        "Keep bed at highest level",
+        "Patient remains free from falls",
+        "Avoid lighting"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a first aid step for minor burns?",
+      "options": ["Apply ice", "Use butter", "Run cool water", "Rub alcohol"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the first step in choking first aid?",
+      "options": [
+        "Give water",
+        "Encourage coughing",
+        "Lie the child down",
+        "Give candy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a safe feeding practice to prevent choking?",
+      "options": [
+        "Let child eat while lying down",
+        "Cut food into small pieces",
+        "Give hard candies",
+        "Allow eating while running"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a first aid step for nosebleeds?",
+      "options": [
+        "Tilt head back",
+        "Lie down",
+        "Pinch nose and lean forward",
+        "Swallow blood"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common accident in school-aged children?",
+      "options": [
+        "Electrical injury",
+        "Bicycle injury",
+        "Road traffic accident",
+        "Choking"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a nursing intervention for burn prevention?",
+      "options": [
+        "Leave cords exposed",
+        "Use front burners",
+        "Educate parents",
+        "Ignore hot liquids"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a drowning prevention method?",
+      "options": [
+        "Leave pool toys in water",
+        "Allow unsupervised swimming",
+        "Install pool fences",
+        "Keep buckets full"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a first aid step for fractures?",
+      "options": [
+        "Move the limb",
+        "Apply heat",
+        "Use a temporary splint",
+        "Massage the area"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a safe practice for poison prevention?",
+      "options": [
+        "Call poison control",
+        "Induce vomiting",
+        "Give milk",
+        "Ignore symptoms"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Accidents are always intentional.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Burns can be prevented by turning pot handles inward.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Children should be left alone near water.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Choking can occur from eating while laughing.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Minor wounds should be cleaned with soap and water.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Medicines should be stored in food containers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "CPR is required if a child is not breathing after drowning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Electrical outlets should be left uncovered.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Parents should teach children basic fire safety rules.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Supervision is not necessary during bath time.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

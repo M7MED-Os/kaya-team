@@ -1,0 +1,215 @@
+{
+  "title": "Nursery School Education",
+  "questions": [
+    {
+      "question": "What is the age range for children attending nursery school?",
+      "options": ["1–3 years", "3–5 years", "5–7 years", "6–9 years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of nursery promotes independence through self-directed learning?",
+      "options": ["Public", "Private", "Montessori", "Religious"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key benefit of nursery school in terms of emotional development?",
+      "options": [
+        "Learning to read",
+        "Emotional regulation",
+        "Physical strength",
+        "Language fluency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which nursery type involves parents in decision-making and activities?",
+      "options": ["Cooperative", "Private", "Public", "International"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is one disadvantage of nursery school mentioned in the document?",
+      "options": [
+        "Lack of routine",
+        "Overcrowding",
+        "No hygiene practices",
+        "No learning materials"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a physical activity in nursery settings?",
+      "options": ["Storytelling", "Drawing", "Jumping", "Singing"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key element of a good nursery related to safety?",
+      "options": [
+        "Bright lights",
+        "Non-toxic materials",
+        "Loud music",
+        "No supervision"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What helps children transition smoothly to formal schooling?",
+      "options": [
+        "Free play",
+        "Routine and structure",
+        "Isolation",
+        "Parental absence"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the nurse’s role in infection control?",
+      "options": [
+        "Teach math",
+        "Promote handwashing",
+        "Organize games",
+        "Decorate classrooms"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which activity supports fine motor skill development?",
+      "options": ["Running", "Singing", "Drawing", "Jumping"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What should be done to prepare a child for nursery school?",
+      "options": [
+        "Leave them alone",
+        "Avoid visiting the school",
+        "Visit the school with the child",
+        "Ignore their emotions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a hygiene activity taught in nursery schools?",
+      "options": [
+        "Reading books",
+        "Handwashing",
+        "Playing video games",
+        "Watching TV"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What type of nursery uses foreign curricula?",
+      "options": ["Cooperative", "Religious", "International", "Public"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is one emotional benefit of nursery school?",
+      "options": [
+        "Learning to cook",
+        "Building confidence",
+        "Memorizing facts",
+        "Avoiding interaction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a challenge children face in nursery school?",
+      "options": [
+        "Too much sleep",
+        "Language difficulties",
+        "Excessive homework",
+        "No toys"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the nurse’s role in nutritional support?",
+      "options": [
+        "Provide candy",
+        "Monitor eating habits",
+        "Avoid food discussions",
+        "Cook meals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What helps stimulate a child’s senses in a nursery?",
+      "options": ["Blank walls", "Colorful decor", "Silence", "Empty rooms"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a social activity in nursery schools?",
+      "options": ["Solo reading", "Group games", "Sleeping", "Watching movies"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is one way to support hygiene in nursery schools?",
+      "options": [
+        "Avoid cleaning",
+        "Disinfect toys regularly",
+        "Let children eat off the floor",
+        "Skip handwashing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the role of music in nursery settings?",
+      "options": [
+        "Distract children",
+        "Create noise",
+        "Calm and engage children",
+        "Replace teaching"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nursery schools are only for children aged 6–9.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cooperative nurseries involve parents in decision-making.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Emotional development is not a focus in nursery schools.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nurses in nursery schools help monitor children's health.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hygiene is not important in nursery school settings.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Children in nursery schools learn to interact with peers.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Private nurseries are usually free of charge.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Storytelling is an educational activity in nursery schools.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Physical activities are discouraged in nursery schools.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nurses keep health records and immunization status.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
