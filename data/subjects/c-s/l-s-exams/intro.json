@@ -24,7 +24,7 @@
     {
       "question": "Which of the following defines learning in nursing?",
       "options": [
-        "Passive listening",
+        "Process of imparting knowledge",
         "Acquiring knowledge, skills, and professional values",
         "Delivering clinical demonstrations",
         "Assessing student performance"
@@ -52,7 +52,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Which teaching principle focuses on providing clear goals and measurable learning outcomes?",
+      "question": "Which teaching principle focuses on providing clear and measurable goals?",
       "options": [
         "Clear objectives and outcomes",
         "Practice and reinforcement",
@@ -84,10 +84,10 @@
     {
       "question": "A learner-centered approach encourages which of the following?",
       "options": [
-        "Teacher control",
+        "Design activities that promote innovation",
         "Student autonomy and active participation",
-        "Memorization",
-        "Standardized assessment only"
+        "Demonstrate professionalism, empathy, and ethical reasoning",
+        "Self-assessment and peer review"
       ],
       "correctIndex": 1
     },
@@ -104,7 +104,7 @@
     {
       "question": "Which characteristic best represents nursing students' motivation?",
       "options": [
-        "They seek personal gain only",
+        "They seek personal gain",
         "They care deeply about helping others",
         "They avoid responsibility",
         "They dislike teamwork"
@@ -124,10 +124,10 @@
     {
       "question": "What do nursing learners need to effectively connect theory with practice?",
       "options": [
-        "More textbooks",
-        "Clinical experience and application",
-        "More memorization",
-        "Fewer practical sessions"
+        "Managing time",
+        "More clinical experience",
+        "Resource availability",
+        "All of the above"
       ],
       "correctIndex": 1
     },
