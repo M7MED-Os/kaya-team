@@ -4,7 +4,7 @@
     {
       "title": "Introduction of teaching and learning",
       "video": null,
-      "quiz": null,
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/intro.json",
       "file": null,
       "summary": null
     },

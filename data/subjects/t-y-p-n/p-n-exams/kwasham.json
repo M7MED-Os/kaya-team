@@ -1,0 +1,505 @@
+{
+  "title": "Kwashiorkor and Marasmus",
+  "questions": [
+    {
+      "question": "Growth refers to a change in functional ability?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "All of the following form the growth pattern of the body system, except?",
+      "options": [
+        "Neural pattern",
+        "Genital pattern",
+        "Psychological pattern",
+        "General pattern"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a maternal factor that affects growth and development?",
+      "options": [
+        "Chromosomal abnormalities",
+        "Congenital malformation",
+        "Twin or multiple pregnancies",
+        "Antenatal care"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Hormones with direct effect on growth and development are sex hormones and cortisone?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Psychological factors are among the non-endocrine factors that affect growth and development?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The term protein energy malnutrition refers to acute malnutrition as a result of insufficient intake of protein and calories?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A micronutrient deficiency refers to a deficiency of essential vitamins and minerals needed for physiological function and development?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kwashiorkor is a severe manifestation of protein energy malnutrition?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Maternal deprivation syndrome is a psychological factor that causes kwashiorkor?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Faulty weaning means that the mother gives the infant a diet containing all nutrients to meet his demands?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema may mask muscle wasting in kwashiorkor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The weight of a child with kwashiorkor is usually 60–80% of the expected weight for age.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kwashiorkor is caused mainly by deficiency of calories.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a characteristic feature of kwashiorkor?",
+      "options": [
+        "Severe wasting without edema",
+        "Edema with moon face",
+        "Increased appetite",
+        "Hyperpigmentation of skin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In kwashiorkor, the child’s weight is:",
+      "options": [
+        "More than 90% of expected weight",
+        "60–80% of expected weight",
+        "Less than 60% of expected weight",
+        "Normal for age"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The main dietary deficiency in kwashiorkor is:",
+      "options": ["Fat", "Protein", "Vitamins", "Minerals"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The main dietary deficiency in kwashiorkor is carbohydrate, and in marasmus both calories and protein?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Both kwashiorkor and marasmus are due to protein deficiency only?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema is a characteristic feature of marasmus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In marasmus, the weight is less than 60% of the expected weight for age.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hair changes such as ‘flag sign’ are seen in marasmus only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Both kwashiorkor and marasmus can lead to growth retardation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kwashiorkor is more commonly seen after weaning?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The main cause of edema in kwashiorkor is:",
+      "options": [
+        "Sodium retention",
+        "Low plasma albumin",
+        "Heart failure",
+        "Kidney disease"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which statement correctly differentiates marasmus from kwashiorkor?",
+      "options": [
+        "Marasmus has edema",
+        "Kwashiorkor has severe wasting",
+        "Marasmus has no edema and severe wasting",
+        "Kwashiorkor has normal appetite"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child presents with edema, flaky paint dermatosis, and hair discoloration. The most likely diagnosis is:",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Vitamin A deficiency",
+        "Pellagra"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In marasmus, the child appears:",
+      "options": [
+        "Fat with edema",
+        "Extremely thin with old man’s face",
+        "Puffy with moon face",
+        "Short and stocky"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following features is NOT commonly seen in kwashiorkor?",
+      "options": [
+        "Fatty liver",
+        "Muscle wasting",
+        "Severe dehydration",
+        "Edema"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In kwashiorkor, the liver appears:",
+      "options": [
+        "Normal",
+        "Fatty and enlarged",
+        "Small and shrunken",
+        "Fibrotic"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In marasmus, the child’s weight is usually:",
+      "options": [
+        "80–100% of expected",
+        "60–80% of expected",
+        "Less than 60% of expected",
+        "Normal for age"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following statements is TRUE for kwashiorkor?",
+      "options": [
+        "Caused by calorie deficiency",
+        "Usually associated with edema and fatty liver",
+        "Associated with good appetite",
+        "No skin or hair changes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In marasmus, the infant loses more than 40% of his weight.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In kwashiorkor, diarrhea occurs mainly due to decreased intestinal and pancreatic enzymes?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In marasmus, the child’s face becomes puffy and rounded due to subcutaneous fat loss?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypothermia can be a complication of both kwashiorkor and marasmus?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In kwashiorkor, edema starts from the upper limbs and face?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kwashiorkor may lead to blindness due to vitamin A deficiency?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Marasmus can progress to kwashiorkor if edema develops?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In kwashiorkor, mental retardation is irreversible if it occurs before 6 months of age?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In marasmus, edema is always absent even in severe cases?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fatty liver is a constant finding in marasmus?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kwashiorkor may result in bleeding tendency due to vitamin K deficiency?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A 2-year-old child presents with bilateral pedal edema, diarrhea, and “flaky paint” skin rash. His diet consists mainly of maize porridge. The most likely diagnosis is:",
+      "options": ["Marasmus", "Kwashiorkor", "Scurvy", "Rickets"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following lab findings best supports the diagnosis of marasmus?",
+      "options": [
+        "Hypoproteinemia with severe edema",
+        "Normal plasma proteins with marked fat loss",
+        "Fatty liver with elevated liver enzymes",
+        "Hyperkalemia and hypermagnesemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The “flaky paint” dermatosis seen in kwashiorkor is due to:",
+      "options": [
+        "Vitamin D deficiency",
+        "Zinc deficiency",
+        "Protein deficiency affecting keratin formation",
+        "Vitamin B12 deficiency"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A marasmic child is most likely to show which of the following physical signs?",
+      "options": [
+        "Generalized edema",
+        "“Old man” face with loose, wrinkled skin",
+        "Fatty liver and moon face",
+        "Flaky paint dermatosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In kwashiorkor, which mechanism leads to edema formation?",
+      "options": [
+        "Decreased capillary permeability",
+        "Increased osmotic pressure in plasma",
+        "Decreased plasma albumin and sodium retention",
+        "Increased protein intake"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A marasmic child shows subnormal temperature, weak pulse, and hypotension. The underlying cause of these signs is:",
+      "options": [
+        "Vitamin A deficiency",
+        "Loss of subcutaneous fat and muscle tissue",
+        "Heart failure",
+        "Thyroid deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is not a feature of kwashiorkor?",
+      "options": ["Edema", "Fatty liver", "Anorexia", "Good appetite"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which statement best differentiates kwashiorkor and marasmus?",
+      "options": [
+        "Both have severe wasting and edema",
+        "Kwashiorkor has edema; marasmus has no edema",
+        "Marasmus has edema; kwashiorkor doesn’t",
+        "Both have fatty liver"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which electrolyte disturbance is most characteristic of kwashiorkor?",
+      "options": [
+        "Hyperkalemia",
+        "Hypokalemia",
+        "Hypermagnesemia",
+        "Hypernatremia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During treatment of severe kwashiorkor, which of the following complications may occur if fluids are given rapidly?",
+      "options": ["Heart failure", "Hypothermia", "Hypoglycemia", "Diarrhea"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Maternal deprivation is considered a psychological cause of kwashiorkor?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chronic chest infections and congenital heart disease can precipitate marasmus?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bleeding tendency in kwashiorkor occurs mainly due to folic acid deficiency?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Heart failure during treatment of kwashiorkor is usually due to overhydration or severe anemia?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hypoglycemia and hypothermia are late complications of marasmus only?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Marasmic-Kwashiorkor is a stage of recovery after kwashiorkor?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Low plasma protein and hypokalemia are laboratory findings in kwashiorkor?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Increase in urea nitrogen is a lab finding in marasmus due to tissue breakdown?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Health education and immunization are preventive measures against protein-energy malnutrition?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Risk for infection is not part of the nursing care plan for PEM?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most common nutritional cause of marasmus in infants is:",
+      "options": [
+        "Excessive protein intake",
+        "Diluted milk formula or delayed weaning",
+        "Early weaning with protein-rich diet",
+        "High carbohydrate feeding"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Faulty weaning in kwashiorkor mainly leads to:",
+      "options": [
+        "Vitamin deficiency only",
+        "Excess carbohydrate, low protein intake",
+        "Complete starvation",
+        "High fat and protein intake"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is not a complication of kwashiorkor?",
+      "options": ["Blindness", "Heart failure", "Fatty liver", "Hyperglycemia"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is the first phase in the treatment of protein-energy malnutrition?",
+      "options": [
+        "Nutritional rehabilitation",
+        "Stabilization (correction of dehydration and infection control)",
+        "Iron therapy",
+        "Catch-up growth phase"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child recovering from marasmus begins to regain appetite and shows improvement in infection control. The nurse should:",
+      "options": [
+        "Restrict protein to avoid overload",
+        "Start high-protein diet immediately",
+        "Provide gradual increase up to 150 kcal/kg/day and 4 g protein/kg/day",
+        "Stop antibiotics"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following nursing diagnoses is most appropriate for a child with kwashiorkor?",
+      "options": [
+        "Risk for fluid overload related to dehydration",
+        "Imbalanced nutrition less than body requirements related to inadequate intake",
+        "Risk for hypoglycemia related to high carbohydrate diet",
+        "Impaired gas exchange related to lung edema"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "All are preventive measures of PEM except:",
+      "options": [
+        "Family planning and birth spacing",
+        "Exclusive breastfeeding",
+        "Rapid weaning before 3 months",
+        "Nutritional education to mothers"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "During rehydration in a child with kwashiorkor, which statement is correct?",
+      "options": [
+        "Intravenous fluids should be given rapidly",
+        "Blood transfusion is contraindicated",
+        "Oral rehydration is preferred; IV used only in severe cases",
+        "Fluids should be protein-free"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following vitamin deficiencies may coexist with kwashiorkor?",
+      "options": [
+        "Vitamin D, C, A, and folic acid",
+        "Only Vitamin A",
+        "Only Vitamin K",
+        "Only Vitamin B12"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A marasmic child with dehydration and infection is admitted. The nurse’s first priority is:",
+      "options": [
+        "Start high-calorie feeding",
+        "Begin antibiotic therapy",
+        "Correct dehydration and electrolyte imbalance",
+        "Start iron therapy"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

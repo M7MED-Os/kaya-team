@@ -1,0 +1,330 @@
+{
+  "title": "Introduction to Teaching and Learning in Nursing",
+  "questions": [
+    {
+      "question": "What does nursing combine as a profession?",
+      "options": [
+        "Only science",
+        "Only art",
+        "Science and art",
+        "Neither science nor art"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following best describes teaching in nursing?",
+      "options": [
+        "Delivering lectures only",
+        "Giving instructions passively",
+        "Guiding learners to think critically and act ethically",
+        "Memorizing facts"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Learning in nursing involves:",
+      "options": [
+        "Only memorizing facts",
+        "Acquiring knowledge, skills, and values",
+        "Reading books only",
+        "Following teacher’s instructions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Education in nursing helps nurses to:",
+      "options": [
+        "Work independently of others",
+        "Avoid change",
+        "Develop competence and ethical understanding",
+        "Focus only on patient treatment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of nursing learners?",
+      "options": [
+        "Care and motivation",
+        "Teamwork and responsibility",
+        "Ignoring feedback",
+        "Connecting theory with practice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Traditional approaches in nursing education are usually:",
+      "options": [
+        "Active and technology-based",
+        "Passive with limited exposure",
+        "Interprofessional and modern",
+        "Centered on learners"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Modern approaches in nursing include:",
+      "options": [
+        "Memorization",
+        "Passive listening",
+        "Simulation and case-based learning",
+        "Ignoring technology"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Future directions in nursing education include:",
+      "options": [
+        "Avoiding AI",
+        "Global health and sustainability",
+        "Reducing innovation",
+        "Limiting technology"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A learner-centered approach focuses on:",
+      "options": [
+        "Teacher’s dominance",
+        "Student autonomy and cultural sensitivity",
+        "One-size-fits-all teaching",
+        "Ignoring individual needs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Clear objectives in teaching ensure:",
+      "options": [
+        "Students memorize everything",
+        "No need for assessment",
+        "Alignment between goals, teaching, and evaluation",
+        "Random teaching activities"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Active learning involves:",
+      "options": [
+        "Listening only",
+        "Solving real-life problems and case studies",
+        "Copying notes",
+        "Avoiding interaction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Motivation in nursing education can be enhanced by:",
+      "options": [
+        "Ignoring clinical examples",
+        "Highlighting the relevance to future nursing roles",
+        "Using difficult language",
+        "Avoiding stories or examples"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Structured content means:",
+      "options": [
+        "Presenting topics randomly",
+        "Organizing lessons logically and step by step",
+        "Avoiding scaffolding",
+        "Teaching everything at once"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Feedback should be:",
+      "options": [
+        "Delayed and general",
+        "Timely and constructive",
+        "Ignored by students",
+        "Only summative"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Technology in nursing education includes:",
+      "options": [
+        "Virtual labs and e-learning",
+        "Only textbooks",
+        "Manual record keeping",
+        "Classroom lectures only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Blended learning means:",
+      "options": [
+        "Combining traditional and modern methods",
+        "Using only one method",
+        "Avoiding online tools",
+        "Repeating the same content"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ethical and professional modeling involves:",
+      "options": [
+        "Ignoring patient rights",
+        "Demonstrating professionalism and empathy",
+        "Hiding mistakes",
+        "Focusing only on theory"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Creativity in nursing education encourages:",
+      "options": [
+        "Copying existing solutions",
+        "Generating new ideas and clinical approaches",
+        "Avoiding decision-making",
+        "Following strict routines only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Practice and reinforcement help learners:",
+      "options": [
+        "Forget complex concepts",
+        "Strengthen understanding through repetition and practice",
+        "Skip clinical training",
+        "Focus only on theory"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Clinical placements help students:",
+      "options": [
+        "Memorize theory only",
+        "Apply knowledge in real-life settings",
+        "Avoid teamwork",
+        "Limit learning opportunities"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a common challenge in nursing education?",
+      "options": [
+        "Unlimited resources",
+        "Faculty resistance to new methods",
+        "Equal learning styles",
+        "No need for curriculum updates"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Student diversity in nursing means:",
+      "options": [
+        "All students learn the same way",
+        "Students have different backgrounds and learning styles",
+        "Students don’t need adaptation",
+        "No variation in preparedness"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Curriculum rigidity causes:",
+      "options": [
+        "Easier updates to content",
+        "Difficulty in adapting to healthcare changes",
+        "Improved flexibility",
+        "Greater innovation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Feedback in education should guide:",
+      "options": [
+        "Confusion",
+        "Improvement and self-assessment",
+        "Punishment",
+        "Competition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The goal of lifelong learning in nursing is to:",
+      "options": [
+        "Stop learning after graduation",
+        "Maintain professional standards",
+        "Avoid new technologies",
+        "Reduce critical thinking"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Teaching and learning in nursing are separate, unrelated processes.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Learning can happen consciously or unconsciously.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Education in nursing promotes patient safety and evidence-based practice.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nursing learners usually prefer identical teaching methods.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Traditional teaching methods are mostly active and learner-centered.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Modern teaching integrates simulation and technology.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "AI has no role in the future of nursing education.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Clear objectives help students understand the relevance of topics.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Active learning discourages student participation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Feedback should be immediate and constructive.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ethical modeling includes teaching patient rights and confidentiality.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Creativity should be avoided in clinical decision-making.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Practice and repetition strengthen learning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Resource limitations are not a challenge in nursing education.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lifelong learning helps nurses stay competent and updated.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
