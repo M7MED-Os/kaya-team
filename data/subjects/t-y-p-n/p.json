@@ -7,6 +7,13 @@
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/nhac.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "KWASH and Marasmus",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/kwasham.json",
+      "file": null,
+      "summary": null
     }
   ]
 }
