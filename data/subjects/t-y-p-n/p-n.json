@@ -24,29 +24,43 @@
     },
     {
       "title": "Normal growth and development of Toddler",
-      "video": null,
+      "video": "https://fnurbuedu-my.sharepoint.com/:v:/g/personal/eman_ahmed_fnur_bu_edu_eg/EU8OYsRz0rhKqQYEp5O2S20BaiqzgC9sD-0xeM5Cxsz6Vg",
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/to.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Normal growth and development of preschool",
-      "video": null,
+      "video": "https://drive.google.com/file/d/1TexWb-FX0BDI8YfUWst66E1Y4VY5MiYH/view?usp=drivesdk",
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/presc.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Normal growth and development of school",
-      "video": null,
+      "video": "https://fnurbuedu.sharepoint.com/:v:/s/msteams_8bd4b3/EYjtyR4lUSNGjh1cya4MBpUBLPYlocOKIlm-FjAgC6LJJg?e=f1CBic&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/sc.json",
       "file": null,
       "summary": null
     },
     {
       "title": "High risk neonates",
-      "video": null,
+      "video": "https://drive.google.com/file/d/1sqwbjJMcwZKt6_9EksRvj0dwMBEJXENX/view?usp=drive_link",
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-n-exams/hrn.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Urinary system disorders",
+      "video": "https://fnurbuedu.sharepoint.com/:v:/s/2025863/EUDTVBj_T-hDtVJHX2VeoOwB4DojUdXWtWzdVrUElRpXtg?e=bN9k5v",
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Infectious disease of the newborn",
+      "video": null,
+      "quiz": null,
       "file": null,
       "summary": null
     }
