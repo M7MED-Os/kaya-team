@@ -1,0 +1,695 @@
+{
+  "title": "Managment of normal labor",
+  "questions": [
+    {
+      "question": "The normal fetal position for delivery is:",
+      "options": ["Breech", "Transverse", "Vertex", "Face"],
+      "correctIndex": 2
+    },
+    {
+      "question": "During a vaginal examination, which of the following is NOT assessed?",
+      "options": [
+        "Cervical dilatation",
+        "Fetal heart sounds",
+        "Station of the head",
+        "Cervical effacement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary purpose of an episiotomy is to:",
+      "options": [
+        "Speed up the first stage of labor",
+        "Prevent perineal lacerations",
+        "Relieve pain",
+        "Help in placental delivery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which drug is administered intramuscularly to help uterine contraction and minimize blood loss after placental delivery?",
+      "options": ["Pethidine", "Morphine", "Ergometrine", "Oxytocin drip"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Apgar score is evaluated at which time intervals?",
+      "options": [
+        "5 and 10 minutes",
+        "1 and 10 minutes",
+        "1 and 5 minutes",
+        "2 and 6 minutes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Brandt-Andrews method is an active management technique for which stage of labor?",
+      "options": ["First stage", "Second stage", "Third stage", "Fourth stage"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a sign of the onset of the second stage of labor?",
+      "options": [
+        "Rupture of membranes",
+        "Full cervical dilatation",
+        "Regular contractions",
+        "Engagement of the head"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main task of the obstetrician during the delivery of the head?",
+      "options": [
+        "To administer analgesia",
+        "To perform an episiotomy immediately",
+        "To prevent perineal lacerations",
+        "To cut the umbilical cord"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "For painless labor, an epidural puncture is typically performed between which vertebrae?",
+      "options": ["C1 and C2", "T2 and T3", "L2 and L3", "L4 and L5"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The primary reason for giving Vitamin K to the newborn is to:",
+      "options": [
+        "Prevent ophthalmia neonatorum",
+        "Boost the immune system",
+        "Prevent hemorrhagic disease",
+        "Aid in digestion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Crowning occurs when:",
+      "options": [
+        "The cervix is fully dilated",
+        "The placenta separates",
+        "The biparietal diameter passes the vulval ring",
+        "The baby's shoulders are delivered"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is part of the REEDA scale assessment?",
+      "options": ["Heart rate", "Redness", "Uterine tonicity", "Lochia amount"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first step in immediate newborn care during the second stage is:",
+      "options": [
+        "Clamping the cord",
+        "Suctioning the mouth and nose",
+        "Administering Vitamin K",
+        "Drying the baby"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended position for the mother during the second stage of labor in the delivery room?",
+      "options": ["Supine", "Lateral", "Lithotomy", "Prone"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A full bladder after delivery can lead to:",
+      "options": [
+        "Improved uterine contractions",
+        "Urinary tract infection",
+        "Uterine atony and hemorrhage",
+        "Faster involution"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which investigation is crucial for determining Rhesus factor status?",
+      "options": [
+        "Urine analysis",
+        "Blood group and Rh typing",
+        "Complete blood count (CBC)",
+        "Ultrasound"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The purpose of putting Terramycin eye drops in the newborn's eyes is to prevent:",
+      "options": [
+        "Conjunctivitis",
+        "Ophthalmia neonatorum",
+        "Cataracts",
+        "Strabismus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the Apgar score, a score of 2 for Respiratory Effort is indicated by:",
+      "options": [
+        "Absent breathing",
+        "Slow or irregular breathing",
+        "Good, strong cry",
+        "Grimace"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "During the fourth stage of labor, vital signs are initially assessed every:",
+      "options": ["5 minutes", "15 minutes", "30 minutes", "60 minutes"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The purpose of evacuating the bladder and rectum during the first stage of labor is to:",
+      "options": [
+        "Start contractions",
+        "Prevent dehydration",
+        "Avoid contamination and decrease puerperal sepsis",
+        "Provide analgesia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When is an episiotomy typically performed?",
+      "options": [
+        "Before crowning",
+        "At crowning",
+        "After the head is delivered",
+        "During placental delivery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The conservative method of managing the third stage involves:",
+      "options": [
+        "Immediate cord traction",
+        "Giving ergometrine with the anterior shoulder",
+        "Waiting for signs of placental separation",
+        "Manual removal of the placenta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a component of aseptic technique during delivery?",
+      "options": [
+        "Administering analgesia",
+        "Shaving the vulva",
+        "Encouraging walking",
+        "Providing I.V. fluids"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary goal of providing warmth to the newborn is to:",
+      "options": [
+        "Initiate bonding",
+        "Prevent hypothermia",
+        "Stimulate crying",
+        "Clean the baby"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Station in a vaginal examination refers to the:",
+      "options": [
+        "Position of the fetus (e.g., LOA)",
+        "Degree of cervical dilation",
+        "Level of the presenting part in the birth canal",
+        "Status of the membranes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Syntometrine is a combination of:",
+      "options": [
+        "Pethidine and Morphine",
+        "Ergometrine and Oxytocin",
+        "Oxytocin and Glucose",
+        "Ergometrine and Saline"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Maternal-infant bonding is encouraged by:",
+      "options": [
+        "Keeping the baby in a separate warmer",
+        "Showing the mother her baby and encouraging early breastfeeding",
+        "Delaying contact until the mother is rested",
+        "Allowing only the father to hold the baby initially"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does the Apgar score criteria 'Muscle Tone' assess?",
+      "options": [
+        "Heart rate",
+        "Reflex irritability",
+        "Activity and movement",
+        "Skin color"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why is the placenta examined after delivery?",
+      "options": [
+        "To determine the baby's blood type",
+        "To ensure it is complete and no parts are retained",
+        "To estimate blood loss",
+        "To check for fetal infections"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the active method (Brandt-Andrews) of the third stage, when is ergometrine typically given?",
+      "options": [
+        "After the placenta is delivered",
+        "With the delivery of the anterior shoulder",
+        "At full cervical dilation",
+        "During crowning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The reflex desire to bear down during contractions is a sign of the:",
+      "options": [
+        "First stage of labor",
+        "Second stage of labor",
+        "Third stage of labor",
+        "Fourth stage of labor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cord care for the newborn involves spraying the stump with:",
+      "options": [
+        "Antibiotic ointment",
+        "70% Alcohol",
+        "Saline solution",
+        "Betadine"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Leopold maneuvers are part of which examination?",
+      "options": [
+        "Vaginal examination",
+        "Abdominal examination",
+        "Neurological examination",
+        "Breast examination"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The main advantage of the active method (Brandt-Andrews) for the third stage is:",
+      "options": [
+        "Shorter labor",
+        "Reduction of blood loss",
+        "Less pain for the mother",
+        "Easier placental delivery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is assessed when inspecting the newborn's skin?",
+      "options": [
+        "Heart rate",
+        "Lanugo and Vernix",
+        "Abdominal masses",
+        "Sucking reflex"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is I.V. fluid containing glucose sometimes administered during labor?",
+      "options": [
+        "To induce labor",
+        "To prevent Mendelson's syndrome",
+        "To provide analgesia",
+        "To help with bearing down"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first step in suctioning a newborn is to clear the:",
+      "options": ["Nose", "Mouth", "Stomach", "Eyes"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary purpose of the REEDA scale?",
+      "options": [
+        "Assess the newborn's vital signs",
+        "Evaluate the perineum or episiotomy site",
+        "Measure uterine contraction strength",
+        "Determine the type of lochia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A key component of immediate maternal care after delivery (4th stage) is:",
+      "options": [
+        "Encouraging ambulation",
+        "Observing for lochia",
+        "Providing solid food",
+        "Discontinuing all IV lines"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The normal attitude of the fetal head during labor is:",
+      "options": [
+        "Extended",
+        "Completely flexed",
+        "Partially flexed",
+        "Rotated"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Walking during the first stage of labor is allowed when:",
+      "options": [
+        "Membranes have ruptured",
+        "There is active bleeding",
+        "Membranes are intact and no contraindications exist",
+        "The mother is fully dilated"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The primary reason for administering eye drops to the newborn is to prevent infection from:",
+      "options": [
+        "E. coli",
+        "Gonorrhea or Chlamydia",
+        "Staphylococcus",
+        "Streptococcus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the Apgar score, a heart rate of 120 beats per minute would score:",
+      "options": ["0", "1", "2", "3"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The fundus is palpated after delivery to assess:",
+      "options": [
+        "Fetal position",
+        "Uterine tonicity",
+        "Cervical effacement",
+        "Placental location"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is a sign of placental separation?",
+      "options": [
+        "Shortening of the umbilical cord",
+        "Decrease in uterine size",
+        "Return of fetal heart tones",
+        "Cessation of lochia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The primary purpose of an enema during the first stage is to:",
+      "options": [
+        "Relieve pain",
+        "Evacuate the rectum to avoid contamination",
+        "Speed up cervical dilation",
+        "Hydrate the mother"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When delivering the shoulders, the head is lifted upwards to deliver the:",
+      "options": [
+        "Anterior shoulder",
+        "Posterior shoulder",
+        "Head completely",
+        "Placenta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pethidine is administered during labor primarily for:",
+      "options": [
+        "Uterine contraction",
+        "Pain relief and sedation",
+        "Prevention of hemorrhage",
+        "Cervical ripening"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first action taken when a loop of cord is found around the baby's neck is to:",
+      "options": [
+        "Cut the cord immediately",
+        "Clamp the cord in two places",
+        "Try to slip it over the head",
+        "Push the head back in"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is part of the initial newborn assessment for congenital anomalies?",
+      "options": [
+        "Checking for cleft palate",
+        "Assessing Apgar score",
+        "Measuring head circumference",
+        "Administering Vitamin K"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The 'M' in L.M.P. in the patient history stands for:",
+      "options": ["Menstrual", "Maternal", "Monthly", "Menopausal"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Why is the mother encouraged to put the baby to the breast soon after birth?",
+      "options": [
+        "The infant is alert and the suckling reflex is strong",
+        "To test the baby's hearing",
+        "To help the mother sleep",
+        "To prevent the baby from crying"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A catheterization during labor is performed as a last resort because it:",
+      "options": [
+        "Is very painful",
+        "Carries a risk of urinary tract infection",
+        "Can stop labor",
+        "Requires sterile technique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Bi-parietal diameter (BPD) is associated with the delivery of the:",
+      "options": ["Shoulders", "Placenta", "Head", "Buttocks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary purpose of rolling the placenta after delivery?",
+      "options": [
+        "To measure its size",
+        "To prevent hemorrhage",
+        "To ensure the membranes are delivered completely",
+        "To examine for blood clots"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the fourth stage, the mother is transported to the:",
+      "options": [
+        "Operating room",
+        "Labor room",
+        "Recovery room",
+        "Postpartum ward"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT a component of the Apgar score?",
+      "options": [
+        "Heart Rate",
+        "Blood Pressure",
+        "Reflex Irritability",
+        "Muscle Tone"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary purpose of the identification band for the newborn is for:",
+      "options": [
+        "Decoration",
+        "Security and identification",
+        "Measuring growth",
+        "Assessing jaundice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The recommended method for cleaning the perineum before delivery is with:",
+      "options": ["Soap and water", "Antiseptic solution", "Alcohol", "Saline"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary purpose of massaging the mother's fundus after delivery is to:",
+      "options": [
+        "Relieve pain",
+        "Help the uterus contract and prevent hemorrhage",
+        "Encourage bonding",
+        "Help deliver the placenta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The vulva is shaved and cleaned with antiseptic solution as part of asepsis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Walking is discouraged throughout the entire first stage of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lithotomy position is the recommended position for the second stage of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Suctioning the newborn's nose should be done before suctioning the mouth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ergometrine is always given before the delivery of the placenta in the conservative method.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Apgar score assesses the baby's condition at 1 and 10 minutes after birth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Eye drops are administered to the newborn to prevent hemorrhagic disease.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vitamin K is administered to the newborn intramuscularly.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The primary purpose of enema during labor is to provide nutrition.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Crowning occurs when the baby's shoulders are delivered.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The mother's thumb print and the newborn's footprints are taken for identification.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A full bladder can impede uterine contractions and cause atony.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The first stage of labor ends with the delivery of the baby.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Palpating the abdomen can help detect congenital hernia in the newborn.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "I.V. oxytocin drip can be given in the second stage as per doctor's order.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The placenta is examined to be sure it is complete.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The REEDA scale is used to assess the newborn's respiratory effort.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Maternal-infant bonding is initiated by showing the mother her baby.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In the Apgar score, a Grimace response scores 1 point.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The umbilical cord is clamped and cut by the nurse immediately after the head is delivered.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The active method of the third stage involves waiting for spontaneous placental separation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lochia is observed for amount, color, and odor during the fourth stage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Epidural analgesia is administered between the T2 and T3 vertebrae.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The father's fingerprint is also taken for identification according to the notes.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary risk of catheterization during labor is urinary retention.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The infant's cord clamp should be observed for leakage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Syntometrine contains ergometrine and pethidine.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary goal of providing a quiet environment after delivery is to encourage rest and sleep.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Caput succedaneum is assessed during the abdominal examination (Leopold maneuvers).",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The frequency of vaginal examinations should be maximized to monitor progress closely.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
