@@ -49,6 +49,13 @@
       "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/ponl.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Managment of normal labor",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/monl.json",
+      "file": null,
+      "summary": null
     }
   ]
 }
