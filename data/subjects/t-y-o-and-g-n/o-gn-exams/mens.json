@@ -317,7 +317,7 @@
       "correctIndex": 1
     },
     {
-      "question": "A menstrual cycle frequency of every 21 days is classified as:",
+      "question": "A menstrual cycle frequency of every < 21 days is classified as:",
       "options": [
         "Oligomenorrhea",
         "Menorrhagia",

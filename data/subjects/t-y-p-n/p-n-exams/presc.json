@@ -9,7 +9,7 @@
     {
       "question": "At the age of 6 years, the average weight of a child is:",
       "options": ["12 kg", "15 kg", "18 kg", "22 kg"],
-      "correctIndex": 3
+      "correctIndex": 2
     },
     {
       "question": "The weight of a 6-year-old child is approximately:",
@@ -149,7 +149,7 @@
         "Lace shoes",
         "All of the above"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
       "question": "At 5 years, a child can balance on one foot for:",
