@@ -25,14 +25,14 @@
     {
       "title": "Feeding",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/t-y-p-n/premature-exam/fe.json",
+      "quiz": null,
       "file": null,
       "summary": null
     },
     {
       "title": "Incubator",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/t-y-p-n/premature-exam/in.json",
+      "quiz": null,
       "file": null,
       "summary": null
     }
