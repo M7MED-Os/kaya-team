@@ -109,12 +109,12 @@
     {
       "question": "Compression technique for neonates and infants includes:",
       "options": [
-        "One hand only",
+        "One hand",
         "Two fingers or two thumbs encircling technique",
-        "Elbow pressure",
-        "Palm pressure"
+        "Four fingers or two thumbs encircling technique",
+        "Two hands"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
       "question": "CPR should be continued until:",
@@ -170,7 +170,7 @@
     {
       "question": "CPR compressions for infants can be done with two fingers.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "CPR is stopped immediately after 2 minutes regardless of response.",
