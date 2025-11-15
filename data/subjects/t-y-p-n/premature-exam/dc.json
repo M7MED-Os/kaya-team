@@ -1,0 +1,195 @@
+{
+  "title": "Daily Care",
+  "questions": [
+    {
+      "question": "Eye care in neonates is indicated to prevent damage caused by:",
+      "options": [
+        "Phototherapy",
+        "Radiant heat",
+        "CPAP use",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is a sign of eye infection in neonates?",
+      "options": [
+        "Redness of sclera",
+        "Purulent discharge",
+        "Swelling of eyelids not related to birth trauma",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "When cleaning eyes with infection, the nurse should:",
+      "options": [
+        "Clean the infected eye first",
+        "Clean the least affected eye first",
+        "Use the same swab for both eyes",
+        "Avoid cleaning until infection resolves"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The umbilical cord consists of:",
+      "options": [
+        "Two veins and one artery",
+        "Two arteries and one vein",
+        "One artery and one vein",
+        "Two arteries only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "After clamping, the umbilical cord stump turns:",
+      "options": ["Blue-white", "Yellow-brown", "Black immediately", "Red"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The umbilical cord stump usually falls off within:",
+      "options": ["1–3 days", "7–21 days", "30–40 days", "2 months"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a sign of umbilical cord infection?",
+      "options": [
+        "Foul-smelling drainage",
+        "Redness and swelling",
+        "Tenderness around stump",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The main purpose of diaper care is to:",
+      "options": [
+        "Prevent diaper rash",
+        "Prevent urinary tract infection",
+        "Keep skin clean and dry",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "During diaper care, assessment includes:",
+      "options": [
+        "Skin integrity",
+        "Presence of rash or redness",
+        "Stool color, amount, and odor",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "For female infants, cleaning during diaper care should be done:",
+      "options": [
+        "From anus to labia",
+        "From labia to anus",
+        "From legs and labia majora/minora to vestibule",
+        "In circular motion around abdomen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "For male infants, cleaning during diaper care should be done:",
+      "options": [
+        "From scrotum to penis",
+        "Circular or up to down on penis",
+        "From anus to scrotum",
+        "Only buttocks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which ointment is commonly applied during diaper care to protect skin?",
+      "options": [
+        "Vitamin K",
+        "Zinc oxide",
+        "Petroleum jelly",
+        "Cortisone cream"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a purpose of diaper care?",
+      "options": [
+        "Prevent urinary tract infection",
+        "Prevent diaper rash",
+        "Promote cord healing",
+        "Keep baby comfortable"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Umbilical cord stump infection is indicated by:",
+      "options": [
+        "Yellow drainage",
+        "Redness and swelling",
+        "Tenderness",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Eye care in neonates helps prevent complications from:",
+      "options": [
+        "Phototherapy",
+        "CPAP use",
+        "Radiant heat",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Eye care in neonates includes assessing, cleaning, and instilling ocular preparations.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The umbilical cord has two veins and one artery.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The cord stump usually falls off within 7–21 days.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Signs of cord infection include foul-smelling drainage and redness.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Diaper care prevents urinary tract infections and diaper rash.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "For female infants, cleaning should be done from anus to labia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For male infants, cleaning should be circular or up to down on the penis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Zinc oxide is used during diaper care to protect the skin.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Eye care should always start with the infected eye first.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The umbilical cord stump turns black before it falls off.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

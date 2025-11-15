@@ -42,7 +42,7 @@
       "correctIndex": 3
     },
     {
-      "question": "The average crown-heel length of a term baby male 49cm and female 50 cm?",
+      "question": "The average crown-heel length of a fullterm baby male 49cm and female 50 cm?",
       "options": ["True", "False"],
       "correctIndex": 1
     },
@@ -167,7 +167,7 @@
       "correctIndex": 0
     },
     {
-      "question": "Normal birth weight of a term newborn:",
+      "question": "Normal birth weight of a fullterm newborn:",
       "options": ["1.5 – 2.5 kg", "2.7 – 3.85 kg", "4 – 5 kg", "Over 5 kg"],
       "correctIndex": 1
     },

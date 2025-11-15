@@ -1,0 +1,40 @@
+{
+  "subject": "Premature",
+  "lectures": [
+    {
+      "title": "Phototherapy",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/premature-exam/pho.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Daily care",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/premature-exam/dc.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "CPR",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/premature-exam/cpr.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Feeding",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/premature-exam/fe.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Incubator",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/premature-exam/in.json",
+      "file": null,
+      "summary": null
+    }
+  ]
+}

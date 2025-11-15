@@ -1,0 +1,170 @@
+{
+  "title": "Phototherapy",
+  "questions": [
+    {
+      "question": "Phototherapy is primarily used to treat:",
+      "options": [
+        "Neonatal sepsis",
+        "Hyperbilirubinemia",
+        "Hypoglycemia",
+        "Neonatal hypothermia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jaundice in neonates is caused by deposition of:",
+      "options": ["Hemoglobin", "Bilirubin", "Albumin", "Calcium"],
+      "correctIndex": 1
+    },
+    {
+      "question": "On the 1st day of life, phototherapy is indicated when bilirubin levels are:",
+      "options": ["1–4 mg/dl", "5–9 mg/dl", "9–15 mg/dl", "15–20 mg/dl"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a contraindication for phototherapy?",
+      "options": [
+        "Neonatal jaundice",
+        "Congenital porphyria",
+        "Hypocalcemia",
+        "Sepsis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bronze baby syndrome is a side effect of:",
+      "options": [
+        "Exchange transfusion",
+        "Phototherapy",
+        "Vitamin K injection",
+        "Oxygen therapy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which risk factor increases the severity of neonatal jaundice?",
+      "options": [
+        "Hypoalbuminemia",
+        "Hyperglycemia",
+        "Hypothermia",
+        "Hyperalbuminemia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which type of phototherapy uses fiber-optic technology?",
+      "options": [
+        "Conventional phototherapy",
+        "Biliblanket",
+        "Bilisphere",
+        "Exchange transfusion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which phototherapy system is designed for the fastest bilirubin breakdown?",
+      "options": ["Single light", "Double light", "Biliblanket", "Bilisphere"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is NOT a side effect of phototherapy?",
+      "options": ["Diarrhea", "Hypocalcemia", "Retinal damage", "Hypoglycemia"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which maternal factor may be negatively affected by phototherapy?",
+      "options": [
+        "Maternal-newborn interaction",
+        "Maternal hemoglobin levels",
+        "Maternal calcium levels",
+        "Maternal oxygen saturation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which clinical sign should be observed in neonates under phototherapy?",
+      "options": [
+        "Lethargy",
+        "Hyperactivity",
+        "Increased appetite",
+        "Weight gain"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is a gastrointestinal side effect of phototherapy?",
+      "options": ["Constipation", "Diarrhea", "Vomiting", "Gastric ulcer"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a dermatological side effect of phototherapy?",
+      "options": ["Skin rashes", "Cyanosis", "Petechiae", "Pallor"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which type of phototherapy unit emits light in the blue-green spectrum?",
+      "options": [
+        "Biliblanket",
+        "Conventional phototherapy",
+        "Bilisphere",
+        "Infrared therapy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a risk factor for severe hyperbilirubinemia?",
+      "options": ["Acidosis", "Hypercalcemia", "Hypoglycemia", "Hyperthermia"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Phototherapy helps reduce serum bilirubin levels in neonates.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Jaundice is caused by deposition of hemoglobin in the skin.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "On the 3rd day of life, phototherapy is indicated when bilirubin levels reach 15–20 mg/dl.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Neonates with congenital porphyria can safely undergo phototherapy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypocalcemia is a possible side effect of phototherapy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Biliblanket phototherapy is commonly used at home.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bilisphere phototherapy is less intensive than conventional phototherapy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Retinal damage is a potential complication of phototherapy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Phototherapy improves maternal-newborn bonding.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sepsis is considered a risk factor for severe neonatal jaundice.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
