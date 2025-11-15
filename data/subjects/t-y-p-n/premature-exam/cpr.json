@@ -1,0 +1,181 @@
+{
+  "title": "CPR",
+  "questions": [
+    {
+      "question": "CPR is defined as a lifesaving technique that ensures:",
+      "options": [
+        "Open airway, adequate breathing, and circulation",
+        "Only chest compressions",
+        "Only rescue breathing",
+        "Only airway clearance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The most common cause of reversible cardiac arrest in children is:",
+      "options": ["Drowning", "Heart disease", "Poisoning", "Choking"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT an indication for CPR?",
+      "options": [
+        "Sudden infant death syndrome",
+        "Burns",
+        "Sleeping accidents",
+        "Fever"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which equipment is essential for CPR?",
+      "options": ["Endotracheal tube", "Ambo bag", "AED", "All of the above"],
+      "correctIndex": 3
+    },
+    {
+      "question": "AED delivers an electric shock when:",
+      "options": [
+        "Normal rhythm is detected",
+        "Abnormal rhythm is detected",
+        "No pulse is present",
+        "Breathing is absent"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Complication of CPR includes all EXCEPT:",
+      "options": [
+        "Broken ribs",
+        "Aspiration pneumonia",
+        "Internal brain injuries",
+        "Increased appetite"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "For airway opening in suspected neck injury, the correct method is:",
+      "options": [
+        "Head tilt-chin lift",
+        "Jaw thrust",
+        "Finger sweep",
+        "Mouth-to-mouth"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Breathing assessment should take:",
+      "options": ["2–3 seconds", "5–10 seconds", "15 seconds", "30 seconds"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Circulation assessment should take:",
+      "options": ["5 seconds", "10 seconds", "20 seconds", "30 seconds"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Rescue breathing for neonates is performed at a rate of:",
+      "options": [
+        "12–20 breaths/min",
+        "20–30 breaths/min",
+        "30–60 breaths/min",
+        "10–15 breaths/min"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Rescue breathing for infants is performed by:",
+      "options": [
+        "Mouth-to-mouth only",
+        "Mouth-to-nose only",
+        "Mouth-to-mouth and nose",
+        "Bag-mask only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Compression landmark in CPR is located at:",
+      "options": [
+        "Upper sternum",
+        "Center of chest between nipples, lower third sternum",
+        "Left chest wall",
+        "Right chest wall"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Compression depth for infants is:",
+      "options": ["1 inch", "1.5 inches", "2 inches", "2.5 inches"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Compression technique for neonates and infants includes:",
+      "options": [
+        "One hand only",
+        "Two fingers or two thumbs encircling technique",
+        "Elbow pressure",
+        "Palm pressure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "CPR should be continued until:",
+      "options": [
+        "Signs of life appear",
+        "Rescuer is exhausted",
+        "Help arrives",
+        "Death is confirmed",
+        "All of the above"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "question": "CPR restores blood circulation and breathing in cardiac arrest.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "AED is used only in adults, not in children.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cardiac arrest occurs due to malfunction in the heart’s electrical system.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aspiration pneumonia is a complication of CPR.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Airway should always be opened using head tilt-chin lift, even with suspected neck injury.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Breathing assessment should take 5–10 seconds.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "For neonates, rescue breathing is mouth-to-mouth only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Compression depth for a child is 2 inches.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "CPR compressions for infants can be done with two fingers.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "CPR is stopped immediately after 2 minutes regardless of response.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
