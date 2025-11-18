@@ -175,4 +175,4 @@ document.addEventListener("DOMContentLoaded", () => {
 // Version
 
 const version = document.querySelector(".v");
-version.innerHTML = `v1.0.0`;
+version.innerHTML = `v1.1.0`;
