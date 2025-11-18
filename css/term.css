@@ -52,6 +52,10 @@
   font-family: "Cairo", sans-serif;
 }
 
+.subject h3 .en {
+  font-family: "Poppins", sans-serif;
+}
+
 .subject p {
   font-size: 14px;
   color: #555;
