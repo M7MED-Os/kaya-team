@@ -4,7 +4,14 @@
     {
       "title": "Nutrition",
       "video": null,
-      "quiz": null,
+      "quiz": "exam.html?file=data/subjects/c-s/n-exams/n.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Nutrition and Health",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/n-exams/nah.json",
       "file": null,
       "summary": null
     }

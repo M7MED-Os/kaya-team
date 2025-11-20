@@ -1,0 +1,295 @@
+{
+  "title": "Nutrition and Health",
+  "questions": [
+    {
+      "question": "What is the definition of nutrition?",
+      "options": [
+        "The process of digestion",
+        "The science of food and its relationship to health",
+        "The act of cooking food",
+        "The study of exercise"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which nutrient is primarily responsible for cell division and tissue repair?",
+      "options": ["Carbohydrates", "Fats", "Proteins", "Water"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which macronutrient provides the highest percentage of dietary energy?",
+      "options": ["Proteins", "Fats", "Carbohydrates", "Vitamins"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nutrient is used when other energy sources are insufficient?",
+      "options": ["Proteins", "Vitamins", "Minerals", "Water"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which system is supported by adequate nutrition to prevent infections?",
+      "options": ["Digestive", "Immune", "Endocrine", "Circulatory"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a micronutrient?",
+      "options": ["Protein", "Fat", "Vitamin", "Carbohydrate"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a macronutrient?",
+      "options": ["Vitamin", "Mineral", "Protein", "Iron"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the function of carbohydrates?",
+      "options": [
+        "Build tissue",
+        "Provide energy",
+        "Prevent disease",
+        "Regulate hormones"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which deficiency disease is caused by lack of iron?",
+      "options": ["Scurvy", "Goiter", "Anemia", "Kwashiorkor"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which chronic disease is linked to overconsumption of macronutrients?",
+      "options": ["Scurvy", "Goiter", "Diabetes", "Anemia"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nutrient group includes trace elements?",
+      "options": [
+        "Macronutrients",
+        "Micronutrients",
+        "Carbohydrates",
+        "Proteins"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which food group is considered protective?",
+      "options": ["Cereals", "Fats", "Vegetables and fruits", "Meat"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which food group provides energy?",
+      "options": ["Milk", "Meat", "Cereals and sugars", "Vegetables"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which food group is considered body-building?",
+      "options": ["Fruits", "Fish and eggs", "Sugars", "Tubers"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a source of micronutrients?",
+      "options": ["Meat", "Cereals", "Green leafy vegetables", "Yam"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a source of macronutrients?",
+      "options": ["Eggs", "Fermented food", "Cereals", "Leafy vegetables"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nutrient helps regulate body temperature?",
+      "options": ["Protein", "Fat", "Water", "Vitamin"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nutrient is required in minute quantities?",
+      "options": ["Carbohydrates", "Proteins", "Vitamins", "Fats"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a consequence of micronutrient deficiency?",
+      "options": ["Kwashiorkor", "Marasmus", "Scurvy", "Obesity"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a consequence of macronutrient deficiency?",
+      "options": ["Goiter", "Scurvy", "Kwashiorkor", "Liver damage"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which food group includes milk, yogurt, and cheese?",
+      "options": ["Meat group", "Fruit group", "Dairy group", "Cereal group"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which food group includes bread, rice, and pasta?",
+      "options": ["Meat group", "Cereal group", "Fruit group", "Dairy group"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which food group includes fats, oils, and sweets?",
+      "options": [
+        "Energy group",
+        "Protective group",
+        "Dairy group",
+        "Fats group"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which nutrient group contributes to body growth and disease prevention?",
+      "options": ["Macronutrients", "Micronutrients", "Proteins", "Fats"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which nutrient group provides energy for metabolism?",
+      "options": ["Micronutrients", "Vitamins", "Macronutrients", "Minerals"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a trace element?",
+      "options": ["Protein", "Vitamin", "Iron", "Carbohydrate"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT a micronutrient?",
+      "options": ["Vitamin", "Mineral", "Protein", "Antioxidant"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT a macronutrient?",
+      "options": ["Fat", "Protein", "Carbohydrate", "Vitamin"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which food group includes legumes and pulses?",
+      "options": ["Animal foods", "Cereals", "Vegetables", "Pulses"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which food group includes sugar and jaggery?",
+      "options": ["Fats group", "Energy group", "Sweet group", "Sugar group"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is a function of food?",
+      "options": [
+        "Entertainment",
+        "Energy production",
+        "Decoration",
+        "Storage"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a function of food?",
+      "options": [
+        "Building tissue",
+        "Providing energy",
+        "Causing disease",
+        "Vital functions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the role of the food pyramid?",
+      "options": [
+        "To classify diseases",
+        "To guide exercise routines",
+        "To establish dietary guidelines",
+        "To measure body weight"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which group in the food pyramid includes fruits and vegetables?",
+      "options": [
+        "Meat group",
+        "Cereal group",
+        "Fruit and vegetable group",
+        "Dairy group"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which group in the food pyramid includes meat and poultry?",
+      "options": ["Fruit group", "Meat group", "Cereal group", "Dairy group"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nutrition helps prevent chronic diseases.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Micronutrients are required in large quantities.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Proteins are considered micronutrients.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Carbohydrates provide energy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vitamins are examples of macronutrients.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anemia is caused by micronutrient deficiency.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The food pyramid includes five major food groups.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Water is one of the six components of an adequate diet.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fats are considered protective foods.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Energy is required for movement and learning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Micronutrients are also called major elements.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Macronutrients are available in high concentration in the body.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Overconsumption of vitamins can cause liver damage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nutrition has no impact on mental health.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Good nutrition supports reproductive health and prevents maternal complications.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
