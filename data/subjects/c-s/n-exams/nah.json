@@ -32,11 +32,6 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is a micronutrient?",
-      "options": ["Protein", "Fat", "Vitamin", "Carbohydrate"],
-      "correctIndex": 2
-    },
-    {
       "question": "Which of the following is a macronutrient?",
       "options": ["Vitamin", "Mineral", "Protein", "Iron"],
       "correctIndex": 2
@@ -117,22 +112,17 @@
       "correctIndex": 2
     },
     {
-      "question": "Which food group includes milk, yogurt, and cheese?",
-      "options": ["Meat group", "Fruit group", "Dairy group", "Cereal group"],
-      "correctIndex": 2
-    },
-    {
       "question": "Which food group includes bread, rice, and pasta?",
       "options": ["Meat group", "Cereal group", "Fruit group", "Dairy group"],
       "correctIndex": 1
     },
     {
-      "question": "Which food group includes fats, oils, and sweets?",
+      "question": "Which food group includes fats and oils?",
       "options": [
-        "Energy group",
-        "Protective group",
-        "Dairy group",
-        "Fats group"
+        "Bodybuilding food",
+        "Protective food",
+        "Dairy food",
+        "Energy-giving food"
       ],
       "correctIndex": 3
     },
@@ -153,21 +143,16 @@
     },
     {
       "question": "Which of the following is NOT a micronutrient?",
-      "options": ["Vitamin", "Mineral", "Protein", "Antioxidant"],
+      "options": ["Vitamin", "Mineral", "Fiber", "Antioxidant"],
       "correctIndex": 2
     },
     {
       "question": "Which of the following is NOT a macronutrient?",
-      "options": ["Fat", "Protein", "Carbohydrate", "Vitamin"],
+      "options": ["Fiber", "Protein", "Carbohydrate", "Vitamin"],
       "correctIndex": 3
     },
     {
-      "question": "Which food group includes legumes and pulses?",
-      "options": ["Animal foods", "Cereals", "Vegetables", "Pulses"],
-      "correctIndex": 3
-    },
-    {
-      "question": "Which food group includes sugar and jaggery?",
+      "question": "Which food group includes jaggery?",
       "options": ["Fats group", "Energy group", "Sweet group", "Sugar group"],
       "correctIndex": 3
     },
@@ -202,29 +187,19 @@
       "correctIndex": 2
     },
     {
-      "question": "Which group in the food pyramid includes fruits and vegetables?",
+      "question": "Which group in the food pyramid includes rice and pasta?",
       "options": [
         "Meat group",
         "Cereal group",
         "Fruit and vegetable group",
         "Dairy group"
       ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Which group in the food pyramid includes meat and poultry?",
-      "options": ["Fruit group", "Meat group", "Cereal group", "Dairy group"],
       "correctIndex": 1
     },
     {
       "question": "Nutrition helps prevent chronic diseases.",
       "options": ["True", "False"],
       "correctIndex": 0
-    },
-    {
-      "question": "Micronutrients are required in large quantities.",
-      "options": ["True", "False"],
-      "correctIndex": 1
     },
     {
       "question": "Proteins are considered micronutrients.",
