@@ -2,9 +2,9 @@
   "subject": "تغذية",
   "lectures": [
     {
-      "title": "المحاضرة الاولى + نص المحاضرة التانيه",
+      "title": "Nutrition",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/n-exams/n-nandh.json",
+      "quiz": "exam.html?file=data/subjects/c-s/n-exams/n.json",
       "file": null,
       "summary": null
     }

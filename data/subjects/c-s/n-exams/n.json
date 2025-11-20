@@ -1,0 +1,301 @@
+{
+  "title": "Nutrition",
+  "questions": [
+    {
+      "question": "What is the primary function of carbohydrates?",
+      "options": [
+        "Growth and repair",
+        "Energy source",
+        "Hormone production",
+        "Bone formation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which nutrient is essential for growth, repair, and maintenance?",
+      "options": ["Fats", "Proteins", "Vitamins", "Carbohydrates"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a micronutrient deficiency disease?",
+      "options": ["Obesity", "Rickets", "Overweight", "Hypertension"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the role of vitamins in the body?",
+      "options": [
+        "Provide energy",
+        "Build bones",
+        "Regulate body processes",
+        "Store fat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who is a nutritionist?",
+      "options": [
+        "A doctor",
+        "A food scientist",
+        "A professional advising on food and health",
+        "A chef"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is dietetics?",
+      "options": [
+        "Study of food chemistry",
+        "Application of nutrition principles",
+        "Cooking techniques",
+        "Food marketing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Applied nutrition is used in which setting?",
+      "options": [
+        "Laboratory",
+        "Public health and clinical",
+        "Restaurants",
+        "Food factories"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a form of malnutrition?",
+      "options": [
+        "Balanced diet",
+        "Overnutrition",
+        "Hydration",
+        "Physical fitness"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the effect of good nutrition on muscles?",
+      "options": [
+        "Flabby muscles",
+        "Weak muscles",
+        "Strong, well-developed muscles",
+        "Muscle cramps"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which vitamin deficiency causes night blindness?",
+      "options": ["Vitamin B", "Vitamin C", "Vitamin D", "Vitamin A"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is a sign of malnutrition in teeth and gums?",
+      "options": [
+        "Healthy gums",
+        "Well-formed teeth",
+        "Dental caries and bleeding gums",
+        "White teeth"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a sign of good nutrition in posture?",
+      "options": [
+        "Rounded shoulders",
+        "Protruding abdomen",
+        "Upright posture",
+        "Spinal deformities"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nutrient helps in building bones and teeth?",
+      "options": ["Carbohydrates", "Proteins", "Minerals", "Fats"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the definition of nutrition?",
+      "options": [
+        "Cooking food",
+        "Science of food and its relation to health",
+        "Food marketing",
+        "Food preservation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a main nutrient group?",
+      "options": ["Carbohydrates", "Proteins", "Water", "Vitamins"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the effect of malnutrition on the nervous system?",
+      "options": [
+        "Calm and cheerful",
+        "Quick learner",
+        "Irritable and slow learner",
+        "Energetic"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a benefit of good nutrition?",
+      "options": [
+        "Frequent infections",
+        "Low productivity",
+        "High resistance to disease",
+        "Fatigue"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common sign of overnutrition?",
+      "options": ["Stunting", "Wasting", "Obesity", "Anemia"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a function of fats?",
+      "options": [
+        "Regulate body temperature",
+        "Build bones",
+        "Energy storage and insulation",
+        "Produce enzymes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the impact of good nutrition on learning?",
+      "options": [
+        "Poor concentration",
+        "Slow learner",
+        "Quick to learn",
+        "Irritability"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the effect of malnutrition on breathing?",
+      "options": [
+        "Free breathing",
+        "Mouth breathing and enlarged adenoids",
+        "Deep breathing",
+        "Rapid breathing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a sign of good skin and mucous membranes?",
+      "options": [
+        "Dry skin",
+        "Rough skin",
+        "Smooth skin and healthy pink mucosa",
+        "Pale mucosa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the effect of malnutrition on energy levels?",
+      "options": [
+        "High energy",
+        "Fatigue and tiredness",
+        "Hyperactivity",
+        "Normal energy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a sign of good hearing?",
+      "options": [
+        "Hearing impairment",
+        "Normal hearing",
+        "Ear discharge",
+        "Ear pain"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the effect of malnutrition on tonsils?",
+      "options": [
+        "Small and clean",
+        "Enlarged and inflamed",
+        "Absent",
+        "Normal size"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Nutrition is the science of food and its relationship to health.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Proteins are primarily used for energy storage.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nutritionist plans and supervises therapeutic diets.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Applied nutrition is only used in food industries.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Malnutrition includes both undernutrition and overnutrition.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Good nutrition leads to poor resistance to infection.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Obesity is a form of undernutrition.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Micronutrient deficiencies can cause diseases like anemia and scurvy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Healthy children tend to learn better.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vitamins are used to build muscles.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Malnutrition has no impact on the nervous system.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Rickets is caused by a deficiency in Vitamin D.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Night blindness is associated with Vitamin A deficiency.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Dietetics involves food marketing strategies.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Good nutrition supports proper organ function and reproduction.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
