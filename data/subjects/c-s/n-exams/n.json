@@ -32,16 +32,6 @@
       "correctIndex": 2
     },
     {
-      "question": "Who is a nutritionist?",
-      "options": [
-        "A doctor",
-        "A food scientist",
-        "A professional advising on food and health",
-        "A chef"
-      ],
-      "correctIndex": 2
-    },
-    {
       "question": "What is dietetics?",
       "options": [
         "Study of food chemistry",
@@ -112,16 +102,6 @@
       "correctIndex": 2
     },
     {
-      "question": "What is the definition of nutrition?",
-      "options": [
-        "Cooking food",
-        "Science of food and its relation to health",
-        "Food marketing",
-        "Food preservation"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "Which of the following is NOT a main nutrient group?",
       "options": ["Carbohydrates", "Proteins", "Water", "Vitamins"],
       "correctIndex": 2
@@ -162,16 +142,6 @@
       "correctIndex": 2
     },
     {
-      "question": "What is the impact of good nutrition on learning?",
-      "options": [
-        "Poor concentration",
-        "Slow learner",
-        "Quick to learn",
-        "Irritability"
-      ],
-      "correctIndex": 2
-    },
-    {
       "question": "What is the effect of malnutrition on breathing?",
       "options": [
         "Free breathing",
@@ -182,13 +152,8 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is a sign of good skin and mucous membranes?",
-      "options": [
-        "Dry skin",
-        "Rough skin",
-        "Smooth skin and healthy pink mucosa",
-        "Pale mucosa"
-      ],
+      "question": "Which of the following is a sign of good skin?",
+      "options": ["Dry skin", "Rough skin", "Smooth skin", "Pale skin"],
       "correctIndex": 2
     },
     {
@@ -202,23 +167,8 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is a sign of good hearing?",
-      "options": [
-        "Hearing impairment",
-        "Normal hearing",
-        "Ear discharge",
-        "Ear pain"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "What is the effect of malnutrition on tonsils?",
-      "options": [
-        "Small and clean",
-        "Enlarged and inflamed",
-        "Absent",
-        "Normal size"
-      ],
+      "options": ["Increase size", "Decrease size", "Normal size", "No effect"],
       "correctIndex": 1
     },
 
@@ -286,11 +236,6 @@
       "question": "Night blindness is associated with Vitamin A deficiency.",
       "options": ["True", "False"],
       "correctIndex": 0
-    },
-    {
-      "question": "Dietetics involves food marketing strategies.",
-      "options": ["True", "False"],
-      "correctIndex": 1
     },
     {
       "question": "Good nutrition supports proper organ function and reproduction.",
