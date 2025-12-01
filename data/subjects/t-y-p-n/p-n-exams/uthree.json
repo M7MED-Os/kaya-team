@@ -42,11 +42,6 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is a classic symptom of diabetes?",
-      "options": ["Polyuria", "Bradycardia", "Hypotension", "Hypothermia"],
-      "correctIndex": 0
-    },
-    {
       "question": "Polyphagia means:",
       "options": [
         "Excessive drinking",
@@ -76,7 +71,7 @@
       "options": [
         "Raise blood glucose levels",
         "Maintain glucose near normal",
-        "Increase appetite",
+        "Decrease blood glucose levels",
         "Lower blood pressure"
       ],
       "correctIndex": 1
@@ -114,7 +109,7 @@
     {
       "question": "Type 2 diabetes prevention includes:",
       "options": [
-        "Smoking",
+        "Hard exercise",
         "Weight loss",
         "High sugar diet",
         "Sedentary lifestyle"
@@ -124,20 +119,10 @@
     {
       "question": "Nursing care for diabetes includes:",
       "options": [
-        "Avoid glucose monitoring",
+        "Hard exercise",
         "Glycemic control",
         "High-fat diet",
         "Avoid exercise"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Foot care for diabetics includes:",
-      "options": [
-        "Walking barefoot",
-        "Daily inspection",
-        "Ignoring minor cuts",
-        "Avoiding shoes"
       ],
       "correctIndex": 1
     },
@@ -198,17 +183,12 @@
     },
     {
       "question": "Newborn screening for hypothyroidism uses:",
-      "options": [
-        "Heel-prick sample",
-        "Blood pressure measurement",
-        "Ultrasound",
-        "Urine test"
-      ],
+      "options": ["Heel-prick sample", "CT scan", "Ultrasound", "Urine test"],
       "correctIndex": 0
     },
     {
       "question": "The main treatment for congenital hypothyroidism is:",
-      "options": ["Insulin", "Levothyroxine", "Iodine injections", "Vitamin C"],
+      "options": ["Insulin", "Levothyroxine", "Iodine injections", "Vitamin D"],
       "correctIndex": 1
     },
     {
@@ -228,16 +208,6 @@
         "Mental disability",
         "Hyperactivity",
         "Overgrowth"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Hyperthyroidism refers to:",
-      "options": [
-        "Low thyroid hormone",
-        "Overactive thyroid",
-        "Inflamed pancreas",
-        "Low iodine levels"
       ],
       "correctIndex": 1
     },
@@ -307,7 +277,7 @@
         "Increase thyroid hormone",
         "Permanently destroy thyroid cells",
         "Treat diabetes",
-        "Treat anemia"
+        "Treat Hypothyrodism"
       ],
       "correctIndex": 1
     },
@@ -340,16 +310,6 @@
         "Hydration"
       ],
       "correctIndex": 1
-    },
-    {
-      "question": "A sign of Graves' disease is:",
-      "options": [
-        "Protruding eyes",
-        "Hair loss",
-        "Blue sclera",
-        "Hearing loss"
-      ],
-      "correctIndex": 0
     },
     {
       "question": "Physiological goiter occurs during:",
@@ -387,7 +347,7 @@
       "options": [
         "Hyperthyroidism",
         "Type 1 diabetes",
-        "Type 2 diabetes only",
+        "Graves' disease",
         "Hypothyroidism"
       ],
       "correctIndex": 1
@@ -470,8 +430,8 @@
     {
       "question": "Thyroiditis leads to:",
       "options": [
-        "Low thyroid hormone only",
-        "Leakage of excess hormone",
+        "Low TSH hormone",
+        "Leakage of excess thyroid hormone",
         "High insulin",
         "Low glucose"
       ],
@@ -509,9 +469,9 @@
     },
 
     {
-      "question": "Polyuria means increased urination.",
+      "question": "Polyuria means increased defecation.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Type 1 diabetes is preventable with exercise.",
@@ -584,9 +544,9 @@
       "correctIndex": 0
     },
     {
-      "question": "Obesity is a risk factor for Type 2 diabetes.",
+      "question": "Obesity is a risk factor for Type 1 diabetes.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Thyroid nodules can cause hyperthyroidism.",
@@ -657,6 +617,67 @@
       "question": "Goiter can occur due to iodine deficiency.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT a symptom of hyperthyroidism?",
+      "options": ["Weight gain", "Tremors", "Heat intolerance", "Insomnia"],
+      "correctIndex": 0
+    },
+
+    {
+      "question": "Which laboratory test is most specific for diagnosing Type 1 diabetes?",
+      "options": [
+        "Liver function test",
+        "Autoantibody test",
+        "Thyroid function test",
+        "Urine culture"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Which hormone is elevated in untreated congenital hypothyroidism?",
+      "options": ["T3", "TSH", "GH", "Cortisol"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "A common sign of severe hyperthyroidism in children is:",
+      "options": ["Dry skin", "Puffy face", "Sweating", "Weight gain"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which condition is commonly associated with insulin resistance?",
+      "options": [
+        "Type 1 diabetes",
+        "Type 2 diabetes",
+        "Congenital hypothyroidism",
+        "Hyperthyroidism"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "The thyroid gland requires which mineral to produce hormones?",
+      "options": ["Calcium", "Iodine", "Iron", "Zinc"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Which test is used to assess thyroid gland structure?",
+      "options": ["MRI", "Thyroid ultrasound", "ECG", "Chest X-ray"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Which finding is expected in hyperthyroidism?",
+      "options": [
+        "Bradycardia",
+        "Hypertension",
+        "Weight gain",
+        "Cold intolerance"
+      ],
+      "correctIndex": 1
     }
   ]
 }
