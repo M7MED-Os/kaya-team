@@ -1,0 +1,683 @@
+{
+  "title": "Endocrine and Metabolic Disorders",
+  "questions": [
+    {
+      "question": "Diabetes mellitus is characterized by:",
+      "options": [
+        "Low blood glucose",
+        "Hyperglycemia",
+        "Excess insulin production",
+        "Absence of glucagon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Type 1 diabetes is mainly caused by:",
+      "options": [
+        "Obesity",
+        "Autoimmune destruction of beta cells",
+        "Lack of exercise",
+        "High-fat diet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Type 2 diabetes commonly begins with:",
+      "options": [
+        "Insulin deficiency",
+        "Insulin resistance",
+        "Thyroid dysfunction",
+        "Kidney failure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A major risk factor for Type 2 diabetes is:",
+      "options": [
+        "Underweight",
+        "Excessive body weight",
+        "High protein intake",
+        "High iodine intake"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Polyphagia means:",
+      "options": [
+        "Excessive drinking",
+        "Excessive urination",
+        "Excessive eating",
+        "Weight loss"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Diagnosis of diabetes includes:",
+      "options": [
+        "Hemoglobin",
+        "Fasting blood glucose",
+        "Serum calcium",
+        "Liver enzymes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Management of diabetes includes how many meals per day?",
+      "options": ["Three meals", "Two meals", "Six meals", "One meal"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The aim of insulin therapy is to:",
+      "options": [
+        "Raise blood glucose levels",
+        "Maintain glucose near normal",
+        "Decrease blood glucose levels",
+        "Lower blood pressure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Physical exercise in diabetics helps by:",
+      "options": [
+        "Increasing blood glucose",
+        "Increasing anxiety",
+        "Lowering insulin requirements",
+        "Decreasing circulation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A major acute complication of diabetes is:",
+      "options": ["Hypothyroidism", "Hypoglycemia", "Appendicitis", "Anemia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A long-term complication of diabetes is:",
+      "options": ["Hepatitis", "Diabetic retinopathy", "Asthma", "Ulcers"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Type 1 diabetes prevention:",
+      "options": [
+        "Possible through diet",
+        "Possible through exercise",
+        "No known preventive measure",
+        "Vaccine available"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Type 2 diabetes prevention includes:",
+      "options": [
+        "Hard exercise",
+        "Weight loss",
+        "High sugar diet",
+        "Sedentary lifestyle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nursing care for diabetes includes:",
+      "options": [
+        "Hard exercise",
+        "Glycemic control",
+        "High-fat diet",
+        "Avoid exercise"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Congenital hypothyroidism is:",
+      "options": [
+        "An adult disorder",
+        "Present at birth",
+        "Caused by high thyroid hormone",
+        "A kidney disorder"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A cause of congenital hypothyroidism is:",
+      "options": [
+        "Thyroid dysgenesis",
+        "High iodine intake",
+        "Low glucose",
+        "Viral infection"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ectopic thyroid gland means:",
+      "options": [
+        "Missing thyroid",
+        "Thyroid in abnormal location",
+        "Enlarged thyroid",
+        "Normal thyroid position"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A major symptom of congenital hypothyroidism is:",
+      "options": ["Tachycardia", "Macroglossia", "Weight loss", "Sweating"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Delayed dentition is associated with:",
+      "options": [
+        "Hyperthyroidism",
+        "Congenital hypothyroidism",
+        "Diabetes",
+        "Anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Constipation in infants can be a sign of:",
+      "options": [
+        "Hyperthyroidism",
+        "Congenital hypothyroidism",
+        "Diabetes",
+        "Dehydration only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Newborn screening for hypothyroidism uses:",
+      "options": ["Heel-prick sample", "CT scan", "Ultrasound", "Urine test"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The main treatment for congenital hypothyroidism is:",
+      "options": ["Insulin", "Levothyroxine", "Iodine injections", "Vitamin D"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Levothyroxine for infants should be:",
+      "options": [
+        "Swallowed whole",
+        "Crushed and mixed with water",
+        "Injected",
+        "Mixed with soy formula"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Delayed treatment of congenital hypothyroidism may cause:",
+      "options": [
+        "Short-term fever",
+        "Mental disability",
+        "Hyperactivity",
+        "Overgrowth"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A major cause of hyperthyroidism in children is:",
+      "options": [
+        "Pituitary tumor",
+        "Graves' disease",
+        "Liver disease",
+        "Kidney infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A common sign of hyperthyroidism is:",
+      "options": [
+        "Weight gain",
+        "Cold intolerance",
+        "Protrusion of eyeballs",
+        "Constipation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Hyperthyroidism affects the heart by causing:",
+      "options": [
+        "Bradycardia",
+        "Fast or irregular heart rate",
+        "No change",
+        "Heart block"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A common digestive symptom of hyperthyroidism is:",
+      "options": [
+        "Severe constipation",
+        "Loose stools",
+        "Vomiting only",
+        "Absent bowel sounds"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A psychological sign of hyperthyroidism is:",
+      "options": [
+        "Aggression",
+        "Calmness",
+        "Anxiety and irritability",
+        "Apathy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Diagnosis of hyperthyroidism includes:",
+      "options": [
+        "ECG only",
+        "Thyroid ultrasound",
+        "Urine test",
+        "Skin biopsy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Radioactive iodine therapy is used to:",
+      "options": [
+        "Increase thyroid hormone",
+        "Permanently destroy thyroid cells",
+        "Treat diabetes",
+        "Treat Hypothyrodism"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Thyroidectomy means:",
+      "options": [
+        "Removing a kidney",
+        "Removing the thyroid gland",
+        "Removing lymph nodes",
+        "Removing liver tissue"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nursing care for hyperthyroidism includes:",
+      "options": [
+        "Provide warm environment",
+        "Provide cool environment",
+        "High-fat diet",
+        "Increase activity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hyperthyroidism patients should avoid:",
+      "options": [
+        "High calorie diet",
+        "Foods causing loose stools",
+        "Rest",
+        "Hydration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Physiological goiter occurs during:",
+      "options": [
+        "Childhood infections",
+        "Puberty or pregnancy",
+        "Old age",
+        "Severe dehydration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Endemic goiter is caused by:",
+      "options": [
+        "High iodine intake",
+        "Iodine deficiency",
+        "High calcium",
+        "Low glucose"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Toxic goiter results in:",
+      "options": [
+        "Slow metabolism",
+        "Accelerated metabolism",
+        "No change",
+        "Low blood pressure"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "DKA is mainly associated with:",
+      "options": [
+        "Hyperthyroidism",
+        "Type 1 diabetes",
+        "Graves' disease",
+        "Hypothyroidism"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with diabetes should always carry:",
+      "options": [
+        "Extra insulin",
+        "A source of sugar",
+        "Antibiotics",
+        "A thermometer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which diet component should be 45-50% for diabetics?",
+      "options": ["Protein", "Carbohydrates", "Fats", "Vitamins"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which hormone stimulates the thyroid gland?",
+      "options": ["ACTH", "TSH", "FSH", "ADH"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn with hypothyroidism often has:",
+      "options": [
+        "Bulging eyes",
+        "Hoarse cry",
+        "Rapid heartbeat",
+        "Weight loss"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A common sign of severe hypothyroidism in infants is:",
+      "options": ["Hyperactivity", "Lethargy", "Sweating", "Tremors"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Thyroid hormone is essential for:",
+      "options": [
+        "Bone length only",
+        "Brain maturation",
+        "Kidney filtration",
+        "Liver detoxification"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vitamin D is given in congenital hypothyroidism to prevent:",
+      "options": ["Anemia", "Rickets", "Asthma", "Hypoglycemia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Signs of hyperthyroidism include:",
+      "options": [
+        "Cold skin",
+        "Warm moist skin",
+        "Dry thick skin",
+        "Pale skin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which test helps detect autoimmune hyperthyroidism?",
+      "options": ["CBC", "Antibody test", "Urine culture", "Stool exam"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A dietary factor contributing to Type 2 diabetes is:",
+      "options": [
+        "High iodine",
+        "High calorie diet",
+        "Low protein",
+        "Vegan diet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Thyroiditis leads to:",
+      "options": [
+        "Low TSH hormone",
+        "Leakage of excess thyroid hormone",
+        "High insulin",
+        "Low glucose"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Poor muscle tone in infants may indicate:",
+      "options": [
+        "Hyperthyroidism",
+        "Congenital hypothyroidism",
+        "DKA",
+        "Hypertension"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A rapid growth spurt is a risk factor for:",
+      "options": [
+        "Type 2 diabetes",
+        "Congenital hypothyroidism",
+        "Hyperthyroidism",
+        "Goiter only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Thyroid nodules can cause:",
+      "options": [
+        "Hypoglycemia",
+        "Hyperthyroidism",
+        "Dehydration",
+        "Constipation"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Polyuria means increased defecation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Type 1 diabetes is preventable with exercise.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Insulin resistance is associated with Type 2 diabetes.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Frequent infections can be a sign of diabetes.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hypoglycemia is an acute complication of diabetes.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Levothyroxine should be mixed with soy formula.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Congenital hypothyroidism can cause delayed mental development.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hyperthyroidism leads to cold intolerance.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Graves' disease is an autoimmune disorder.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Radioactive iodine therapy destroys thyroid cells.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Foot care is essential for diabetic patients.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Type 2 diabetes is not influenced by lifestyle factors.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A large thick tongue is a sign of congenital hypothyroidism.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Infants with congenital hypothyroidism always show symptoms at birth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hyperthyroid patients often experience tremors.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Obesity is a risk factor for Type 1 diabetes.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Thyroid nodules can cause hyperthyroidism.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fatigue can be present in both hypo- and hyperthyroidism.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Insulin therapy aims to minimize long-term complications.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "TSH is high in untreated congenital hypothyroidism.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "DKA may cause coma if untreated.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Constipation is common in congenital hypothyroidism.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hyperthyroidism slows down metabolism.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Smoking increases the risk of Type 2 diabetes.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Infants with hypothyroidism may have prolonged jaundice.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Thyroid hormone affects brain development.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Graves' disease can cause eye protrusion.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Insulin should be stored properly to maintain effectiveness.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hyperthyroid children may have insomnia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Goiter can occur due to iodine deficiency.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT a symptom of hyperthyroidism?",
+      "options": ["Weight gain", "Tremors", "Heat intolerance", "Insomnia"],
+      "correctIndex": 0
+    },
+
+    {
+      "question": "Which laboratory test is most specific for diagnosing Type 1 diabetes?",
+      "options": [
+        "Liver function test",
+        "Autoantibody test",
+        "Thyroid function test",
+        "Urine culture"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Which hormone is elevated in untreated congenital hypothyroidism?",
+      "options": ["T3", "TSH", "GH", "Cortisol"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "A common sign of severe hyperthyroidism in children is:",
+      "options": ["Dry skin", "Puffy face", "Sweating", "Weight gain"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which condition is commonly associated with insulin resistance?",
+      "options": [
+        "Type 1 diabetes",
+        "Type 2 diabetes",
+        "Congenital hypothyroidism",
+        "Hyperthyroidism"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "The thyroid gland requires which mineral to produce hormones?",
+      "options": ["Calcium", "Iodine", "Iron", "Zinc"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Which test is used to assess thyroid gland structure?",
+      "options": ["MRI", "Thyroid ultrasound", "ECG", "Chest X-ray"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Which finding is expected in hyperthyroidism?",
+      "options": [
+        "Bradycardia",
+        "Hypertension",
+        "Weight gain",
+        "Cold intolerance"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
