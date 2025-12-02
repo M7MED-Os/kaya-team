@@ -406,9 +406,6 @@
       ],
       "correctIndex": 0
     },
-
-    /* TRUE / FALSE (20 items) */
-
     {
       "question": "Neonates have strong immune systems at birth.",
       "options": ["True", "False"],
