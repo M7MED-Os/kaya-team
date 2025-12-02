@@ -17,16 +17,6 @@
       "correctIndex": 3
     },
     {
-      "question": "Infection of a newborn is defined as:",
-      "options": [
-        "Invasion of normal flora",
-        "Invasion and uncontrollable growth of pathogenic organisms",
-        "Excessive crying",
-        "Poor feeding"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "Which is a mode of antenatal infection transmission?",
       "options": [
         "Transplacental",
@@ -39,8 +29,8 @@
     {
       "question": "Ophthalmia Neonatorum is primarily caused by:",
       "options": [
-        "Candida",
-        "Neisseria gonorrhea or Chlamydia",
+        "Candida albicans",
+        "Neisseria gonorrhea",
         "E. coli",
         "Streptococcus B"
       ],
@@ -57,16 +47,6 @@
       "correctIndex": 1
     },
     {
-      "question": "A major complication of untreated Ophthalmia Neonatorum is:",
-      "options": [
-        "Otitis media",
-        "Corneal ulceration and vision loss",
-        "Respiratory failure",
-        "Skin breakdown"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "The preferred drug for Ophthalmia Neonatorum is:",
       "options": ["Nystatin", "Penicillin", "Ampicillin", "Acyclovir"],
       "correctIndex": 1
@@ -76,8 +56,8 @@
       "options": [
         "Staphylococcus aureus",
         "Candida albicans",
-        "Pseudomonas",
-        "CMV"
+        "Neisseria gonorrhea",
+        "E. coli"
       ],
       "correctIndex": 1
     },
@@ -96,8 +76,8 @@
       "options": [
         "Penicillin",
         "Mycostatin (Nystatin)",
-        "Acyclovir",
-        "Gentamicin"
+        "Incision and drainage",
+        "Neomycin"
       ],
       "correctIndex": 1
     },
@@ -132,16 +112,6 @@
       "correctIndex": 0
     },
     {
-      "question": "Impetigo first appears as:",
-      "options": [
-        "Blisters",
-        "Erythematous papules → pustules → crusts",
-        "White patches",
-        "Red swollen eyelids"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "A potential complication of impetigo is:",
       "options": ["Pneumonia", "Sepsis", "Vision loss", "Fractures"],
       "correctIndex": 1
@@ -149,10 +119,10 @@
     {
       "question": "Umbilical infection is commonly caused by:",
       "options": [
-        "E. coli or Staphylococci",
-        "Candida",
-        "Varicella",
-        "Neisseria"
+        "E. coli",
+        "Candida albicans",
+        "Streptococcus",
+        "Neisseria gonorrhea"
       ],
       "correctIndex": 0
     },
@@ -199,10 +169,10 @@
     {
       "question": "Neonatal meningitis is most often caused by:",
       "options": [
-        "Group B Streptococcus and E. coli",
-        "Viruses only",
-        "Candida species",
-        "Protozoa"
+        "Group B Streptococcus",
+        "Toxoplasma",
+        "Candida albicans",
+        "Clostridium tetani"
       ],
       "correctIndex": 0
     },
@@ -242,13 +212,8 @@
       "correctIndex": 1
     },
     {
-      "question": "Newborn infection prevention relies primarily on:",
-      "options": ["Handwashing", "Antibiotics", "UV light", "Isolation only"],
-      "correctIndex": 0
-    },
-    {
       "question": "Which medication is used locally for impetigo?",
-      "options": ["Acyclovir", "Neomycin ointment", "Nystatin", "Penicillin V"],
+      "options": ["Acyclovir", "Neomycin", "Nystatin", "Penicillin V"],
       "correctIndex": 1
     },
     {
@@ -274,7 +239,7 @@
     {
       "question": "A preventive measure for congenital TORCH infection is:",
       "options": [
-        "Handwashing only",
+        "Kept eye clean with Chloramphenicol",
         "Immunizing mother before pregnancy",
         "Extra vitamins",
         "C-section delivery"
@@ -294,9 +259,9 @@
     {
       "question": "Treatment of tetanus neonatorum includes:",
       "options": [
-        "Tetanus antitoxin and sedatives",
-        "Penicillin only",
-        "Topical ointments",
+        "Sedatives",
+        "Bactiricin or neomycin ointment",
+        "Daktarin",
         "Antiviral therapy"
       ],
       "correctIndex": 0
@@ -309,7 +274,7 @@
     {
       "question": "Which symptom is associated with impetigo?",
       "options": [
-        "Red papules → pustules → crusts",
+        "Red papules",
         "Bulging fontanel",
         "Inability to suck",
         "Oral white patches"
@@ -355,21 +320,6 @@
         "Hair loss"
       ],
       "correctIndex": 0
-    },
-    {
-      "question": "Which nursing action prevents spread of neonatal infection?",
-      "options": [
-        "Handwashing",
-        "Wearing perfume",
-        "Skipping PPE",
-        "Switching infants’ bottles"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which infection is characterized by foul-smelling umbilical stump?",
-      "options": ["Thrush", "Umbilical infection", "Meningitis", "Impetigo"],
-      "correctIndex": 1
     },
     {
       "question": "Which infection can cause blindness if untreated?",
@@ -447,11 +397,6 @@
       "correctIndex": 0
     },
     {
-      "question": "Neonatal meningitis mortality is the same in developed and developing countries.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
       "question": "Handwashing is one of the most effective methods to prevent neonatal infections.",
       "options": ["True", "False"],
       "correctIndex": 0
@@ -487,7 +432,7 @@
       "correctIndex": 0
     },
     {
-      "question": "A mother infected with rubella early in pregnancy poses no risk to the fetus.",
+      "question": "A mother infected with rubella early in pregnancy poses lower risk to the fetus than in late stage of pregnancy.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
