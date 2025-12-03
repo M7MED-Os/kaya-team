@@ -1,0 +1,515 @@
+{
+  "title": "E.N.T and Respiratory problems",
+  "questions": [
+    {
+      "question": "The most common infection of childhood is:",
+      "options": ["Pneumonia", "Common cold", "Asthma", "Otitis media"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The common cold is primarily caused by:",
+      "options": [
+        "Streptococcus",
+        "Rhinovirus and Coronavirus",
+        "Staphylococcus",
+        "Pneumococcus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is not a symptom of common cold?",
+      "options": [
+        "Nasal discharge",
+        "Feeding difficulty in infants",
+        "Cyanosis",
+        "Cough"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Antibiotics are indicated in common cold:",
+      "options": [
+        "Always",
+        "Only with fever",
+        "Never",
+        "With greenish discharge"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Acute nasopharyngitis is most common in:",
+      "options": [
+        "Adults",
+        "Infants and children",
+        "Elderly",
+        "Pregnant women"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Purulent stage of acute nasopharyngitis is caused by:",
+      "options": ["Viruses", "Bacteria", "Allergens", "Fungi"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which complication is not associated with acute nasopharyngitis?",
+      "options": ["Sinusitis", "Mastoiditis", "Brain abscess", "Diabetes"],
+      "correctIndex": 3
+    },
+    {
+      "question": "In older children, acute nasopharyngitis often presents with:",
+      "options": [
+        "Sneezing and muscular pain",
+        "Cyanosis",
+        "Convulsions",
+        "Stridor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which intervention is contraindicated in acute nasopharyngitis?",
+      "options": [
+        "Saline irrigation",
+        "Steam inhalation",
+        "Oily nasal drops",
+        "Bed rest"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Croup refers to:",
+      "options": [
+        "Tonsillitis",
+        "Laryngitis or laryngo-tracheo-bronchitis",
+        "Otitis media",
+        "Bronchial asthma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Diphtheritic croup is caused by:",
+      "options": [
+        "Rhinovirus",
+        "Corynebacterium diphtheriae",
+        "Influenza virus",
+        "Streptococcus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Inspiratory stridor is a hallmark of:",
+      "options": ["Pneumonia", "Croup", "Tonsillitis", "Otitis media"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Emergency equipment should be ready at bedside in:",
+      "options": ["Tonsillitis", "Croup", "Common cold", "Otitis media"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Tonsillitis is most common in:",
+      "options": [
+        "Adults",
+        "Children 4–6 years",
+        "Infants under 1 year",
+        "Elderly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Majority of tonsillitis cases are caused by:",
+      "options": ["Viruses", "Bacteria", "Fungi", "Parasites"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Offensive breath odor is a feature of:",
+      "options": [
+        "Acute tonsillitis",
+        "Chronic tonsillitis",
+        "Otitis media",
+        "Pneumonia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Post-operative care after tonsillectomy includes:",
+      "options": [
+        "Semi-prone position",
+        "Avoid fluids",
+        "Encourage hot foods",
+        "Encourage over-activity"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Otitis media is common in:",
+      "options": ["Adults", "Children under 3 years", "Elderly", "Teenagers"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Eustachian tube in infants is:",
+      "options": [
+        "Narrow and long",
+        "Wide, short, and straight",
+        "Absent",
+        "Curved and narrow"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Myringotomy is performed to:",
+      "options": [
+        "Remove tonsils",
+        "Drain middle ear fluid",
+        "Treat pneumonia",
+        "Relieve asthma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bronchial asthma is:",
+      "options": [
+        "Irreversible airflow obstruction",
+        "Reversible airflow obstruction",
+        "Caused only by bacteria",
+        "Common in infancy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Asthma is more common in:",
+      "options": ["Girls", "Boys", "Elderly", "Infants"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Asthmatic attacks often occur:",
+      "options": [
+        "In the morning",
+        "At night",
+        "During exercise only",
+        "After meals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is not a risk factor for asthma?",
+      "options": ["Dust mites", "Tobacco smoke", "Exercise", "Appendicitis"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Wheezing in asthma occurs mainly during:",
+      "options": ["Inspiration", "Expiration", "Both phases", "None"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most effective drug in acute asthma attack is:",
+      "options": [
+        "Corticosteroids",
+        "Epinephrine",
+        "Atropine",
+        "Potassium iodide"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Atropine is avoided in asthma because:",
+      "options": [
+        "Causes bronchospasm",
+        "Dries secretions",
+        "Increases fever",
+        "Causes cyanosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pneumonia is inflammation of:",
+      "options": ["Bronchioles", "Parenchyma of lung", "Trachea", "Sinuses"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Peak incidence of pneumonia occurs in:",
+      "options": [
+        "Summer",
+        "Late winter and early spring",
+        "Autumn",
+        "Rainy season"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Viral pneumonia is most common in children:",
+      "options": ["Under 5 years", "Over 10 years", "Adults", "Elderly"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Aspiration pneumonia is caused by:",
+      "options": [
+        "Dust",
+        "Inhalation of food/liquid/vomit",
+        "Streptococcus",
+        "Influenza virus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Severe pneumonia is characterized by:",
+      "options": [
+        "Chest retraction",
+        "Mild fever only",
+        "No respiratory distress",
+        "Normal chest wall movement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Very severe pneumonia includes:",
+      "options": [
+        "Grunting and stridor",
+        "Ability to drink normally",
+        "No cyanosis",
+        "Mild cough only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chest X-ray is used for:",
+      "options": [
+        "Diagnosis of pneumonia",
+        "Diagnosis of asthma",
+        "Diagnosis of otitis media",
+        "Diagnosis of tonsillitis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Blood cultures are positive in pneumonia in:",
+      "options": ["50% cases", "10–15% cases", "90% cases", "1% cases"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infants <2 months with pneumonia should receive:",
+      "options": [
+        "Oral amoxicillin",
+        "Gentamicin + benzylpenicillin IM",
+        "Corticosteroids only",
+        "No treatment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "IV fluids are contraindicated in pneumonia because:",
+      "options": [
+        "Cause dehydration",
+        "Increase cardiac load",
+        "Cause fever",
+        "Cause cyanosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Physiotherapy (chest percussion) is useful in:",
+      "options": ["Asthma", "Pneumonia", "Tonsillitis", "Otitis media"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Children with pneumonia often lie on:",
+      "options": ["Unaffected side", "Affected side", "Supine", "Prone"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pleural effusion often accompanies:",
+      "options": ["Common cold", "Pneumonia", "Asthma", "Otitis media"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of pneumonia involves terminal bronchioles?",
+      "options": [
+        "Lobar pneumonia",
+        "Bronchopneumonia",
+        "Interstitial pneumonia",
+        "Aspiration pneumonia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lobar pneumonia affects:",
+      "options": [
+        "One or more pulmonary lobes",
+        "Only alveolar walls",
+        "Trachea",
+        "Sinuses"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Interstitial pneumonia is confined to:",
+      "options": ["Bronchioles", "Alveolar walls", "Pleura", "Trachea"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hospital-acquired pneumonia is dangerous because:",
+      "options": [
+        "It spreads via food",
+        "Bacteria may be resistant to antibiotics",
+        "It is always viral",
+        "It occurs only in infants"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aspiration pneumonia is caused by:",
+      "options": [
+        "Dust inhalation",
+        "Inhaling saliva, food, vomit, or foreign objects",
+        "Streptococcus bacteria",
+        "Viral infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Mild pneumonia in children is characterized by:",
+      "options": [
+        "Fever, chills, malaise, cough, rapid shallow respiration",
+        "Convulsions and stridor",
+        "Cyanosis and chest retraction",
+        "Pleural effusion"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Severe pneumonia shows:",
+      "options": [
+        "Chest retraction",
+        "No fever",
+        "Normal respiration",
+        "No cough"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Very severe pneumonia includes:",
+      "options": [
+        "Grunting, stridor, inability to drink, convulsions",
+        "Mild cough only",
+        "No fever",
+        "Normal sleep"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Infants >2 months with pneumonia are treated with:",
+      "options": [
+        "Gentamicin + benzylpenicillin IM",
+        "Oral amoxicillin for 5 days",
+        "Corticosteroids only",
+        "No treatment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For fever in pneumonia, nurses may use:",
+      "options": ["Cooling sponges", "IV fluids", "Atropine", "Hot packs"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Respiration includes inhalation of oxygen and exhalation of carbon dioxide.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The upper respiratory tract includes the lungs.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The common cold is caused by rhinovirus and coronavirus.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antibiotics are recommended for common cold.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Acute nasopharyngitis is most common in infants and children.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sinusitis and mastoiditis are complications of acute nasopharyngitis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oily nasal drops are safe in infants with cold.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Croup can be caused by Corynebacterium diphtheriae.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Inspiratory stridor is a sign of croup.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Tonsillitis is rare in children under 3 years.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chronic tonsillitis may cause offensive breath odor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Post-tonsillectomy care includes semi-prone positioning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Otitis media is more common in adults than children.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infants are prone to otitis media due to short, wide Eustachian tubes.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Myringotomy is performed to drain fluid from the middle ear.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bronchial asthma is characterized by irreversible airflow obstruction.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Asthma is more common in boys than girls.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Wheezing in asthma occurs mainly during inspiration.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pneumonia is inflammation of lung parenchyma.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pleural effusion is a common accompaniment of pneumonia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
