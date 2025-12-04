@@ -107,6 +107,16 @@
       "correctIndex": 2
     },
     {
+      "question": "Antibiotics are not recommended in the common cold because:",
+      "options": [
+        "They cause nasal dryness",
+        "The infection is viral",
+        "They increase fever",
+        "They interfere with nasal drops"
+      ],
+      "correctIndex": 1
+    },
+    {
       "question": "The main function of tonsils is fighting infection",
       "options": ["True", "False"],
       "correctIndex": 0
