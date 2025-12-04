@@ -1,0 +1,510 @@
+{
+  "title": "Urinary system disorders",
+  "questions": [
+    {
+      "question": "Nephrotic syndrome is mainly caused by:",
+      "options": [
+        "Decreased glomerular filtration",
+        "Increased glomerular permeability to proteins",
+        "Tubular necrosis",
+        "Obstruction of ureters"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The hallmark of nephrotic syndrome is:",
+      "options": [
+        "Hematuria",
+        "Massive proteinuria",
+        "Glycosuria",
+        "Ketonuria"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Most common age for nephrotic syndrome:",
+      "options": ["0–1 year", "2–5 years", "8–12 years", ">15 years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with NS commonly presents with:",
+      "options": ["Polyuria", "Ascites", "Bradycardia", "Hyperthermia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Blood pressure in nephrotic syndrome is usually:",
+      "options": [
+        "High",
+        "Normal or slightly decreased",
+        "Very low",
+        "Erratic"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Lab finding confirming NS:",
+      "options": [
+        "Urine protein >2 g/24 hr",
+        "Urine glucose",
+        "Low bicarbonate",
+        "High calcium"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "First-line treatment of NS:",
+      "options": ["Antibiotics", "Corticosteroids", "Antivirals", "Vitamin D"],
+      "correctIndex": 1
+    },
+    {
+      "question": "One complication of NS:",
+      "options": [
+        "Hypotension",
+        "Pulmonary edema",
+        "Hypokalemia",
+        "Hypocalcemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Congenital NS inheritance:",
+      "options": [
+        "X-linked recessive",
+        "Autosomal recessive",
+        "Autosomal dominant",
+        "Mitochondrial"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema in NS is mainly due to:",
+      "options": [
+        "Hypernatremia",
+        "Hypoalbuminemia",
+        "Hyperkalemia",
+        "High calcium"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nursing action for edema in NS:",
+      "options": [
+        "Unlimited fluids",
+        "Daily weight monitoring",
+        "Avoid abdominal girth measurement",
+        "Encourage strenuous activity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Typical facial sign in NS:",
+      "options": ["Cyanosis", "Eyelid swelling", "Rash", "Jaundice"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "AGN commonly occurs after:",
+      "options": [
+        "Hepatitis A",
+        "Streptococcal infection",
+        "Varicella",
+        "Pneumonia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Peak age for AGN:",
+      "options": ["1–3 years", "6–7 years", "12–15 years", "Infants"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Typical AGN urine appearance:",
+      "options": ["Milky", "Clear", "Grossly bloody", "Tea brown"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Major early symptom of AGN:",
+      "options": [
+        "Hypotension",
+        "Hypertension",
+        "Excessive urination",
+        "Jaundice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Neurological complication of AGN:",
+      "options": ["Blindness", "Seizures", "Memory loss", "Depression"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Proteinuria in AGN is:",
+      "options": ["Always massive", "Variable", "Absent", "Constant high"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Treatment for AGN includes:",
+      "options": [
+        "High-sodium diet",
+        "Bed rest",
+        "Heavy exercise",
+        "No rest needed"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "AGN diagnosis is confirmed by:",
+      "options": [
+        "Chest x-ray",
+        "Throat swab for streptococcus",
+        "ECG",
+        "CT scan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "AGN urine specific gravity is usually:",
+      "options": ["Low", "High", "Zero", "Variable"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Most UTIs in children are caused by:",
+      "options": ["Staphylococcus", "E. coli", "Pseudomonas", "Fungi"],
+      "correctIndex": 1
+    },
+    {
+      "question": "UTI is more common in girls because:",
+      "options": [
+        "Narrow urethra",
+        "Short urethra",
+        "Strong urine odor",
+        "Weak pelvis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Neonate with UTI may show:",
+      "options": [
+        "Tremors",
+        "Fever & foul urine odor",
+        "Dry cough",
+        "Seizures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Main symptom in older children:",
+      "options": [
+        "Diarrhea",
+        "Urinary urgency",
+        "Sleepiness",
+        "Excessive thirst"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "First test for UTI diagnosis:",
+      "options": ["MRI", "Urinalysis", "CT scan", "Bone scan"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prevention of UTI includes:",
+      "options": [
+        "Tight nylon clothes",
+        "Wiping front to back",
+        "Low water intake",
+        "Holding urine"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prophylactic antibiotics recommended for:",
+      "options": [
+        "Mild UTI",
+        "First UTI",
+        "Recurrent febrile UTI",
+        "Viral infections"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Imaging tool for recurrent UTI:",
+      "options": ["Lung CT", "Renal ultrasound", "ECG", "EEG"],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "Acute renal failure onset is:",
+      "options": ["Slow", "Abrupt", "Gradual", "Over months"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chronic kidney failure develops over:",
+      "options": ["Days", "Weeks", "≥3 months", "Hours"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Prerenal failure is caused by:",
+      "options": [
+        "Obstruction",
+        "Decreased renal blood flow",
+        "Kidney stones",
+        "Diabetes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Postrenal failure is due to:",
+      "options": [
+        "Hypertension",
+        "Urinary obstruction",
+        "Infection",
+        "Liver failure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Intrarenal failure is caused by:",
+      "options": [
+        "Heart disease",
+        "Liver cirrhosis",
+        "Renal tissue damage",
+        "Hyperlipidemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Oliguric phase urine output:",
+      "options": [
+        " >800 ml/day",
+        "400–600 ml/day",
+        "<400 ml/day",
+        "1 liter/day"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Diuretic phase includes:",
+      "options": [
+        "Oliguria",
+        "High urine output & electrolyte losses",
+        "Hematuria",
+        "Decreased BUN"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Most dangerous electrolyte imbalance in RF:",
+      "options": [
+        "Hypocalcemia",
+        "Hyperkalemia",
+        "Hyponatremia",
+        "Hypermagnesemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cardiovascular symptom of renal failure:",
+      "options": [
+        "Bradycardia",
+        "Hypertension",
+        "Hypotension",
+        "Arrhythmia only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pulmonary sign of renal failure:",
+      "options": ["Emphysema", "Pulmonary edema", "Asthma", "Pneumonia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Metabolic change in renal failure:",
+      "options": [
+        "Metabolic alkalosis",
+        "Metabolic acidosis",
+        "Respiratory alkalosis",
+        "Neutral pH"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Neuromuscular sign in RF:",
+      "options": ["Tremors", "Muscle cramps", "Paralysis", "Aphasia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Best test to evaluate kidney size and shape:",
+      "options": ["ECG", "Renal ultrasound", "Bone scan", "CBC"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Dialysis indicated when:",
+      "options": [
+        "Child is dehydrated",
+        "Severe electrolyte disturbances",
+        "Mild hematuria",
+        "Low appetite"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cause of chronic renal failure:",
+      "options": ["Pneumonia", "Diabetes", "Asthma", "Ear infection"],
+      "correctIndex": 1
+    },
+    {
+      "question": "GI symptom in renal failure:",
+      "options": ["Vomiting", "Ulcers", "Jaundice", "Constipation only"],
+      "correctIndex": 0
+    },
+
+    {
+      "question": "Essential nursing action in RF:",
+      "options": [
+        "Free fluids",
+        "Strict I/O",
+        "High-salt food",
+        "Avoid weighing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema monitoring includes:",
+      "options": [
+        "Weekly weight",
+        "Daily weight",
+        "Twice monthly",
+        "No weighing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Uremia patient environment should be:",
+      "options": ["Loud", "Non-stimulating", "Dark", "Cold"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Diet in nephrotic syndrome:",
+      "options": [
+        "Increase sodium",
+        "Restrict sodium",
+        "No protein",
+        "High potassium"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infection prevention includes:",
+      "options": [
+        "No aseptic technique needed",
+        "Strict aseptic technique",
+        "Avoid all meds",
+        "Daily exercise"
+      ],
+      "correctIndex": 1
+    },
+
+    {
+      "question": "NS causes massive protein loss in urine.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hypertension is common in NS.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema in NS results from hypoalbuminemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Streptococcal infection may trigger AGN.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "AGN peaks at 6–7 years.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "UTI is more common in boys.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "E. coli is the main cause of UTIs.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Neonatal UTI causes diarrhea only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Renal failure may cause pulmonary edema.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hyperkalemia is a dangerous RF complication.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chronic renal failure develops over ≥3 months.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Prerenal failure results from urinary obstruction.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Diuretic phase of RF = increased urine output.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Proteinuria is always massive in AGN.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Daily weight is essential in NS.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Reduced fluid intake prevents UTI.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Renal ultrasound is important for recurrent UTI.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Metabolic acidosis is common in RF.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Dialysis is only for chronic failure.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypertension is a major sign of AGN.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
