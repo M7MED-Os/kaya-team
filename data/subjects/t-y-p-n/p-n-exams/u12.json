@@ -233,7 +233,6 @@
       "options": ["Lung CT", "Renal ultrasound", "ECG", "EEG"],
       "correctIndex": 1
     },
-
     {
       "question": "Acute renal failure onset is:",
       "options": ["Slow", "Abrupt", "Gradual", "Over months"],
@@ -359,7 +358,6 @@
       "options": ["Vomiting", "Ulcers", "Jaundice", "Constipation only"],
       "correctIndex": 0
     },
-
     {
       "question": "Essential nursing action in RF:",
       "options": [
@@ -405,7 +403,6 @@
       ],
       "correctIndex": 1
     },
-
     {
       "question": "NS causes massive protein loss in urine.",
       "options": ["True", "False"],
