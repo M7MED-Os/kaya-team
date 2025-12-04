@@ -42,14 +42,14 @@
       "correctIndex": 1
     },
     {
-      "question": "The medication Neo-synephrine (0.25%) is used to:",
+      "question": "The medication Neo-synephrine (0.25%) is used to treat:",
       "options": [
-        "Reduce fever",
-        "Decrease nasal congestion",
-        "Treat bacterial infection",
-        "Relieve sore throat"
+        "Acute Nasopharyngitis",
+        "Common cold",
+        "Tonsillitis",
+        "Pneumonia"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "A distinguishing symptom of measles early stage is:",
@@ -59,11 +59,6 @@
         "Chest pain",
         "Severe dyspnea"
       ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which complication is associated with common cold?",
-      "options": ["Appendicitis", "Mastoiditis", "Pancreatitis", "Hepatitis"],
       "correctIndex": 1
     },
     {
@@ -87,7 +82,7 @@
       "correctIndex": 2
     },
     {
-      "question": "The classic \"barking\" tight cough at night is most typical of:",
+      "question": "Tight cough at night is most typical of:",
       "options": ["Otitis media", "Pneumonia", "Croup", "Tonsillitis"],
       "correctIndex": 2
     },
@@ -112,27 +107,22 @@
       "correctIndex": 2
     },
     {
-      "question": "The main function of tonsils is:",
-      "options": [
-        "Air filtration",
-        "Speech production",
-        "Fighting infection",
-        "Digestion"
-      ],
-      "correctIndex": 2
+      "question": "The main function of tonsils is fighting infection",
+      "options": ["True", "False"],
+      "correctIndex": 0
     },
     {
       "question": "Tonsillitis is most commonly caused by:",
-      "options": ["Viral agents", "Fungi", "Parasites", "Radiation"],
+      "options": ["Viral agents", "Fungi", "Parasites", "Bacterial agents"],
       "correctIndex": 0
     },
     {
       "question": "Chronic tonsillitis may require:",
       "options": [
-        "Bone marrow transplant",
+        "Epinephrine",
         "Tonsillectomy",
-        "Chemotherapy",
-        "Dialysis"
+        "Potassium iodine",
+        "Myringotomy"
       ],
       "correctIndex": 1
     },
@@ -198,7 +188,7 @@
     },
     {
       "question": "The drug of choice for acute otitis media from pneumococcus is:",
-      "options": ["Fluconazole", "Penicillin", "Atropine", "Vitamin C"],
+      "options": ["Benzylpenicillin", "Penicillin", "Atropine", "Gentamicin"],
       "correctIndex": 1
     },
     {
@@ -207,7 +197,7 @@
         "Remove tonsils",
         "Drain middle ear fluid",
         "Treat asthma",
-        "Remove nasal polyps"
+        "Treat acute Nasopharyngitis"
       ],
       "correctIndex": 1
     },
@@ -264,20 +254,10 @@
     {
       "question": "Atropine is not used in asthma because it:",
       "options": [
-        "Is too expensive",
+        "Reise blood pressure",
         "Dries secretions",
         "Causes nausea",
         "Lowers blood pressure"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Pneumonia is defined as inflammation of:",
-      "options": [
-        "Pleural space",
-        "Lung parenchyma",
-        "Nasopharynx",
-        "Bronchi only"
       ],
       "correctIndex": 1
     },
@@ -318,17 +298,12 @@
     },
     {
       "question": "A very severe pneumonia danger sign is:",
-      "options": [
-        "Mild fever",
-        "Ability to drink normally",
-        "Convulsions",
-        "Slight cough"
-      ],
+      "options": ["Mild fever", "Stridor", "Convulsions", "Grunting"],
       "correctIndex": 2
     },
     {
-      "question": "The respiratory rate considered abnormal for a 1-month-old infant is:",
-      "options": ["25", "40", "60", "15"],
+      "question": "The respiratory rate in mild pneumonia for a 1-month-old infant is:",
+      "options": ["50", "40", "60", "30"],
       "correctIndex": 2
     },
     {
@@ -343,12 +318,7 @@
     },
     {
       "question": "Infants <2 months with pneumonia should receive:",
-      "options": [
-        "Home rest only",
-        "Gentamicin + benzylpenicillin",
-        "Flu vaccine",
-        "Oral antihistamines only"
-      ],
+      "options": ["Oral amoxicillin", "Gentamicin", "Flu vaccine", "Aspirin"],
       "correctIndex": 1
     },
     {
@@ -413,7 +383,7 @@
     },
     {
       "question": "Post-anesthesia position after tonsillectomy is:",
-      "options": ["Supine", "Prone", "Semi-prone", "Left lateral only"],
+      "options": ["Supine", "Prone", "Semi-prone", "High fowler"],
       "correctIndex": 2
     },
     {
@@ -426,8 +396,8 @@
       "options": [
         "Slow breathing",
         "Rapid shallow respiration",
-        "Absence of fever",
-        "Ear discharge"
+        "Fever",
+        "Grunting"
       ],
       "correctIndex": 1
     },
@@ -447,9 +417,9 @@
       "correctIndex": 1
     },
     {
-      "question": "Antibiotics are not recommended for common cold, even with greenish discharge.",
+      "question": "Antibiotics are recommended for common cold with greenish discharge.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Croup can result from viral or bacterial causes.",
@@ -512,11 +482,6 @@
       "correctIndex": 0
     },
     {
-      "question": "Vertical ear canals in infants protect them against otitis media.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
       "question": "Cough in the common cold may be due to post-nasal drip.",
       "options": ["True", "False"],
       "correctIndex": 0
@@ -537,9 +502,9 @@
       "correctIndex": 1
     },
     {
-      "question": "Pneumonia in children under 5 is most commonly viral.",
+      "question": "Pneumonia in children under 5 is most commonly bacterial.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     }
   ]
 }
