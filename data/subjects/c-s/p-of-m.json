@@ -14,6 +14,13 @@
       "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/pla.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Communication",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/communication.json",
+      "file": null,
+      "summary": null
     }
   ]
 }

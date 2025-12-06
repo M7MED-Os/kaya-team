@@ -1,0 +1,230 @@
+{
+  "title": "Communication",
+  "questions": [
+    {
+      "question": "Communication is the process by which people:",
+      "options": [
+        "Write documents",
+        "Exchange information or express feelings",
+        "Only interact via gestures",
+        "Focus on personal thoughts"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a level of communication?",
+      "options": [
+        "Informal communication",
+        "Intrapersonal communication",
+        "Verbal communication",
+        "Formal communication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is NOT a purpose of communication?",
+      "options": [
+        "To support decisions",
+        "To clarify ideas",
+        "To dissuade other",
+        "To express feelings"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the communication process, the individual initiating the message is called:",
+      "options": ["Decoder", "Sender", "Channel", "Feedback provider"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The communication step where a message is converted into symbols or words is called:",
+      "options": ["Decoding", "Encoding", "Perceiving", "Feedback"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Speaking and listening are the essential aspects of nonverbal communication?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In one-way communication, the receiver will provide feedback in the form of a reply to the original sender of the message?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Step is done by analyzing the message and attempting to understand it:",
+      "options": ["Understanding", "Encoding", "Thinking", "Decoding"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Step is done by transforming the thoughts of the information they want to send into a certain format:",
+      "options": ["Thinking", "Encoding", "Transmitting", "Decoding"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Continues the two-way process and includes something we can't see:",
+      "options": [
+        "Transmitting",
+        "External feedback",
+        "Internal feedback",
+        "Receiver"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "To be an effective communicator you should:",
+      "options": [
+        "Be negative",
+        "Selection of meaningless symbols",
+        "Selecting the false symbols",
+        "Positive attitude"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Interpersonal communication can involve more in formal conversation?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Small group communication can be formal or informal?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Feedback is generally delayed with mass communication?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A line of communication for the transmission of official messages and information within or outside the organization is called:",
+      "options": [
+        "Formal communication",
+        "Informal communication",
+        "Grapevine communication",
+        "Verbal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fewest words that send the message. Which of the following has the same meaning?",
+      "options": ["Brief", "Clear", "Effective tone", "Relevant"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Speak slowly and repeat important points. Which of the following characteristics?",
+      "options": ["Brief", "Clear", "Effective tone", "Relevant"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When the message contains body language sometimes it has a greater impact on communication than the verbal message?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT from the effective techniques of non-verbal communication?",
+      "options": [
+        "Personal appearance",
+        "Body language",
+        "Attending behavior",
+        "Well timed"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Touch is a powerful tool that conveys both positive and negative expressions?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The type of online chat that offers real-time text transmission over the internet is:",
+      "options": ["E-mail", "Instant messaging", "Chat rooms", "Video calls"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Downward communication flows from people at a lower level to those at a higher level?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Upward communication passes from subordinates to superiors?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Downward communication provides a means for motivating and satisfying personnel by allowing employee input?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Common means of downward communication include performance appraisal?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Diagonal flow communication is one that takes place directly between people on the same or similar organizational level?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Diagonal flow communication occurs with persons at different levels who have direct reporting relationships?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nurse–other health professionals communication is called:",
+      "options": ["Oral", "Written", "Self reflection", "Non verbal"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The receiver is responsible for encoding the message?",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Gestures are considered a form of non-verbal communication?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Eye contact during communication can indicate attentiveness and respect?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Electronic communication via computer is called:",
+      "options": ["Oral", "Written", "Self reflection"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Staff shortage is from the ____ barriers of effective communication.",
+      "options": ["Physical", "System design", "Attitudinal", "Psychological"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Poor management and lack of consultation with employees is:",
+      "options": ["Physical", "System design", "Attitudinal", "Psychological"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The use of difficult or inappropriate words in communication can prevent people from understanding the message?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Communication to be effective requires follow up?",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT from the measures to improve communication?",
+      "options": [
+        "Provide right climate",
+        "Remember that communication is one-way",
+        "Be sure your actions do not contradict your communication",
+        "Watch carefully the tone of your voice"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
