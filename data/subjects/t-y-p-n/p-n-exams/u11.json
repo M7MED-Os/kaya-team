@@ -32,7 +32,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Which prenatal diagnostic method is explicitly mentioned for assessing fetal maturity and detecting congenital anomalies?",
+      "question": "What is the method of prenatal diagnosis for assessing fetal maturity and detecting congenital abnormalities?",
       "options": [
         "Chorionic villus sampling",
         "Amniocentesis",
@@ -160,7 +160,7 @@
       "question": "After shunt surgery, why should the child be kept flat in bed for 24 hours?",
       "options": [
         "To prevent infection",
-        "To avoid rapid CSF drainage and subdural hematoma",
+        "To avoid subdural hematoma",
         "To reduce pain",
         "To improve shunt function"
       ],
@@ -180,7 +180,7 @@
       "question": "A newborn is diagnosed with hypospadias. What is an important nursing instruction regarding circumcision?",
       "options": [
         "Circumcise immediately",
-        "Do not circumcise—the foreskin is used in repair",
+        "Do not circumcise",
         "Circumcise at 6 months",
         "Circumcise only if infection occurs"
       ],
@@ -217,7 +217,7 @@
         "Meningocele",
         "Anencephaly",
         "Spina bifida occulta",
-        "Hypospadias"
+        "Encephalocele"
       ],
       "correctIndex": 1
     },
@@ -302,12 +302,12 @@
       "correctIndex": 2
     },
     {
-      "question": "Postoperative care for spina bifida includes monitoring for:",
+      "question": "Postoperative care for spina bifida includes:",
       "options": [
         "Hypertension",
-        "Signs of infection and skin breakdown",
+        "Monitor signs of infection and skin breakdown",
         "Hypoglycemia",
-        "Decreased urine output only"
+        "Place in supine position"
       ],
       "correctIndex": 1
     },
@@ -347,9 +347,9 @@
       "correctIndex": 0
     },
     {
-      "question": "Preoperative care for infants with congenital anomalies never includes prophylactic antibiotics.",
+      "question": "Preoperative care for infants with congenital anomalies includes prophylactic antibiotics.",
       "options": ["True", "False"],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Spina bifida occulta affects the spinal cord severely in most cases.",
@@ -357,9 +357,9 @@
       "correctIndex": 1
     },
     {
-      "question": "Myelomeningocele involves protrusion of meninges, CSF, and spinal cord tissue.",
+      "question": "Meningocele involves protrusion of meninges, CSF, and spinal cord tissue.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Encephalocele involves protrusion of brain tissue through a skull defect.",
