@@ -1,0 +1,425 @@
+{
+  "title": "Congenital Anomalies",
+  "questions": [
+    {
+      "question": "Congenital anomalies are best defined as:",
+      "options": [
+        "Genetic disorders diagnosed after infancy",
+        "Malformations in structure, position, or function present at birth",
+        "Abnormalities caused solely by environmental factors",
+        "Conditions that appear only after the neonatal period"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT listed as a predisposing factor for congenital anomalies?",
+      "options": [
+        "Maternal diabetes",
+        "Advanced paternal age",
+        "Viral infection in the first trimester",
+        "Maternal anticonvulsant therapy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse is providing preconception counseling. Which intervention is specifically mentioned for preventing congenital anomalies?",
+      "options": [
+        "Administering Hepatitis B vaccine",
+        "Encouraging M.M.R. immunization",
+        "Recommending daily aspirin",
+        "Avoiding all physical activity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which prenatal diagnostic method is explicitly mentioned for assessing fetal maturity and detecting congenital anomalies?",
+      "options": [
+        "Chorionic villus sampling",
+        "Amniocentesis",
+        "Fetal MRI",
+        "Contraction stress test"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Newborn screening for serious medical conditions often involves:",
+      "options": ["Urine culture", "Heel prick test", "Chest X-ray", "EEG"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary reason for preoperative IV line placement in an infant with a congenital anomaly is to:",
+      "options": [
+        "Administer sedation",
+        "Correct electrolyte problems and anemia",
+        "Begin total parenteral nutrition",
+        "Draw frequent blood samples"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Before surgery, why might packed red blood cells be placed on reserve for an infant?",
+      "options": [
+        "To treat preoperative infection",
+        "In case blood loss is anticipated",
+        "To improve oxygen saturation",
+        "As part of routine immunization"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key component of postoperative care for an infant after surgical correction?",
+      "options": [
+        "Encouraging early solid foods",
+        "Maintaining thermoregulation",
+        "Limiting parental visitation",
+        "Discontinuing all medications"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Spina bifida occulta is present in what percentage of the population?",
+      "options": ["1–2%", "5–10%", "15–20%", "25–30%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of spina bifida involves protrusion of meninges and CSF but does NOT involve the spinal cord?",
+      "options": [
+        "Spina bifida occulta",
+        "Myelomeningocele",
+        "Meningocele",
+        "Encephalocele"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A newborn has a sac protruding in the lumbosacral area containing meninges, CSF, and spinal cord tissue. This is most likely:",
+      "options": [
+        "Meningocele",
+        "Myelomeningocele",
+        "Spina bifida occulta",
+        "Anencephaly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended daily folic acid dosage for a woman who previously had a baby with spina bifida when planning another pregnancy?",
+      "options": ["0.4 mg", "1 mg", "4 mg", "10 mg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "When caring for an infant with myelomeningocele preoperatively, the nurse should position the infant:",
+      "options": [
+        "Supine with legs elevated",
+        "Prone in Low Trendelenburg",
+        "On the left side",
+        "In a seated infant carrier"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which sign would the nurse monitor as an indication of increased intracranial pressure in an infant with spina bifida?",
+      "options": [
+        "Depressed fontanel",
+        "Tense, bulging anterior fontanel",
+        "Constricted pupils",
+        "Bradycardia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hydrocephalus is primarily caused by:",
+      "options": [
+        "Excessive CSF absorption",
+        "Imbalance between CSF production and absorption",
+        "Decreased CSF production",
+        "Obstruction of venous sinuses"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In an infant with hydrocephalus, the “setting sun sign” refers to:",
+      "options": [
+        "Bulging fontanel",
+        "Sluggish and unequal pupils",
+        "Dilated scalp veins",
+        "Abnormal head growth"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with hydrocephalus is scheduled for a shunt placement. Postoperatively, the nurse should position the child:",
+      "options": [
+        "On the side opposite the shunt",
+        "In high Fowler’s position",
+        "Prone",
+        "On the side of the shunt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "After shunt surgery, why should the child be kept flat in bed for 24 hours?",
+      "options": [
+        "To prevent infection",
+        "To avoid rapid CSF drainage and subdural hematoma",
+        "To reduce pain",
+        "To improve shunt function"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypospadias is defined as:",
+      "options": [
+        "Urethral opening on the dorsal surface of the penis",
+        "Urethral opening on the ventral surface of the penis or perineum",
+        "Absence of the urethra",
+        "Undescended testis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn is diagnosed with hypospadias. What is an important nursing instruction regarding circumcision?",
+      "options": [
+        "Circumcise immediately",
+        "Do not circumcise—the foreskin is used in repair",
+        "Circumcise at 6 months",
+        "Circumcise only if infection occurs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Epispadias involves the urethral opening located on the:",
+      "options": [
+        "Ventral surface",
+        "Dorsal surface",
+        "Glans tip",
+        "Perineum only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Undescended testis is most common in:",
+      "options": [
+        "Term infants",
+        "Premature infants",
+        "Infants with hypospadias",
+        "Infants with hydrocephalus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Surgery for undescended testis is typically performed at what age?",
+      "options": ["6 months", "1–2 years", "4–5 years", "Adolescence"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which congenital anomaly is consistently fatal before or shortly after birth?",
+      "options": [
+        "Meningocele",
+        "Anencephaly",
+        "Spina bifida occulta",
+        "Hypospadias"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A mother asks why folic acid is important before pregnancy. The nurse’s response should include that it helps prevent:",
+      "options": [
+        "Hydrocephalus",
+        "Spina bifida",
+        "Hypospadias",
+        "Undescended testis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In meningocele, neurological involvement is typically:",
+      "options": ["Severe", "Moderate", "Little to none", "Always present"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a clinical manifestation of hydrocephalus in older children?",
+      "options": [
+        "Bulging fontanel",
+        "Setting sun sign",
+        "Ataxia and apathy",
+        "Hyperactive reflexes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Preoperatively, an infant with hydrocephalus should be fed:",
+      "options": [
+        "Large meals every 4 hours",
+        "Small, frequent feedings",
+        "Only IV fluids",
+        "High-protein formulas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The nurse is teaching parents of a child with a shunt to monitor for signs of increased ICP. Which sign should be reported immediately?",
+      "options": [
+        "Mild headache relieved by rest",
+        "Transient irritability",
+        "Bulging fontanel in an infant",
+        "Increased appetite"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which genitourinary anomaly is often associated with inguinal hernia or hydrocele?",
+      "options": [
+        "Hypospadias",
+        "Epispadias",
+        "Undescended testis",
+        "Bladder exstrophy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The primary reason for surgical correction of undescended testis is:",
+      "options": [
+        "To improve appearance",
+        "To prevent infertility and reduce risk of injury",
+        "To treat urinary incontinence",
+        "To prevent infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse is assessing a newborn with suspected myelomeningocele. Which finding is most likely?",
+      "options": [
+        "Dimpling on the lower back",
+        "Tuft of hair over the spine",
+        "Sac with CSF and nerve involvement",
+        "No external signs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which vitamin is emphasized for the prevention of neural tube defects and is found in cereals, beans, and leafy vegetables?",
+      "options": ["Vitamin A", "Vitamin B12", "Folic acid", "Vitamin D"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Postoperative care for spina bifida includes monitoring for:",
+      "options": [
+        "Hypertension",
+        "Signs of infection and skin breakdown",
+        "Hypoglycemia",
+        "Decreased urine output only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When should a newborn with a congenital anomaly be transported to a tertiary center for surgery?",
+      "options": [
+        "At 6 months of age",
+        "Shortly after birth",
+        "After initial discharge home",
+        "Only if infection develops"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Congenital anomalies are a common cause of mortality and disability in early life.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Viral infections such as rubella in the third trimester are a major cause of congenital anomalies.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Maternal diabetes is linked to congenital heart diseases in infants.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Genetic therapy is available for more than 4,000 genetic defects.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Clubfoot can be detected during newborn testing via physical examination.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Preoperative care for infants with congenital anomalies never includes prophylactic antibiotics.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Spina bifida occulta affects the spinal cord severely in most cases.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Myelomeningocele involves protrusion of meninges, CSF, and spinal cord tissue.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Encephalocele involves protrusion of brain tissue through a skull defect.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anencephaly is compatible with long-term survival with medical support.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Folic acid supplementation should begin after pregnancy is confirmed.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infants with spina bifida should be positioned supine to protect the sac.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hydrocephalus can be caused by intracranial infections.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In hydrocephalus, the “setting sun sign” is seen only in older children.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "After shunt surgery, the child’s head should be elevated immediately.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypospadias is a condition where the urethral opening is on the dorsal surface of the penis.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Newborns with hypospadias should not be circumcised because the foreskin is used in surgical repair.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Undescended testis is commonly found in term infants.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Surgery for undescended testis is recommended in adolescence.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nurses should monitor head circumference and fontanel tension in infants with hydrocephalus.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
