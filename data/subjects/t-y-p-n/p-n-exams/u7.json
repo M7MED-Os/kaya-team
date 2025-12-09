@@ -51,7 +51,7 @@
       "options": [
         "A lateral depression at the site of diaphragmatic attachment to ribs",
         "A sharp protrusion of the sternum",
-        "Beading at the wrist joints",
+        "Beading at costochondral junctions",
         "Kyphosis in the dorsolumbar region"
       ],
       "correctIndex": 0
@@ -112,22 +112,12 @@
       "correctIndex": 1
     },
     {
-      "question": "In Manifest Tetany, laryngeal spasm may present with:",
-      "options": [
-        "Froggy position",
-        "High-pitched crowing sound on inspiration",
-        "Rachitic rosary",
-        "Pigeon chest"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "Immediate treatment of severe hypocalcemic tetany includes:",
       "options": [
         "Oral calcium gluconate",
-        "IV calcium gluconate 10% at 1–2 ml/kg",
+        "IV calcium gluconate 10%",
         "Intramuscular vitamin D",
-        "Diazepam only"
+        "IV Diazepam"
       ],
       "correctIndex": 1
     },
@@ -200,7 +190,7 @@
       "question": "Marasmus is characterized by:",
       "options": [
         "Generalized edema",
-        "Severe deficiency of proteins, fats, and carbohydrates",
+        "Senile face",
         "Fatty liver",
         "Skin desquamation"
       ],
@@ -237,16 +227,6 @@
       "correctIndex": 1
     },
     {
-      "question": "The diet in Marasmus management should be:",
-      "options": [
-        "High fat",
-        "High calorie, rich in protein, low fat",
-        "High carbohydrate only",
-        "Low protein"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "Kwashiorkor is primarily due to:",
       "options": [
         "Deficiency of calories",
@@ -272,7 +252,7 @@
         "Desquamation → erythema → hyperpigmentation",
         "Erythema → hyperpigmentation → desquamation",
         "Ulceration → hypopigmentation → erythema",
-        "Hypopigmentation → ulceration → erythema"
+        "Erythema → ulceration → hypopigmentation"
       ],
       "correctIndex": 1
     },
@@ -324,7 +304,7 @@
     {
       "question": "Which nursing diagnosis is most relevant for a child with Marasmic-Kwashiorkor?",
       "options": [
-        "Imbalanced Nutrition: Less than body requirements",
+        "Imbalanced Nutrition Less than body requirements",
         "Fluid Volume Excess",
         "Constipation",
         "Hyperthermia"
@@ -334,20 +314,10 @@
     {
       "question": "Failure to Thrive (FTT) is defined as:",
       "options": [
-        "Weight for age below 50th percentile",
+        "Weight for age below 7th percentile",
         "Weight for age below 3rd to 5th percentile",
         "Height for age below 10th percentile",
         "Head circumference below 25th percentile"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Organic FTT may result from:",
-      "options": [
-        "Maternal deprivation only",
-        "Cleft palate or gastroesophageal reflux",
-        "Poverty alone",
-        "Psychological stress only"
       ],
       "correctIndex": 1
     },
@@ -418,7 +388,7 @@
     },
     {
       "question": "Epiphyseal enlargement in Rickets is seen at:",
-      "options": ["Skull", "Ribs", "Wrists and ankles", "Pelvis"],
+      "options": ["Skull", "Ribs", "Wrists", "Pelvis"],
       "correctIndex": 2
     },
     {
@@ -436,7 +406,7 @@
       "options": [
         "Laryngeal spasm",
         "Carpopedal spasm",
-        "Low serum calcium without obvious symptoms",
+        "No obvious symptoms",
         "Convulsions"
       ],
       "correctIndex": 2
@@ -444,10 +414,10 @@
     {
       "question": "In tetany, magnesium sulphate is used in:",
       "options": [
-        "All cases",
+        "Control convulsion",
         "Resistant cases",
-        "Mild cases only",
-        "Never used"
+        "Immediate correction of hypocalcemia",
+        "All of the above"
       ],
       "correctIndex": 1
     },
@@ -480,11 +450,11 @@
       "question": "Marasmus complications include all EXCEPT:",
       "options": [
         "Heart failure",
-        "Recurrent infections",
-        "Generalized edema early on",
+        "Hypovolemic shock",
+        "Purpura on lower back",
         "Hypoglycemia"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "Kwashiorkor typically occurs at what age?",
@@ -496,7 +466,7 @@
       "options": [
         "Generalized edema",
         "Muscle wasting",
-        "“Senile face”",
+        "Senile face",
         "Skin changes"
       ],
       "correctIndex": 2
@@ -505,16 +475,6 @@
       "question": "Fatty liver is associated with:",
       "options": ["Marasmus", "Kwashiorkor", "Rickets", "Scurvy"],
       "correctIndex": 1
-    },
-    {
-      "question": "The WHO step “Correct electrolyte imbalance” is part of management for:",
-      "options": [
-        "Rickets",
-        "Scurvy",
-        "Severe malnutrition (Kwashiorkor)",
-        "Tetany"
-      ],
-      "correctIndex": 2
     },
     {
       "question": "Sensory stimulation and emotional support are included in WHO steps for:",
@@ -612,9 +572,9 @@
       "correctIndex": 1
     },
     {
-      "question": "Scurvy is due to water-soluble vitamin C deficiency.",
+      "question": "Scurvy is due to fat-soluble vitamin C deficiency.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Boiling orange juice preserves vitamin C.",
@@ -622,9 +582,9 @@
       "correctIndex": 1
     },
     {
-      "question": "Frog position in Scurvy is due to subperiosteal hemorrhage.",
+      "question": "Frog position in tetany is due to subperiosteal hemorrhage.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Petechiae may appear in Scurvy.",
@@ -727,7 +687,7 @@
       "correctIndex": 1
     },
     {
-      "question": "In tetany, serum calcium is often above 10 mg/100 ml.",
+      "question": "In Latent tetany, serum calcium is often below 7 mg/100 ml.",
       "options": ["True", "False"],
       "correctIndex": 1
     }
