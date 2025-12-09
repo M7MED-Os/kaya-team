@@ -1,0 +1,735 @@
+{
+  "title": "Nutritional disorders",
+  "questions": [
+    {
+      "question": "What is the primary pathophysiological mechanism of Nutritional Rickets?",
+      "options": [
+        "Deficiency of vitamin C leading to poor collagen synthesis",
+        "Lack of vitamin D causing decreased calcium and phosphorus absorption",
+        "Excess parathyroid hormone leading to bone resorption",
+        "Protein deficiency resulting in poor bone matrix formation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 2-year-old child presents with a square-shaped head, soft cranial bones that crack under pressure, and a delayed anterior fontanel closure. Which condition is most likely?",
+      "options": ["Scurvy", "Marasmus", "Rickets", "Kwashiorkor"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a predisposing factor for Nutritional Rickets?",
+      "options": [
+        "Exclusive breastfeeding without vitamin D supplementation",
+        "High protein diet",
+        "Excessive vitamin C intake",
+        "Hypercalcemia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Craniotabes in rickets refers to:",
+      "options": [
+        "Beading of the costo-chondral junctions",
+        "Soft cranial bones that crack under pressure",
+        "Protrusion of the sternum",
+        "Bowing of the legs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "“Rachitic rosary” is observed in which part of the body?",
+      "options": [
+        "Wrists and ankles",
+        "Costo-chondral junctions",
+        "Skull sutures",
+        "Knee joints"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Harrison’s groove in rickets is described as:",
+      "options": [
+        "A lateral depression at the site of diaphragmatic attachment to ribs",
+        "A sharp protrusion of the sternum",
+        "Beading at the wrist joints",
+        "Kyphosis in the dorsolumbar region"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which laboratory finding is typical in Rickets?",
+      "options": [
+        "Increased serum phosphorus",
+        "Decreased alkaline phosphatase",
+        "Decreased serum phosphorus",
+        "Hypercalcemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The recommended daily vitamin D supplement for exclusively breast-fed infants from birth to 12 months is:",
+      "options": ["200 IU/day", "400 IU/day", "600 IU/day", "1000 IU/day"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oral treatment for Rickets typically involves vitamin D at what daily dose for 6–8 weeks?",
+      "options": [
+        "400–600 IU/day",
+        "800–1000 IU/day",
+        "1500–5000 IU/day",
+        "10,000 IU/day"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vitamin D–resistant rickets is suspected if there is no healing after how many doses of IM vitamin D (600,000 U every 3 weeks)?",
+      "options": ["1 dose", "2 doses", "3 doses", "4 doses"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nursing intervention is appropriate for a child with Rickets?",
+      "options": [
+        "Encourage weight-bearing on legs",
+        "Apply diapers tightly",
+        "Lift the child by placing pressure on the chest",
+        "Use a firm mattress"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Infantile Tetany results from:",
+      "options": [
+        "Low ionized calcium",
+        "High serum phosphorus",
+        "Vitamin C deficiency",
+        "Protein deficiency"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Trousseau’s sign is used to detect:",
+      "options": ["Manifest Tetany", "Latent Tetany", "Rickets", "Scurvy"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Manifest Tetany, laryngeal spasm may present with:",
+      "options": [
+        "Froggy position",
+        "High-pitched crowing sound on inspiration",
+        "Rachitic rosary",
+        "Pigeon chest"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Immediate treatment of severe hypocalcemic tetany includes:",
+      "options": [
+        "Oral calcium gluconate",
+        "IV calcium gluconate 10% at 1–2 ml/kg",
+        "Intramuscular vitamin D",
+        "Diazepam only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which drug is used to control convulsions in tetany?",
+      "options": [
+        "Calcium gluconate",
+        "Diazepam",
+        "Magnesium sulphate",
+        "Parathyroid hormone"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scurvy is caused by deficiency of:",
+      "options": ["Vitamin D", "Vitamin C", "Vitamin B12", "Vitamin A"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The “frog position” in Scurvy refers to:",
+      "options": [
+        "Hips and knees semi-flexed with feet rotated outward",
+        "Fully extended legs",
+        "Flexed wrists and extended feet",
+        "Adducted arms and legs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which manifestation is typical in Scurvy?",
+      "options": [
+        "Craniotabes",
+        "Bluish-purple swollen gums",
+        "Generalized edema",
+        "Light-colored hair"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Treatment of severe Scurvy may involve:",
+      "options": [
+        "Oral vitamin C 50–100 mg/day",
+        "Parenteral vitamin C 200 mg or more daily",
+        "Vitamin D injection",
+        "Calcium supplementation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Scurvy, nursing care includes:",
+      "options": [
+        "Boiling orange juice before feeding",
+        "Handling the infant gently",
+        "Encouraging weight-bearing",
+        "Applying tight diapers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hidden Hunger refers to:",
+      "options": [
+        "Lack of proteins and calories",
+        "Lack of vitamins and minerals despite adequate calories",
+        "Excess intake of micronutrients",
+        "Overnutrition from fats"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Marasmus is characterized by:",
+      "options": [
+        "Generalized edema",
+        "Severe deficiency of proteins, fats, and carbohydrates",
+        "Fatty liver",
+        "Skin desquamation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with “senile face” and loss of subcutaneous fat from the abdomen, limbs, and face is characteristic of:",
+      "options": ["Kwashiorkor", "Marasmus", "Scurvy", "Rickets"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a non-nutritional predisposing factor for Marasmus?",
+      "options": [
+        "Over-diluted milk formula",
+        "Cleft palate",
+        "Scanty breast milk",
+        "High carbohydrate diet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Marasmus, hunger stools are described as:",
+      "options": [
+        "Large and fatty",
+        "Scanty, small, dark-green",
+        "Bloody and mucoid",
+        "Frequent and watery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which complication indicates the onset of Marasmic Kwashiorkor?",
+      "options": ["Hypoglycemia", "Edema", "Hypothermia", "Purpura"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The diet in Marasmus management should be:",
+      "options": [
+        "High fat",
+        "High calorie, rich in protein, low fat",
+        "High carbohydrate only",
+        "Low protein"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kwashiorkor is primarily due to:",
+      "options": [
+        "Deficiency of calories",
+        "Deficiency of protein with adequate calories",
+        "Deficiency of vitamin D",
+        "Deficiency of fats"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Typical hair changes in Kwashiorkor include:",
+      "options": [
+        "Thick and curly hair",
+        "Light color, easily pluckable hair",
+        "Hair loss only at the crown",
+        "Greasy hair"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Skin changes in Kwashiorkor progress in this order:",
+      "options": [
+        "Desquamation → erythema → hyperpigmentation",
+        "Erythema → hyperpigmentation → desquamation",
+        "Ulceration → hypopigmentation → erythema",
+        "Hypopigmentation → ulceration → erythema"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which vitamin deficiency in Kwashiorkor can lead to corneal ulcer?",
+      "options": ["Vitamin D", "Vitamin A", "Vitamin E", "Vitamin K"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The WHO 10-step treatment for severe malnutrition includes:",
+      "options": [
+        "Immediate high-protein feeding",
+        "Treat/prevent hypoglycemia and hypothermia first",
+        "Rapid refeeding with full strength formula",
+        "Avoiding micronutrient supplements initially"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Refeeding syndrome in malnutrition is dangerous because:",
+      "options": [
+        "It increases edema",
+        "It can cause life-threatening metabolic shifts",
+        "It leads to hyperglycemia",
+        "It reduces appetite"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Marasmic-Kwashiorkor is characterized by:",
+      "options": [
+        "Edema only",
+        "Wasting only",
+        "Both wasting and edema",
+        "No skin changes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the nursing care plan for Marasmic-Kwashiorkor, which is NOT part of physical assessment?",
+      "options": [
+        "Anthropometric measurements",
+        "Family employment history",
+        "Vital signs",
+        "General condition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which nursing diagnosis is most relevant for a child with Marasmic-Kwashiorkor?",
+      "options": [
+        "Imbalanced Nutrition: Less than body requirements",
+        "Fluid Volume Excess",
+        "Constipation",
+        "Hyperthermia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Failure to Thrive (FTT) is defined as:",
+      "options": [
+        "Weight for age below 50th percentile",
+        "Weight for age below 3rd to 5th percentile",
+        "Height for age below 10th percentile",
+        "Head circumference below 25th percentile"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Organic FTT may result from:",
+      "options": [
+        "Maternal deprivation only",
+        "Cleft palate or gastroesophageal reflux",
+        "Poverty alone",
+        "Psychological stress only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nonorganic FTT is primarily due to:",
+      "options": [
+        "Increased energy requirements",
+        "Insufficient calorie intake",
+        "Malabsorption",
+        "Metabolic disorders"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most common type of FTT is:",
+      "options": ["Organic", "Nonorganic", "Mixed", "Idiopathic"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is a sign of FTT?",
+      "options": [
+        "Accelerated growth",
+        "Height and weight smaller than standard",
+        "Hyperactivity",
+        "Increased muscle tone"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In FTT, catch-up growth requires approximately what percentage of normal caloric needs?",
+      "options": ["100%", "120%", "150%", "200%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nursing action is appropriate in FTT management?",
+      "options": [
+        "Encourage empty calories like soda",
+        "Eliminate specific mealtimes",
+        "Provide family teaching about adequate nutrition",
+        "Avoid monitoring weight daily"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child with FTT, cold blue extremities, and slow pulse is likely experiencing:",
+      "options": ["Hyperthermia", "Hypothermia", "Hypertension", "Dehydration"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vitamin D increases absorption of:",
+      "options": [
+        "Iron and zinc",
+        "Calcium and phosphorus",
+        "Sodium and potassium",
+        "Magnesium and chloride"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which season has the highest incidence of Rickets?",
+      "options": [
+        "Summer",
+        "Late winter and early spring",
+        "Autumn",
+        "Early winter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Epiphyseal enlargement in Rickets is seen at:",
+      "options": ["Skull", "Ribs", "Wrists and ankles", "Pelvis"],
+      "correctIndex": 2
+    },
+    {
+      "question": "In Rickets, abdominal muscle relaxation may lead to:",
+      "options": ["Diarrhea", "Constipation", "Vomiting", "Increased appetite"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Maintenance vitamin D dose for infants after treatment of Rickets is:",
+      "options": ["200 IU/day", "400 IU/day", "600 IU/day", "800 IU/day"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Latent Tetany is characterized by:",
+      "options": [
+        "Laryngeal spasm",
+        "Carpopedal spasm",
+        "Low serum calcium without obvious symptoms",
+        "Convulsions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In tetany, magnesium sulphate is used in:",
+      "options": [
+        "All cases",
+        "Resistant cases",
+        "Mild cases only",
+        "Never used"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Maintenance therapy for tetany includes:",
+      "options": [
+        "IV calcium only",
+        "Oral calcium 200–500 mg/kg/day",
+        "Vitamin D injection weekly",
+        "High phosphorus diet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pseudoparalysis in Scurvy is due to:",
+      "options": [
+        "Muscle wasting",
+        "Subperiosteal hemorrhage and pain",
+        "Nerve damage",
+        "Edema"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vitamin C is destroyed by:",
+      "options": ["Freezing", "Boiling", "Refrigeration", "Exposure to light"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Marasmus complications include all EXCEPT:",
+      "options": [
+        "Heart failure",
+        "Recurrent infections",
+        "Generalized edema early on",
+        "Hypoglycemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Kwashiorkor typically occurs at what age?",
+      "options": ["0–6 months", "1–4 years", "5–10 years", "Adolescence"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is NOT a feature of Kwashiorkor?",
+      "options": [
+        "Generalized edema",
+        "Muscle wasting",
+        "“Senile face”",
+        "Skin changes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fatty liver is associated with:",
+      "options": ["Marasmus", "Kwashiorkor", "Rickets", "Scurvy"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The WHO step “Correct electrolyte imbalance” is part of management for:",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Severe malnutrition (Kwashiorkor)",
+        "Tetany"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Sensory stimulation and emotional support are included in WHO steps for:",
+      "options": ["Rickets", "Marasmus", "Kwashiorkor", "Scurvy"],
+      "correctIndex": 2
+    },
+    {
+      "question": "In FTT, organic causes include:",
+      "options": [
+        "Poverty",
+        "Poor feeding techniques",
+        "Cystic fibrosis",
+        "Maternal deprivation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nonorganic FTT is often detected before age:",
+      "options": ["6 months", "2 years", "5 years", "10 years"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is a cause of Nonorganic FTT?",
+      "options": [
+        "Celiac disease",
+        "Overdiluted formula",
+        "Diabetes mellitus",
+        "Chromosomal abnormalities"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nursing care in FTT includes:",
+      "options": [
+        "Avoiding growth chart monitoring",
+        "Eliminating empty calories",
+        "Encouraging soda intake",
+        "Ignoring feeding patterns"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nutritional Rickets is due to deficiency of vitamin C.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Craniotabes refers to beading of the costo-chondral junctions.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Darker-skinned babies need longer sunlight exposure for vitamin D synthesis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The anterior fontanel closes early in Rickets.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pigeon chest is a sharp protrusion of the sternum.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Serum alkaline phosphatase is decreased in Rickets.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oral calcium therapy is not needed with vitamin D treatment in Rickets.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infantile Tetany always occurs with Rickets.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Trousseau’s sign is used to detect Manifest Tetany.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Laryngeal spasm in tetany may cause a high-pitched crowing sound.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Diazepam is used for immediate correction of hypocalcemia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scurvy is due to water-soluble vitamin C deficiency.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Boiling orange juice preserves vitamin C.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Frog position in Scurvy is due to subperiosteal hemorrhage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Petechiae may appear in Scurvy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hidden Hunger refers to lack of protein and calories.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Marasmus results from deficiency of protein only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Senile face is characteristic of Kwashiorkor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema indicates Marasmic Kwashiorkor in a marasmic child.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kwashiorkor occurs mainly in children 1–4 years old.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hair in Kwashiorkor becomes dark and coarse.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vitamin A deficiency in Kwashiorkor can cause corneal ulcer.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "WHO 10-step management includes rapid high-protein feeding from day one.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Refeeding syndrome can be life-threatening.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Marasmic-Kwashiorkor shows both wasting and edema.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Failure to Thrive is defined as weight below 10th percentile.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Organic FTT can be due to cleft palate.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nonorganic FTT is due to increased energy requirements.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Mixed FTT is the least common type.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In FTT, catch-up growth requires about 150% of normal calories.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nursing care in FTT includes eliminating empty calories.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Rickets affects only infants under 1 year.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prematurity is a predisposing factor for Rickets.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Artificial feeding protects against Rickets completely.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In tetany, serum calcium is often above 10 mg/100 ml.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
