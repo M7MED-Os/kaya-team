@@ -72,17 +72,17 @@
       "correctIndex": 1
     },
     {
-      "question": "Oral treatment for Rickets typically involves vitamin D at what daily dose for 6–8 weeks?",
+      "question": "Oral treatment for Rickets typically involves vitamin D at what daily dose for 6-8 weeks?",
       "options": [
-        "400–600 IU/day",
-        "800–1000 IU/day",
-        "1500–5000 IU/day",
+        "400-600 IU/day",
+        "800-1000 IU/day",
+        "1500-5000 IU/day",
         "10,000 IU/day"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Vitamin D–resistant rickets is suspected if there is no healing after how many doses of IM vitamin D (600,000 U every 3 weeks)?",
+      "question": "Vitamin D-resistant rickets is suspected if there is no healing after how many doses of IM vitamin D (600,000 U every 3 weeks)?",
       "options": ["1 dose", "2 doses", "3 doses", "4 doses"],
       "correctIndex": 2
     },
@@ -159,7 +159,7 @@
     {
       "question": "Treatment of severe Scurvy may involve:",
       "options": [
-        "Oral vitamin C 50–100 mg/day",
+        "Oral vitamin C 50-100 mg/day",
         "Parenteral vitamin C 200 mg or more daily",
         "Vitamin D injection",
         "Calcium supplementation"
@@ -425,7 +425,7 @@
       "question": "Maintenance therapy for tetany includes:",
       "options": [
         "IV calcium only",
-        "Oral calcium 200–500 mg/kg/day",
+        "Oral calcium 200-500 mg/kg/day",
         "Vitamin D injection weekly",
         "High phosphorus diet"
       ],
@@ -442,11 +442,6 @@
       "correctIndex": 1
     },
     {
-      "question": "Vitamin C is destroyed by:",
-      "options": ["Freezing", "Boiling", "Refrigeration", "Exposure to light"],
-      "correctIndex": 1
-    },
-    {
       "question": "Marasmus complications include all EXCEPT:",
       "options": [
         "Heart failure",
@@ -458,7 +453,7 @@
     },
     {
       "question": "Kwashiorkor typically occurs at what age?",
-      "options": ["0–6 months", "1–4 years", "5–10 years", "Adolescence"],
+      "options": ["0-6 months", "1-4 years", "5-10 years", "Adolescence"],
       "correctIndex": 1
     },
     {
@@ -612,7 +607,7 @@
       "correctIndex": 0
     },
     {
-      "question": "Kwashiorkor occurs mainly in children 1–4 years old.",
+      "question": "Kwashiorkor occurs mainly in children 1-4 years old.",
       "options": ["True", "False"],
       "correctIndex": 0
     },

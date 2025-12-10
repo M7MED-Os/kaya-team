@@ -1,0 +1,325 @@
+{
+  "title": "Food Constituents",
+  "questions": [
+    {
+      "question": "What is the primary definition of a food constituent?",
+      "options": [
+        "Substances that add flavor to food.",
+        "Substances that provide essential nourishment for life maintenance and growth.",
+        "Substances that are only found in synthetic foods.",
+        "Substances that are exclusively minerals."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT one of the seven major groups of food constituents?",
+      "options": ["Fiber", "Enzymes", "Proteins", "Water"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What three elements make up carbohydrates?",
+      "options": [
+        "Carbon, Nitrogen, Oxygen",
+        "Carbon, Hydrogen, Oxygen",
+        "Hydrogen, Oxygen, Nitrogen",
+        "Carbon, Helium, Oxygen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is an animal source of carbohydrates?",
+      "options": ["Potatoes", "Lactose in milk", "Banana", "Honey"],
+      "correctIndex": 1
+    },
+    {
+      "question": "How many calories does one gram of carbohydrate provide?",
+      "options": ["2 kcal", "4 kcal", "7 kcal", "9 kcal"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What percentage of total energy intake is generally recommended to come from carbohydrates?",
+      "options": ["25-35%", "40-50%", "More than 50%", "Less than 10%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Proteins are primarily composed of:",
+      "options": [
+        "Fatty acids",
+        "Nucleotides",
+        "Amino acids",
+        "Monosaccharides"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of amino acid must be obtained from the diet?",
+      "options": [
+        "Non-essential amino acids",
+        "Conditional amino acids",
+        "Essential amino acids",
+        "Branched-chain amino acids"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended daily protein intake for a healthy adult (per kg body weight)?",
+      "options": ["0.5 g/kg", "1.0 g/kg", "2.0 g/kg", "3.5 g/kg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a primary function of proteins?",
+      "options": [
+        "Providing energy during starvation",
+        "Formation of hormones and enzymes",
+        "Primary long-term energy storage",
+        "Stimulation of antibody formation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How many calories are provided by one gram of fat?",
+      "options": ["4 kcal", "7 kcal", "9 kcal", "12 kcal"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which vitamin's absorption is aided by dietary fats?",
+      "options": ["Vitamin B12", "Vitamin C", "Vitamin D", "All B Vitamins"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended percentage of total calories that should come from fats?",
+      "options": ["10-15%", "25-35%", "50-60%", "70-80%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these vitamins is fat-soluble?",
+      "options": ["Vitamin C", "Thiamin (B1)", "Vitamin A", "Riboflavin (B2)"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Night blindness is an early symptom of deficiency in which vitamin?",
+      "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin K"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the main source of Vitamin D for humans?",
+      "options": [
+        "Citrus fruits",
+        "Leafy green vegetables",
+        "Direct sunlight",
+        "Red meat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vitamin K is primarily necessary for:",
+      "options": [
+        "Calcium absorption",
+        "Energy production",
+        "Blood coagulation",
+        "Collagen synthesis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which vitamin cannot be stored in the body and must be consumed daily?",
+      "options": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Cheilosis (cracks at mouth corners) is a deficiency symptom of which vitamin?",
+      "options": ["Vitamin A", "Thiamin (B1)", "Riboflavin (B2)", "Vitamin C"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Pellagra is associated with a deficiency of which nutrient?",
+      "options": ["Vitamin B12", "Iron", "Niacin (B3)", "Folate"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which vitamin is found exclusively in foods of animal origin?",
+      "options": ["Vitamin C", "Vitamin B12", "Folate", "Vitamin B6"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended daily intake of Thiamine (B1) for an adult male?",
+      "options": ["0.9 mg", "1.2 mg", "1.6 mg", "2.0 mg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A deficiency in which mineral is the primary cause of simple goiter?",
+      "options": ["Iron", "Calcium", "Iodine", "Magnesium"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which condition is characterized by a decrease in bone mass but normal bone composition?",
+      "options": ["Osteomalacia", "Tetany", "Osteoporosis", "Rickets"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended daily calcium intake for children?",
+      "options": ["60 mg/kg", "400 mg/day", "800 mg/day", "10 mg/kg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which mineral is a key component of hemoglobin?",
+      "options": ["Calcium", "Iodine", "Iron", "Phosphorus"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended daily iron intake for an adult female?",
+      "options": ["7-10 mg", "10-12 mg", "12-20 mg", "20-30 mg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Tremors and convulsions can be a symptom of deficiency in which mineral?",
+      "options": ["Sodium", "Magnesium", "Phosphorus", "Iron"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Excess consumption of which mineral is linked to high blood pressure?",
+      "options": ["Magnesium", "Sodium", "Iodine", "Calcium"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary function of dietary fiber is to:",
+      "options": [
+        "Provide concentrated energy",
+        "Aid digestion and prevent constipation",
+        "Build and repair tissues",
+        "Regulate blood calcium levels"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is a good source of dietary fiber?",
+      "options": ["White bread", "Salad and whole grains", "Fish", "Butter"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Approximately what percentage of body weight is water?",
+      "options": ["30-40%", "40-50%", "50-60%", "60-70%"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is NOT a key role of water in the body?",
+      "options": [
+        "Transporting hormones",
+        "Providing a primary source of energy",
+        "Regulating body temperature",
+        "Removing waste products"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended daily intake of Vitamin D for infants and pregnant women?",
+      "options": ["100 IU", "200 IU", "400 IU", "5000 IU"],
+      "correctIndex": 2
+    },
+    {
+      "question": "For which demographic group is the protein requirement the highest (per kg body weight)?",
+      "options": ["Healthy adults", "Pregnant women", "Infants", "Elderly"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Food constituents are classified into five major groups.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Most natural foods contain only one nutrient.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Glycogen from liver and muscles is an animal source of carbohydrates.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Dietary fiber can help prevent colon cancer.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The human body can synthesize all amino acids it needs.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Proteins provide 9 calories of energy per gram.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fats are a more concentrated source of energy than carbohydrates.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vitamin A from plant sources is in a preformed, readily usable state.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vitamin D functions as a hormone in the body.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vitamin K is produced sufficiently by bacteria in the human intestine.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Water-soluble vitamins can be stored in the body for long periods.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A deficiency in Thiamine (B1) can lead to neurological problems.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vitamin B12 deficiency causes pernicious anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Folate deficiency results in microcytic hypochromic anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Osteomalacia is a condition with normal bone amount but abnormal composition.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Iron is a component of the thyroid hormones.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Excess sodium intake can contribute to edema and high blood pressure.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Dietary fiber can be digested and absorbed by the human digestive system.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Water provides energy (calories) to the body.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The recommended protein intake for a lactating woman is lower than for a healthy adult man.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
