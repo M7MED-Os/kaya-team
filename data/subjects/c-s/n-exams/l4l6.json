@@ -1,0 +1,295 @@
+{
+  "title": "Food Sanitation (4) + Obesity (6)",
+  "questions": [
+    {
+      "question": "According to the lecture, the fundamental cause of weight gain is:",
+      "options": [
+        "Genetic predisposition alone",
+        "An imbalance between energy intake and energy expenditure",
+        "A lack of aggressive medical treatments",
+        "Consuming only plant-based diets"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is listed as a direct cause of weight gain?",
+      "options": [
+        "High intake of vitamin C",
+        "Increasing physical activity",
+        "Consumption of energy-dense foods",
+        "Drinking plenty of water"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The lecture defines obesity as generally describing people who are at least ______ above a desired weight for height.",
+      "options": ["10%", "15%", "20%", "25%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "All of the following are listed as health risks of obesity EXCEPT:",
+      "options": [
+        "Type 2 diabetes",
+        "Hypertension",
+        "Hyperlipidemias",
+        "Type 1 diabetes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the normal range for Body Mass Index (BMI) in kg/m²?",
+      "options": ["15-20", "20-25", "25-30", "30-35"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A BMI of 45 kg/m² would be classified as:",
+      "options": [
+        "Severe obesity",
+        "Morbid obesity",
+        "Super obese",
+        "Normal weight"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The 'Qualitative Assessment' of obesity primarily involves:",
+      "options": [
+        "Calculating Body Mass Index",
+        "Measuring the thickness of skin folds",
+        "Determining the distribution of adiposity",
+        "Weighing the individual"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The prevention and control of obesity primarily depend on:",
+      "options": [
+        "Short-term medication",
+        "Genetic therapy",
+        "Behavioral modification",
+        "Weekly doctor visits"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of these is listed as an example of a recent popular diet?",
+      "options": [
+        "High-sodium diet",
+        "All-meat diet",
+        "Intermittent fasting",
+        "High-sugar diet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "For someone with clinically severe obesity, what type of treatment might be needed?",
+      "options": [
+        "Only dietary change",
+        "More aggressive treatment like drugs or surgery",
+        "Increased water intake",
+        "Skin fold testing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is milk considered particularly important in food sanitation?",
+      "options": [
+        "It is rarely consumed by children.",
+        "It is a poor environment for pathogens.",
+        "It is subjected to handling many times from milking to processing.",
+        "It is never adulterated."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "For optimal milk sanitation, the lecture recommends boiling at a temperature exceeding:",
+      "options": [
+        "60°C for 3 minutes",
+        "70°C for 5 minutes",
+        "80°C instantly",
+        "100°C for 1 minute"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a key requirement for the animal environment in meat sanitation?",
+      "options": [
+        "Animals should be raised in crowded conditions.",
+        "Raising should be in a clean, sanitary environment with veterinary care.",
+        "No veterinary care is necessary.",
+        "Organic feed is the only concern."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the lecture, what is crucial for an abattoir (slaughterhouse)?",
+      "options": [
+        "Butchers do not need licenses.",
+        "It should be clean and under complete sanitary conditions.",
+        "Animal inspection is optional.",
+        "Location is not important."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During distribution, how should meat be transported, especially in hot weather?",
+      "options": [
+        "In open containers",
+        "At ambient temperature",
+        "In cool, closed, clean containers",
+        "Wrapped in newspaper only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended cooking temperature for meat to ensure sanitation?",
+      "options": [
+        "70°C",
+        "80°C",
+        "90°C",
+        "Exceed 100°C for a sufficient period"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "For fish sanitation, what is a requirement for the raising environment?",
+      "options": [
+        "Water salinity is the only concern.",
+        "Fish should be raised in clean sanitary water with veterinary care.",
+        "Crowded conditions are acceptable.",
+        "No specific standards are needed."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How should fish be contained immediately after fishing?",
+      "options": [
+        "In a warm, dry basket",
+        "In an iced, clean, covered container",
+        "Stacked loosely in the open air",
+        "In any available container"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "One of the listed manifestations of insanitary fish is:",
+      "options": [
+        "Bright, clear eyes",
+        "A fresh, ocean-like smell",
+        "Easily detached scales",
+        "Firm, elastic flesh"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What should be done with warmed milk until consumption?",
+      "options": [
+        "Left at room temperature",
+        "Cooled or frozen in a refrigerator",
+        "Kept in a warm pot",
+        "Discarded after 2 hours"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Obesity is defined as an abnormal or excessive fat accumulation that presents a risk to health.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A BMI of 38 kg/m² is classified as 'morbid obesity'.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Skin Fold Test is normally used to assess obesity in older adults.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "\"Low-carb diets\" are cited as an example of a recent popular diet.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Endocrine causes are listed as a common cause of weight gain.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A psychological complication of obesity is depression.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The ideal value for Relative Body Weight (R.W.) is 150.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prevention of obesity requires long-term lifestyle change.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Gallstones are not associated with obesity.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A study shows that over 10% of Egyptian children are affected by obesity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "According to the lecture, a mechanical milking process is preferred for milk sanitation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "For meat sanitation, cooking at a temperature of 70°C for 5 minutes is sufficient.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fish should be distributed at ambient temperature, even in hot weather.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A change in the characteristic smell of fish is a sign of it being sanitary and fresh.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Meat can be marketed in a supermarket refrigerator for several weeks.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The date of production should be mentioned on milk containers during distribution.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Adulteration is not a concern for milk sanitation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Smoked or salted fish does not require refrigeration.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The consistency of fish meat becoming soft and easily pitting is a sign of freshness.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Butchers working in an abattoir do not require a license.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
