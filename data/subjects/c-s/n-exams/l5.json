@@ -1,0 +1,410 @@
+{
+  "title": "Nutritional Assessment",
+  "questions": [
+    {
+      "question": "According to the lecture, what is one primary purpose of a nutritional assessment?",
+      "options": [
+        "To perform surgery",
+        "To identify individuals who are malnourished",
+        "To prescribe medication",
+        "To replace biochemical tests"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is listed as an indirect method of nutritional assessment?",
+      "options": [
+        "Anthropometric methods",
+        "Community health indices, such as infant mortality",
+        "Clinical methods",
+        "Dietary evaluation methods"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT one of the five domains of nutritional assessment?",
+      "options": [
+        "Food and Nutrition Related History",
+        "Psychological Assessment",
+        "Anthropometric Assessment",
+        "Biochemical data, medical tests and procedure assessment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary purpose of biochemical assessment?",
+      "options": [
+        "To measure body weight and height",
+        "To diagnose and monitor nutritional status (deficiencies, excesses, imbalances)",
+        "To conduct dietary interviews",
+        "To perform physical exercise tests"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The \"ABCD\" of direct nutritional assessment methods stands for:",
+      "options": [
+        "Analysis, Behavior, Clinical, Dietary",
+        "Anthropometric, Biochemical, Clinical, Dietary",
+        "Assessment, Biochemical, Calculation, Dietary",
+        "Anthropometric, Blood, Clinical, Diet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anthropometry is defined as the measurement of:",
+      "options": [
+        "Blood nutrient levels",
+        "Food intake frequency",
+        "Body height, weight, and proportions",
+        "Community fertility rates"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT listed as an anthropometric measurement?",
+      "options": [
+        "Body Mass Index (BMI)",
+        "Hemoglobin level",
+        "Mid-arm circumference",
+        "Skin fold thickness"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the average head circumference for a newborn, according to the lecture?",
+      "options": ["37.6 cm", "34.5 cm", "53 cm", "56 cm"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For adult women, what is the average range for head circumference?",
+      "options": ["56-61 cm", "50-55 cm", "53-58.5 cm", "58-63 cm"],
+      "correctIndex": 2
+    },
+    {
+      "question": "At birth, how does a newborn's head circumference typically compare to its chest circumference?",
+      "options": [
+        "Head is smaller than the chest.",
+        "Head is equal to the chest.",
+        "Head is about 2 cm larger than the chest.",
+        "Head is about 5 cm larger than the chest."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the postnatal development of the head/chest ratio, when does the head circumference typically become smaller than the chest circumference?",
+      "options": [
+        "At birth",
+        "Between 6 months and 2 years",
+        "After 2 years",
+        "Never; the head is always larger."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is one key application of anthropometric measurements mentioned in the lecture?",
+      "options": [
+        "Predicting weather patterns",
+        "Diagnosing malnutrition and obesity",
+        "Measuring blood pressure",
+        "Assessing cognitive function"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A stadiometer is a tool used to measure:",
+      "options": [
+        "Body weight",
+        "Head circumference",
+        "A person's height",
+        "Skin fold thickness"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Calculate the BMI for a patient who weighs 90 kg and is 160 cm tall.",
+      "options": ["25.0", "30.1", "35.1", "40.1"],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the WHO BMI classification provided, a BMI of 27.0 falls into which category?",
+      "options": [
+        "Underweight",
+        "Healthy weight range",
+        "Overweight (grade 1 obesity)",
+        "Obese (grade 2 obesity)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the lecture, which waist circumference indicates obesity in males?",
+      "options": ["> 88 cm", "> 94 cm", "> 102 cm", "> 110 cm"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary purpose of the skin fold test?",
+      "options": [
+        "To measure bone density",
+        "To determine body fat percentage",
+        "To assess kidney function",
+        "To diagnose vitamin deficiencies"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the normal range for mid-arm circumference in children below five years?",
+      "options": [
+        "8.5-10.5 cm",
+        "11.5-13.5 cm",
+        "14.5-16.5 cm",
+        "17.5-19.5 cm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key characteristic that sets biochemical assessment apart from methods like dietary surveys?",
+      "options": [
+        "It involves asking questions about food intake.",
+        "It focuses on analyzing biological samples to evaluate nutrient levels.",
+        "It measures body weight.",
+        "It observes clinical signs on the body."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Stool examination is given as an example of biochemical assessment to check for:",
+      "options": [
+        "Blood glucose levels",
+        "The presence of ova and/or intestinal parasites",
+        "Serum albumin",
+        "Urine acidity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which biochemical marker is described as a protein in red blood cells that can reveal iron deficiency?",
+      "options": [
+        "Blood Glucose",
+        "Lipid Profile",
+        "Hemoglobin",
+        "Serum Albumin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In a urinalysis, what might the presence of glucose most often indicate?",
+      "options": [
+        "Kidney damage",
+        "A urinary tract infection (UTI)",
+        "Diabetes",
+        "Severe dehydration"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the urinalysis interpretation, what can cloudy urine suggest?",
+      "options": [
+        "High specific gravity",
+        "UTIs, kidney problems, or dehydration",
+        "Excellent hydration",
+        "High albumin levels"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Albumin is described as:",
+      "options": [
+        "An enzyme that digests fat",
+        "A type of white blood cell",
+        "The most abundant protein in the blood plasma",
+        "A mineral stored in bones"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "One of albumin's key functions is to:",
+      "options": [
+        "Produce red blood cells",
+        "Create osmotic pressure to maintain fluid balance",
+        "Break down carbohydrates",
+        "Act as a primary energy source"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is an albumin test measured? To:",
+      "options": [
+        "Diagnose specific vitamin deficiencies only.",
+        "Assess general health, nutrition, and liver/kidney function.",
+        "Measure muscle strength directly.",
+        "Calculate daily calorie needs."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypoalbuminemia is most likely to indicate:",
+      "options": [
+        "Severe dehydration",
+        "Excellent hydration and nutrition",
+        "Liver disease, kidney damage, or severe malnutrition",
+        "High levels of physical fitness"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Clinical assessment is described as:",
+      "options": [
+        "The most complex method of nutritional assessment.",
+        "The simplest and most practical method of determining the nutritional status of a group.",
+        "A method only used for biochemical analysis.",
+        "Primarily involving genetic testing."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a 24-hour dietary recall, who typically asks the participant to recall their food intake?",
+      "options": [
+        "The participant fills out a form themselves.",
+        "A trained interviewer",
+        "A family member",
+        "A fitness tracker app"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A Food Frequency Questionnaire (FFQ) is characterized as:",
+      "options": [
+        "A method involving direct observation of all meals for a week.",
+        "A detailed discussion with a doctor about current symptoms.",
+        "A self-administered questionnaire about consumption frequency over a longer period.",
+        "A test of metabolic rate in a laboratory."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which biochemical marker would be used to assess how the body processes carbohydrates and sugar?",
+      "options": [
+        "Lipid Profile",
+        "Hemoglobin",
+        "Blood Glucose",
+        "Serum Proteins"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the lecture, what does the Head/Chest ratio at birth help to identify in term infants?",
+      "options": [
+        "Childhood intelligence",
+        "Issues like fetal growth restriction",
+        "Future career aptitude",
+        "Risk of diabetes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which piece of equipment is listed as a basic component of anthropometry?",
+      "options": [
+        "Microscope",
+        "Stethoscope",
+        "Spreading caliper",
+        "Centrifuge"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the first step in the process of biochemical assessment as described?",
+      "options": [
+        "Interpretation of results",
+        "Laboratory analysis",
+        "Sample collection (e.g., blood or urine)",
+        "Dietary counseling"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the context of nutritional assessment, what does the term \"NFPE\" stand for?",
+      "options": [
+        "National Food Program Evaluation",
+        "Non-Fasting Physical Exam",
+        "Nutrition-focused Physical Examination",
+        "Newborn Feeding Practice Evaluation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The purpose of nutritional assessment includes measuring the effectiveness of nutritional programs.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Indirect methods of nutritional assessment deal directly with the individual.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "One of the five domains of nutritional assessment is \"Person’s History / Health Assessments.\"",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Biochemical assessment can detect early stages of nutrient deficiency by measuring changes in nutrient stores or enzyme activity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The head circumference of a one-year-old baby is about 50% of its adult size.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For adult men, the average head circumference is between 53-58.5 cm.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The head/chest ratio is calculated at birth by dividing chest circumference by head circumference and multiplying by 100 to get a percentage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Static and dynamic anthropometry are also known as structural and functional anthropometry.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A waist circumference measurement should be taken at the end of a deep inspiration.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A mid-arm circumference measurement is taken midway between the wrist and the elbow.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Biochemical assessment examples include hemoglobin for anemia and stool examination for parasites.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A urinalysis cannot be used to monitor the progress of a medical condition or treatment.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hyperalbuminemia is often linked to severe dehydration.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Dietary history involves a detailed discussion about typical eating patterns over an extended period.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The Food Frequency Questionnaire (FFQ) requires a trained interviewer to be present during all meals.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
