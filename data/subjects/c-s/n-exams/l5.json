@@ -2,7 +2,7 @@
   "title": "Nutritional Assessment",
   "questions": [
     {
-      "question": "According to the lecture, what is one primary purpose of a nutritional assessment?",
+      "question": "What is one primary purpose of a nutritional assessment?",
       "options": [
         "To perform surgery",
         "To identify individuals who are malnourished",
@@ -35,7 +35,7 @@
       "question": "What is the primary purpose of biochemical assessment?",
       "options": [
         "To measure body weight and height",
-        "To diagnose and monitor nutritional status (deficiencies, excesses, imbalances)",
+        "To diagnose and monitor nutritional status",
         "To conduct dietary interviews",
         "To perform physical exercise tests"
       ],
@@ -72,7 +72,7 @@
       "correctIndex": 1
     },
     {
-      "question": "What is the average head circumference for a newborn, according to the lecture?",
+      "question": "What is the average head circumference for a newborn?",
       "options": ["37.6 cm", "34.5 cm", "53 cm", "56 cm"],
       "correctIndex": 1
     },
@@ -92,7 +92,7 @@
       "correctIndex": 2
     },
     {
-      "question": "According to the postnatal development of the head/chest ratio, when does the head circumference typically become smaller than the chest circumference?",
+      "question": "When does the head circumference typically become smaller than the chest circumference?",
       "options": [
         "At birth",
         "Between 6 months and 2 years",
@@ -102,7 +102,7 @@
       "correctIndex": 2
     },
     {
-      "question": "What is one key application of anthropometric measurements mentioned in the lecture?",
+      "question": "Which of the following is a key application of anthropometric measurements?",
       "options": [
         "Predicting weather patterns",
         "Diagnosing malnutrition and obesity",
@@ -122,11 +122,6 @@
       "correctIndex": 2
     },
     {
-      "question": "Calculate the BMI for a patient who weighs 90 kg and is 160 cm tall.",
-      "options": ["25.0", "30.1", "35.1", "40.1"],
-      "correctIndex": 2
-    },
-    {
       "question": "According to the WHO BMI classification provided, a BMI of 27.0 falls into which category?",
       "options": [
         "Underweight",
@@ -137,7 +132,7 @@
       "correctIndex": 2
     },
     {
-      "question": "According to the lecture, which waist circumference indicates obesity in males?",
+      "question": "Which waist circumference indicates obesity in males?",
       "options": ["> 88 cm", "> 94 cm", "> 102 cm", "> 110 cm"],
       "correctIndex": 2
     },
@@ -205,9 +200,9 @@
       "question": "According to the urinalysis interpretation, what can cloudy urine suggest?",
       "options": [
         "High specific gravity",
-        "UTIs, kidney problems, or dehydration",
-        "Excellent hydration",
-        "High albumin levels"
+        "UTIs or dehydration",
+        "Overhydration",
+        "Diabetes"
       ],
       "correctIndex": 1
     },
@@ -232,7 +227,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Why is an albumin test measured? To:",
+      "question": "Why is an albumin test measured?",
       "options": [
         "Diagnose specific vitamin deficiencies only.",
         "Assess general health, nutrition, and liver/kidney function.",
@@ -246,8 +241,8 @@
       "options": [
         "Severe dehydration",
         "Excellent hydration and nutrition",
-        "Liver disease, kidney damage, or severe malnutrition",
-        "High levels of physical fitness"
+        "Severe malnutrition",
+        "Diabetes"
       ],
       "correctIndex": 2
     },
@@ -292,7 +287,7 @@
       "correctIndex": 2
     },
     {
-      "question": "According to the lecture, what does the Head/Chest ratio at birth help to identify in term infants?",
+      "question": "What does the Head/Chest ratio at birth help to identify in term infants?",
       "options": [
         "Childhood intelligence",
         "Issues like fetal growth restriction",
@@ -312,14 +307,14 @@
       "correctIndex": 2
     },
     {
-      "question": "What is the first step in the process of biochemical assessment as described?",
+      "question": "What is the second step in the process of biochemical assessment as described?",
       "options": [
         "Interpretation of results",
         "Laboratory analysis",
-        "Sample collection (e.g., blood or urine)",
+        "Sample collection",
         "Dietary counseling"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "In the context of nutritional assessment, what does the term \"NFPE\" stand for?",
