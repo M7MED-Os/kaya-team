@@ -12,11 +12,6 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is NOT one of the seven major groups of food constituents?",
-      "options": ["Fiber", "Enzymes", "Proteins", "Water"],
-      "correctIndex": 1
-    },
-    {
       "question": "What three elements make up carbohydrates?",
       "options": [
         "Carbon, Nitrogen, Oxygen",
@@ -133,8 +128,8 @@
     },
     {
       "question": "Pellagra is associated with a deficiency of which nutrient?",
-      "options": ["Vitamin B12", "Iron", "Niacin (B3)", "Folate"],
-      "correctIndex": 2
+      "options": ["Vitamin B12", "Vitamin B6", "Vitamin B2", "Folate"],
+      "correctIndex": 0
     },
     {
       "question": "Which vitamin is found exclusively in foods of animal origin?",
