@@ -1,0 +1,449 @@
+{
+  "title": "Malignant Neoplasms",
+  "questions": [
+    {
+      "question": "According to the lecture, what is a key difference between childhood and adult cancers?",
+      "options": [
+        "Childhood cancers always have a known cause.",
+        "Childhood cancers may behave very differently even when starting in the same part of the body.",
+        "Adult cancers are always benign.",
+        "Childhood cancers do not form tumors."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What characterizes a malignant tumor?",
+      "options": [
+        "It grows slowly and does not spread.",
+        "It is also called a benign tumor.",
+        "It can grow rapidly and spread to other parts of the body.",
+        "It only occurs in adults."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of childhood cancer accounts for about 28% of cases?",
+      "options": [
+        "Pediatric Brain Tumors",
+        "Wilms Tumor",
+        "Hodgkin Lymphoma",
+        "Leukemia"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the most common type of leukemia in children?",
+      "options": [
+        "Chronic Lymphocytic Leukemia (CLL)",
+        "Acute Myeloid Leukemia (AML)",
+        "Acute Lymphoblastic Leukemia (ALL)",
+        "Chronic Myeloid Leukemia (CML)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In leukemia, what is a common range for the white blood cell count?",
+      "options": [
+        "500-1,000/cm",
+        "5,000-10,000/cm",
+        "20,000-30,000/cm",
+        "More than 50,000/cm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The highest incidence of leukemia occurs in children between what ages?",
+      "options": [
+        "Birth to 1 year",
+        "2 and 6 years",
+        "8 and 12 years",
+        "13 and 18 years"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a clinical manifestation of leukemia?",
+      "options": [
+        "Hypertension",
+        "Widespread petechiae",
+        "Bradycardia",
+        "Polycythemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In leukemia, leg or joint pain is caused by:",
+      "options": [
+        "Vitamin deficiency",
+        "Muscle strain",
+        "Destruction of the bone by leukemic cells",
+        "Dehydration"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a critical complication of leukemia?",
+      "options": [
+        "Hypertension",
+        "Recurrent infections which can cause Death",
+        "Improved appetite",
+        "Decreased bleeding tendency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is part of the supportive treatment for leukemia?",
+      "options": [
+        "Radiation therapy to the brain",
+        "Blood transfusion and Antibiotics",
+        "Surgical resection of lymph nodes",
+        "Topical steroids only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For a child with leukemia, which nursing action is specifically mentioned for rectal ulcers?",
+      "options": [
+        "Measure temperature rectally every hour.",
+        "Apply antibiotic ointment liberally.",
+        "Not measure temperature rectally and keep the area clean and dry.",
+        "Use a heating pad on the area."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is stated as the leading cause of cancer-related death in children?",
+      "options": [
+        "Leukemia",
+        "Brain tumours",
+        "Wilms Tumor",
+        "Hodgkin's Disease"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which triad of symptoms commonly suggests a brain tumor due to CSF obstruction?",
+      "options": [
+        "Fever, rash, cough",
+        "Headache, Nausea/Vomiting, Gait Imbalance",
+        "Abdominal pain, hematuria, fever",
+        "Pallor, petechiae, fatigue"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the symptom-location correlation table, recurrent early morning vomiting and head tilt are associated with a tumor in which location?",
+      "options": [
+        "Hypothalamic-pituitary axis",
+        "Optic pathway",
+        "Posterior fossa, Ventricular system",
+        "Basal ganglia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the crucial neuroimaging investigation for a suspected brain tumor?",
+      "options": [
+        "X-ray of the skull",
+        "Ultrasound of the head",
+        "MRI of the brain and spine with and without gadolinium contrast",
+        "PET scan of the abdomen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Management of a brain tumor involves a multidisciplinary approach. Which professional is NOT listed as part of this team?",
+      "options": [
+        "Neurosurgery",
+        "Pediatric oncology",
+        "Orthopedic surgeon",
+        "Child life specialists"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is listed as a late effect from cancer therapy?",
+      "options": [
+        "Improved cognitive function",
+        "Growth hormone deficiency",
+        "Reduced risk of secondary cancers",
+        "Enhanced auditory acuity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wilms tumor is best described as:",
+      "options": [
+        "A benign cyst of the liver",
+        "A highly malignant embryonic adenosarcoma of the kidney",
+        "A type of brain tumor",
+        "A cancer of the lymph nodes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a critical nursing precaution for a child with a Wilms tumor?",
+      "options": [
+        "Encourage deep abdominal breathing exercises.",
+        "Not to palpate the infant's abdomen.",
+        "Massage the abdomen gently to relieve pain.",
+        "Apply tight abdominal binders."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary treatment for Wilms tumor involves:",
+      "options": [
+        "Radiation therapy only",
+        "Surgery with possible x-ray irradiation and chemotherapy",
+        "Antibiotics and bed rest",
+        "Bone marrow transplantation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hodgkin's disease primarily affects which system?",
+      "options": [
+        "The central nervous system",
+        "The musculoskeletal system",
+        "The lymph nodes",
+        "The kidneys"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common early clinical manifestation of Hodgkin's disease?",
+      "options": [
+        "Painful enlargement of cervical lymph nodes",
+        "Painless enlargement of one or more cervical lymph nodes",
+        "Severe abdominal pain",
+        "Profuse bleeding"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Hodgkin's disease Stage I, the disease affects:",
+      "options": [
+        "Lymph node regions on both sides of the diaphragm",
+        "Two or more lymph node regions on the same side of the diaphragm",
+        "A single lymph node or extra lymphatic organ",
+        "Diffuse involvement of extra lymphatic organs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a critical lifelong consideration if a total splenectomy is performed for Hodgkin's disease?",
+      "options": [
+        "The child will need daily insulin.",
+        "The child will have a life long susceptibility to bacterial infection, requiring prophylactic antibiotics.",
+        "The child must avoid all physical activity.",
+        "The child will develop leukemia."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the purpose of follow-up care after childhood cancer treatment?",
+      "options": [
+        "To only check if the cancer has come back.",
+        "To manage side effects, monitor health, and check for recurrence.",
+        "To immediately stop all previous medications.",
+        "To replace the need for a primary care doctor."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Based on this presentation, what is the most probable diagnosis? (4-year-old with flank mass, fever, pink urine)",
+      "options": [
+        "Leukemia",
+        "Hodgkin's Disease",
+        "Wilms Tumor",
+        "Pediatric Brain Tumor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 10-year-old with morning headaches, nausea, and clumsiness is most likely experiencing:",
+      "options": ["Migraine headaches", "Leukemia", "Brain Tumor"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 7-year-old with painless, rubbery enlarged lymph nodes, weight loss, and fatigue most likely has:",
+      "options": [
+        "Acute Lymphoblastic Leukemia",
+        "Viral infection",
+        "Hodgkin's Disease",
+        "Wilms Tumor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 3-year-old with pallor, lethargy, petechiae, hepatosplenomegaly, and leg pain most likely has:",
+      "options": [
+        "Neuroblastoma",
+        "Leukemia",
+        "Brain Stem Glioma",
+        "Non-Hodgkin Lymphoma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An adolescent with fatigue, bruising, infections, and many immature granulocytes likely has:",
+      "options": [
+        "Acute Lymphoblastic Leukemia (ALL)",
+        "Acute Myeloid Leukemia (AML)",
+        "Chronic Lymphocytic Leukemia (CLL)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which finding from a differential blood smear supports the diagnosis of ALL?",
+      "options": [
+        "Polycythemia",
+        "Presence of immature cells and anemia",
+        "Elevated platelet count",
+        "Normal complete blood count"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why must blood flow be carefully regulated during transfusion for a leukemia patient?",
+      "options": [
+        "To make the transfusion last longer.",
+        "To prevent circulatory overload.",
+        "To allow time to check for hemolysis.",
+        "To reduce the risk of fever."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which preoperative lab tests are required for a child with a brain tumor?",
+      "options": [
+        "Liver function tests only",
+        "Complete Blood Count (CBC) and Coagulation studies",
+        "Urine culture and sensitivity",
+        "Stool for occult blood"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which manifestation is largely due to low platelet count in leukemia?",
+      "options": [
+        "Fatigue",
+        "Hepatosplenomegaly",
+        "Hemorrhagic manifestations",
+        "Recurrent infections"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is an endocrinopathy late effect of brain tumor therapy?",
+      "options": [
+        "Diabetes Insipidus",
+        "Hyperthyroidism",
+        "Precocious puberty",
+        "Cushing's syndrome"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the priority instruction for an infant with Wilms tumor?",
+      "options": [
+        "Palpate deeply to determine the edges of the mass.",
+        "Avoid abdominal palpation to prevent potential metastasis.",
+        "Use percussion only to assess the size.",
+        "Ask the parents to show you where they feel the mass."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a critical component of long-term management after splenectomy for Hodgkin's Disease?",
+      "options": [
+        "Lifelong anticoagulation therapy.",
+        "Prophylactic antibiotic therapy such as penicillin daily for 1-2 years.",
+        "Monthly blood transfusions.",
+        "Strict low-fat diet."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which nursing care is indicated for necrotic ulcerative perirectal lesions in leukemia?",
+      "options": [
+        "Apply ice packs to the area.",
+        "Not measure temperature rectally and keep the area clean and dry.",
+        "Administer a high enema to clean the area.",
+        "Keep the area moist with petroleum jelly."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which investigation is crucial for suspected posterior fossa brain tumor?",
+      "options": [
+        "Electroencephalogram (EEG)",
+        "Lumbar Puncture",
+        "MRI of the brain and spine with and without gadolinium",
+        "Chest X-ray"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why is lifelong follow-up care required for childhood cancer survivors?",
+      "options": [
+        "To immediately stop all cancer-related medications.",
+        "To only monitor for emotional problems.",
+        "To check that the cancer has not come back, manage side effects, and monitor overall health.",
+        "To provide weekly physical therapy."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Most of the time, there is a known cause for childhood cancers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Acute Myeloid Leukemia (AML) accounts for about 20% of all childhood leukemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In leukemia, the liver, spleen, and lymph nodes are typically decreased in size.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The treatment for leukemia is considered curative, not palliative.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A key part of nursing care for leukemia is providing a happy safe atmosphere and alleviating anxiety.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Brain tumours are the most common solid tumour in children.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "For a child with a brain tumor, an abnormal neurological exam is uncommon.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wilms tumor is commonly discovered in children between 6 months and 5 years of age.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In the early stages of Hodgkin's disease, the enlarged lymph nodes are typically painful.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A late effect of cancer therapy can include the development of a second, new cancer.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
