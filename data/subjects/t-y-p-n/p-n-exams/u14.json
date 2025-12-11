@@ -12,20 +12,10 @@
       "correctIndex": 2
     },
     {
-      "question": "Which population is reported to have a higher frequency of Beta thalassemia genes?",
-      "options": [
-        "Northern European populations",
-        "Mediterranean, African, and Southeast Asian populations",
-        "Indigenous Australian populations",
-        "Native American populations"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "The typical age of onset for Beta thalassemia major is:",
       "options": [
         "At birth.",
-        "Between 6-24 months of age.",
+        "At 1 year.",
         "During adolescence.",
         "In early adulthood."
       ],
@@ -140,31 +130,11 @@
       "question": "The primary cause of a painful vaso-occlusive crisis in sickle cell anemia is:",
       "options": [
         "Viral infection.",
-        "Clumps of sickled cells blocking blood flow in capillaries.",
+        "Blocking blood flow in capillaries.",
         "Autoimmune destruction of platelets.",
         "Severe iron deficiency."
       ],
       "correctIndex": 1
-    },
-    {
-      "question": "A common symptom of a sickle cell crisis affecting the hands and feet in young children is:",
-      "options": [
-        "Hand and foot syndrome (dactylitis).",
-        "Carpal tunnel syndrome.",
-        "Rheumatoid nodules.",
-        "Psoriatic plaques."
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which complication of sickle cell disease is characterized by an acute drop in hemoglobin level?",
-      "options": [
-        "Aplastic crisis",
-        "Hemolytic crisis",
-        "Sequestration crisis",
-        "Vaso-occlusive crisis"
-      ],
-      "correctIndex": 0
     },
     {
       "question": "A standard treatment to help prevent strokes in children with sickle cell disease is:",
@@ -190,7 +160,7 @@
       "question": "Nursing management during a sickle cell crisis includes promoting hydration to:",
       "options": [
         "Dilute plasma clotting factors.",
-        "Increase blood volume and help prevent sickling/thrombosis.",
+        "Prevent thrombosis.",
         "Flush out excess bilirubin.",
         "Reduce fever."
       ],
@@ -228,12 +198,7 @@
     },
     {
       "question": "Which medication should be avoided in patients with hemophilia for pain management?",
-      "options": [
-        "Acetaminophen",
-        "Codeine",
-        "Aspirin and aspirin-containing compounds",
-        "Morphine"
-      ],
+      "options": ["Acetaminophen", "Codeine", "Aspirin", "Morphine"],
       "correctIndex": 2
     },
     {
@@ -280,7 +245,7 @@
       "question": "The most dangerous potential symptom of ITP is:",
       "options": [
         "Nosebleeds.",
-        "Bleeding in the head (from trauma).",
+        "Bleeding in the head.",
         "Gum bleeding.",
         "Menorrhagia."
       ],
@@ -310,9 +275,9 @@
       "question": "In Beta thalassemia major, bone deformities occur due to:",
       "options": [
         "Vitamin D deficiency.",
-        "Bone marrow expansion from enhanced but ineffective erythropoiesis.",
+        "Bone marrow expansion.",
         "Chronic corticosteroid use.",
-        "Lack of weight-bearing exercise."
+        "Iron overload."
       ],
       "correctIndex": 1
     },
@@ -327,12 +292,12 @@
       "correctIndex": 1
     },
     {
-      "question": "In sickle cell anemia, administering oxygen therapy helps to:",
+      "question": "In sickle cell anemia, to Administer electrolyte replacement to counter acidosis caused by hypoxia we administer:",
       "options": [
-        "Kill infectious bacteria.",
-        "Promote adequate oxygenation and potentially reduce sickling.",
-        "Increase the production of red blood cells.",
-        "Act as a potent analgesic."
+        "oral and IV hydration.",
+        "electrolyte replacement.",
+        "oxygen therapy.",
+        "analgesic."
       ],
       "correctIndex": 1
     },
@@ -357,12 +322,12 @@
       "correctIndex": 0
     },
     {
-      "question": "Sickle cell disease is caused by abnormal hemoglobin that makes red blood cells stiff, sticky, and sickle-shaped.",
+      "question": "Thalassemia is caused by abnormal hemoglobin that makes red blood cells stiff, sticky, and C-shaped.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
-      "question": "In sickle cell anemia, a vaso-occlusive crisis affecting the brain can lead to hemiplegia (stroke).",
+      "question": "In sickle cell anemia, a vaso-occlusive crisis affecting the brain can lead to hemiplegia.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
@@ -377,9 +342,9 @@
       "correctIndex": 1
     },
     {
-      "question": "Desmopressin is a medication that can increase clotting factor VIII levels in some patients with hemophilia A.",
+      "question": "Desmopressin is a medication that can increase clotting factor IX levels in some patients with hemophilia A.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "For a major joint bleed in hemophilia, the initial nursing action is to apply heat and massage the area.",
@@ -434,10 +399,10 @@
     {
       "question": "A nurse is reviewing the lab results of a 10-year-old with thalassemia major who receives monthly transfusions. The serum ferritin level is extremely elevated. The nurse should be most vigilant in assessing this child for signs of damage to which system?",
       "options": [
-        "Musculoskeletal system (e.g., fractures)",
-        "Endocrine system (e.g., glucose dysregulation, growth delay)",
-        "Integumentary system (e.g., skin breakdown)",
-        "Neurological system (e.g., seizures)"
+        "Musculoskeletal system",
+        "Endocrine system",
+        "Integumentary system",
+        "Neurological system"
       ],
       "correctIndex": 1
     },
@@ -445,21 +410,20 @@
       "question": "A 6-year-old boy with severe Hemophilia A falls and injures his knee. The knee is swollen, warm, and painful. He is unable to bear weight on it. After notifying the physician, which initial nursing intervention should be implemented while awaiting factor replacement?",
       "options": [
         "Ambulate the child to prevent stiffness.",
-        "Apply the RICE protocol (Rest, Ice, Compression, Elevation).",
+        "Apply the RICE protocol.",
         "Soak the knee in warm water to promote circulation.",
         "Massage the knee gently to reduce swelling."
       ],
       "correctIndex": 1
     },
     {
-      "question": "A 4-year-old with ITP is being discharged. The platelet count is 30 x 10^9/L. The parents are nervous about caring for her at home. Which instruction from the nurse is most critical for preventing injury?",
+      "question": "A 4-year-old with ITP is being discharged. The platelet count is 30 x 10^9/L. Which instruction from the nurse is most critical for preventing injury?",
       "options": [
         "Give her a daily baby aspirin to prevent blood clots.",
-        "Encourage her to ride her bicycle with training wheels outside.",
         "Use a soft-bristled toothbrush for her dental care.",
         "Limit her fluid intake to reduce the risk of edema."
       ],
-      "correctIndex": 2
+      "correctIndex": 1
     },
     {
       "question": "During a transfusion for a child with thalassemia major, the nurse monitors for transfusion reactions and complications of chronic transfusion therapy. Which finding would most specifically indicate a potential complication of iron overload?",
@@ -470,16 +434,6 @@
         "Shortness of breath and crackles in lung fields."
       ],
       "correctIndex": 2
-    },
-    {
-      "question": "A teenager with sickle cell anemia comes to the ER with chest pain and difficulty breathing. This is a potential sign of which life-threatening complication?",
-      "options": [
-        "Acute Chest Syndrome",
-        "Cholecystitis",
-        "Avascular Necrosis of the Hip",
-        "Priapism"
-      ],
-      "correctIndex": 0
     },
     {
       "question": "The mother of a child newly diagnosed with thalassemia minor is confused because another doctor once told her the child had iron deficiency. How should the nurse explain this common point of confusion?",
@@ -508,6 +462,46 @@
         "Encourage oral fluids and re-assess in 4 hours.",
         "Notify the physician promptly due to the risk of serious infection.",
         "Administer an antipyretic and allow the child to sleep."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 2-year-old child of Southeast Asian descent presents with severe fatigue, pallor, failure to thrive, abdominal distension, marked hepatosplenomegaly, and jaundice. The symptoms began around 8 months of age. Based on this constellation of symptoms, the nurse suspects which hematologic disorder?",
+      "options": [
+        "Idiopathic Thrombocytopenic Purpura (ITP)",
+        "Hemophilia A",
+        "Sickle Cell Anemia",
+        "Beta Thalassemia Major"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A 7-year-old child presents with episodes of excruciating pain in the arms, legs, and abdomen. The painful crises are often triggered by cold weather or dehydration. The child has scleral icterus and tachycardia. These classic symptoms are most indicative of:",
+      "options": [
+        "Beta Thalassemia Minor",
+        "Sickle Cell Anemia Vaso-occlusive Crisis",
+        "Hemophilia A Joint Bleed",
+        "ITP with internal bleeding"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 5-year-old boy has prolonged bleeding after minor cuts and frequent large bruises with minimal trauma. Today, he presents with a hot, swollen, and very painful knee joint after a minor stumble. The acute, spontaneous joint swelling and pain in this context is hallmark for:",
+      "options": [
+        "Septic Arthritis",
+        "Juvenile Idiopathic Arthritis",
+        "Hemarthrosis due to Hemophilia A",
+        "Bone deformity from Thalassemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A previously healthy 30-year-old woman presents with sudden onset of petechiae, multiple large bruises, and prolonged gum bleeding. There is no recent illness, trauma, or new medications. The most likely diagnosis is:",
+      "options": [
+        "Vitamin K Deficiency",
+        "Leukemia",
+        "Idiopathic Thrombocytopenic Purpura (ITP)",
+        "Disseminated Intravascular Coagulation (DIC)"
       ],
       "correctIndex": 2
     }
