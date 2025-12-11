@@ -1,0 +1,515 @@
+{
+  "title": "Hematological Disorders",
+  "questions": [
+    {
+      "question": "Thalassemia is characterized by:",
+      "options": [
+        "An overproduction of hemoglobin.",
+        "An increased number of misshapen red blood cells.",
+        "Less hemoglobin and fewer red blood cells than normal.",
+        "A viral infection affecting bone marrow."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which population is reported to have a higher frequency of Beta thalassemia genes?",
+      "options": [
+        "Northern European populations",
+        "Mediterranean, African, and Southeast Asian populations",
+        "Indigenous Australian populations",
+        "Native American populations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The typical age of onset for Beta thalassemia major is:",
+      "options": [
+        "At birth.",
+        "Between 6-24 months of age.",
+        "During adolescence.",
+        "In early adulthood."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Beta thalassemia is inherited on which chromosome?",
+      "options": [
+        "Chromosome 4",
+        "Chromosome 11",
+        "X Chromosome",
+        "Y Chromosome"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the pathophysiological result of mutations in the beta-globin genes?",
+      "options": [
+        "Overproduction of alpha-globin chains.",
+        "Impaired synthesis of the beta-globin protein portion of hemoglobin.",
+        "Destruction of white blood cell precursors.",
+        "Increased iron absorption in the duodenum."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A patient inherits a beta thalassemia trait from one parent and a normal gene from the other. This patient most likely has:",
+      "options": [
+        "Beta thalassemia major.",
+        "Beta thalassemia minor (trait).",
+        "Alpha thalassemia major.",
+        "Cooley's anemia."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a common symptom of thalassemia?",
+      "options": [
+        "Hypertension",
+        "Polycythemia",
+        "Facial bone deformities",
+        "Bradycardia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A major complication for a child with thalassemia major receiving frequent blood transfusions is:",
+      "options": [
+        "Vitamin B12 deficiency.",
+        "Iron overload.",
+        "Hypokalemia.",
+        "Respiratory alkalosis."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In thalassemia, an enlarged spleen can worsen anemia because it:",
+      "options": [
+        "Produces defective red blood cells.",
+        "Reduces the lifespan of transfused red blood cells.",
+        "Overproduces bilirubin.",
+        "Blocks the production of erythropoietin."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary goal of long-term hypertransfusion therapy in thalassemia major is to maintain hemoglobin at:",
+      "options": ["6-7 g/dL.", "9-10 g/dL.", "12-14 g/dL.", "Over 15 g/dL."],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which medication is used for iron chelation therapy in transfusion-dependent thalassemia patients?",
+      "options": [
+        "Desmopressin",
+        "Deferoxamine",
+        "Folic acid",
+        "Acetaminophen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A curative treatment option for some patients with thalassemia major is:",
+      "options": [
+        "Regular folic acid supplements.",
+        "Allogeneic hematopoietic transplantation.",
+        "Lifetime steroid therapy.",
+        "Cholecystectomy."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In sickle cell anemia, the abnormal hemoglobin causes red blood cells to:",
+      "options": [
+        "Become smaller and paler (microcytic hypochromic).",
+        "Assume a sickle or \"C\" shape.",
+        "Lyse immediately upon release from the bone marrow.",
+        "Lose their nucleus prematurely."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The inheritance pattern for sickle cell disease is:",
+      "options": [
+        "Autosomal dominant.",
+        "X-linked recessive.",
+        "Autosomal recessive.",
+        "Mitochondrial."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The primary cause of a painful vaso-occlusive crisis in sickle cell anemia is:",
+      "options": [
+        "Viral infection.",
+        "Clumps of sickled cells blocking blood flow in capillaries.",
+        "Autoimmune destruction of platelets.",
+        "Severe iron deficiency."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A common symptom of a sickle cell crisis affecting the hands and feet in young children is:",
+      "options": [
+        "Hand and foot syndrome (dactylitis).",
+        "Carpal tunnel syndrome.",
+        "Rheumatoid nodules.",
+        "Psoriatic plaques."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which complication of sickle cell disease is characterized by an acute drop in hemoglobin level?",
+      "options": [
+        "Aplastic crisis",
+        "Hemolytic crisis",
+        "Sequestration crisis",
+        "Vaso-occlusive crisis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A standard treatment to help prevent strokes in children with sickle cell disease is:",
+      "options": [
+        "Monthly vitamin K injections.",
+        "Regular blood transfusions.",
+        "Daily aspirin therapy.",
+        "Surgical splenectomy."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For a child with sickle cell anemia experiencing severe pain, the nurse should be prepared to administer:",
+      "options": [
+        "Acetaminophen.",
+        "Ibuprofen.",
+        "Morphine or meperidine.",
+        "Aspirin."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nursing management during a sickle cell crisis includes promoting hydration to:",
+      "options": [
+        "Dilute plasma clotting factors.",
+        "Increase blood volume and help prevent sickling/thrombosis.",
+        "Flush out excess bilirubin.",
+        "Reduce fever."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hemophilia A is caused by a deficiency of which clotting factor?",
+      "options": ["Factor VII", "Factor VIII", "Factor IX", "Factor XI"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the genetic inheritance pattern of Hemophilia A?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked recessive",
+        "Codominant"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The most common symptom of hemophilia is:",
+      "options": [
+        "Petechiae.",
+        "Bleeding.",
+        "Hepatomegaly.",
+        "Lymphadenopathy."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The \"C\" in the RICE first aid protocol for hemophilia stands for:",
+      "options": ["Cold.", "Circulation.", "Compression.", "Coagulation."],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which medication should be avoided in patients with hemophilia for pain management?",
+      "options": [
+        "Acetaminophen",
+        "Codeine",
+        "Aspirin and aspirin-containing compounds",
+        "Morphine"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A primary nursing goal for a child with hemophilia is:",
+      "options": [
+        "Prevention of bleeding and injury.",
+        "Administration of weekly platelet transfusions.",
+        "Restriction of all physical activity.",
+        "Maintaining a low-fiber diet."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What does ITP stand for?",
+      "options": [
+        "Idiopathic Thrombotic Purpura",
+        "Idiopathic Thrombocytopenic Purpura",
+        "Infectious Thrombocytopenia Purpura",
+        "Immune Thrombotic Purpura"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary pathophysiology of ITP involves:",
+      "options": [
+        "Decreased platelet production in the bone marrow.",
+        "Increased peripheral platelet destruction by antibodies.",
+        "Sequestration of platelets in an enlarged spleen.",
+        "Dilution of platelets from massive transfusion."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A classic physical sign of ITP is:",
+      "options": [
+        "Jaundice.",
+        "Purpura or petechiae.",
+        "Clubbing of the fingers.",
+        "Generalised edema."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most dangerous potential symptom of ITP is:",
+      "options": [
+        "Nosebleeds.",
+        "Bleeding in the head (from trauma).",
+        "Gum bleeding.",
+        "Menorrhagia."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Initial treatment options for ITP may include:",
+      "options": [
+        "Chemotherapy and radiation.",
+        "Steroids and immunoglobulins.",
+        "Immediate splenectomy for all patients.",
+        "Strict bed rest only."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A key nursing intervention for a child with ITP is to:",
+      "options": [
+        "Encourage contact sports to build resilience.",
+        "Use a soft-bristled toothbrush to protect mucous membranes.",
+        "Administer aspirin for any reported pain.",
+        "Apply heat to areas of bruising."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Beta thalassemia major, bone deformities occur due to:",
+      "options": [
+        "Vitamin D deficiency.",
+        "Bone marrow expansion from enhanced but ineffective erythropoiesis.",
+        "Chronic corticosteroid use.",
+        "Lack of weight-bearing exercise."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For a patient with thalassemia minor, the nurse should educate that:",
+      "options": [
+        "Regular blood transfusions will be necessary for life.",
+        "The condition is hereditary and can be mistaken for iron deficiency.",
+        "Iron chelation therapy must start immediately.",
+        "A splenectomy is usually indicated."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In sickle cell anemia, administering oxygen therapy helps to:",
+      "options": [
+        "Kill infectious bacteria.",
+        "Promote adequate oxygenation and potentially reduce sickling.",
+        "Increase the production of red blood cells.",
+        "Act as a potent analgesic."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Thalassemia minor often requires no specific treatment.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Beta thalassemia is a sex-linked genetic disorder.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Iron overload from transfusions in thalassemia can damage the heart, liver, and endocrine system.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In thalassemia, an enlarged spleen may be surgically removed if it grows too large.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sickle cell disease is caused by abnormal hemoglobin that makes red blood cells stiff, sticky, and sickle-shaped.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In sickle cell anemia, a vaso-occlusive crisis affecting the brain can lead to hemiplegia (stroke).",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The spleen in sickle cell disease is typically markedly enlarged throughout life.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hemophilia A is equally common in males and females.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Desmopressin is a medication that can increase clotting factor VIII levels in some patients with hemophilia A.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "For a major joint bleed in hemophilia, the initial nursing action is to apply heat and massage the area.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "ITP is characterized by an abnormally high platelet count.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Medications and viral infections are potential triggers for ITP.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In ITP, platelet transfusions are the first-line treatment for all patients.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A patient with ITP and a platelet count below 50 x 10^9/L is at risk for visible signs like purpura.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Good hand hygiene is an important infection prevention measure for patients with ITP who are on immunosuppressive therapy like steroids.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A 2-year-old child of Mediterranean descent is brought to the clinic. The mother reports the child is very tired, pale, and not growing like their siblings did. Physical exam reveals abdominal distension and jaundice. Which disorder is the nurse most suspicious of?",
+      "options": [
+        "Idiopathic Thrombocytopenic Purpura (ITP)",
+        "Hemophilia A",
+        "Beta Thalassemia Major",
+        "Sickle Cell Anemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An 8-year-old with known sickle cell anemia is admitted with severe back and leg pain rated 9/10. The child is febrile and appears anxious. What is the nurse's priority action?",
+      "options": [
+        "Draw blood for a type and crossmatch.",
+        "Administer prescribed IV morphine via PCA pump.",
+        "Place the child on strict bed rest in a flat position.",
+        "Obtain an order for a chest X-ray."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse is reviewing the lab results of a 10-year-old with thalassemia major who receives monthly transfusions. The serum ferritin level is extremely elevated. The nurse should be most vigilant in assessing this child for signs of damage to which system?",
+      "options": [
+        "Musculoskeletal system (e.g., fractures)",
+        "Endocrine system (e.g., glucose dysregulation, growth delay)",
+        "Integumentary system (e.g., skin breakdown)",
+        "Neurological system (e.g., seizures)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 6-year-old boy with severe Hemophilia A falls and injures his knee. The knee is swollen, warm, and painful. He is unable to bear weight on it. After notifying the physician, which initial nursing intervention should be implemented while awaiting factor replacement?",
+      "options": [
+        "Ambulate the child to prevent stiffness.",
+        "Apply the RICE protocol (Rest, Ice, Compression, Elevation).",
+        "Soak the knee in warm water to promote circulation.",
+        "Massage the knee gently to reduce swelling."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 4-year-old with ITP is being discharged. The platelet count is 30 x 10^9/L. The parents are nervous about caring for her at home. Which instruction from the nurse is most critical for preventing injury?",
+      "options": [
+        "Give her a daily baby aspirin to prevent blood clots.",
+        "Encourage her to ride her bicycle with training wheels outside.",
+        "Use a soft-bristled toothbrush for her dental care.",
+        "Limit her fluid intake to reduce the risk of edema."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "During a transfusion for a child with thalassemia major, the nurse monitors for transfusion reactions and complications of chronic transfusion therapy. Which finding would most specifically indicate a potential complication of iron overload?",
+      "options": [
+        "Urticaria (hives) and itching.",
+        "Fever and chills.",
+        "Abdominal pain and bloody diarrhea.",
+        "Shortness of breath and crackles in lung fields."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A teenager with sickle cell anemia comes to the ER with chest pain and difficulty breathing. This is a potential sign of which life-threatening complication?",
+      "options": [
+        "Acute Chest Syndrome",
+        "Cholecystitis",
+        "Avascular Necrosis of the Hip",
+        "Priapism"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The mother of a child newly diagnosed with thalassemia minor is confused because another doctor once told her the child had iron deficiency. How should the nurse explain this common point of confusion?",
+      "options": [
+        "Thalassemia minor and iron deficiency both cause a macrocytic anemia.",
+        "The lab values can look similar because both conditions cause a microcytic anemia.",
+        "They are the same condition, just with different names.",
+        "The child must have had iron deficiency first, which then turned into thalassemia."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 7-year-old with Hemophilia A has a central venous line (CVL) for frequent factor infusions. When planning this child's care, which measure is critical?",
+      "options": [
+        "Administering the Hepatitis B vaccine.",
+        "Restricting all physical activity.",
+        "Keeping the child on a low-protein diet.",
+        "Avoiding all live virus vaccines."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A nurse is assessing a 5-year-old with ITP who is on corticosteroid therapy. The child has a temperature of 38.5°C (101.3°F) and is lethargic. What is the most appropriate initial nursing action?",
+      "options": [
+        "Document the findings as an expected side effect of steroids.",
+        "Encourage oral fluids and re-assess in 4 hours.",
+        "Notify the physician promptly due to the risk of serious infection.",
+        "Administer an antipyretic and allow the child to sleep."
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
