@@ -2,16 +2,6 @@
   "title": "Malignant Neoplasms",
   "questions": [
     {
-      "question": "According to the lecture, what is a key difference between childhood and adult cancers?",
-      "options": [
-        "Childhood cancers always have a known cause.",
-        "Childhood cancers may behave very differently even when starting in the same part of the body.",
-        "Adult cancers are always benign.",
-        "Childhood cancers do not form tumors."
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "What characterizes a malignant tumor?",
       "options": [
         "It grows slowly and does not spread.",
@@ -85,9 +75,9 @@
       "question": "What is a critical complication of leukemia?",
       "options": [
         "Hypertension",
-        "Recurrent infections which can cause Death",
-        "Improved appetite",
-        "Decreased bleeding tendency"
+        "Recurrent infections",
+        "Anemia",
+        "Pallor, petechiae, fatigue"
       ],
       "correctIndex": 1
     },
@@ -100,16 +90,6 @@
         "Topical steroids only"
       ],
       "correctIndex": 1
-    },
-    {
-      "question": "For a child with leukemia, which nursing action is specifically mentioned for rectal ulcers?",
-      "options": [
-        "Measure temperature rectally every hour.",
-        "Apply antibiotic ointment liberally.",
-        "Not measure temperature rectally and keep the area clean and dry.",
-        "Use a heating pad on the area."
-      ],
-      "correctIndex": 2
     },
     {
       "question": "What is stated as the leading cause of cancer-related death in children?",
@@ -142,26 +122,6 @@
       "correctIndex": 2
     },
     {
-      "question": "What is the crucial neuroimaging investigation for a suspected brain tumor?",
-      "options": [
-        "X-ray of the skull",
-        "Ultrasound of the head",
-        "MRI of the brain and spine with and without gadolinium contrast",
-        "PET scan of the abdomen"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Management of a brain tumor involves a multidisciplinary approach. Which professional is NOT listed as part of this team?",
-      "options": [
-        "Neurosurgery",
-        "Pediatric oncology",
-        "Orthopedic surgeon",
-        "Child life specialists"
-      ],
-      "correctIndex": 2
-    },
-    {
       "question": "Which of the following is listed as a late effect from cancer therapy?",
       "options": [
         "Improved cognitive function",
@@ -175,7 +135,7 @@
       "question": "Wilms tumor is best described as:",
       "options": [
         "A benign cyst of the liver",
-        "A highly malignant embryonic adenosarcoma of the kidney",
+        "A cancer of the kidney",
         "A type of brain tumor",
         "A cancer of the lymph nodes"
       ],
@@ -194,7 +154,7 @@
     {
       "question": "The primary treatment for Wilms tumor involves:",
       "options": [
-        "Radiation therapy only",
+        "Radiation therapy",
         "Surgery with possible x-ray irradiation and chemotherapy",
         "Antibiotics and bed rest",
         "Bone marrow transplantation"
@@ -214,9 +174,9 @@
     {
       "question": "What is a common early clinical manifestation of Hodgkin's disease?",
       "options": [
-        "Painful enlargement of cervical lymph nodes",
+        "Splenomegaly and Hepatomegaly",
         "Painless enlargement of one or more cervical lymph nodes",
-        "Severe abdominal pain",
+        "Elevated ESR",
         "Profuse bleeding"
       ],
       "correctIndex": 1
@@ -235,7 +195,7 @@
       "question": "What is a critical lifelong consideration if a total splenectomy is performed for Hodgkin's disease?",
       "options": [
         "The child will need daily insulin.",
-        "The child will have a life long susceptibility to bacterial infection, requiring prophylactic antibiotics.",
+        "Penicillin should be given daily for 1 to 2 years.",
         "The child must avoid all physical activity.",
         "The child will develop leukemia."
       ],
@@ -278,20 +238,16 @@
     },
     {
       "question": "A 3-year-old with pallor, lethargy, petechiae, hepatosplenomegaly, and leg pain most likely has:",
-      "options": [
-        "Neuroblastoma",
-        "Leukemia",
-        "Brain Stem Glioma",
-        "Non-Hodgkin Lymphoma"
-      ],
+      "options": ["Neuroblastoma", "Leukemia", "Brain Tumor", "Wilms Tumor"],
       "correctIndex": 1
     },
     {
       "question": "An adolescent with fatigue, bruising, infections, and many immature granulocytes likely has:",
       "options": [
-        "Acute Lymphoblastic Leukemia (ALL)",
+        "Brain tumours",
         "Acute Myeloid Leukemia (AML)",
-        "Chronic Lymphocytic Leukemia (CLL)"
+        "Non-Hodgkin Lymphoma",
+        "Hodgkin Lymphoma"
       ],
       "correctIndex": 1
     },
@@ -380,7 +336,7 @@
       "options": [
         "Electroencephalogram (EEG)",
         "Lumbar Puncture",
-        "MRI of the brain and spine with and without gadolinium",
+        "MRI of the brain and spine",
         "Chest X-ray"
       ],
       "correctIndex": 2
@@ -406,19 +362,9 @@
       "correctIndex": 0
     },
     {
-      "question": "In leukemia, the liver, spleen, and lymph nodes are typically decreased in size.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
       "question": "The treatment for leukemia is considered curative, not palliative.",
       "options": ["True", "False"],
       "correctIndex": 1
-    },
-    {
-      "question": "A key part of nursing care for leukemia is providing a happy safe atmosphere and alleviating anxiety.",
-      "options": ["True", "False"],
-      "correctIndex": 0
     },
     {
       "question": "Brain tumours are the most common solid tumour in children.",
@@ -444,6 +390,46 @@
       "question": "A late effect of cancer therapy can include the development of a second, new cancer.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "What is the most likely explanation for episodic abdominal pain in a child with Acute Myeloid Leukemia (AML)?",
+      "options": [
+        "It is a direct side effect of chemotherapy.",
+        "It is caused by gastric ulcers from stress.",
+        "It occurs owing to enlarged lymph nodes.",
+        "It results from severe constipation due to immobility."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 5-year-old with a brain tumor in the hypothalamic-pituitary axis is being assessed. Which symptoms should the nurse be most vigilant for?",
+      "options": [
+        "Recurrent vomiting and head tilt.",
+        "Delayed puberty, anorexia, failure to thrive.",
+        "Tics, tremor, movement disorder.",
+        "Visual changes and nystagmus."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which hormone is specifically implicated if a pediatric brain tumor patient develops precocious puberty as a late effect of treatment?",
+      "options": [
+        "Prolactin",
+        "Cortisol",
+        "Luteinizing Hormone (LH)",
+        "Adrenocorticotropic Hormone (ACTH)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which symptom would be least likely classified as a direct late effect of prior cancer therapy in a childhood leukemia survivor?",
+      "options": [
+        "Development of a new malignant brain tumor.",
+        "Persistent anxiety and depressive symptoms.",
+        "A recent diagnosis of hypothyroidism.",
+        "An active urinary tract infection."
+      ],
+      "correctIndex": 3
     }
   ]
 }
