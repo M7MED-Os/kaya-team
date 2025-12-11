@@ -22,11 +22,6 @@
       "correctIndex": 1
     },
     {
-      "question": "The most common age range for the onset of Nephrotic Syndrome in children is:",
-      "options": ["6–12 months", "1–2 years", "2–5 years", "6–10 years"],
-      "correctIndex": 2
-    },
-    {
       "question": "In young children, the boy-to-girl ratio for Nephrotic Syndrome is:",
       "options": ["1:1", "2:1", "3:1", "1:2"],
       "correctIndex": 1
@@ -91,8 +86,8 @@
       "options": [
         "Generalized edema",
         "Grossly bloody urine",
-        "Severe hypertension",
-        "Polyuria"
+        "Fever",
+        "Oliguria"
       ],
       "correctIndex": 1
     },
@@ -282,26 +277,6 @@
       "correctIndex": 1
     },
     {
-      "question": "A child with AGN has BP 150/95 and headache. What should the nurse do?",
-      "options": [
-        "Administer analgesic",
-        "Encourage ambulation",
-        "Report to physician",
-        "Restrict all fluids"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Preventing future UTIs in a 5-year-old girl includes which instruction?",
-      "options": [
-        "Encourage her to hold urine",
-        "Wipe front to back",
-        "Wear nylon underwear",
-        "Limit evening fluids"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "A child in the Oliguric Phase of ARF with potassium 6.2 and peaked T-waves is experiencing:",
       "options": [
         "Hyperkalemia, a medical emergency",
@@ -345,7 +320,7 @@
       "question": "During the Diuretic Phase of ARF, large urine output with low specific gravity means:",
       "options": [
         "Kidneys fully recovered",
-        "Expected—kidneys can't concentrate urine yet",
+        "Kidneys can't concentrate urine yet",
         "Dehydration requiring restriction",
         "Worsening renal failure"
       ],
@@ -425,6 +400,46 @@
       "question": "Kidney transplantation is listed as a treatment option for renal failure.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "A child with Acute Glomerulonephritis is recovering well. During a follow-up visit, the parent asks when the child can return to soccer practice. The child's urine analysis still shows mild hematuria, but blood pressure and renal function tests are normal. Which response by the nurse is most consistent with the therapeutic management outlined in the notes?",
+      "options": [
+        "He can return immediately; exercise will help clear the hematuria.",
+        "Activity should be limited until clinical manifestations subside, typically for 2–4 weeks from onset.",
+        "He should avoid sports permanently to prevent recurrence.",
+        "He can return once the hematuria is completely gone, which may take months."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse is reviewing the lab results of a child in the early Diuretic Phase of Acute Renal Failure. The results show a urine output of 600 cc/day with a low specific gravity, and serum sodium and potassium levels are low. Which nursing action is most critical in response to these findings?",
+      "options": [
+        "Restrict all oral fluids to prevent further electrolyte loss.",
+        "Prepare the child for immediate dialysis.",
+        "Monitor closely for signs of dehydration and electrolyte imbalances, as large losses are expected.",
+        "Administer IV potassium immediately without waiting for a physician's order."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 4-year-old with a history of recurrent UTIs is scheduled for a renal ultrasound. The parent is anxious and asks why this test is necessary since the child is already on antibiotics. What is the best explanation based on the diagnostic guidelines in the notes?",
+      "options": [
+        "The ultrasound is used to check for heart damage caused by the infection.",
+        "In young children, especially girls under age 5–6, imaging like ultrasound helps assess the kidneys for abnormalities or obstruction.",
+        "All children with a UTI must have an ultrasound to rule out cancer.",
+        "It is only done if the child has a fever."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with Chronic Renal Failure has a nursing diagnosis of 'Risk for infection related to uremic effects on immune system.' During morning care, the nurse notices the child has a slightly elevated temperature and mild redness at the site of a recent IV insertion. What should be the nurse's priority interpretation and subsequent action?",
+      "options": [
+        "This is expected due to uremia; document and continue monitoring.",
+        "This could be a sign of infection; assess further, report to the physician, and maintain aseptic technique for all procedures.",
+        "Immediately remove the IV and start broad-spectrum antibiotics.",
+        "Apply a warm compress and reassure the parent it is normal."
+      ],
+      "correctIndex": 1
     }
   ]
 }
