@@ -1,0 +1,235 @@
+{
+  "title": "Obstetrics and Gynecology Nursing",
+  "questions": [
+    {
+      "question": "The nurse should take temperature before providing digitalis for cardiac pregnant women.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Puerperal sepsis refers to any widespread bacterial infection of the reproductive tract in a woman following childbirth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A brow presentation is a cephalic presentation in which the head is midway between flexion and extension.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Women should avoid pregnancy for three months after discontinuing birth control pills.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Developing high blood pressure during pregnancy always means you have preeclampsia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Uterine prolapse is the herniation of the uterus into or beyond the vagina as a result of strength of the ligamentous and fascia supports.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A pregnant woman for the sixth time is at increased risk for placenta previa.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Norplant can be inserted under the skin in a woman’s arm to provide effective contraception.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "During 3rd stage of labor, the woman with 4th degree of cardiac disease should be administered with ergometrine.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When labor process slows down, it is called arrest of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Intra-uterine contraceptive device (IUCD) can be used effectively during lactation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Active treatment of placenta previa is termination of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The fascia overlying the levator ani muscles provides support to the middle part of the vagina.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Uterine prolapse occurs when the cardinal-uterosacral ligament is attenuated.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The most fertile days of a woman’s cycle can vary from month to month.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A woman should visit the antenatal clinic once every month in the first 7 months of normal pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chromosomal abnormalities are a common cause of early miscarriage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Partial molar pregnancy is caused by a single sperm or two sperms combining with an egg that has lost its DNA.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Salpingotomy is an option of surgical management in tubal pregnancy to conserve the tube.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Uterine contraction is the primary power involved in labor and delivery.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ectopic pregnancy remains an important cause of maternal mortality in the third trimester.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oogenesis is the creation of an ovum in the ovary.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Methotrexate is a drug given to women for treatment of ectopic pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vaginal bleeding in molar pregnancy is prune juice.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pre-eclampsia can cause disseminated intravascular coagulopathy (DIC).",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oxytocin is administered for cardiac women to shorten the second stage of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oral glucose tolerance test (GTT) is the standard test for diagnosis of diabetes mellitus.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "When the fetus is rapidly expelled and the duration of labor is less than 3 hours, it is called preterm labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The cervix protrudes from the vagina in a patient with first degree uterine prolapse.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Estrogen hormone is responsible in the proliferative phase.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The most important nursing assessment during the fourth stage of labor is distention of the bladder.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Normal labor is expulsion of fetus and placenta.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Proteinuria develops earlier in women with preexisting hypertension than in women with pre-eclampsia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prolonged labor can be defined as prolongation of the process of labor beyond normal limits.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Diabetes mellitus associated with pregnancy is a significant factor contributing to prenatal morbidity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Decidua vera lies directly over the blastocyst and separates it from the uterine cavity.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Mentum is the denominator in brow presentation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The sacrum is the denominator in breech presentation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The anterior fontanel is triangular in shape.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pre-eclampsia commonly necessitates the use of antihypertensive agents in the puerperium.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "If the front wall of the vagina is prolapsing below the bladder, it is called cystocele.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Neonatal hypobilirubinemia is a fetal complication of diabetes mellitus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pain is the first sign in ectopic pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ovulation always occurs in the early menstrual cycle and around menopause.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The ovary is under the influence of FSH in the secretory phase.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The glomerular filtration rate increases in pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
