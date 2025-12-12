@@ -1,0 +1,120 @@
+{
+  "title": "OB/GYN Nursing Part 2",
+  "questions": [
+    {
+      "question": "Vaginal bleeding in molar pregnancy is prune juice.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pre-eclampsia can cause disseminated intravascular coagulopathy (DIC).",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oxytocin is administered for cardiac women to shorten the second stage of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oral glucose tolerance test (GTT) is the standard test for diagnosis of diabetes mellitus.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "When the fetus is rapidly expelled and the duration of labor is less than 3 hours, it is called preterm labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The cervix protrudes from the vagina in a patient with first degree uterine prolapse.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Estrogen hormone is responsible in the proliferative phase.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The most important nursing assessment during the fourth stage of labor is distention of the bladder.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Normal labor is expulsion of fetus and placenta.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Proteinuria develops earlier in women with preexisting hypertension than in women with pre-eclampsia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prolonged labor can be defined as prolongation of the process of labor beyond normal limits.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Diabetes mellitus associated with pregnancy is a significant factor contributing to prenatal morbidity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Decidua vera lies directly over the blastocyst and separates it from the uterine cavity.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Mentum is the denominator in brow presentation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The sacrum is the denominator in breech presentation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The anterior fontanel is triangular in shape.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pre-eclampsia commonly necessitates the use of antihypertensive agents in the puerperium.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "If the front wall of the vagina is prolapsing below the bladder, it is called cystocele.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Neonatal hypobilirubinemia is a fetal complication of diabetes mellitus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pain is the first sign in ectopic pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ovulation always occurs in the early menstrual cycle and around menopause.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The ovary is under the influence of FSH in the secretory phase.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The glomerular filtration rate increases in pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

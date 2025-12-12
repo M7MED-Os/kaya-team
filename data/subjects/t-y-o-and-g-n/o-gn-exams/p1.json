@@ -1,0 +1,499 @@
+{
+  "title": "OB/GYN Nursing Part 1",
+  "questions": [
+    {
+      "question": "A pregnant woman is diagnosed with partial placenta previa. In explaining the diagnosis, the nurse tells the woman that the usual management for partial placenta previa is:",
+      "options": [
+        "Activity limited to bed rest",
+        "Platelet infusion",
+        "Immediate cesarean delivery",
+        "Induction with oxytocin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Upon assessment, the nurse got the following findings: two perineal pads highly saturated with blood within 2 hours postpartum, pulse rate = 80 bpm, fundus soft, and boundaries not well defined. The appropriate nursing diagnosis is:",
+      "options": [
+        "Normal blood loss",
+        "Blood volume deficiency",
+        "Inadequate tissue perfusion related to hemorrhage",
+        "Hemorrhage related to uterine atony"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the cause of pernicious anemia?",
+      "options": [
+        "Iron deficiency",
+        "Vitamin B12 deficiency",
+        "Folic acid deficiency",
+        "Vitamin B6 deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nurse is preparing to assess the uterine fundus of a woman during the immediate postpartum period. When the nurse palpates the fundus, she feels the uterus is soft and boggy. Which of the following nursing interventions should be appropriate initially?",
+      "options": [
+        "Massage the fundus until it is firm",
+        "Elevate the mother’s legs",
+        "Push on the uterus to assist in expressing clots",
+        "Encourage the mother to void"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is a risk factor for developing gestational diabetes mellitus?",
+      "options": [
+        "Negative family history of diabetes",
+        "Polyhydramnios",
+        "Mother between 20-45 years old",
+        "Primipara"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following cause of microcytic anemia?",
+      "options": [
+        "Vitamin B12 deficiency",
+        "Folic acid deficiency",
+        "Iron deficiency",
+        "Vitamin B6 deficiency"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The umbilical cord stump frequently sloughs off approximately at:",
+      "options": [
+        "2nd day after delivery",
+        "10th day after delivery",
+        "5th day after delivery",
+        "15th day after delivery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Aya, 28-year-old primigravida with 33 weeks of pregnancy suddenly complains of headache and blurred vision. Her blood pressure is 180/110 and urine albumin is +3. The line of further management is:",
+      "options": [
+        "Wait and watch",
+        "Lower segment cesarean section (LSCS)",
+        "Induction of labor",
+        "Anticonvulsant + antihypertensive therapy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "When the uterus is firm and contracted after delivery but there is bright fresh vaginal bleeding, the nurse should suspect which of the following:",
+      "options": [
+        "Uterine hypercontractility",
+        "Uterine inversion",
+        "Uterine atony",
+        "Laceration of soft tissues of the cervix and vagina"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The most appropriate nursing recommendation for the pregnant woman who takes iron supplement to enhance the absorption is which of the following?",
+      "options": [
+        "Take iron supplements before meal",
+        "Take iron supplements with orange juice",
+        "Take iron supplements within the meal to enhance absorption",
+        "Take iron supplements with food help reduce constipation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the most common cause of heart failure during pregnancy?",
+      "options": [
+        "Obesity",
+        "Viral myocarditis",
+        "Chronic hypertension with severe preeclampsia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The nurse should anticipate that hemorrhage related to uterine atony may occur postnatally. Which of the following cause this condition?",
+      "options": [
+        "Excessive analgesia was given to the woman",
+        "Placental delivery occurred within thirty minutes after the baby was born",
+        "An episiotomy had to be done to facilitate delivery of the head",
+        "The labor and delivery lasted for 12 hours"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pregnant woman is considered severe anemic when the hemoglobin is:",
+      "options": [
+        "Below 7 gm/dl",
+        "Below 10 gm/dl",
+        "Below 9 gm/dl",
+        "Below 11 gm/dl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The nurse is assessing women’s lochia on a 1-day postpartum period. The nurse notes that the lochia is red and has a foul-smelling odor. The nurse determines that the assessment finding is:",
+      "options": [
+        "Normal",
+        "Indicates the presence of infection",
+        "Indicates the need for increasing oral fluids",
+        "Indicates the need for increasing ambulation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is described as a separation of a normally implanted placenta during the second half of pregnancy?",
+      "options": [
+        "Placenta Previa",
+        "Ectopic pregnancy",
+        "Incompetent cervix",
+        "Abruptio placenta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A pregnant woman is receiving iron supplementation and reports about her stool is dark black. The nurse should:",
+      "options": [
+        "Notify the doctor",
+        "Hold the next dose of iron",
+        "Reassure the patient this is a normal side effect of iron supplementation",
+        "Increase dose of iron"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following complication is most likely responsible for a secondary postpartum hemorrhage?",
+      "options": [
+        "Uterine subinvolution",
+        "Perineal laceration",
+        "Clotting deficiency",
+        "Cervical laceration"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following refers to severe preeclampsia?",
+      "options": [
+        "Proteinuria greater than 0.3 gram in 24-hour period",
+        "Proteinuria greater than 1 gram in 24-hour period",
+        "Proteinuria greater than 5 gram in 24-hour period",
+        "Proteinuria greater than 7.5 gram in 24-hour period"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The nurse can assist the cardiac pregnant woman to a comfortable position as:",
+      "options": [
+        "Supine position",
+        "Upright’s position",
+        "Semi-fowler’s position",
+        "Dorsal recumbent position"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following refers to advantage of male condom:",
+      "options": [
+        "Decrease sexual pleasure to male and female",
+        "Not require medical supervision",
+        "Allergy to latex",
+        "Increase failure rate"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prolapsed umbilical cord is associated with all of the following except:",
+      "options": [
+        "Premature rupture of membranes",
+        "Hydramnios",
+        "Twins",
+        "Post-term pregnancy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A homecare nurse visits a pregnant woman who has a diagnosis of mild preeclampsia. Which assessment finding indicates signs of the preeclampsia and the need to notify the physician?",
+      "options": [
+        "The woman complains of a headache and blurred vision",
+        "Blood pressure reading is at the prenatal baseline",
+        "Dependent edema has resolved",
+        "Urinary output has increased"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is a cardiac danger sign of pregnant woman?",
+      "options": [
+        "Fatigue with activity",
+        "Angina pain",
+        "Intolerant exercise",
+        "Persistent headache"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following refers to term of tied-off the fallopian tubes:",
+      "options": ["Vasectomy", "IUD", "Tubal ligation", "Abstinence"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The nurse is reviewing the laboratory test results of a pregnant woman. Which one of the following findings would alert the nurse to the development of HELLP syndrome?",
+      "options": [
+        "Hyperglycemia",
+        "Leukocytosis",
+        "Elevated platelet count",
+        "Elevated liver enzymes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Male procedure for sterility, seen as a permanent form of birth control.",
+      "options": ["Depo provera", "Diaphragm", "Tubal ligation", "Vasectomy"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following describes placenta previa marginalis?",
+      "options": [
+        "Cervical opening is completely covered by the placenta",
+        "Cervical opening is partially covered by the placenta",
+        "The edge of placenta reaches internal os but not cover it",
+        "No answer is correct"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Maha is pregnant in third trimester arrives at the obstetrics emergency room with painless vaginal bleeding. Which of the following conditions is suspected?",
+      "options": [
+        "Placenta previa",
+        "Premature labor",
+        "Abruptio placentae",
+        "Sexually transmitted disease"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the standard test for diagnosis of diabetes mellitus?",
+      "options": [
+        "Glucose tolerance test",
+        "Glucose challenge test",
+        "Fasting blood sugar",
+        "Glycosylated hemoglobin A1c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following instructions are necessary for a pregnant woman who is to undergo a glucose challenge test (GCT)?",
+      "options": [
+        "Consume a low fat diet for 48 hours prior to testing",
+        "Fast for 12 hours prior to testing",
+        "There are no dietary restrictions prior to testing",
+        "Consume a consistent carbohydrate diet (60 g) prior to testing"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following instructions would be the priority, when developing a plan of care for a woman newly diagnosed with gestational diabetes?",
+      "options": [
+        "Dietary intake",
+        "Exercise",
+        "Medication",
+        "Glucose monitoring"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What medication is used as seizure prophylaxis during labor and postpartum?",
+      "options": [
+        "Magnesium sulfate",
+        "Phenobarbital",
+        "Valproic Acid",
+        "Carbemazepine"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "In pregnancy with heart disease, the risk of cardiac complications increase at?",
+      "options": ["10-12 weeks", "20-22 weeks", "30-32 weeks", "40-42 weeks"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Risk factors of diabetes mellitus include all of the following EXCEPT?",
+      "options": [
+        "Obesity",
+        "Polyhydrominos",
+        "Mother over 45 years of age and less than 20years",
+        "Primipara"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The greater danger in breech presentation?",
+      "options": [
+        "Cord prolapse",
+        "Rupture of uterus",
+        "Precipitate labour",
+        "Prolapse of foot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "From physiological method of family planning all the following EXCEPT?",
+      "options": [
+        "Lactation amenorrhea method",
+        "Fertility awareness method",
+        "Female condom",
+        "Coital interruption method"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following fever, foul lochial discharge and subinvolution of the uterus are signs of?",
+      "options": [
+        "Puerperal psychosis",
+        "Postpartum hemorrhage",
+        "Puerperal sepsis",
+        "Hypertensive disorder"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The mode of action of IUCD all the following EXCEPT?",
+      "options": [
+        "Act as mechanical barriers preventing ovum implantation in the endometrium",
+        "Increase uterine and tubal motility",
+        "It can initiate sterile inflammatory reaction",
+        "Decrease endometrial prostaglandin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Commonest cause of postpartum hemorrhage?",
+      "options": [
+        "Atonicity of the uterus",
+        "Trauma to the genital tract",
+        "Forceps delivery",
+        "Blood coagulopathy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A pregnant women suffering from heart disease feels slight dyspnea and palpitation with ordinary activity. Her cardiac function status in class",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The nurse should take temperature before providing digitalis for cardiac pregnant women.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Puerperal sepsis refers to any widespread bacterial infection of the reproductive tract in a woman following childbirth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A brow presentation is a cephalic presentation in which the head is midway between flexion and extension.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Women should avoid pregnancy for three months after discontinuing birth control pills.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Developing high blood pressure during pregnancy always means you have preeclampsia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Uterine prolapse is the herniation of the uterus into or beyond the vagina as a result of strength of the ligamentous and fascia supports.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A pregnant woman for the sixth time is at increased risk for placenta previa.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Norplant can be inserted under the skin in a woman’s arm to provide effective contraception.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "During 3rd stage of labor, the woman with 4th degree of cardiac disease should be administered with ergometrine.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When labor process slows down, it is called arrest of labor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Intra-uterine contraceptive device (IUCD) can be used effectively during lactation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Active treatment of placenta previa is termination of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The fascia overlying the levator ani muscles provides support to the middle part of the vagina.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Uterine prolapse occurs when the cardinal-uterosacral ligament is attenuated.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The most fertile days of a woman’s cycle can vary from month to month.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A woman should visit the antenatal clinic once every month in the first 7 months of normal pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Chromosomal abnormalities are a common cause of early miscarriage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Partial molar pregnancy is caused by a single sperm or two sperms combining with an egg that has lost its DNA.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Salpingotomy is an option of surgical management in tubal pregnancy to conserve the tube.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Uterine contraction is the primary power involved in labor and delivery.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ectopic pregnancy remains an important cause of maternal mortality in the third trimester.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oogenesis is the creation of an ovum in the ovary.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Methotrexate is a drug given to women for treatment of ectopic pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
