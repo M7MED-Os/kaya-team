@@ -2,6 +2,13 @@
   "subject": "تمريض النسا والتوليد نظري",
   "lectures": [
     {
+      "title": "اسئلة تمريض نسا - د. أسماء ابو العنين",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/all.json",
+      "file": null,
+      "summary": null
+    },
+    {
       "title": "Anatomy of female reproductive organs",
       "video": null,
       "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/aofro.json",
