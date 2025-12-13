@@ -2,6 +2,21 @@
   "title": "Neurologic disorders",
   "questions": [
     {
+      "question": "A child with cerebral palsy presents with increased muscle tone. On examination, the nurse notes stiff muscles with exaggerated reflexes. This refers to:",
+      "options": [
+        "Spasticity",
+        "Rigidity",
+        "Ataxia",
+        "Stiff or floppy muscle tone"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Stiff muscles with normal reflexes is refers to Rigidity",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
       "question": "Cerebral palsy is best described as:",
       "options": [
         "A progressive disorder of the nervous system",
@@ -87,7 +102,7 @@
         "Arms more than legs",
         "Legs more than arms",
         "One side of the body",
-        "Face and trunk only"
+        "All limbs, Face and trunk"
       ],
       "correctIndex": 1
     },
@@ -105,16 +120,6 @@
         "Feeding ability"
       ],
       "correctIndex": 2
-    },
-    {
-      "question": "A child with CP has feeding difficulty and drooling. The major risk is:",
-      "options": [
-        "Dehydration only",
-        "Malnutrition and aspiration",
-        "Obesity",
-        "Anemia"
-      ],
-      "correctIndex": 1
     },
     {
       "question": "Down syndrome occurs due to:",
@@ -149,22 +154,12 @@
     {
       "question": "A prenatal ultrasound finding suggestive of Down syndrome is:",
       "options": [
-        "Enlarged nuchal translucency",
+        "Enlarged nuchal translucency (NT)",
         "Polyhydramnios",
         "Renal agenesis",
         "Spina bifida"
       ],
       "correctIndex": 0
-    },
-    {
-      "question": "Intellectual disability is diagnosed when there is:",
-      "options": [
-        "Low IQ only",
-        "Adaptive limitation only",
-        "Low IQ with impaired adaptive behavior",
-        "Delayed speech only"
-      ],
-      "correctIndex": 2
     },
     {
       "question": "An IQ of 60 indicates:",
@@ -186,16 +181,7 @@
       ],
       "correctIndex": 2
     },
-    {
-      "question": "A child with ID shows aggression after repeated failure. This behavior is best explained by:",
-      "options": [
-        "Attention-seeking only",
-        "Emotional instability related to disability",
-        "Neuromuscular defect",
-        "Medication side effect"
-      ],
-      "correctIndex": 1
-    },
+
     {
       "question": "Which goal is realistic for a child with moderate intellectual disability?",
       "options": [
@@ -203,16 +189,6 @@
         "Learning basic self-care with supervision",
         "No functional skills",
         "Academic excellence"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Family stress in caring for a child with CP is best managed by:",
-      "options": [
-        "Limiting family involvement",
-        "Providing family education and support",
-        "Hospitalizing the child",
-        "Ignoring parental concerns"
       ],
       "correctIndex": 1
     },
@@ -277,11 +253,6 @@
       "correctIndex": 1
     },
     {
-      "question": "Repetition helps learning in ID children.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
       "question": "Children with ID cannot learn new skills.",
       "options": ["True", "False"],
       "correctIndex": 1
@@ -292,12 +263,7 @@
       "correctIndex": 0
     },
     {
-      "question": "Family coping is part of nursing care.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "CP affects cognition only, not movement.",
+      "question": "CP affects movement only, not cognition.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
@@ -348,16 +314,6 @@
         "Contractures",
         "Intellectual decline",
         "Vision loss"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Parents of a child with ID feel overwhelmed and exhausted. The nurse should FIRST:",
-      "options": [
-        "Focus only on the child",
-        "Provide family education and support",
-        "Suggest institutional care",
-        "Limit parental involvement"
       ],
       "correctIndex": 1
     }
