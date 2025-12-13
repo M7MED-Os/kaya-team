@@ -381,6 +381,15 @@
       "correctIndex": 1
     },
     {
+      "question": "The most common type of anemia during pregnancy is due to which of the following:",
+      "options": [
+        "Iron deficiency anemia",
+        "Folic acid deficiency",
+        "Sickle cell anemia"
+      ],
+      "correctIndex": 0
+    },
+    {
       "question": "The nurse should take temperature before providing digitalis for cardiac pregnant women.",
       "options": ["True", "False"],
       "correctIndex": 1

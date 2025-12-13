@@ -2,9 +2,16 @@
   "subject": "تمريض النسا والتوليد نظري",
   "lectures": [
     {
-      "title": ".",
+      "title": "أسئلة د.أسماء أبو العنين - 1",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/11.json",
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/p1.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "أسئلة د.أسماء أبو العنين - 2",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-o-and-g-n/o-gn-exams/p2.json",
       "file": null,
       "summary": null
     },
