@@ -1,0 +1,365 @@
+{
+  "title": "Neurologic disorders",
+  "questions": [
+    {
+      "question": "Cerebral palsy is best described as:",
+      "options": [
+        "A progressive disorder of the nervous system",
+        "A group of disorders affecting movement and posture",
+        "A psychiatric disorder of childhood",
+        "A metabolic disease"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The main underlying cause of cerebral palsy is:",
+      "options": [
+        "Degeneration of neurons",
+        "Abnormal brain development or brain damage",
+        "Vitamin deficiency",
+        "Endocrine dysfunction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which statement best explains why CP is considered non-progressive?",
+      "options": [
+        "Symptoms disappear with age",
+        "Brain damage worsens but symptoms remain stable",
+        "Brain damage does not worsen, but symptoms may change",
+        "Motor function always improves"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which maternal condition increases the risk of cerebral palsy?",
+      "options": [
+        "Diabetes mellitus",
+        "Thyroid problems",
+        "Hypertension only",
+        "Anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A fetus exposed to toxoplasmosis is at risk because the infection is:",
+      "options": ["Bacterial", "Viral", "Parasitic", "Genetic"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which neonatal condition increases CP risk due to bilirubin toxicity?",
+      "options": ["Prematurity", "Severe jaundice", "Birth trauma", "Sepsis"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Spasticity in cerebral palsy leads to:",
+      "options": [
+        "Flaccid paralysis",
+        "Muscle shortening and contractures",
+        "Muscle wasting only",
+        "Loss of reflexes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with poor balance, wide-based gait, and difficulty writing most likely has:",
+      "options": ["Spastic CP", "Dyskinetic CP", "Ataxic CP", "Mixed CP"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which symptom helps differentiate dyskinetic CP from spastic CP?",
+      "options": [
+        "Exaggerated reflexes",
+        "Slow writhing involuntary movements",
+        "Delayed milestones",
+        "Seizures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most common type of cerebral palsy is:",
+      "options": ["Mixed", "Ataxic", "Dyskinetic", "Spastic"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Spastic diplegia mainly affects:",
+      "options": [
+        "Arms more than legs",
+        "Legs more than arms",
+        "One side of the body",
+        "Face and trunk only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which investigation best identifies brain lesions in CP?",
+      "options": ["EEG", "Cranial ultrasound", "MRI", "CT abdomen"],
+      "correctIndex": 2
+    },
+    {
+      "question": "EEG is mainly used in children with CP to assess:",
+      "options": [
+        "Muscle tone",
+        "Intellectual level",
+        "Seizure activity",
+        "Feeding ability"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child with CP has feeding difficulty and drooling. The major risk is:",
+      "options": [
+        "Dehydration only",
+        "Malnutrition and aspiration",
+        "Obesity",
+        "Anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Down syndrome occurs due to:",
+      "options": [
+        "Absence of chromosome 21",
+        "Extra chromosome 21",
+        "Defect in chromosome 18",
+        "X-linked mutation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most significant risk factor for Down syndrome is:",
+      "options": [
+        "Prematurity",
+        "Paternal age",
+        "Increased maternal age",
+        "Maternal infection"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which physical feature is characteristic of Down syndrome?",
+      "options": [
+        "Long narrow face",
+        "Upward slanting eyes",
+        "Tall stature",
+        "Hypertonia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A prenatal ultrasound finding suggestive of Down syndrome is:",
+      "options": [
+        "Enlarged nuchal translucency",
+        "Polyhydramnios",
+        "Renal agenesis",
+        "Spina bifida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Intellectual disability is diagnosed when there is:",
+      "options": [
+        "Low IQ only",
+        "Adaptive limitation only",
+        "Low IQ with impaired adaptive behavior",
+        "Delayed speech only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An IQ of 60 indicates:",
+      "options": [
+        "Severe intellectual disability",
+        "Moderate intellectual disability",
+        "Mild intellectual disability",
+        "Profound intellectual disability"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nursing approach is MOST effective for intellectually disabled children?",
+      "options": [
+        "Frequent punishment",
+        "Complex instructions",
+        "Routine, repetition, and reinforcement",
+        "Isolation to reduce stress"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child with ID shows aggression after repeated failure. This behavior is best explained by:",
+      "options": [
+        "Attention-seeking only",
+        "Emotional instability related to disability",
+        "Neuromuscular defect",
+        "Medication side effect"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which goal is realistic for a child with moderate intellectual disability?",
+      "options": [
+        "Complete independence",
+        "Learning basic self-care with supervision",
+        "No functional skills",
+        "Academic excellence"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Family stress in caring for a child with CP is best managed by:",
+      "options": [
+        "Limiting family involvement",
+        "Providing family education and support",
+        "Hospitalizing the child",
+        "Ignoring parental concerns"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The PRIMARY purpose of range-of-motion exercises in CP is to:",
+      "options": [
+        "Increase intelligence",
+        "Prevent contractures",
+        "Improve speech",
+        "Cure the disease"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cerebral palsy worsens progressively with age.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "CP may be caused by prenatal, natal, or postnatal factors.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Dyskinetic CP is associated with fluctuating muscle tone.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ataxic CP mainly affects muscle strength.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "MRI may require sedation in children.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Down syndrome is also called trisomy 21.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "All Down syndrome cases are inherited.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Intellectual disability always presents with physical abnormalities.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "IQ below 70 suggests intellectual disability.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Mild ID children cannot live independently.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Repetition helps learning in ID children.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Children with ID cannot learn new skills.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Contractures may occur in untreated spastic CP.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Family coping is part of nursing care.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "CP affects cognition only, not movement.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child has stiff legs, exaggerated reflexes, and scissoring gait. The diagnosis is:",
+      "options": ["Ataxic CP", "Dyskinetic CP", "Spastic CP", "Mixed CP"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child shows slow writhing movements and fluctuating tone during the day.",
+      "options": ["Spastic CP", "Dyskinetic CP", "Ataxic CP", "Mild ID"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn has upward slanting eyes, single palmar crease, and hypotonia.",
+      "options": [
+        "Cerebral palsy",
+        "Intellectual disability",
+        "Down syndrome",
+        "Autism"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child with IQ 40 can speak simple words and perform limited self-care.",
+      "options": ["Mild ID", "Moderate ID", "Severe ID", "Profound ID"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child has poor coordination and unsteady gait without muscle stiffness.",
+      "options": ["Spastic CP", "Dyskinetic CP", "Ataxic CP", "Mixed CP"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child with CP coughs frequently during feeding. What is the priority nursing action?",
+      "options": [
+        "Encourage solid food",
+        "Position child upright during feeding",
+        "Increase meal size",
+        "Restrict fluids"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with spastic CP does not receive ROM exercises. What complication is MOST likely?",
+      "options": [
+        "Seizures",
+        "Contractures",
+        "Intellectual decline",
+        "Vision loss"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Parents of a child with ID feel overwhelmed and exhausted. The nurse should FIRST:",
+      "options": [
+        "Focus only on the child",
+        "Provide family education and support",
+        "Suggest institutional care",
+        "Limit parental involvement"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
