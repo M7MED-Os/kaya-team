@@ -1,455 +1,375 @@
 {
-  "title": "Infectious Disorders",
+  "title": "Neonatal Infections",
   "questions": [
     {
-      "question": "What is the main reason newborns are highly susceptible to infection?",
+      "question": "Neonatal infection is defined as:",
       "options": [
-        "Immature immune system",
-        "Large body surface area",
-        "Low birth weight",
-        "Exposure to sunlight"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Neonatal infections can occur during which period?",
-      "options": ["Antenatal", "Intranatal", "Postnatal", "All of the above"],
-      "correctIndex": 3
-    },
-    {
-      "question": "Which is a mode of antenatal infection transmission?",
-      "options": [
-        "Transplacental",
-        "Contaminated feeding bottles",
-        "Exposure to staff",
-        "Cross infection from other babies"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Ophthalmia Neonatorum is primarily caused by:",
-      "options": [
-        "Candida albicans",
-        "Neisseria gonorrhea",
-        "E. coli",
-        "Streptococcus B"
+        "Mild infection after infancy",
+        "Invasion and uncontrollable growth of pathogenic microorganisms in a neonate",
+        "Infection occurring only after discharge",
+        "Infection limited to the respiratory system"
       ],
       "correctIndex": 1
     },
     {
-      "question": "The onset of Ophthalmia Neonatorum usually occurs:",
+      "question": "The neonatal period extends up to:",
+      "options": ["2 weeks", "21 days", "One month", "Two months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Newborns are more susceptible to infection because:",
       "options": [
-        "Immediately after birth",
-        "Within 2–3 days after birth",
-        "After 2 weeks",
-        "At 1 month of age"
+        "Poor circulation",
+        "Immature immunologic system",
+        "Poor feeding",
+        "Lack of vaccination"
       ],
       "correctIndex": 1
     },
     {
-      "question": "The preferred drug for Ophthalmia Neonatorum is:",
-      "options": ["Nystatin", "Penicillin", "Ampicillin", "Acyclovir"],
+      "question": "Which of the following is an antenatal mode of infection?",
+      "options": [
+        "Cord sepsis",
+        "Transplacental transmission",
+        "Cross infection",
+        "Infected feeding articles"
+      ],
       "correctIndex": 1
     },
     {
-      "question": "Oral Moniliasis is caused by:",
+      "question": "Ophthalmia neonatorum usually appears within:",
+      "options": [
+        "First 24 hours",
+        "2–3 days after birth",
+        "One week",
+        "Two weeks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most common causative organisms of ophthalmia neonatorum are:",
+      "options": [
+        "Staphylococcus and Streptococcus",
+        "Candida albicans and HIV",
+        "Neisseria gonorrhea and Chlamydia",
+        "E. coli and Klebsiella"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A serious complication of untreated ophthalmia neonatorum is:",
+      "options": [
+        "Deafness",
+        "Corneal ulceration and blindness",
+        "Sepsis",
+        "Pneumonia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The preferred drug for treatment of ophthalmia neonatorum is:",
+      "options": ["Gentamicin", "Penicillin", "Nystatin", "Daktarin"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oral moniliasis is caused by:",
+      "options": ["Virus", "Bacteria", "Fungus", "Parasite"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The causative organism of oral thrush is:",
       "options": [
         "Staphylococcus aureus",
         "Candida albicans",
-        "Neisseria gonorrhea",
+        "Escherichia coli",
+        "CMV"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A common clinical manifestation of oral moniliasis is:",
+      "options": [
+        "Jaundice",
+        "White patches on tongue",
+        "Convulsions",
+        "Fever"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A complication of oral moniliasis may include:",
+      "options": ["Hepatitis", "Esophagitis", "Heart disease", "Meningitis"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which drug is commonly used to treat oral thrush?",
+      "options": ["Penicillin", "Nystatin", "Acyclovir", "Ampicillin"],
+      "correctIndex": 1
+    },
+    {
+      "question": "TORCH infections are primarily acquired:",
+      "options": [
+        "After infancy",
+        "During adolescence",
+        "During fetal life or delivery",
+        "Only postnatally"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which infection carries the greatest risk during the first trimester?",
+      "options": ["Rubella", "Impetigo", "Umbilical infection", "Tetanus"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A common sign of congenital viral infection is:",
+      "options": ["Macrocephaly", "IUGR", "Polycythemia", "Hypertension"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Impetigo is mainly caused by:",
+      "options": [
+        "Viruses",
+        "Fungi",
+        "Staphylococci or Streptococci",
+        "Parasites"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Umbilical infection is commonly caused by:",
+      "options": ["CMV", "Candida albicans", "E. coli or Staphylococci", "HIV"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A characteristic sign of umbilical infection is:",
+      "options": [
+        "Bulging fontanel",
+        "Foul-smelling cord stump",
+        "Cyanosis",
+        "Bradycardia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Neonatal tetanus is caused by:",
+      "options": [
+        "Streptococcus",
+        "Clostridium tetani",
+        "Neisseria meningitidis",
         "E. coli"
       ],
       "correctIndex": 1
     },
     {
-      "question": "Oral thrush commonly appears as:",
-      "options": [
-        "Red swollen lips",
-        "Creamy white patches on the tongue",
-        "Vesicles on eyelids",
-        "Crusty skin lesions"
-      ],
+      "question": "An early sign of neonatal tetanus is:",
+      "options": ["Poor vision", "Inability to suck", "Diarrhea", "Jaundice"],
       "correctIndex": 1
     },
     {
-      "question": "A common medication used to treat oral thrush is:",
+      "question": "Neonatal meningitis is an inflammation of the:",
       "options": [
-        "Penicillin",
-        "Mycostatin (Nystatin)",
-        "Incision and drainage",
-        "Neomycin"
+        "Skull bones",
+        "Brain tissue only",
+        "Meninges",
+        "Spinal muscles"
       ],
-      "correctIndex": 1
-    },
-    {
-      "question": "TORCH infections include all except:",
-      "options": ["Toxoplasma", "Rubella", "Cytomegalovirus", "Tuberculosis"],
-      "correctIndex": 3
-    },
-    {
-      "question": "Which trimester carries the highest risk for fetal damage from TORCH infections?",
-      "options": ["First", "Second", "Third", "Postnatal period"],
-      "correctIndex": 0
-    },
-    {
-      "question": "A classic sign of congenital viral infection is:",
-      "options": ["Hypertension", "IUGR", "Hyperglycemia", "Obesity"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Common complications of TORCH infections include:",
-      "options": [
-        "Growth retardation",
-        "Autism",
-        "Hearing impairment",
-        "All of the above"
-      ],
-      "correctIndex": 3
-    },
-    {
-      "question": "Impetigo is most often caused by:",
-      "options": ["Staphylococci or Streptococci", "Candida", "CMV", "HIV"],
-      "correctIndex": 0
-    },
-    {
-      "question": "A potential complication of impetigo is:",
-      "options": ["Pneumonia", "Sepsis", "Vision loss", "Fractures"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Umbilical infection is commonly caused by:",
-      "options": [
-        "E. coli",
-        "Candida albicans",
-        "Streptococcus",
-        "Neisseria gonorrhea"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "A classic sign of umbilical infection is:",
-      "options": [
-        "White patches",
-        "Redness and moisture around the stump",
-        "Pustules on face",
-        "Bulging fontanel"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "A severe complication of umbilical infection is:",
-      "options": ["Tetanus", "Diabetes", "Hypertension", "Jaundice"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Tetanus Neonatorum is caused by:",
-      "options": [
-        "Clostridium tetani",
-        "Candida albicans",
-        "Streptococcus pneumoniae",
-        "CMV"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "A key symptom of tetanus neonatorum is:",
-      "options": [
-        "Severe diarrhea",
-        "Tetanic spasms inhibiting sucking",
-        "Rash on abdomen",
-        "Creamy white lesions"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The mortality rate of neonatal tetanus is:",
-      "options": ["Low", "Moderate", "Very high", "Zero"],
       "correctIndex": 2
     },
     {
-      "question": "Neonatal meningitis is most often caused by:",
+      "question": "The most common pathogens of neonatal meningitis include:",
       "options": [
-        "Group B Streptococcus",
-        "Toxoplasma",
+        "Group B streptococcus and E. coli",
         "Candida albicans",
-        "Clostridium tetani"
+        "HIV",
+        "Varicella"
       ],
       "correctIndex": 0
     },
     {
-      "question": "A classic sign of neonatal meningitis is:",
-      "options": [
-        "High-pitched cry",
-        "Bulging fontanel",
-        "Cracked lips",
-        "Absent reflexes"
-      ],
+      "question": "A key diagnostic test for neonatal meningitis is:",
+      "options": ["Chest X-ray", "CSF analysis", "ECG", "Urinalysis"],
       "correctIndex": 1
     },
     {
-      "question": "Diagnosis of neonatal meningitis is confirmed by:",
-      "options": [
-        "Chest x-ray",
-        "CSF analysis",
-        "Ultrasound only",
-        "Urinalysis"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Mortality rate of neonatal meningitis in developing countries is:",
-      "options": ["10%", "20–25%", "40–58%", "80%"],
+      "question": "Mortality rate of neonatal meningitis in developing countries may reach:",
+      "options": ["10%", "20%", "40–58%", "5%"],
       "correctIndex": 2
     },
     {
-      "question": "A preventive measure for tetanus neonatorum is:",
-      "options": [
-        "Vitamin K injection",
-        "DPT vaccination",
-        "Nystatin drops",
-        "Eye irrigation"
-      ],
+      "question": "Neonatal infection can occur antenatal, intranatal, or postnatal.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Candida albicans is a bacterial organism.",
+      "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "Which medication is used locally for impetigo?",
-      "options": ["Acyclovir", "Neomycin", "Nystatin", "Penicillin V"],
+      "question": "Ophthalmia neonatorum may be acquired during passage through an infected vagina.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Oral thrush always indicates poor immunity.",
+      "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "Which clinical feature suggests oral thrush?",
-      "options": [
-        "Purulent ocular discharge",
-        "Creamy white lesions on tongue",
-        "Skin pustules",
-        "Umbilical redness"
-      ],
+      "question": "TORCH infections may cause mental retardation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Umbilical infection can lead to septicemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Neonatal tetanus is caused by a virus.",
+      "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "What is a nursing measure for ophthalmia neonatorum?",
-      "options": [
-        "Restraining infant arms",
-        "Applying baby oil",
-        "Feeding large volumes",
-        "Avoiding eye cleaning"
-      ],
+      "question": "Bulging fontanel is a sign of neonatal meningitis.",
+      "options": ["True", "False"],
       "correctIndex": 0
     },
     {
-      "question": "A preventive measure for congenital TORCH infection is:",
-      "options": [
-        "Kept eye clean with Chloramphenicol",
-        "Immunizing mother before pregnancy",
-        "Extra vitamins",
-        "C-section delivery"
-      ],
+      "question": "Antibiotics are not used in neonatal meningitis.",
+      "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "Umbilical infection may lead to:",
-      "options": [
-        "Tetanus bacillus infection",
-        "Asthma",
-        "Heart failure",
-        "Autism"
-      ],
+      "question": "Hand washing is essential in preventing neonatal infection.",
+      "options": ["True", "False"],
       "correctIndex": 0
     },
     {
-      "question": "Treatment of tetanus neonatorum includes:",
+      "question": "A newborn presents with red swollen eyelids and purulent discharge 3 days after birth. The most likely diagnosis is:",
       "options": [
-        "Sedatives",
-        "Bactiricin or neomycin ointment",
-        "Daktarin",
-        "Antiviral therapy"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which organism is part of TORCH?",
-      "options": ["CMV", "Staphylococcus", "E. coli", "Klebsiella"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which symptom is associated with impetigo?",
-      "options": [
-        "Red papules",
-        "Bulging fontanel",
-        "Inability to suck",
-        "Oral white patches"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which is a sign of early neonatal sepsis?",
-      "options": [
-        "Temperature instability",
-        "Weight gain",
-        "Clear nasal discharge",
-        "Hyperactivity"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which diagnostic tool may help identify neonatal meningitis complications?",
-      "options": ["MRI", "ECG", "X-ray of abdomen", "Urinalysis"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Oral thrush is more common in infants receiving:",
-      "options": ["Iron", "Antibiotics", "Formula", "Glucose water"],
-      "correctIndex": 1
-    },
-    {
-      "question": "A TORCH infection may lead to:",
-      "options": [
-        "Macrocephaly",
-        "Microcephaly",
-        "Increased muscle tone",
-        "High birth weight"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which is a sign of tetanus neonatorum?",
-      "options": [
-        "Difficulty swallowing",
-        "Wheezing",
-        "Skin rash",
-        "Hair loss"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Which infection can cause blindness if untreated?",
-      "options": ["Thrush", "Ophthalmia Neonatorum", "Meningitis", "Impetigo"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which infection presents with seizures and irritability?",
-      "options": [
+        "Oral moniliasis",
+        "Ophthalmia neonatorum",
         "Impetigo",
-        "Meningitis",
+        "Meningitis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate has creamy white patches on the tongue and poor suckling. The causative organism is:",
+      "options": ["E. coli", "Candida albicans", "CMV", "Streptococcus"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A baby born to a mother infected with rubella in the first trimester is at risk of:",
+      "options": [
+        "Mild infection only",
+        "Congenital anomalies",
+        "Umbilical infection",
+        "Impetigo"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A foul-smelling umbilical stump with redness suggests:",
+      "options": [
+        "Neonatal tetanus",
+        "Impetigo",
         "Umbilical infection",
         "Oral thrush"
       ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A newborn cannot open his mouth and has stiff neck muscles. This suggests:",
+      "options": ["Meningitis", "Neonatal tetanus", "Sepsis", "Impetigo"],
       "correctIndex": 1
     },
     {
-      "question": "Which preventive measure helps avoid toxoplasmosis?",
+      "question": "Which investigation best confirms neonatal meningitis?",
+      "options": ["CBC only", "CSF analysis", "Urine culture", "Chest X-ray"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate with fever, seizures, and bulging fontanel is suspected to have:",
       "options": [
-        "Avoid cat feces",
-        "Avoid milk",
-        "Avoid sunlight",
-        "Avoid cold food"
+        "Impetigo",
+        "Oral thrush",
+        "Neonatal meningitis",
+        "Umbilical infection"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A nurse notices crusted skin lesions lasting two weeks. The diagnosis is:",
+      "options": ["Impetigo", "Tetanus", "Meningitis", "TORCH infection"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Best nursing action to prevent spread of neonatal infection:",
+      "options": [
+        "Early discharge",
+        "Isolation and hand washing",
+        "Increase feeding",
+        "Avoid antibiotics"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A baby exposed to cat feces during pregnancy is at risk of:",
+      "options": ["Rubella", "Toxoplasmosis", "HIV", "Varicella"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate with jaundice, hepatosplenomegaly, and thrombocytopenia suggests:",
+      "options": [
+        "Impetigo",
+        "Congenital viral infection",
+        "Oral thrush",
+        "Umbilical infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most appropriate treatment for neonatal tetanus includes:",
+      "options": [
+        "Antifungal drugs",
+        "Tetanus antitoxin",
+        "Antiviral drugs",
+        "Surgery"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which nursing care is essential for umbilical infection?",
+      "options": [
+        "Frequent bathing",
+        "Alcohol cord care",
+        "Massage",
+        "Sun exposure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn on antibiotics develops oral thrush because:",
+      "options": [
+        "Antibiotics suppress normal flora",
+        "Poor feeding",
+        "Viral infection",
+        "Low temperature"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Which of the following is a sign of TORCH infection?",
+      "question": "The primary goal of nursing care in neonatal infection is to:",
       "options": [
-        "Thrombocytopenia",
-        "High birth weight",
-        "Long nails",
-        "Constipation"
+        "Cure disease only",
+        "Prevent spread and complications",
+        "Reduce hospital stay",
+        "Improve weight gain"
       ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Neonates have strong immune systems at birth.",
-      "options": ["True", "False"],
       "correctIndex": 1
-    },
-    {
-      "question": "Ophthalmia Neonatorum may cause complete loss of vision.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Candida albicans is responsible for oral thrush.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "TORCH infections pose the highest risk in the third trimester.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Impetigo may progress to sepsis if untreated.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Umbilical infection can cause tetanus.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Tetanus neonatorum is caused by a virus.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Bulging fontanel can be a sign of meningitis.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Handwashing is one of the most effective methods to prevent neonatal infections.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Oral thrush can spread to the esophagus.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Ophthalmia Neonatorum appears immediately after birth.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
-      "question": "TORCH infections can cause congenital abnormalities.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Meningitis can extend beyond the meninges and affect the brain tissue.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Umbilical infection always produces a foul odor.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Newborns with infections must be isolated when necessary.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "A mother infected with rubella early in pregnancy poses lower risk to the fetus than in late stage of pregnancy.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Antibiotics are always required for treating thrush.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Early rupture of membranes can transmit infection to the newborn.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Tetanus antitoxin is part of the treatment for tetanus neonatorum.",
-      "options": ["True", "False"],
-      "correctIndex": 0
     }
   ]
 }
