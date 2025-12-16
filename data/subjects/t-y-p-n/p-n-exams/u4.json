@@ -2,31 +2,6 @@
   "title": "Neonatal Infections",
   "questions": [
     {
-      "question": "Neonatal infection is defined as:",
-      "options": [
-        "Mild infection after infancy",
-        "Invasion and uncontrollable growth of pathogenic microorganisms in a neonate",
-        "Infection occurring only after discharge",
-        "Infection limited to the respiratory system"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The neonatal period extends up to:",
-      "options": ["2 weeks", "21 days", "One month", "Two months"],
-      "correctIndex": 2
-    },
-    {
-      "question": "Newborns are more susceptible to infection because:",
-      "options": [
-        "Poor circulation",
-        "Immature immunologic system",
-        "Poor feeding",
-        "Lack of vaccination"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "Which of the following is an antenatal mode of infection?",
       "options": [
         "Cord sepsis",
@@ -45,6 +20,41 @@
         "Two weeks"
       ],
       "correctIndex": 1
+    },
+    {
+      "question": "A newborn has erythematous skin lesions that turned into pustules and crusts. The baby is otherwise stable. What is the initial line of treatment?",
+      "options": [
+        "Antiviral therapy",
+        "Local antibiotic ointment",
+        "Antifungal oral gel",
+        "Corticosteroids"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate has redness, moisture, and foul-smelling discharge from the umbilical stump. What is the most serious possible complication if untreated?",
+      "options": ["Deafness", "Septicemia", "Blindness", "Pneumonia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate presents with fever, seizures, lethargy, and bulging anterior fontanel. Which test is essential to confirm the diagnosis?",
+      "options": [
+        "Blood glucose",
+        "CSF examination",
+        "Urine culture",
+        "Chest X-ray"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn receiving prolonged antibiotic therapy develops oral thrush. What is the best explanation for this condition?",
+      "options": [
+        "Antibiotics destroy normal oral flora",
+        "Viral infection of the mouth",
+        "Poor immunity only",
+        "Poor feeding technique"
+      ],
+      "correctIndex": 0
     },
     {
       "question": "The most common causative organisms of ophthalmia neonatorum are:",
@@ -70,11 +80,6 @@
       "question": "The preferred drug for treatment of ophthalmia neonatorum is:",
       "options": ["Gentamicin", "Penicillin", "Nystatin", "Daktarin"],
       "correctIndex": 1
-    },
-    {
-      "question": "Oral moniliasis is caused by:",
-      "options": ["Virus", "Bacteria", "Fungus", "Parasite"],
-      "correctIndex": 2
     },
     {
       "question": "The causative organism of oral thrush is:",
@@ -142,48 +147,13 @@
       "correctIndex": 2
     },
     {
-      "question": "A characteristic sign of umbilical infection is:",
-      "options": [
-        "Bulging fontanel",
-        "Foul-smelling cord stump",
-        "Cyanosis",
-        "Bradycardia"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Neonatal tetanus is caused by:",
-      "options": [
-        "Streptococcus",
-        "Clostridium tetani",
-        "Neisseria meningitidis",
-        "E. coli"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "An early sign of neonatal tetanus is:",
       "options": ["Poor vision", "Inability to suck", "Diarrhea", "Jaundice"],
       "correctIndex": 1
     },
     {
-      "question": "Neonatal meningitis is an inflammation of the:",
-      "options": [
-        "Skull bones",
-        "Brain tissue only",
-        "Meninges",
-        "Spinal muscles"
-      ],
-      "correctIndex": 2
-    },
-    {
       "question": "The most common pathogens of neonatal meningitis include:",
-      "options": [
-        "Group B streptococcus and E. coli",
-        "Candida albicans",
-        "HIV",
-        "Varicella"
-      ],
+      "options": ["E. coli", "Candida albicans", "HIV", "Varicella"],
       "correctIndex": 0
     },
     {
@@ -212,11 +182,6 @@
       "correctIndex": 0
     },
     {
-      "question": "Oral thrush always indicates poor immunity.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
       "question": "TORCH infections may cause mental retardation.",
       "options": ["True", "False"],
       "correctIndex": 0
@@ -242,11 +207,6 @@
       "correctIndex": 1
     },
     {
-      "question": "Hand washing is essential in preventing neonatal infection.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
       "question": "A newborn presents with red swollen eyelids and purulent discharge 3 days after birth. The most likely diagnosis is:",
       "options": [
         "Oral moniliasis",
@@ -258,7 +218,12 @@
     },
     {
       "question": "A neonate has creamy white patches on the tongue and poor suckling. The causative organism is:",
-      "options": ["E. coli", "Candida albicans", "CMV", "Streptococcus"],
+      "options": [
+        "E. coli",
+        "Candida albicans",
+        "Neisseria gonorrhea",
+        "Streptococcus"
+      ],
       "correctIndex": 1
     },
     {
@@ -274,10 +239,10 @@
     {
       "question": "A foul-smelling umbilical stump with redness suggests:",
       "options": [
-        "Neonatal tetanus",
-        "Impetigo",
-        "Umbilical infection",
-        "Oral thrush"
+        "Neisseria gonorrhea infection",
+        "Candida albicans infection",
+        "E. coli infection",
+        "Streptococcus infection"
       ],
       "correctIndex": 2
     },
@@ -288,7 +253,7 @@
     },
     {
       "question": "Which investigation best confirms neonatal meningitis?",
-      "options": ["CBC only", "CSF analysis", "Urine culture", "Chest X-ray"],
+      "options": ["CBC", "CSF analysis", "Urine culture", "Chest X-ray"],
       "correctIndex": 1
     },
     {
@@ -305,16 +270,6 @@
       "question": "A nurse notices crusted skin lesions lasting two weeks. The diagnosis is:",
       "options": ["Impetigo", "Tetanus", "Meningitis", "TORCH infection"],
       "correctIndex": 0
-    },
-    {
-      "question": "Best nursing action to prevent spread of neonatal infection:",
-      "options": [
-        "Early discharge",
-        "Isolation and hand washing",
-        "Increase feeding",
-        "Avoid antibiotics"
-      ],
-      "correctIndex": 1
     },
     {
       "question": "A baby exposed to cat feces during pregnancy is at risk of:",
@@ -352,24 +307,9 @@
       "correctIndex": 1
     },
     {
-      "question": "A newborn on antibiotics develops oral thrush because:",
-      "options": [
-        "Antibiotics suppress normal flora",
-        "Poor feeding",
-        "Viral infection",
-        "Low temperature"
-      ],
+      "question": "A newborn on antibiotics develops oral thrush due to suppress normal flora",
+      "options": ["True", "False"],
       "correctIndex": 0
-    },
-    {
-      "question": "The primary goal of nursing care in neonatal infection is to:",
-      "options": [
-        "Cure disease only",
-        "Prevent spread and complications",
-        "Reduce hospital stay",
-        "Improve weight gain"
-      ],
-      "correctIndex": 1
     }
   ]
 }
