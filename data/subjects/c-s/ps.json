@@ -42,6 +42,13 @@
       "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l5.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Listening Skills",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l6.json",
+      "file": null,
+      "summary": null
     }
   ]
 }

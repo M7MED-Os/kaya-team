@@ -645,6 +645,126 @@
       "question": "Self-awareness only involves recognizing our strengths and positive qualities.",
       "options": ["True", "False"],
       "correctIndex": 1
+    },
+    {
+      "question": "What is the main difference between listening and hearing?",
+      "options": [
+        "Listening requires attention; hearing does not.",
+        "Listening is passive; hearing is active.",
+        "Listening involves physical acts; hearing is a mental process.",
+        "Listening is always enjoyable; hearing can be boring."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT one of the benefits of good listening skills?",
+      "options": [
+        "Higher grades at school",
+        "Better physical appearance",
+        "Improved self-esteem",
+        "Great number of friends"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which principle of listening emphasizes the importance of creating a comfortable environment for the speaker?",
+      "options": [
+        "Stop talking",
+        "Be patient",
+        "Put the speaker at ease",
+        "Remove distractions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following factors can impede active listening?",
+      "options": [
+        "Full concentration on the speaker",
+        "Daydreaming",
+        "Encouraging gestures",
+        "Drawing attention to the speaker"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In terms of listening, what does \"empathizing\" involve?",
+      "options": [
+        "Ignoring the speaker's emotions",
+        "Understanding the speaker's perspective",
+        "Criticizing the speaker's viewpoint",
+        "Responding with irrelevant information"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is considered an active listening technique?",
+      "options": [
+        "Nodding and using verbal affirmations",
+        "Looking at your phone",
+        "Multitasking with other tasks",
+        "Ignoring the speaker's tone"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is an effective way to clarify your understanding after someone has finished speaking?",
+      "options": [
+        "Ignore their message and change the subject",
+        "Ask open-ended questions or paraphrase",
+        "Interrupt them with your own thoughts",
+        "Immediately offer your advice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is \"selective listening\"?",
+      "options": [
+        "Listening only to what is relevant to the listener",
+        "Listening with full attention to every detail",
+        "Listening and responding empathetically",
+        "Listening while multitasking"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Listening requires empathy, while hearing does not.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Listening and hearing are synonymous and can be used interchangeably.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "People who actively listen can react more appropriately to situations.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Listening effectively can lead to a stronger social network.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hearing requires active engagement and focus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Personal biases and prejudices can enhance active listening.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When someone is speaking, it is helpful to think about your response while they are talking.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Empathy is not necessary for effective listening.",
+      "options": ["True", "False"],
+      "correctIndex": 1
     }
   ]
 }
