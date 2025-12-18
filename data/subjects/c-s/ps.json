@@ -1,5 +1,5 @@
 {
-  "subject": "علم نففس",
+  "subject": "علم نفس",
   "lectures": [
     {
       "title": "Psychology Sheet",
@@ -19,6 +19,13 @@
       "title": "Emotions",
       "video": null,
       "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l2.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Stress",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l3.json",
       "file": null,
       "summary": null
     }

@@ -255,6 +255,126 @@
       "question": "Elation is a sense of enjoyment and self-confidence.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT considered a common source of stress?",
+      "options": [
+        "Life changes such as death, divorce, or job change",
+        "Daily hassles",
+        "Work and financial pressures",
+        "Watching television for leisure"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which type of stress is short-term and can be either positive or negative?",
+      "options": [
+        "Acute stress",
+        "Episodic acute stress",
+        "Chronic stress",
+        "Home stress"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "People working in high-pressure professions, such as healthcare providers, are more prone to:",
+      "options": [
+        "Acute stress",
+        "Episodic stress",
+        "Chronic stress",
+        "Hassles"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a common source of stress?",
+      "options": [
+        "Life changes like divorce or death",
+        "Daily hassles",
+        "Watching a movie for leisure",
+        "Financial problems"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Acute stress is characterized by:",
+      "options": [
+        "Long-term stress lasting weeks or months",
+        "Frequent episodes of stress making a person feel always rushed",
+        "Short-term stress that comes and goes quickly",
+        "Stress caused only by work problems"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Episodic stress is often experienced by:",
+      "options": [
+        "People with chronic illnesses",
+        "Healthcare providers and those in high-pressure professions",
+        "Individuals with no responsibilities",
+        "Children only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of indirect (palliative) coping with stress?",
+      "options": [
+        "Confronting a problem directly",
+        "Rationalization or denial",
+        "Withdrawal from responsibilities",
+        "Using drugs or alcohol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pathological coping with stress refers to:",
+      "options": [
+        "Using relaxation and deep breathing to reduce stress",
+        "Confronting problems directly",
+        "Resorting to drugs or alcohol to deal with stress",
+        "Seeking social support"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is considered a psychological factor affecting stress?",
+      "options": [
+        "Activation of physiological systems",
+        "Environmental disasters",
+        "Individual’s perception and evaluation of potential harm",
+        "Autoimmune diseases"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Chronic stress is best described as:",
+      "options": [
+        "Short-term stress that comes and goes quickly",
+        "Stress experienced occasionally in specific situations",
+        "Long-term stress that persists for weeks or months",
+        "Stress that only affects mental health, not physical health"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Stress is always a negative experience that harms an individual.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Episodic stress is characterized by frequent short-term stress episodes, leaving a person feeling constantly rushed.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Using drugs or alcohol to cope with stress is considered successful coping.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chronic stress can contribute to both physical illnesses and psychiatric disorders.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     }
   ]
 }
