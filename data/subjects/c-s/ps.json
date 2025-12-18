@@ -14,6 +14,13 @@
       "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l1.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Emotions",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l2.json",
+      "file": null,
+      "summary": null
     }
   ]
 }

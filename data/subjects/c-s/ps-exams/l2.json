@@ -1,0 +1,125 @@
+{
+  "title": "Emotions",
+  "questions": [
+    {
+      "question": "Which of the following Best describes the importance of emotions?",
+      "options": [
+        "Emotions serve as a method of communication and build energetic activity.",
+        "Emotions only function to regulate body temperature.",
+        "Emotions are solely responsible for balance and coordination.",
+        "Emotions mainly control language processing."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which statement best reflects a hazard of emotions?",
+      "options": [
+        "Emotions always improve decision-making",
+        "Emotions can impair judgment and cause fanaticism",
+        "Emotions only help in memory storage",
+        "Emotions make perception more accurate"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anhedonia is best defined as:",
+      "options": [
+        "Excessive pleasure-seeking behavior",
+        "Inability to experience pleasure in normally enjoyable activities",
+        "A state of heightened emotional excitement",
+        "Impaired memory and concentration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Apathy refers to:",
+      "options": [
+        "Excessive joy and confidence",
+        "Loss of interest and reduced emotional expression",
+        "Fear of social interaction",
+        "Intense sadness with guilt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Emotional blunting (flattening) refers to:",
+      "options": [
+        "Exaggerated emotional responses",
+        "Inability to express emotions adequately",
+        "Sudden episodes of fear and anxiety",
+        "Excessive joy and self-confidence"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Emotional flattening is commonly seen in:",
+      "options": ["Schizophrenia", "Mania", "Panic disorder", "Phobias"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Grief is best defined as:",
+      "options": [
+        "A persistent loss of interest in all activities",
+        "Sadness secondary to loss of a beloved person",
+        "Excessive fear and avoidance",
+        "Loss of emotional expression"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Depression occurs in:",
+      "options": [
+        "Mood disorders",
+        "Anxiety disorders only",
+        "Schizophrenia exclusively",
+        "Organic brain disease only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anhedonia is commonly seen in:",
+      "options": [
+        "Psychiatric disorders",
+        "Endocrine disorders only",
+        "Infectious diseases only",
+        "Migraine attacks"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Grief is best defined as:",
+      "options": [
+        "A persistent loss of interest in all activities",
+        "Sadness secondary to loss of a beloved person",
+        "Excessive fear and avoidance",
+        "Loss of emotional expression"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Emotions have no role in helping individuals deal with the environment.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pathological emotions can hinder creativity and productivity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Apathy is the same as ecstasy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Patients with elation are typically anxious and withdrawn.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Elation is a sense of enjoyment and self-confidence.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
