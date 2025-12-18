@@ -1,0 +1,150 @@
+{
+  "title": "Introduction and Brain",
+  "questions": [
+    {
+      "question": "Psychology can be defined as the scientific study of",
+      "options": [
+        "The soul and spiritual experiences",
+        "Behavior and mental processes",
+        "Human consciousness only",
+        "Personality traits and emotions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is not one of the five major psychological perspectives?",
+      "options": [
+        "Biological Perspective",
+        "Behavioral Perspective",
+        "Cognitive Perspective",
+        "Astrological Perspective"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following brain regions is correctly matched with its primary function?",
+      "options": [
+        "Occipital lobe – Regulation of voluntary motor movements",
+        "Frontal lobe – Processing visual input",
+        "Temporal lobe – Processing auditory information",
+        "Parietal lobe – Controlling balance and coordination"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The occipital lobe of the brain is primarily concerned with:",
+      "options": ["Hearing", "Vision", "Speech production", "Balance"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The frontal lobe is mainly responsible for:",
+      "options": [
+        "Voluntary motor control and language production",
+        "Sensory interpretation",
+        "Hearing and memory",
+        "Coordination of posture and balance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The cerebellum plays an important role in:",
+      "options": [
+        "Hormone secretion",
+        "Cognitive functioning and voluntary action",
+        "Language processing",
+        "Breathing regulation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a primary function of the hippocampus?",
+      "options": [
+        "Regulation of appetite",
+        "Transfer of memories to long-term storage",
+        "Control of motor coordination",
+        "Regulation of hormone secretion from pituitary"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Damage to the right parietal lobe is most likely to cause deficits in:",
+      "options": [
+        "Reading skills",
+        "Calculation ability",
+        "Visuospatial function",
+        "Auditory memory"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The primary function of the temporal lobe is:",
+      "options": ["Vision", "Audition", "Balance", "Motor control"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The left temporal lobe plays a crucial role in:",
+      "options": [
+        "Spatial orientation",
+        "Language comprehension",
+        "Calculation ability",
+        "Motor planning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which temporal lobe function is MOST associated with the right side?",
+      "options": [
+        "Sensory prosody",
+        "Language comprehension",
+        "Calculation",
+        "Reading"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The brain can be divided into which of the following major parts?",
+      "options": [
+        "Cerebrum, brainstem, and cerebellum",
+        "Cerebrum, medulla, and thalamus",
+        "Cerebellum, hypothalamus, and midbrain",
+        "Cerebrum, pons, and basal ganglia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Behavioral perspective emphasizes observable behavior and the role of learning from the environment.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Left cerebral hemisphere is connected with speech and language.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Right cerebral cortex is more involved in expression and interpretation of emotions.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Thalamus sending all sensory information to the cerebral cortex.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypothalamus is a large structure near the center of the brain.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The amygdalae regulate emotion and memory.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Cerebrum is crucial for coordinating voluntary movements and cognitive functioning.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
