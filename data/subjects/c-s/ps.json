@@ -28,6 +28,13 @@
       "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l3.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Motivation",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l4.json",
+      "file": null,
+      "summary": null
     }
   ]
 }

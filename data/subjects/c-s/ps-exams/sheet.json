@@ -375,6 +375,126 @@
       "question": "Chronic stress can contribute to both physical illnesses and psychiatric disorders.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "Which of the following best differentiates Intrinsic from Extrinsic Motivation?",
+      "options": [
+        "Intrinsic motivation depends on tangible rewards, while extrinsic motivation depends on psychological satisfaction.",
+        "Intrinsic motivation arises from internal satisfaction, whereas extrinsic motivation arises from external rewards or pressures.",
+        "Extrinsic motivation is always stronger than intrinsic motivation.",
+        "Both types of motivation depend entirely on financial incentives."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Herzberg’s Two-Factor Theory, which of the following is most likely to prevent dissatisfaction but not create motivation?",
+      "options": ["Achievement", "Recognition", "Responsibility", "Salary"],
+      "correctIndex": 3
+    },
+    {
+      "question": "In the process of motivation, what immediately follows the recognition of an unsatisfied need?",
+      "options": [
+        "Search behavior",
+        "Drive",
+        "Tension",
+        "Reduction of tension"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to McClelland’s Theory of Learned Needs, which need is dominant in a person who finds satisfaction in controlling resources and influencing others?",
+      "options": [
+        "Need for Achievement",
+        "Need for Power",
+        "Need for Affiliation",
+        "Need for Security"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following statements about Goal-Setting Theory is TRUE?",
+      "options": [
+        "Broad and vague goals are more motivating than specific goals.",
+        "Goals unrelated to personal values are more effective.",
+        "Goals that are specific and challenging enhance motivation and performance.",
+        "Motivation decreases when goals are measurable."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is the BEST example of intrinsic motivation?",
+      "options": [
+        "Studying for an exam solely to earn a cash reward from your parents.",
+        "Working extra hours to get a promotion and a higher salary.",
+        "Reading a textbook chapter because you find the subject matter fascinating and enjoyable.",
+        "Running a race to win a trophy and gain public recognition."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is an example of intrinsic motivation?",
+      "options": [
+        "Working extra hours to earn a bonus",
+        "Studying because you enjoy learning",
+        "Following rules to avoid punishment",
+        "Working for better supervision"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Extrinsic motivation comes from:",
+      "options": [
+        "Internal satisfaction",
+        "Personal interest and enjoyment",
+        "External rewards or avoiding negative outcomes",
+        "Internal psychological needs only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The first step in the process of motivation is:",
+      "options": ["Drive", "Tension", "Unsatisfied need", "Search behavior"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which stage in the motivation process involves evaluating whether the need has been fulfilled?",
+      "options": [
+        "Drive",
+        "Satisfied need",
+        "Search behavior",
+        "Reduction of tension"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Herzberg states that salary and job security are examples of:",
+      "options": [
+        "Motivators",
+        "Intrinsic factors",
+        "Hygiene factors",
+        "Emotional incentives"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Self-efficacy means believing in your ability to succeed in a task.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Phenomenological perspective focuses on individual subjective experiences and the humanistic approach.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Intrinsic motivation it is under the control of the person himself.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Positive motivation serves as incentives to an individual to achieve the goal.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     }
   ]
 }
