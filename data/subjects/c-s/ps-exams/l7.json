@@ -1,0 +1,155 @@
+{
+  "title": "Learning",
+  "questions": [
+    {
+      "question": "Which of the following best differentiates classical from operant conditioning?",
+      "options": [
+        "Classical links stimulus-stimulus; operant links behavior-consequence",
+        "Classical requires reinforcement; operant does not",
+        "Operant relies on instinct; classical does not",
+        "Classical learning is permanent; operant is temporary"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pavlov’s finding that dogs salivated at footsteps before food demonstrates:",
+      "options": [
+        "Extinction",
+        "Stimulus generalization",
+        "Classical conditioning before formal pairing",
+        "Spontaneous recovery"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Extinction in classical conditioning occurs when:",
+      "options": [
+        "CS is presented without UCS",
+        "UCS is withdrawn completely from learning history",
+        "Reinforcement is inconsistent",
+        "CS is paired too frequently with UCS"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A dog salivates to a doorbell because it sounds similar to Pavlov’s bell. This illustrates:",
+      "options": [
+        "Acquisition",
+        "Discrimination",
+        "Generalization",
+        "Reinforcement"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A student learns that only their teacher’s voice saying “test” signals an exam, but not classmates saying “test.” This reflects:",
+      "options": [
+        "Discrimination",
+        "Extinction",
+        "Negative reinforcement",
+        "Partial reinforcement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "In Skinner’s box, the lever pressing by a hungry rat was strengthened by:",
+      "options": [
+        "Neutral stimulus",
+        "Positive reinforcement",
+        "Negative reinforcement",
+        "Punishment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Removing a toy when a child misbehaves represents:",
+      "options": [
+        "Positive punishment",
+        "Negative punishment",
+        "Extinction",
+        "Negative reinforcement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child imitates aggressive behavior after watching a violent cartoon. This best illustrates:",
+      "options": [
+        "Classical conditioning",
+        "Operant conditioning",
+        "Social learning theory",
+        "Extinction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which principle explains why students may stop raising hands if the teacher never calls on them?",
+      "options": [
+        "Negative reinforcement",
+        "Extinction",
+        "Discrimination",
+        "Motivation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Punishment differs from negative reinforcement because:",
+      "options": [
+        "Punishment increases behavior, negative reinforcement decreases it",
+        "Punishment decreases behavior, negative reinforcement increases it",
+        "Both decrease behavior",
+        "Both increase behavior"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In operant conditioning, removing an unpleasant stimulus to increase a behavior is:",
+      "options": [
+        "Positive reinforcement",
+        "Negative reinforcement",
+        "Positive punishment",
+        "Extinction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When a teenager cleans their room, the parents give them extra screen time. This is an example of:",
+      "options": [
+        "Negative reinforcement",
+        "Positive punishment",
+        "Positive reinforcement",
+        "Negative punishment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child hits his brother, so his parents prevent him from playing video games for the rest of the day. This is an example of:",
+      "options": [
+        "Negative reinforcement",
+        "Positive reinforcement",
+        "Positive punishment",
+        "Negative punishment"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Extinction means the conditioned stimulus permanently loses its ability to elicit a response.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Removing an aversive stimulus strengthens a behavior.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In continuous reinforcement the learned behavior is quickly but response resistant to extinction.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Reproduction requires the physical and cognitive ability to perform observed behavior.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

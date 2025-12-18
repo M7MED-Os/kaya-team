@@ -1,0 +1,110 @@
+{
+  "title": "Defense Mechanisms",
+  "questions": [
+    {
+      "question": "A mother who feels angry toward her child but instead showers him with excessive affection is displaying:",
+      "options": ["Displacement", "Undoing", "Reaction formation", "Denial"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following mechanisms involves attributing one’s unacceptable traits to others?",
+      "options": ["Introjection", "Projection", "Displacement", "Sublimation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse praises her mother excessively while unconsciously hating her. This is:",
+      "options": ["Repression", "Reaction formation", "Undoing", "Sublimation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A man who beats his wife says it is ‘because she doesn’t listen.’ This is:",
+      "options": [
+        "Displacement",
+        "Rationalization",
+        "Projection",
+        "Conversion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which defense mechanism channels aggressive impulses into sports?",
+      "options": ["Displacement", "Sublimation", "Repression", "Regression"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Redirecting anger at a child instead of the husband is:",
+      "options": [
+        "Reaction formation",
+        "Projection",
+        "Displacement",
+        "Undoing"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Forgetting a traumatic mugging incident completely is:",
+      "options": ["Suppression", "Rationalization", "Repression", "Regression"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Buying flowers after an argument to 'make up' reflects:",
+      "options": [
+        "Rationalization",
+        "Undoing",
+        "Reaction formation",
+        "Sublimation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is considered the most mature defense mechanism?",
+      "options": ["Sublimation", "Denial", "Regression", "Displacement"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A defense mechanism that involves conscious avoidance of thoughts is:",
+      "options": ["Repression", "Suppression", "Denial", "Reaction formation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which mechanism is described as 'an attempt to erase guilt by symbolic acts'?",
+      "options": ["Sublimation", "Undoing", "Regression", "Conversion"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Suppression differs from repression in that suppression is:",
+      "options": [
+        "Voluntary and conscious",
+        "Involuntary and unconscious",
+        "Always adaptive",
+        "The opposite of denial"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is considered the most mature defense mechanism?",
+      "options": ["Sublimation", "Denial", "Regression", "Displacement"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Defense mechanisms are conscious strategies to avoid stress.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Introjection is identical to suppression.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Repression is a conscious act of forgetting.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Suppression and repression are both unconscious processes.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

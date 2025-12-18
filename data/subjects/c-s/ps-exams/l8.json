@@ -1,0 +1,105 @@
+{
+  "title": "Personality Development",
+  "questions": [
+    {
+      "question": "The Ego develops primarily to:",
+      "options": [
+        "Satisfy unconscious desires instantly",
+        "Reconcile Id impulses with external reality",
+        "Create internalized moral standards",
+        "Store repressed childhood experiences"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A person who constantly delays gratification until the “right moment” demonstrates dominance of:",
+      "options": ["Id", "Ego", "Superego", "Unconscious mind"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Childhood memory recalled after being reminded belongs to which level?",
+      "options": ["Conscious", "Preconscious", "Unconscious", "Awareness mind"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which level contains repressed fears, instincts, and unresolved conflicts?",
+      "options": ["Conscious", "Preconscious", "Unconscious", "Rational mind"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Oedipal and Electra complexes occur during:",
+      "options": ["Oral stage", "Anal stage", "Phallic stage", "Latency stage"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Failure to resolve “Trust vs. Mistrust” may result in:",
+      "options": [
+        "Difficulty forming stable relationships later",
+        "Excessive guilt about initiating activities",
+        "Lack of productivity in adulthood",
+        "Inability to balance work and parenthood"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which stage emphasizes the development of independence through toilet training?",
+      "options": ["Infancy", "Early childhood", "Preschool", "School age"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The psychosocial stage associated with school performance and peer comparison is:",
+      "options": [
+        "Initiative vs. Guilt",
+        "Industry vs. Inferiority",
+        "Identity vs. Role Confusion",
+        "Trust vs. Mistrust"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A young adult struggling to form deep relationships is likely facing which conflict?",
+      "options": [
+        "Identity vs. Role Confusion",
+        "Generativity vs. Stagnation",
+        "Intimacy vs. Isolation",
+        "Industry vs. Inferiority"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In middle adulthood, failing to resolve the central conflict may lead to:",
+      "options": [
+        "Stagnation",
+        "Isolation and loneliness",
+        "Role confusion and identity crisis",
+        "Inferiority and low competence"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The unconscious mind directly influences dreams and slips of the tongue.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fixation in the oral stage may lead to habits like smoking or overeating.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Identity vs. Role Confusion occurs during early adulthood.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Failure to resolve trust in infancy may create insecurity in adulthood.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Initiative vs. Guilt is typically resolved during adolescence.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

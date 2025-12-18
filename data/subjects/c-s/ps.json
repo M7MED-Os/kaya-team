@@ -49,6 +49,27 @@
       "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l6.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Learning",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l7.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Personality Development",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l8.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Defense Mechanism",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l9.json",
+      "file": null,
+      "summary": null
     }
   ]
 }
