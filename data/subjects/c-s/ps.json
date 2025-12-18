@@ -1,0 +1,12 @@
+{
+  "subject": "علم نففس",
+  "lectures": [
+    {
+      "title": "الشيت",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/sheet.json",
+      "file": null,
+      "summary": null
+    }
+  ]
+}
