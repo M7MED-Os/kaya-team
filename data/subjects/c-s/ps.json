@@ -35,6 +35,13 @@
       "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l4.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Self-Awareness",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/l5.json",
+      "file": null,
+      "summary": null
     }
   ]
 }

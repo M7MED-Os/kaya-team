@@ -1,0 +1,155 @@
+{
+  "title": "Self-Awareness and Johari Window",
+  "questions": [
+    {
+      "question": "In hidden quadrant of Johari window, it includes the behaviors, feelings, and thoughts that:",
+      "options": [
+        "Known to the individual and others.",
+        "Others know but that the individual doesn't know.",
+        "The individual knows and not known to others.",
+        "Unknown to the individual and to others."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In blind quadrant of Johari window, it includes the behaviors, feelings, and thoughts that:",
+      "options": [
+        "Known to the individual and others.",
+        "Others know but that the individual doesn't know.",
+        "The individual knows and not known to others.",
+        "Unknown to the individual and to others."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In unknown quadrant of Johari window, it includes the behaviors, feelings, and thoughts that:",
+      "options": [
+        "Known to the individual and others.",
+        "Others know but that the individual doesn't know.",
+        "The individual knows and not known to others.",
+        "Unknown to the individual and to others."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Does self-reflection play in self-awareness?",
+      "options": [
+        "It has no significant impact",
+        "It helps individuals evaluate their thoughts and actions",
+        "It only serves to increase stress",
+        "It is only useful for personal relationships"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which statement is true about self-awareness?",
+      "options": [
+        "It is a static trait that does not change over time",
+        "It can be developed through practice and mindfulness",
+        "It only involves understanding one's emotions",
+        "It is irrelevant in a professional setting"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How can self-awareness influence leadership?",
+      "options": [
+        "It allows leaders to ignore their weaknesses",
+        "It helps leaders understand their impact on others and make better decisions",
+        "It makes leaders overly critical of themselves",
+        "It has no effect on"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of self-awareness?",
+      "options": [
+        "Knowing your favorite color",
+        "Understanding how your emotions affect your behavior in social situations",
+        "Memorizing a list of your achievements",
+        "All of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following best describes emotional self-awareness?",
+      "options": [
+        "The ability to control emotions completely",
+        "Recognizing and understanding your own emotions and their impact on your thoughts and behavior",
+        "The ability to suppress negative feelings",
+        "None of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness can lead to which of the following outcomes?",
+      "options": [
+        "Enhanced personal and professional relationships",
+        "Increased stress levels",
+        "A tendency to be overly critical of oneself",
+        "All of the above"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the difference between self-awareness and self-consciousness?",
+      "options": [
+        "Self-awareness a positive trait, while self-consciousness is negative",
+        "Self-awareness involves understanding oneself, while self-consciousness often leads to excessive self-scrutiny and anxiety",
+        "There is no difference; they are synonyms",
+        "Self-awareness is about others, while self-consciousness is about oneself"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following activities can hinder self-awareness?",
+      "options": [
+        "Engaging in regular self-reflection",
+        "Constantly seeking validation from others instead of focusing on your own feelings",
+        "Meditating regularly",
+        "Asking for constructive feedback"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the relationship between self-awareness and resilience?",
+      "options": [
+        "Self-awareness has no impact on resilience",
+        "Higher self-awareness can lead to greater resilience by helping individuals understand their emotions and responses",
+        "Resilience is only related to external factors",
+        "Self-awareness makes people less resilient"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness is the process of understanding one's own values, beliefs, thoughts, feelings, attitudes, motivations, strengths and limitations.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The Johari Window model is a complex tool used for illustrating and improving self-awareness.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness is the ability to understand one's own emotions, thoughts, and behaviors.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Being self-aware means you are always correct in your opinions about yourself.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness is a fixed trait that cannot change over time.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness only involves recognizing our strengths and positive qualities.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
