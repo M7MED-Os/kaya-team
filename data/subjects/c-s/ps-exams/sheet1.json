@@ -1,0 +1,650 @@
+{
+  "title": "Psychology Sheet 1",
+  "questions": [
+    {
+      "question": "Psychology can be defined as the scientific study of",
+      "options": [
+        "The soul and spiritual experiences",
+        "Behavior and mental processes",
+        "Human consciousness only",
+        "Personality traits and emotions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is not one of the five major psychological perspectives?",
+      "options": [
+        "Biological Perspective",
+        "Behavioral Perspective",
+        "Cognitive Perspective",
+        "Astrological Perspective"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following brain regions is correctly matched with its primary function?",
+      "options": [
+        "Occipital lobe – Regulation of voluntary motor movements",
+        "Frontal lobe – Processing visual input",
+        "Temporal lobe – Processing auditory information",
+        "Parietal lobe – Controlling balance and coordination"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The occipital lobe of the brain is primarily concerned with:",
+      "options": ["Hearing", "Vision", "Speech production", "Balance"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The frontal lobe is mainly responsible for:",
+      "options": [
+        "Voluntary motor control and language production",
+        "Sensory interpretation",
+        "Hearing and memory",
+        "Coordination of posture and balance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The cerebellum plays an important role in:",
+      "options": [
+        "Hormone secretion",
+        "Cognitive functioning and voluntary action",
+        "Language processing",
+        "Breathing regulation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a primary function of the hippocampus?",
+      "options": [
+        "Regulation of appetite",
+        "Transfer of memories to long-term storage",
+        "Control of motor coordination",
+        "Regulation of hormone secretion from pituitary"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Damage to the right parietal lobe is most likely to cause deficits in:",
+      "options": [
+        "Reading skills",
+        "Calculation ability",
+        "Visuospatial function",
+        "Auditory memory"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The primary function of the temporal lobe is:",
+      "options": ["Vision", "Audition", "Balance", "Motor control"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The left temporal lobe plays a crucial role in:",
+      "options": [
+        "Spatial orientation",
+        "Language comprehension",
+        "Calculation ability",
+        "Motor planning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which temporal lobe function is MOST associated with the right side?",
+      "options": [
+        "Sensory prosody",
+        "Language comprehension",
+        "Calculation",
+        "Reading"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The brain can be divided into which of the following major parts?",
+      "options": [
+        "Cerebrum, brainstem, and cerebellum",
+        "Cerebrum, medulla, and thalamus",
+        "Cerebellum, hypothalamus, and midbrain",
+        "Cerebrum, pons, and basal ganglia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Behavioral perspective emphasizes observable behavior and the role of learning from the environment.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Left cerebral hemisphere is connected with speech and language.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Right cerebral cortex is more involved in expression and interpretation of emotions.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Thalamus sending all sensory information to the cerebral cortex.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypothalamus is a large structure near the center of the brain.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The amygdalae regulate emotion and memory.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Cerebrum is crucial for coordinating voluntary movements and cognitive functioning.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following Best describes the importance of emotions?",
+      "options": [
+        "Emotions serve as a method of communication and build energetic activity.",
+        "Emotions only function to regulate body temperature.",
+        "Emotions are solely responsible for balance and coordination.",
+        "Emotions mainly control language processing."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which statement best reflects a hazard of emotions?",
+      "options": [
+        "Emotions always improve decision-making",
+        "Emotions can impair judgment and cause fanaticism",
+        "Emotions only help in memory storage",
+        "Emotions make perception more accurate"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anhedonia is best defined as:",
+      "options": [
+        "Excessive pleasure-seeking behavior",
+        "Inability to experience pleasure in normally enjoyable activities",
+        "A state of heightened emotional excitement",
+        "Impaired memory and concentration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Apathy refers to:",
+      "options": [
+        "Excessive joy and confidence",
+        "Loss of interest and reduced emotional expression",
+        "Fear of social interaction",
+        "Intense sadness with guilt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Emotional blunting (flattening) refers to:",
+      "options": [
+        "Exaggerated emotional responses",
+        "Inability to express emotions adequately",
+        "Sudden episodes of fear and anxiety",
+        "Excessive joy and self-confidence"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Emotional flattening is commonly seen in:",
+      "options": ["Schizophrenia", "Mania", "Panic disorder", "Phobias"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Depression occurs in:",
+      "options": [
+        "Mood disorders",
+        "Anxiety disorders only",
+        "Schizophrenia exclusively",
+        "Organic brain disease only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anhedonia is commonly seen in:",
+      "options": [
+        "Psychiatric disorders",
+        "Endocrine disorders only",
+        "Infectious diseases only",
+        "Migraine attacks"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Grief is best defined as:",
+      "options": [
+        "A persistent loss of interest in all activities",
+        "Sadness secondary to loss of a beloved person",
+        "Excessive fear and avoidance",
+        "Loss of emotional expression"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Emotions have no role in helping individuals deal with the environment.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pathological emotions can hinder creativity and productivity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Apathy is the same as ecstasy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Patients with elation are typically anxious and withdrawn.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Elation is a sense of enjoyment and self-confidence.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT considered a common source of stress?",
+      "options": [
+        "Life changes such as death, divorce, or job change",
+        "Daily hassles",
+        "Work and financial pressures",
+        "Watching television for leisure"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which type of stress is short-term and can be either positive or negative?",
+      "options": [
+        "Acute stress",
+        "Episodic acute stress",
+        "Chronic stress",
+        "Home stress"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "People working in high-pressure professions, such as healthcare providers, are more prone to:",
+      "options": [
+        "Acute stress",
+        "Episodic stress",
+        "Chronic stress",
+        "Hassles"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a common source of stress?",
+      "options": [
+        "Life changes like divorce or death",
+        "Daily hassles",
+        "Watching a movie for leisure",
+        "Financial problems"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Acute stress is characterized by:",
+      "options": [
+        "Long-term stress lasting weeks or months",
+        "Frequent episodes of stress making a person feel always rushed",
+        "Short-term stress that comes and goes quickly",
+        "Stress caused only by work problems"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Episodic stress is often experienced by:",
+      "options": [
+        "People with chronic illnesses",
+        "Healthcare providers and those in high-pressure professions",
+        "Individuals with no responsibilities",
+        "Children only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of indirect (palliative) coping with stress?",
+      "options": [
+        "Confronting a problem directly",
+        "Rationalization or denial",
+        "Withdrawal from responsibilities",
+        "Using drugs or alcohol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pathological coping with stress refers to:",
+      "options": [
+        "Using relaxation and deep breathing to reduce stress",
+        "Confronting problems directly",
+        "Resorting to drugs or alcohol to deal with stress",
+        "Seeking social support"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is considered a psychological factor affecting stress?",
+      "options": [
+        "Activation of physiological systems",
+        "Environmental disasters",
+        "Individual’s perception and evaluation of potential harm",
+        "Autoimmune diseases"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Chronic stress is best described as:",
+      "options": [
+        "Short-term stress that comes and goes quickly",
+        "Stress experienced occasionally in specific situations",
+        "Long-term stress that persists for weeks or months",
+        "Stress that only affects mental health, not physical health"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Stress is always a negative experience that harms an individual.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Episodic stress is characterized by frequent short-term stress episodes, leaving a person feeling constantly rushed.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Using drugs or alcohol to cope with stress is considered successful coping.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chronic stress can contribute to both physical illnesses and psychiatric disorders.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following best differentiates Intrinsic from Extrinsic Motivation?",
+      "options": [
+        "Intrinsic motivation depends on tangible rewards, while extrinsic motivation depends on psychological satisfaction.",
+        "Intrinsic motivation arises from internal satisfaction, whereas extrinsic motivation arises from external rewards or pressures.",
+        "Extrinsic motivation is always stronger than intrinsic motivation.",
+        "Both types of motivation depend entirely on financial incentives."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Herzberg’s Two-Factor Theory, which of the following is most likely to prevent dissatisfaction but not create motivation?",
+      "options": ["Achievement", "Recognition", "Responsibility", "Salary"],
+      "correctIndex": 3
+    },
+    {
+      "question": "In the process of motivation, what immediately follows the recognition of an unsatisfied need?",
+      "options": [
+        "Search behavior",
+        "Drive",
+        "Tension",
+        "Reduction of tension"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to McClelland’s Theory of Learned Needs, which need is dominant in a person who finds satisfaction in controlling resources and influencing others?",
+      "options": [
+        "Need for Achievement",
+        "Need for Power",
+        "Need for Affiliation",
+        "Need for Security"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following statements about Goal-Setting Theory is TRUE?",
+      "options": [
+        "Broad and vague goals are more motivating than specific goals.",
+        "Goals unrelated to personal values are more effective.",
+        "Goals that are specific and challenging enhance motivation and performance.",
+        "Motivation decreases when goals are measurable."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is the BEST example of intrinsic motivation?",
+      "options": [
+        "Studying for an exam solely to earn a cash reward from your parents.",
+        "Working extra hours to get a promotion and a higher salary.",
+        "Reading a textbook chapter because you find the subject matter fascinating and enjoyable.",
+        "Running a race to win a trophy and gain public recognition."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is an example of intrinsic motivation?",
+      "options": [
+        "Working extra hours to earn a bonus",
+        "Studying because you enjoy learning",
+        "Following rules to avoid punishment",
+        "Working for better supervision"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Extrinsic motivation comes from:",
+      "options": [
+        "Internal satisfaction",
+        "Personal interest and enjoyment",
+        "External rewards or avoiding negative outcomes",
+        "Internal psychological needs only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The first step in the process of motivation is:",
+      "options": ["Drive", "Tension", "Unsatisfied need", "Search behavior"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which stage in the motivation process involves evaluating whether the need has been fulfilled?",
+      "options": [
+        "Drive",
+        "Satisfied need",
+        "Search behavior",
+        "Reduction of tension"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Herzberg states that salary and job security are examples of:",
+      "options": [
+        "Motivators",
+        "Intrinsic factors",
+        "Hygiene factors",
+        "Emotional incentives"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Self-efficacy means believing in your ability to succeed in a task.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Phenomenological perspective focuses on individual subjective experiences and the humanistic approach.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Intrinsic motivation it is under the control of the person himself.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Positive motivation serves as incentives to an individual to achieve the goal.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In hidden quadrant of Johari window, it includes the behaviors, feelings, and thoughts that:",
+      "options": [
+        "Known to the individual and others.",
+        "Others know but that the individual doesn't know.",
+        "The individual knows and not known to others.",
+        "Unknown to the individual and to others."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In blind quadrant of Johari window, it includes the behaviors, feelings, and thoughts that:",
+      "options": [
+        "Known to the individual and others.",
+        "Others know but that the individual doesn't know.",
+        "The individual knows and not known to others.",
+        "Unknown to the individual and to others."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In unknown quadrant of Johari window, it includes the behaviors, feelings, and thoughts that:",
+      "options": [
+        "Known to the individual and others.",
+        "Others know but that the individual doesn't know.",
+        "The individual knows and not known to others.",
+        "Unknown to the individual and to others."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Does self-reflection play in self-awareness?",
+      "options": [
+        "It has no significant impact",
+        "It helps individuals evaluate their thoughts and actions",
+        "It only serves to increase stress",
+        "It is only useful for personal relationships"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which statement is true about self-awareness?",
+      "options": [
+        "It is a static trait that does not change over time",
+        "It can be developed through practice and mindfulness",
+        "It only involves understanding one's emotions",
+        "It is irrelevant in a professional setting"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How can self-awareness influence leadership?",
+      "options": [
+        "It allows leaders to ignore their weaknesses",
+        "It helps leaders understand their impact on others and make better decisions",
+        "It makes leaders overly critical of themselves",
+        "It has no effect on"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of self-awareness?",
+      "options": [
+        "Knowing your favorite color",
+        "Understanding how your emotions affect your behavior in social situations",
+        "Memorizing a list of your achievements",
+        "All of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following best describes emotional self-awareness?",
+      "options": [
+        "The ability to control emotions completely",
+        "Recognizing and understanding your own emotions and their impact on your thoughts and behavior",
+        "The ability to suppress negative feelings",
+        "None of the above"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness can lead to which of the following outcomes?",
+      "options": [
+        "Enhanced personal and professional relationships",
+        "Increased stress levels",
+        "A tendency to be overly critical of oneself",
+        "All of the above"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the difference between self-awareness and self-consciousness?",
+      "options": [
+        "Self-awareness a positive trait, while self-consciousness is negative",
+        "Self-awareness involves understanding oneself, while self-consciousness often leads to excessive self-scrutiny and anxiety",
+        "There is no difference; they are synonyms",
+        "Self-awareness is about others, while self-consciousness is about oneself"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following activities can hinder self-awareness?",
+      "options": [
+        "Engaging in regular self-reflection",
+        "Constantly seeking validation from others instead of focusing on your own feelings",
+        "Meditating regularly",
+        "Asking for constructive feedback"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the relationship between self-awareness and resilience?",
+      "options": [
+        "Self-awareness has no impact on resilience",
+        "Higher self-awareness can lead to greater resilience by helping individuals understand their emotions and responses",
+        "Resilience is only related to external factors",
+        "Self-awareness makes people less resilient"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness is the process of understanding one's own values, beliefs, thoughts, feelings, attitudes, motivations, strengths and limitations.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The Johari Window model is a complex tool used for illustrating and improving self-awareness.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness is the ability to understand one's own emotions, thoughts, and behaviors.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Being self-aware means you are always correct in your opinions about yourself.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness is a fixed trait that cannot change over time.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Self-awareness only involves recognizing our strengths and positive qualities.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

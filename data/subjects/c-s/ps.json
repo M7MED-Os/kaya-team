@@ -2,9 +2,16 @@
   "subject": "علم نفس",
   "lectures": [
     {
-      "title": "Psychology Sheet",
+      "title": "Psychology Sheet 1",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/sheet.json",
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/sheet1.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Psychology Sheet 2",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/ps-exams/sheet2.json",
       "file": null,
       "summary": null
     },

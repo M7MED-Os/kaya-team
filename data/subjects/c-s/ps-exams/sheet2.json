@@ -1,0 +1,480 @@
+{
+  "title": "Psychology Sheet 2",
+  "questions": [
+    {
+      "question": "What is the main difference between listening and hearing?",
+      "options": [
+        "Listening requires attention; hearing does not.",
+        "Listening is passive; hearing is active.",
+        "Listening involves physical acts; hearing is a mental process.",
+        "Listening is always enjoyable; hearing can be boring."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT one of the benefits of good listening skills?",
+      "options": [
+        "Higher grades at school",
+        "Better physical appearance",
+        "Improved self-esteem",
+        "Great number of friends"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which principle of listening emphasizes the importance of creating a comfortable environment for the speaker?",
+      "options": [
+        "Stop talking",
+        "Be patient",
+        "Put the speaker at ease",
+        "Remove distractions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following factors can impede active listening?",
+      "options": [
+        "Full concentration on the speaker",
+        "Daydreaming",
+        "Encouraging gestures",
+        "Drawing attention to the speaker"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In terms of listening, what does \"empathizing\" involve?",
+      "options": [
+        "Ignoring the speaker's emotions",
+        "Understanding the speaker's perspective",
+        "Criticizing the speaker's viewpoint",
+        "Responding with irrelevant information"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is considered an active listening technique?",
+      "options": [
+        "Nodding and using verbal affirmations",
+        "Looking at your phone",
+        "Multitasking with other tasks",
+        "Ignoring the speaker's tone"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is an effective way to clarify your understanding after someone has finished speaking?",
+      "options": [
+        "Ignore their message and change the subject",
+        "Ask open-ended questions or paraphrase",
+        "Interrupt them with your own thoughts",
+        "Immediately offer your advice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is \"selective listening\"?",
+      "options": [
+        "Listening only to what is relevant to the listener",
+        "Listening with full attention to every detail",
+        "Listening and responding empathetically",
+        "Listening while multitasking"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Listening requires empathy, while hearing does not.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Listening and hearing are synonymous and can be used interchangeably.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "People who actively listen can react more appropriately to situations.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Listening effectively can lead to a stronger social network.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hearing requires active engagement and focus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Personal biases and prejudices can enhance active listening.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When someone is speaking, it is helpful to think about your response while they are talking.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Empathy is not necessary for effective listening.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following best differentiates classical from operant conditioning?",
+      "options": [
+        "Classical links stimulus-stimulus; operant links behavior-consequence",
+        "Classical requires reinforcement; operant does not",
+        "Operant relies on instinct; classical does not",
+        "Classical learning is permanent; operant is temporary"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pavlov’s finding that dogs salivated at footsteps before food demonstrates:",
+      "options": [
+        "Extinction",
+        "Stimulus generalization",
+        "Classical conditioning before formal pairing",
+        "Spontaneous recovery"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Extinction in classical conditioning occurs when:",
+      "options": [
+        "CS is presented without UCS",
+        "UCS is withdrawn completely from learning history",
+        "Reinforcement is inconsistent",
+        "CS is paired too frequently with UCS"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A dog salivates to a doorbell because it sounds similar to Pavlov’s bell. This illustrates:",
+      "options": [
+        "Acquisition",
+        "Discrimination",
+        "Generalization",
+        "Reinforcement"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A student learns that only their teacher’s voice saying “test” signals an exam, but not classmates saying “test.” This reflects:",
+      "options": [
+        "Discrimination",
+        "Extinction",
+        "Negative reinforcement",
+        "Partial reinforcement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "In Skinner’s box, the lever pressing by a hungry rat was strengthened by:",
+      "options": [
+        "Neutral stimulus",
+        "Positive reinforcement",
+        "Negative reinforcement",
+        "Punishment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Removing a toy when a child misbehaves represents:",
+      "options": [
+        "Positive punishment",
+        "Negative punishment",
+        "Extinction",
+        "Negative reinforcement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child imitates aggressive behavior after watching a violent cartoon. This best illustrates:",
+      "options": [
+        "Classical conditioning",
+        "Operant conditioning",
+        "Social learning theory",
+        "Extinction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which principle explains why students may stop raising hands if the teacher never calls on them?",
+      "options": [
+        "Negative reinforcement",
+        "Extinction",
+        "Discrimination",
+        "Motivation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Punishment differs from negative reinforcement because:",
+      "options": [
+        "Punishment increases behavior, negative reinforcement decreases it",
+        "Punishment decreases behavior, negative reinforcement increases it",
+        "Both decrease behavior",
+        "Both increase behavior"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In operant conditioning, removing an unpleasant stimulus to increase a behavior is:",
+      "options": [
+        "Positive reinforcement",
+        "Negative reinforcement",
+        "Positive punishment",
+        "Extinction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When a teenager cleans their room, the parents give them extra screen time. This is an example of:",
+      "options": [
+        "Negative reinforcement",
+        "Positive punishment",
+        "Positive reinforcement",
+        "Negative punishment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child hits his brother, so his parents prevent him from playing video games for the rest of the day. This is an example of:",
+      "options": [
+        "Negative reinforcement",
+        "Positive reinforcement",
+        "Positive punishment",
+        "Negative punishment"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Extinction means the conditioned stimulus permanently loses its ability to elicit a response.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Removing an aversive stimulus strengthens a behavior.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In continuous reinforcement the learned behavior is quickly but response resistant to extinction.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Reproduction requires the physical and cognitive ability to perform observed behavior.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The Ego develops primarily to:",
+      "options": [
+        "Satisfy unconscious desires instantly",
+        "Reconcile Id impulses with external reality",
+        "Create internalized moral standards",
+        "Store repressed childhood experiences"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A person who constantly delays gratification until the “right moment” demonstrates dominance of:",
+      "options": ["Id", "Ego", "Superego", "Unconscious mind"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Childhood memory recalled after being reminded belongs to which level?",
+      "options": ["Conscious", "Preconscious", "Unconscious", "Awareness mind"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which level contains repressed fears, instincts, and unresolved conflicts?",
+      "options": ["Conscious", "Preconscious", "Unconscious", "Rational mind"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Oedipal and Electra complexes occur during:",
+      "options": ["Oral stage", "Anal stage", "Phallic stage", "Latency stage"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Failure to resolve “Trust vs. Mistrust” may result in:",
+      "options": [
+        "Difficulty forming stable relationships later",
+        "Excessive guilt about initiating activities",
+        "Lack of productivity in adulthood",
+        "Inability to balance work and parenthood"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which stage emphasizes the development of independence through toilet training?",
+      "options": ["Infancy", "Early childhood", "Preschool", "School age"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The psychosocial stage associated with school performance and peer comparison is:",
+      "options": [
+        "Initiative vs. Guilt",
+        "Industry vs. Inferiority",
+        "Identity vs. Role Confusion",
+        "Trust vs. Mistrust"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A young adult struggling to form deep relationships is likely facing which conflict?",
+      "options": [
+        "Identity vs. Role Confusion",
+        "Generativity vs. Stagnation",
+        "Intimacy vs. Isolation",
+        "Industry vs. Inferiority"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In middle adulthood, failing to resolve the central conflict may lead to:",
+      "options": [
+        "Stagnation",
+        "Isolation and loneliness",
+        "Role confusion and identity crisis",
+        "Inferiority and low competence"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The unconscious mind directly influences dreams and slips of the tongue.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fixation in the oral stage may lead to habits like smoking or overeating.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Identity vs. Role Confusion occurs during early adulthood.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Failure to resolve trust in infancy may create insecurity in adulthood.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Initiative vs. Guilt is typically resolved during adolescence.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A mother who feels angry toward her child but instead showers him with excessive affection is displaying:",
+      "options": ["Displacement", "Undoing", "Reaction formation", "Denial"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following mechanisms involves attributing one’s unacceptable traits to others?",
+      "options": ["Introjection", "Projection", "Displacement", "Sublimation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse praises her mother excessively while unconsciously hating her. This is:",
+      "options": ["Repression", "Reaction formation", "Undoing", "Sublimation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A man who beats his wife says it is ‘because she doesn’t listen.’ This is:",
+      "options": [
+        "Displacement",
+        "Rationalization",
+        "Projection",
+        "Conversion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which defense mechanism channels aggressive impulses into sports?",
+      "options": ["Displacement", "Sublimation", "Repression", "Regression"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Redirecting anger at a child instead of the husband is:",
+      "options": [
+        "Reaction formation",
+        "Projection",
+        "Displacement",
+        "Undoing"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Forgetting a traumatic mugging incident completely is:",
+      "options": ["Suppression", "Rationalization", "Repression", "Regression"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Buying flowers after an argument to 'make up' reflects:",
+      "options": [
+        "Rationalization",
+        "Undoing",
+        "Reaction formation",
+        "Sublimation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is considered the most mature defense mechanism?",
+      "options": ["Sublimation", "Denial", "Regression", "Displacement"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A defense mechanism that involves conscious avoidance of thoughts is:",
+      "options": ["Repression", "Suppression", "Denial", "Reaction formation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which mechanism is described as 'an attempt to erase guilt by symbolic acts'?",
+      "options": ["Sublimation", "Undoing", "Regression", "Conversion"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Suppression differs from repression in that suppression is:",
+      "options": [
+        "Voluntary and conscious",
+        "Involuntary and unconscious",
+        "Always adaptive",
+        "The opposite of denial"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is considered the most mature defense mechanism?",
+      "options": ["Sublimation", "Denial", "Regression", "Displacement"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Defense mechanisms are conscious strategies to avoid stress.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Introjection is identical to suppression.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Repression is a conscious act of forgetting.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Suppression and repression are both unconscious processes.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
