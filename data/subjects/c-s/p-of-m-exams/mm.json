@@ -1,0 +1,315 @@
+{
+  "title": "😉😉 بسرعه في الحيكي ميكي",
+  "questions": [
+    {
+      "question": "Which of the following laboratory results for a child with hemophilia is most likely be abnormal?",
+      "options": [
+        "Platelet count",
+        "Hematocrit level",
+        "Hemoglobin level",
+        "Partial thromboplastin time"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which clinical manifestation should the nurse expect when a child with sickle cell anemia experiences an acute vaso-occlusive crisis?",
+      "options": [
+        "Circulatory collapse",
+        "Cardiomegaly, systolic murmurs",
+        "Hepatomegaly, intrahepatic cholestasis",
+        "Painful swelling of hands and feet; painful joints"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The pediatric nurse instructs the mother of a child with thalassemia to avoid:",
+      "options": [
+        "Adequate nutrition high in iron",
+        "Adequate rest and comfort",
+        "Measures to prevent infection",
+        "Mother’s knowledge regarding thalassemia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pediatric nurse providing care for a 7-year-old child with thalassemia, which priority must be taken into consideration?",
+      "options": [
+        "Iron overload",
+        "Delayed growth",
+        "Parent anxiety",
+        "Fatigue"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "When assessing the umbilical stump, the nurse observed presence of oozing, and the cord is moist. What is the appropriate intervention?",
+      "options": [
+        "Give the infant broad spectrum antibiotic",
+        "Nothing as this is normal",
+        "Clean with warm water",
+        "Clean the discharge with sterile saline"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ahmed aged 4 months after completing antibiotic treatment presents with creamy white patches in the mouth. What is the appropriate treatment?",
+      "options": [
+        "Remove patches then provide mouth care",
+        "Give systemic antibiotic",
+        "Apply gentian violet locally",
+        "Apply antibiotic locally"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "One-month-old infant with severe impetigo. Which precaution should the nurse follow?",
+      "options": [
+        "Droplet precautions",
+        "Standard precautions only",
+        "Contact precautions",
+        "Airborne precautions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is the effective treatment for impetigo?",
+      "options": [
+        "Systemic antibiotic",
+        "Local gentian violet",
+        "Systemic antiviral",
+        "Local antifungal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "One-week-old neonate with fever, irritability, and jaw muscle spasm. Which organism is responsible?",
+      "options": [
+        "Streptococci",
+        "Tetanus palladium",
+        "Virus",
+        "Staphylococci"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jaundice appearing in the second week of life is most likely due to:",
+      "options": [
+        "ABO incompatibility",
+        "Bile duct obstruction",
+        "Breast milk jaundice",
+        "Liver immaturity"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which disorder is specific to infants of diabetic mothers?",
+      "options": [
+        "Cardiorespiratory disorders",
+        "Hypercalcemia",
+        "Hypermagnesemia",
+        "Hyperinsulinemia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Gestational age of a neonate can be estimated after delivery by:",
+      "options": [
+        "Weighing the neonate",
+        "Measuring head circumference",
+        "Measuring hemoglobin concentration",
+        "Examining physical features and neurological behavior"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What should be done to prevent neonatal hypothermia?",
+      "options": [
+        "Dry infant well after delivery",
+        "Delay feeding for 6 hours",
+        "Do not give infant to mother immediately",
+        "Discharge after 24 hours only"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The toddler period is characterized by:",
+      "options": [
+        "Slow growth and advances in language and interpersonal skills",
+        "Growth faster than infancy",
+        "Growth more than development",
+        "Growth and development equal to infancy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The toddler can say 20 words at:",
+      "options": ["15 months", "36 months", "18 months", "30 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The child's self-concept as a girl or boy is completed at which stage?",
+      "options": ["Infancy", "Preschool", "School age", "Toddler"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Toddler can jump down from chairs as a gross motor skill at age:",
+      "options": ["18 months", "24 months", "30 months", "15 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Calculate the expected weight for a 1.5-year-old child:",
+      "options": ["11 kg", "10 kg", "9 kg", "8 kg"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Toddler can open doors by turning doorknobs at age:",
+      "options": ["18 months", "24 months", "30 months", "15 months"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Blue-black pigmented area at the base of back and buttocks in neonate is:",
+      "options": ["Lanugo", "Milia", "Mongolian spots", "Vernix caseosa"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Blood on a newborn girl’s diaper with normal urine is explained as:",
+      "options": [
+        "Kidney infection",
+        "Vitamin C deficiency",
+        "Kidney stone",
+        "Pseudo menstruation due to maternal hormone withdrawal"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The newborn's stomach capacity is:",
+      "options": ["40–50 ml", "50–60 ml", "60–70 ml", "70–80 ml"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anterior fontanel is completely closed at:",
+      "options": [
+        "9–11 months",
+        "11–12 months",
+        "12–16 months",
+        "12–18 months"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which is considered a normal problem of a newborn?",
+      "options": [
+        "Occasional regurgitation or vomiting",
+        "Significant repeated vomiting",
+        "Whitish patches on tongue",
+        "Yellow coloration of skin and eyes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A newborn with HR <100, some flexion, blue extremities, grimace cry. What is the APGAR score?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Macroglossia means:",
+      "options": [
+        "Large, thick tongue",
+        "Large lips",
+        "Large neck",
+        "Large eyelids"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Levothyroxine tablets for infants should be mixed with:",
+      "options": [
+        "Small volume of water",
+        "Soy formula",
+        "Cow milk formula",
+        "Powdered milk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Graves’ disease is:",
+      "options": [
+        "An autoimmune disorder",
+        "Thyroiditis",
+        "Thyroid nodules",
+        "Thyrotoxicosis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Enlargement of thyroid at puberty without treatment refers to:",
+      "options": [
+        "Endemic goiter",
+        "Physiological goiter",
+        "Toxic goiter",
+        "Thyroiditis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kwashiorkor can be prevented by:",
+      "options": [
+        "Vitamin A diet",
+        "Correct feeding habits",
+        "Vitamin D supplementation",
+        "Vitamin C diet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A complication of marasmus is:",
+      "options": [
+        "Atrophic ulcer",
+        "Kyphosis",
+        "Frog position",
+        "Muscle twitching"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Scurvy is manifested by:",
+      "options": [
+        "Laryngeal spasm",
+        "Relaxed abdominal muscles",
+        "Frog position",
+        "Enlarged head"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Latent tetany is diagnosed by:",
+      "options": [
+        "Low serum calcium",
+        "Flexed arms and legs",
+        "Trousseau’s sign",
+        "Frog position"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Biological changes occurring sequentially giving new abilities is called:",
+      "options": [
+        "Family planning",
+        "Socialization",
+        "Maturation",
+        "Development"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "At 6 months, anterior fontanel slightly open. What should the nurse do?",
+      "options": [
+        "Notify physician immediately",
+        "Perform neurological exam",
+        "Do nothing as this is normal",
+        "Perform developmental exam"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
