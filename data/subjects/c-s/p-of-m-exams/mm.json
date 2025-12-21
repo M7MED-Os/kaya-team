@@ -2,7 +2,7 @@
   "title": "😉😉 بسرعه في الحيكي ميكي",
   "questions": [
     {
-      "question": "Which of the following laboratory results for a child with hemophilia is most likely be abnormal?",
+      "question": "Which of the following laboratory results for a child with hemophilia is most likely to be abnormal?",
       "options": [
         "Platelet count",
         "Hematocrit level",
@@ -27,12 +27,12 @@
         "Adequate nutrition high in iron",
         "Adequate rest and comfort",
         "Measures to prevent infection",
-        "Mother’s knowledge regarding thalassemia"
+        "Mother's knowledge regarding thalassemia"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Pediatric nurse providing care for a 7-year-old child with thalassemia, which priority must be taken into consideration?",
+      "question": "Pediatric nurse providing care for a 7-year child with thalassemia, which priority must be taken into consideration?",
       "options": [
         "Iron overload",
         "Delayed growth",
@@ -42,7 +42,7 @@
       "correctIndex": 0
     },
     {
-      "question": "When assessing the umbilical stump, the nurse observed presence of oozing, and the cord is moist. What is the appropriate intervention?",
+      "question": "When assessing the umbilical stump, the nurse observed presence of oozing and the cord is moist. What is the appropriate intervention?",
       "options": [
         "Give the infant broad spectrum antibiotic",
         "Nothing as this is normal",
@@ -52,9 +52,9 @@
       "correctIndex": 0
     },
     {
-      "question": "Ahmed aged 4 months after completing antibiotic treatment presents with creamy white patches in the mouth. What is the appropriate treatment?",
+      "question": "Ahmed aged 4 months after completing antibiotic treatment presents with creamy white patches on tongue and gums. What is the appropriate treatment?",
       "options": [
-        "Remove patches then provide mouth care",
+        "Remove patches and provide mouth care",
         "Give systemic antibiotic",
         "Apply gentian violet locally",
         "Apply antibiotic locally"
@@ -62,7 +62,7 @@
       "correctIndex": 2
     },
     {
-      "question": "One-month-old infant with severe impetigo. Which precaution should the nurse follow?",
+      "question": "One-month-old infant admitted with severe impetigo. Which precautions should the nurse follow?",
       "options": [
         "Droplet precautions",
         "Standard precautions only",
@@ -82,13 +82,8 @@
       "correctIndex": 0
     },
     {
-      "question": "One-week-old neonate with fever, irritability, and jaw muscle spasm. Which organism is responsible?",
-      "options": [
-        "Streptococci",
-        "Tetanus palladium",
-        "Virus",
-        "Staphylococci"
-      ],
+      "question": "One-week-old neonate with jaw muscle spasm and inability to suck. Which organism is responsible?",
+      "options": ["Streptococci", "Tetanus pallidum", "Virus", "Staphylococci"],
       "correctIndex": 1
     },
     {
@@ -116,17 +111,17 @@
       "options": [
         "Weighing the neonate",
         "Measuring head circumference",
-        "Measuring hemoglobin concentration",
-        "Examining physical features and neurological behavior"
+        "Measuring hemoglobin level",
+        "Assessing physical and neurological behavior"
       ],
       "correctIndex": 3
     },
     {
       "question": "What should be done to prevent neonatal hypothermia?",
       "options": [
-        "Dry infant well after delivery",
+        "Dry infants well after delivery",
         "Delay feeding for 6 hours",
-        "Do not give infant to mother immediately",
+        "Avoid mother contact after delivery",
         "Discharge after 24 hours only"
       ],
       "correctIndex": 0
@@ -134,10 +129,10 @@
     {
       "question": "The toddler period is characterized by:",
       "options": [
-        "Slow growth and advances in language and interpersonal skills",
+        "Slow growth and rapid language development",
         "Growth faster than infancy",
         "Growth more than development",
-        "Growth and development equal to infancy"
+        "Growth equal to infancy"
       ],
       "correctIndex": 0
     },
@@ -147,42 +142,42 @@
       "correctIndex": 2
     },
     {
-      "question": "The child's self-concept as a girl or boy is completed at which stage?",
-      "options": ["Infancy", "Preschool", "School age", "Toddler"],
+      "question": "Child's self-concept as a girl or boy is completed at:",
+      "options": ["Infancy", "Preschool", "School age", "Toddler stage"],
       "correctIndex": 3
     },
     {
-      "question": "Toddler can jump down from chairs as a gross motor skill at age:",
+      "question": "Toddler can jump down from chairs at age:",
       "options": ["18 months", "24 months", "30 months", "15 months"],
       "correctIndex": 2
     },
     {
-      "question": "Calculate the expected weight for a 1.5-year-old child:",
+      "question": "Expected weight of a 1.5-year-old child is:",
       "options": ["11 kg", "10 kg", "9 kg", "8 kg"],
       "correctIndex": 0
     },
     {
-      "question": "Toddler can open doors by turning doorknobs at age:",
+      "question": "Toddler can open doors by turning doorknobs at:",
       "options": ["18 months", "24 months", "30 months", "15 months"],
       "correctIndex": 1
     },
     {
-      "question": "Blue-black pigmented area at the base of back and buttocks in neonate is:",
+      "question": "Blue-black pigmentation on newborn's back and buttocks is called:",
       "options": ["Lanugo", "Milia", "Mongolian spots", "Vernix caseosa"],
       "correctIndex": 2
     },
     {
-      "question": "Blood on a newborn girl’s diaper with normal urine is explained as:",
+      "question": "Blood in newborn girl's diaper with normal urine is explained as:",
       "options": [
         "Kidney infection",
         "Vitamin C deficiency",
         "Kidney stone",
-        "Pseudo menstruation due to maternal hormone withdrawal"
+        "Pseudo menstruation due to hormone withdrawal"
       ],
       "correctIndex": 3
     },
     {
-      "question": "The newborn's stomach capacity is:",
+      "question": "Newborn stomach capacity is:",
       "options": ["40–50 ml", "50–60 ml", "60–70 ml", "70–80 ml"],
       "correctIndex": 1
     },
@@ -197,42 +192,47 @@
       "correctIndex": 3
     },
     {
-      "question": "Which is considered a normal problem of a newborn?",
+      "question": "Which of the following is considered a normal problem of the newborn?",
       "options": [
         "Occasional regurgitation or vomiting",
         "Significant repeated vomiting",
-        "Whitish patches on tongue",
-        "Yellow coloration of skin and eyes"
+        "Appearance of whitish patches on the tongue",
+        "Appearance of yellow coloration of eyes and skin"
       ],
       "correctIndex": 0
     },
     {
-      "question": "A newborn with HR <100, some flexion, blue extremities, grimace cry. What is the APGAR score?",
-      "options": ["1", "2", "3", "4"],
+      "question": "A newborn has heart rate <100 beats/min, some flexion, blue extremities with pink body, and grimace/feeble cry. What is the APGAR score?",
+      "options": [
+        "Apgar score 1",
+        "Apgar score 2",
+        "Apgar score 3",
+        "Apgar score 4"
+      ],
       "correctIndex": 3
     },
     {
-      "question": "Macroglossia means:",
+      "question": "Macroglossia in congenital hypothyroidism means:",
       "options": [
         "Large, thick tongue",
-        "Large lips",
-        "Large neck",
-        "Large eyelids"
+        "Large, thick lips",
+        "Large, thick neck",
+        "Large, thick eyelids"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Levothyroxine tablets for infants should be mixed with:",
+      "question": "Parents should crush levothyroxine tablet and mix it with:",
       "options": [
-        "Small volume of water",
-        "Soy formula",
+        "A small volume of water",
+        "Soy protein formula",
         "Cow milk formula",
-        "Powdered milk"
+        "Powdered milk formula"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Graves’ disease is:",
+      "question": "Graves' disease is defined as:",
       "options": [
         "An autoimmune disorder",
         "Thyroiditis",
@@ -242,7 +242,7 @@
       "correctIndex": 0
     },
     {
-      "question": "Enlargement of thyroid at puberty without treatment refers to:",
+      "question": "Enlargement of thyroid at puberty needing no treatment is called:",
       "options": [
         "Endemic goiter",
         "Physiological goiter",
@@ -252,12 +252,12 @@
       "correctIndex": 1
     },
     {
-      "question": "Kwashiorkor can be prevented by:",
+      "question": "Kwashiorkor can be prevented through:",
       "options": [
-        "Vitamin A diet",
-        "Correct feeding habits",
+        "Providing diet containing vitamin A",
+        "Breaking down bad feeding habits",
         "Vitamin D supplementation",
-        "Vitamin C diet"
+        "Providing diet containing vitamin C"
       ],
       "correctIndex": 1
     },
@@ -267,7 +267,7 @@
         "Atrophic ulcer",
         "Kyphosis",
         "Frog position",
-        "Muscle twitching"
+        "Muscular twitching"
       ],
       "correctIndex": 0
     },
@@ -275,24 +275,24 @@
       "question": "Scurvy is manifested by:",
       "options": [
         "Laryngeal spasm",
-        "Relaxed abdominal muscles",
+        "Relaxation of abdominal muscles",
         "Frog position",
         "Enlarged head"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Latent tetany is diagnosed by:",
+      "question": "Latent tetany can be diagnosed by:",
       "options": [
-        "Low serum calcium",
-        "Flexed arms and legs",
-        "Trousseau’s sign",
+        "Serum calcium under 7 mg/100 ml",
+        "Adducted and flexed arms and legs",
+        "Trousseau's sign",
         "Frog position"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Biological changes occurring sequentially giving new abilities is called:",
+      "question": "Biological changes occurring sequentially and giving new abilities is called:",
       "options": [
         "Family planning",
         "Socialization",
@@ -302,12 +302,257 @@
       "correctIndex": 3
     },
     {
-      "question": "At 6 months, anterior fontanel slightly open. What should the nurse do?",
+      "question": "Breathlessness at rest, easy fatigability, and poor growth indicate:",
       "options": [
-        "Notify physician immediately",
-        "Perform neurological exam",
-        "Do nothing as this is normal",
-        "Perform developmental exam"
+        "Transposition of the great vessels",
+        "Atrial septal defect",
+        "Patent ductus arteriosus",
+        "Aortic stenosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Poor feeding, sweating with crying or eating indicates:",
+      "options": [
+        "Transposition of the great vessels",
+        "Patent ductus arteriosus",
+        "Coarctation of aorta",
+        "Aortic stenosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Clubbing of fingers, intolerance to effort, and heart failure indicate:",
+      "options": [
+        "Acidosis",
+        "Tetralogy of Fallot",
+        "Atrial septal defect",
+        "Patent ductus arteriosus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Most serious complication of coarctation of aorta is:",
+      "options": [
+        "Aortic rupture",
+        "Growth retardation",
+        "Infective endocarditis",
+        "High blood pressure"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Before administering digoxin, the nurse must assess:",
+      "options": [
+        "Respiratory rate",
+        "Apical pulse rate",
+        "Blood pressure",
+        "Liver function"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Obstruction between right ventricle and pulmonary artery is:",
+      "options": [
+        "Right ventricular hypertrophy",
+        "Pulmonary stenosis",
+        "Aortic stenosis",
+        "Patent ductus arteriosus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sickle cell disease inheritance pattern is:",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which anatomical feature contributes to otitis media in children?",
+      "options": [
+        "Nasopharynx",
+        "External ear canal",
+        "Eustachian tubes",
+        "Tympanic membrane"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Bronchial asthma is characterized by:",
+      "options": [
+        "Attacks of wheezing, shortness of breath, and cough",
+        "Otitis media and conjunctivitis",
+        "Harsh dry cough becoming productive",
+        "Apnea in young infants"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "An 8-month-old infant with inspiratory stridor and tight cough most likely has:",
+      "options": ["Acute bronchiolitis", "Croup", "Asthma", "Pneumonia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why are antibiotics not prescribed for viral laryngotracheobronchitis?",
+      "options": [
+        "Child may be allergic to antibiotics",
+        "Child is too young",
+        "Antibiotics are not indicated unless bacterial infection exists",
+        "Maternal antibodies are still present"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Therapeutic management for infant with urinary tract infection is:",
+      "options": [
+        "Antibiotics",
+        "Heating pad only",
+        "Stool softener",
+        "Diuretic therapy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which change indicates recovery in nephritic syndrome?",
+      "options": [
+        "Disappearance of protein from urine",
+        "Decrease in blood pressure",
+        "Increase in serum lipid levels",
+        "Gain in body weight"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Urine output less than 400 cc/day for 8–14 days indicates:",
+      "options": [
+        "Oliguria phase",
+        "Early diuretic phase",
+        "Late diuretic phase",
+        "Recovery phase"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Recommended treatment for acute glomerulonephritis is:",
+      "options": [
+        "Penicillin",
+        "Immunosuppressive therapy",
+        "Corticosteroids",
+        "Vitamins and minerals"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A true statement about hypertonic dehydration is:",
+      "options": [
+        "Water shifts from extracellular to intracellular space",
+        "Anterior fontanel is markedly depressed",
+        "Common in malnourished children",
+        "Tongue is very dry"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Most typhoid fever cases in Egypt are acquired by:",
+      "options": [
+        "Kissing an infected person",
+        "Traveling to endemic areas",
+        "Not being vaccinated",
+        "Sharing contaminated needles"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "False statement regarding hypotonic dehydration is:",
+      "options": [
+        "Water shifts from extracellular to intracellular space",
+        "Tongue is moist",
+        "Common in malnourished children",
+        "Increasing extracellular fluid tonicity"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Untreated typhoid fever may lead to:",
+      "options": [
+        "Meteorism",
+        "Kussmaul breathing",
+        "Septic shock",
+        "Alveolar necrosis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Stage when individuals ask 'Who am I?' is:",
+      "options": [
+        "Infancy",
+        "Early childhood",
+        "Middle childhood",
+        "Adolescence"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Major consequence of adolescent substance abuse is:",
+      "options": [
+        "Enhanced cognition",
+        "Improved mental health",
+        "Negative brain and academic impact",
+        "Equal growth opportunities"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Main cause of postural defects in adolescent females:",
+      "options": [
+        "Breast development",
+        "Overeating",
+        "Comfortable shoes",
+        "Watching TV in toddler stage"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Severe neurosis requiring psychiatric help is:",
+      "options": [
+        "Severe psychoneurosis",
+        "Delinquency",
+        "Masturbation",
+        "Schizophrenia"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Main developmental need of adolescence is:",
+      "options": [
+        "Dependence on family",
+        "Personality integration for future responsibility",
+        "Separation from opposite sex",
+        "Proper nutrition and exercise"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "False consequence of premenstrual syndrome is:",
+      "options": [
+        "Mood swings",
+        "Lower school achievement",
+        "Higher concentration",
+        "Change in libido"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 6-month-old infant with slightly open anterior fontanel requires:",
+      "options": [
+        "Immediate physician notification",
+        "Intensive neurological exam",
+        "No action; normal finding",
+        "Intensive developmental exam"
       ],
       "correctIndex": 2
     }
