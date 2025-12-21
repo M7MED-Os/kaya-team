@@ -2,7 +2,77 @@
   "title": "😉😉 بسرعه في الحيكي ميكي",
   "questions": [
     {
-      "question": "Which of the following laboratory results for a child with hemophilia is most likely to be abnormal?",
+      "question": "The nurse observe the infant complain from congenital heart defects, breathlessness at rest, Easy fatigability, or poor growth, this refer to.",
+      "options": [
+        "Transposition of the great vessels.",
+        "Atrial Septal Defect.",
+        "Patent Ductus Arteriosus",
+        "Aortic stenosis."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The nurse observe the infant complain from congenital heart defects, poor eating, which leads to poor growth and sweating with crying or eating, this refer to.",
+      "options": [
+        "Transposition of the great vessels",
+        "Patent Ductus Arteriosus",
+        "Coarctation of Aorta",
+        "Aortic stenosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The nurse is caring for a 9-month-old with congenital heart defect, and complain from intolerance to effort, clubbing of fingers and toe, heart failure may develop. These are signs of assessment reveals:",
+      "options": [
+        "Acidosis",
+        "Tetralogy of Fallot",
+        "Atrial Septal Defect",
+        "Patent Ductus Arteriosus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child has been diagnosed with Coarctation of Aorta. The parents are asking questions about the child's outcome. The nurse explains that the most serious complications are:",
+      "options": [
+        "Aortic rupture",
+        "Growth retardation due to chronic hypoxia.",
+        "infective endocarditis",
+        "High blood pressure"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "An infant with congestive heart failure is receiving digoxin to enhance myocardial function. What should the nurse assess heights priority to administering the medication?",
+      "options": [
+        "Respiratory rate",
+        "Apical pulse rate.",
+        "Measure blood pressure",
+        "Liver function."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A condition that causes an obstruction in blood flow between the right ventricle and the pulmonary arteries is refer to .......",
+      "options": [
+        "Right ventricular hypertrophy",
+        "Pulmonary stenosis",
+        "Aorta stenosis",
+        "Patent Ductus Arteriosus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "sickle cell disease is an example of which type of heredity pattern?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following laboratory results for a child with hemophilia is most likely be abnormal:",
       "options": [
         "Platelet count",
         "Hematocrit level",
@@ -12,27 +82,27 @@
       "correctIndex": 3
     },
     {
-      "question": "Which clinical manifestation should the nurse expect when a child with sickle cell anemia experiences an acute vaso-occlusive crisis?",
+      "question": "Which clinical manifestation should the nurse expect when a child with sickle cell anemia experiences an acute Vaso-occlusive crisis?",
       "options": [
         "Circulatory collapse",
         "Cardiomegaly, systolic murmurs",
         "Hepatomegaly, intrahepatic cholestasis",
-        "Painful swelling of hands and feet; painful joints"
+        "Painful swelling of hands and feet; painful joints."
       ],
       "correctIndex": 3
     },
     {
       "question": "The pediatric nurse instructs the mother of a child with thalassemia to avoid:",
       "options": [
-        "Adequate nutrition high in iron",
-        "Adequate rest and comfort",
-        "Measures to prevent infection",
-        "Mother's knowledge regarding thalassemia"
+        "Adequate nutrition high in iron.",
+        "Adequate rest and comfort.",
+        "Measures to prevent infection.",
+        "Mothers' knowledge regarding thalassemia."
       ],
       "correctIndex": 0
     },
     {
-      "question": "Pediatric nurse providing care for a 7-year child with thalassemia, which priority must be taken into consideration?",
+      "question": "Pediatric nurse providing care for a 7-year child with thalassemia, which the priority must be taken into consideration?",
       "options": [
         "Iron overload",
         "Delayed growth",
@@ -42,77 +112,82 @@
       "correctIndex": 0
     },
     {
-      "question": "When assessing the umbilical stump, the nurse observed presence of oozing and the cord is moist. What is the appropriate intervention?",
+      "question": "When assessing the umbilical stump, the nurse observed presence of oozing, and the cord is moist. What is the appropriate intervention should be done:",
       "options": [
         "Give the infant broad spectrum antibiotic",
-        "Nothing as this is normal",
+        "No thing as this normal",
         "Clean with warm water",
         "Clean the discharge with sterile saline"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Ahmed aged 4 months after completing antibiotic treatment presents with creamy white patches on tongue and gums. What is the appropriate treatment?",
+      "question": "Ahmed aged 4- months old after complete antibiotic course for treatment of respiratory infection he presents with creamy white patches on his tongue, roof of mouth and gums What is the appropriate treatment:",
       "options": [
-        "Remove patches and provide mouth care",
-        "Give systemic antibiotic",
+        "Remove this patches from the mucous membrane then mouth care.",
+        "Give the infant systemic antibiotic",
         "Apply gentian violet locally",
         "Apply antibiotic locally"
       ],
       "correctIndex": 2
     },
     {
-      "question": "One-month-old infant admitted with severe impetigo. Which precautions should the nurse follow?",
+      "question": "One month old infant is admitted to unit with a severe case of impetigo. While providing care to this infant, the nurse should follow:",
       "options": [
         "Droplet precautions",
         "Standard precautions only",
         "Contact precautions",
-        "Airborne precautions"
+        "Airborne precaution"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Which is the effective treatment for impetigo?",
+      "question": "Which is effective treatment for impetigo:",
       "options": [
         "Systemic antibiotic",
-        "Local gentian violet",
+        "Locally gentian violet.",
         "Systemic antiviral",
-        "Local antifungal"
+        "Locally antifungal"
       ],
       "correctIndex": 0
     },
     {
-      "question": "One-week-old neonate with jaw muscle spasm and inability to suck. Which organism is responsible?",
-      "options": ["Streptococci", "Tetanus pallidum", "Virus", "Staphylococci"],
+      "question": "One week age neonate admitted to hospital with temperature 40 c, irritability, and restless cannot move his mouth or suck with spasm of the muscles of the jaw which the following organism is responsible about this case:",
+      "options": [
+        "Streptococci.",
+        "Tetanus palladium.",
+        "Virus.",
+        "staphylococci"
+      ],
       "correctIndex": 1
     },
     {
-      "question": "Jaundice appearing in the second week of life is most likely due to:",
+      "question": "Jaundice which appears in the 2nd week of life is most likely to be due to:",
       "options": [
-        "ABO incompatibility",
-        "Bile duct obstruction",
-        "Breast milk jaundice",
-        "Liver immaturity"
+        "ABO incompatibility.",
+        "Bile duct obstruction.",
+        "Breast milk jaundice.",
+        "Liver immaturity."
       ],
       "correctIndex": 2
     },
     {
-      "question": "Which disorder is specific to infants of diabetic mothers?",
+      "question": "Which of the following is considered specific disorder encountered in infant of diabetic mother?",
       "options": [
-        "Cardiorespiratory disorders",
-        "Hypercalcemia",
-        "Hypermagnesemia",
-        "Hyperinsulinemia"
+        "Cardiorespiratory disorders.",
+        "Hypercalcemia.",
+        "Hypermagnesemia.",
+        "Hyperinsulinemia."
       ],
       "correctIndex": 0
     },
     {
-      "question": "Gestational age of a neonate can be estimated after delivery by:",
+      "question": "The gestational age of a neonate can be estimated after delivery by:",
       "options": [
         "Weighing the neonate",
-        "Measuring head circumference",
-        "Measuring hemoglobin level",
-        "Assessing physical and neurological behavior"
+        "Measuring the neonate's head circumference",
+        "Measuring the neonate's hemoglobin concentration",
+        "Examining the neonate's physical features and assessing the neurological behavior"
       ],
       "correctIndex": 3
     },
@@ -120,89 +195,89 @@
       "question": "What should be done to prevent neonatal hypothermia?",
       "options": [
         "Dry infants well after delivery",
-        "Delay feeding for 6 hours",
-        "Avoid mother contact after delivery",
-        "Discharge after 24 hours only"
+        "Delay feeding infants until they are 6 hours' old",
+        "Do not give the infant to the mother immediately after delivery",
+        "Only discharge infants home when they are at least 24 hours old"
       ],
       "correctIndex": 0
     },
     {
-      "question": "The toddler period is characterized by:",
+      "question": "The toddler period characterized by ..........................",
       "options": [
-        "Slow growth and rapid language development",
-        "Growth faster than infancy",
+        "Growth slow considerably and most dramatic advances occur in language and interpersonal skills",
+        "Growth faster than infancy period",
         "Growth more than development",
-        "Growth equal to infancy"
+        "Growth and development equal to infancy period"
       ],
       "correctIndex": 0
     },
     {
-      "question": "The toddler can say 20 words at:",
+      "question": "The toddler can says 20 words at:",
       "options": ["15 months", "36 months", "18 months", "30 months"],
       "correctIndex": 2
     },
     {
-      "question": "Child's self-concept as a girl or boy is completed at:",
-      "options": ["Infancy", "Preschool", "School age", "Toddler stage"],
+      "question": "The child's self-concept as a girl or a boy is probably completed at the stage of:",
+      "options": ["Infancy", "Preschool", "School", "Toddler"],
       "correctIndex": 3
     },
     {
-      "question": "Toddler can jump down from chairs at age:",
+      "question": "Toddler can jump down from chairs as a gross motor development at age",
       "options": ["18 months", "24 months", "30 months", "15 months"],
       "correctIndex": 2
     },
     {
-      "question": "Expected weight of a 1.5-year-old child is:",
+      "question": "Calculate weight for child has 1.5 year:",
       "options": ["11 kg", "10 kg", "9 kg", "8 kg"],
       "correctIndex": 0
     },
     {
-      "question": "Toddler can open doors by turning doorknobs at:",
+      "question": "Toddler can open doors by turning doorknobs as a fine motor development, at the age of:",
       "options": ["18 months", "24 months", "30 months", "15 months"],
       "correctIndex": 1
     },
     {
-      "question": "Blue-black pigmentation on newborn's back and buttocks is called:",
+      "question": "A mother of a term neonate asks the pediatric nurse about the Blue-black pigmented, at the base of the back and on the buttocks. Which of the following correctly describes this finding?",
       "options": ["Lanugo", "Milia", "Mongolian spots", "Vernix caseosa"],
       "correctIndex": 2
     },
     {
-      "question": "Blood in newborn girl's diaper with normal urine is explained as:",
+      "question": "A newborn's mother is alarmed to find small amounts of blood on her newborn girl's diaper. When the nurse checks the newborn's urine it is straw colored and has no offensive odor. This condition explained as:",
       "options": [
-        "Kidney infection",
-        "Vitamin C deficiency",
-        "Kidney stone",
-        "Pseudo menstruation due to hormone withdrawal"
+        "\"It appears your baby has a kidney infection\"",
+        "\"Breast-fed babies often experience this type of bleeding problem due to lack of vitamin C in the breast milk\"",
+        "\"The baby probably passed a small kidney stone\"",
+        "\"Pseudo menstruation is related to the withdrawal of maternal hormones.\""
       ],
       "correctIndex": 3
     },
     {
-      "question": "Newborn stomach capacity is:",
-      "options": ["40–50 ml", "50–60 ml", "60–70 ml", "70–80 ml"],
+      "question": "The newborn's stomach capacity is ------------",
+      "options": ["40 to 50ml", "50 to 60ml", "60 to 70ml", "70 to 80ml"],
       "correctIndex": 1
     },
     {
       "question": "Anterior fontanel is completely closed at:",
       "options": [
-        "9–11 months",
-        "11–12 months",
-        "12–16 months",
-        "12–18 months"
+        "9-11 months",
+        "11-12 months",
+        "12-16 months",
+        "12-18 months"
       ],
       "correctIndex": 3
     },
     {
-      "question": "Which of the following is considered a normal problem of the newborn?",
+      "question": "Which of the following are considering normal problem of newborn?",
       "options": [
         "Occasional regurgitation or vomiting",
         "Significant repeated vomiting",
         "Appearance of whitish patches on the tongue",
-        "Appearance of yellow coloration of eyes and skin"
+        "Appearance of yellow coloration of eyes and skin."
       ],
       "correctIndex": 0
     },
     {
-      "question": "A newborn has heart rate <100 beats/min, some flexion, blue extremities with pink body, and grimace/feeble cry. What is the APGAR score?",
+      "question": "A pediatric nurse assessing a newborn baby one minute APGAR score, he noted the following: heart rate < 100 beats/min, some flexion, blue at extremities pink body, Grimace/feeble cry when stimulated. What is the neonate's Apgar score?",
       "options": [
         "Apgar score 1",
         "Apgar score 2",
@@ -212,57 +287,57 @@
       "correctIndex": 3
     },
     {
-      "question": "Macroglossia in congenital hypothyroidism means:",
+      "question": "A 3-years-old female child was brought by her mother to pediatric department, complaining of a puffy-looking face, delayed linear growth and macroglossia and diagnosis congenital hypothyroidism what is the meaning of macroglossia?",
       "options": [
-        "Large, thick tongue",
-        "Large, thick lips",
-        "Large, thick neck",
-        "Large, thick eyelids"
+        "Large, thick of tongue",
+        "Large, thick of lips",
+        "Large, thick of neck",
+        "Large, thick of eye lids"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Parents should crush levothyroxine tablet and mix it with:",
+      "question": "A 8 months-old female with congenital hypothyroidism is receiving levothyroxine daily. Parents should crush up each day's tablet, and then mix with",
       "options": [
         "A small volume of water",
-        "Soy protein formula",
-        "Cow milk formula",
-        "Powdered milk formula"
+        "A soy protein formula",
+        "A cow milk formula",
+        "A powder milk formula"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Graves' disease is defined as:",
+      "question": "Graves' disease is the most common cause of hyperthyroidism in children. What is the meaning of Graves' disease?",
       "options": [
-        "An autoimmune disorder",
-        "Thyroiditis",
-        "Thyroid nodules",
-        "Thyrotoxicosis"
+        "It is an autoimmune disorder.",
+        "It is an thyroiditis",
+        "It is an thyroid nodules",
+        "It is an thyrotoxicosis"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Enlargement of thyroid at puberty needing no treatment is called:",
+      "question": "Enlargement of thyroid occurs in girls at the time of puberty or during pregnancy, and it needs no treatment. This statement refers to:",
       "options": [
         "Endemic goiter",
         "Physiological goiter",
-        "Toxic goiter",
+        "Toxic Goiter",
         "Thyroiditis"
       ],
       "correctIndex": 1
     },
     {
-      "question": "Kwashiorkor can be prevented through:",
+      "question": "kwashiorkor can be prevented through:",
       "options": [
         "Providing diet containing vitamin A",
-        "Breaking down bad feeding habits",
+        "Breaking down bad feeding habits.",
         "Vitamin D supplementation",
         "Providing diet containing vitamin C"
       ],
       "correctIndex": 1
     },
     {
-      "question": "A complication of marasmus is:",
+      "question": "Which of the following is a complication of marasmus?",
       "options": [
         "Atrophic ulcer",
         "Kyphosis",
@@ -274,7 +349,7 @@
     {
       "question": "Scurvy is manifested by:",
       "options": [
-        "Laryngeal spasm",
+        "Larynges spasm",
         "Relaxation of abdominal muscles",
         "Frog position",
         "Enlarged head"
@@ -284,95 +359,75 @@
     {
       "question": "Latent tetany can be diagnosed by:",
       "options": [
-        "Serum calcium under 7 mg/100 ml",
-        "Adducted and flexed arms and legs",
+        "The serum calcium level is under 7mg/100ml",
+        "The arms and legs are adducted and flexed",
         "Trousseau's sign",
         "Frog position"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Biological changes occurring sequentially and giving new abilities is called:",
+      "question": "Process by which the biological changes occur in sequential order and give children new abilities, this is called:",
       "options": [
         "Family planning",
-        "Socialization",
+        "socialization.",
         "Maturation",
         "Development"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The principles of growth and development are:",
+      "options": [
+        "Each stage occurs separately and not depends upon the preceding one.",
+        "Child development is unpredictable during the life span.",
+        "Early development is less critical than later development.",
+        "All children go through a normal sequence of development, but not in the same rate."
       ],
       "correctIndex": 3
     },
     {
-      "question": "Breathlessness at rest, easy fatigability, and poor growth indicate:",
+      "question": "Sanna learnt to hold a glass and a bottle before she could hold a pen or button her shirt. This example indicates that:",
       "options": [
-        "Transposition of the great vessels",
-        "Atrial septal defect",
-        "Patent ductus arteriosus",
-        "Aortic stenosis"
+        "Development is unidimensional.",
+        "Direction of development is cephalo-caudal.",
+        "Direction of development is proximo-distal.",
+        "The direction follows a random pattern."
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
-      "question": "Poor feeding, sweating with crying or eating indicates:",
+      "question": "The pace of development varies from one child to another, but it follows …… pattern:",
       "options": [
-        "Transposition of the great vessels",
-        "Patent ductus arteriosus",
-        "Coarctation of aorta",
-        "Aortic stenosis"
+        "a toe-to-head",
+        "a haphazard",
+        "an unpredictable",
+        "a sequential and orderly"
       ],
-      "correctIndex": 1
+      "correctIndex": 3
     },
     {
-      "question": "Clubbing of fingers, intolerance to effort, and heart failure indicate:",
+      "question": "Growth in height and weight of children is an example of:",
       "options": [
-        "Acidosis",
-        "Tetralogy of Fallot",
-        "Atrial septal defect",
-        "Patent ductus arteriosus"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Most serious complication of coarctation of aorta is:",
-      "options": [
-        "Aortic rupture",
-        "Growth retardation",
-        "Infective endocarditis",
-        "High blood pressure"
+        "Quantitative change",
+        "Qualitative change",
+        "Change in affective domain",
+        "Change in cognitive domain"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Before administering digoxin, the nurse must assess:",
+      "question": "The nurse is reviewing discharge instructions with the parents of a child who had a tonsillectomy 24 hours ago. How could nurse educate the parents about the recommended food that should be given to the child for the next 24 hrs?",
       "options": [
-        "Respiratory rate",
-        "Apical pulse rate",
-        "Blood pressure",
-        "Liver function"
+        "The child's diet should not be restricted at all",
+        "The child's diet should be restricted to clear liquids",
+        "The child's diet should be restricted to ice cream and cold liquids",
+        "The child's diet should be restricted to soft foods"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
-      "question": "Obstruction between right ventricle and pulmonary artery is:",
-      "options": [
-        "Right ventricular hypertrophy",
-        "Pulmonary stenosis",
-        "Aortic stenosis",
-        "Patent ductus arteriosus"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Sickle cell disease inheritance pattern is:",
-      "options": [
-        "Autosomal dominant",
-        "Autosomal recessive",
-        "X-linked dominant",
-        "X-linked recessive"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which anatomical feature contributes to otitis media in children?",
+      "question": "The nurse teaching a group of parents about otitis media and it is causes among their children. Which anatomical feature the nurse should observe?",
       "options": [
         "Nasopharynx",
         "External ear canal",
@@ -382,42 +437,42 @@
       "correctIndex": 2
     },
     {
-      "question": "Bronchial asthma is characterized by:",
+      "question": "Bronchial asthma is a chronic inflammatory disorder of the airway characterized by:",
       "options": [
-        "Attacks of wheezing, shortness of breath, and cough",
-        "Otitis media and conjunctivitis",
-        "Harsh dry cough becoming productive",
-        "Apnea in young infants"
+        "Attacks of wheezing, Shortness of breath and Cough",
+        "Otitis media and conjunctivitis dyspnea fever, Rhino rhea",
+        "Harsh cough starts dry and converts to productive cough.",
+        "Apnea in very young infants"
       ],
       "correctIndex": 0
     },
     {
-      "question": "An 8-month-old infant with inspiratory stridor and tight cough most likely has:",
+      "question": "An 8-month-old infant presents to the pediatrician with a 3 days history of tight cough, temperature of 38.5 c and decrease appetite. Examination reveals inspiratory stridor, what is the most likely diagnosis?",
       "options": ["Acute bronchiolitis", "Croup", "Asthma", "Pneumonia"],
       "correctIndex": 1
     },
     {
-      "question": "Why are antibiotics not prescribed for viral laryngotracheobronchitis?",
+      "question": "The mother of a hospitalized 2-year-old child with viral laryngotracheobronchitis asks the nurse why the health care provider did not prescribe antibiotics. The nurse best response is:",
       "options": [
-        "Child may be allergic to antibiotics",
-        "Child is too young",
-        "Antibiotics are not indicated unless bacterial infection exists",
-        "Maternal antibodies are still present"
+        "Child may be allergic to antibiotics.\"",
+        "Child is too young to receive antibiotics.\"",
+        "\"Antibiotics are not indicated unless there is a bacterial infection.\"",
+        "\"Child still has maternal antibodies from birth and does not need antibiotics.\""
       ],
       "correctIndex": 2
     },
     {
-      "question": "Therapeutic management for infant with urinary tract infection is:",
+      "question": "Soha is 8 months old, and suffers from foul-smelling urine, irritability, diagnosed with urinary tract infection. As a pediatric nurse what is therapeutic management for this case?",
       "options": [
-        "Antibiotics",
-        "Heating pad only",
-        "Stool softener",
+        "Antibiotics.",
+        "A heating pad only",
+        "Stool softener as lactulose",
         "Diuretic therapy"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Which change indicates recovery in nephritic syndrome?",
+      "question": "What change indicates recovery in a child with nephritic syndrome?",
       "options": [
         "Disappearance of protein from urine",
         "Decrease in blood pressure",
@@ -427,67 +482,67 @@
       "correctIndex": 0
     },
     {
-      "question": "Urine output less than 400 cc/day for 8–14 days indicates:",
+      "question": "In which of the following phase of renal failure the child have urine output < 400 cc /day, lasts 8 to 14 days:",
       "options": [
-        "Oliguria phase",
+        "Oliguria Phase",
         "Early diuretic phase",
         "Late diuretic phase",
-        "Recovery phase"
+        "Recovery Phase"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Recommended treatment for acute glomerulonephritis is:",
+      "question": "Ahmed is a 7-year-old child diagnosed with acute glomerulonephritis. As a pediatric nurse, what therapeutic management are recommended?",
       "options": [
         "Penicillin",
         "Immunosuppressive therapy",
-        "Corticosteroids",
+        "Corticosteroids therapy",
         "Vitamins and minerals"
       ],
       "correctIndex": 0
     },
     {
-      "question": "A true statement about hypertonic dehydration is:",
+      "question": "Regarding hypertonic dehydration, which of the following are true",
       "options": [
-        "Water shifts from extracellular to intracellular space",
-        "Anterior fontanel is markedly depressed",
-        "Common in malnourished children",
-        "Tongue is very dry"
+        "Transmission of water from extracellular to intracellular compartment",
+        "Depressed anterior fontanelle is marked",
+        "Frequently observed in malnourished children.",
+        "Tongue is usually very dry"
       ],
       "correctIndex": 3
     },
     {
-      "question": "Most typhoid fever cases in Egypt are acquired by:",
+      "question": "Most cases in the Egypt are acquired typhoid fever by which of the following?",
       "options": [
         "Kissing an infected person",
-        "Traveling to endemic areas",
+        "Traveling to a country where the infection is common.",
         "Not being vaccinated",
         "Sharing contaminated needles"
       ],
       "correctIndex": 1
     },
     {
-      "question": "False statement regarding hypotonic dehydration is:",
+      "question": "Regarding hypotonic dehydration, which of the following are false",
       "options": [
-        "Water shifts from extracellular to intracellular space",
-        "Tongue is moist",
-        "Common in malnourished children",
-        "Increasing extracellular fluid tonicity"
+        "Transmission of water from extracellular to intracellular compartment",
+        "Tongue is usually moist",
+        "Frequently observed in malnourished children.",
+        "Increasing tonicity of extracellular fluids"
       ],
       "correctIndex": 3
     },
     {
-      "question": "Untreated typhoid fever may lead to:",
+      "question": "If typhoid is not treated properly for 2-3 weeks, what would be possible hazards that may happen to the patients",
       "options": [
-        "Meteorism",
-        "Kussmaul breathing",
+        "Meterism",
+        "Kussmaul's breathing",
         "Septic shock",
         "Alveolar necrosis"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Stage when individuals ask 'Who am I?' is:",
+      "question": "During which developmental stage do individuals typically begin to ask \"Who am I?\" and engage in abstract thought?",
       "options": [
         "Infancy",
         "Early childhood",
@@ -497,27 +552,27 @@
       "correctIndex": 3
     },
     {
-      "question": "Major consequence of adolescent substance abuse is:",
+      "question": "What the significant consequences of substance abuse among adolescents?",
       "options": [
-        "Enhanced cognition",
+        "Enhanced cognitive abilities",
         "Improved mental health",
-        "Negative brain and academic impact",
-        "Equal growth opportunities"
+        "Negative impact on brain development and academic performance",
+        "Equal opportunities for growth"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Main cause of postural defects in adolescent females:",
+      "question": "Which of the following is considered the main cause of postural defects in adolescent female?",
       "options": [
-        "Breast development",
-        "Overeating",
-        "Comfortable shoes",
-        "Watching TV in toddler stage"
+        "Breast developments",
+        "Over eating with inactivity",
+        "Wearing comfortable shoes",
+        "Watching TV during toddler stage."
       ],
       "correctIndex": 0
     },
     {
-      "question": "Severe neurosis requiring psychiatric help is:",
+      "question": "Adolescent female suffering from severe neurosis and need psychiatric help, what is the adolescent female problem?",
       "options": [
         "Severe psychoneurosis",
         "Delinquency",
@@ -527,32 +582,22 @@
       "correctIndex": 0
     },
     {
-      "question": "Main developmental need of adolescence is:",
+      "question": "Which of the following is considered the main need for adolescent?",
       "options": [
-        "Dependence on family",
-        "Personality integration for future responsibility",
+        "Making dependent relationship with the family",
+        "Integration of his personality for future responsibility",
         "Separation from opposite sex",
         "Proper nutrition and exercise"
       ],
       "correctIndex": 1
     },
     {
-      "question": "False consequence of premenstrual syndrome is:",
+      "question": "Regarding significant consequence for premenstrual syndrome upon the female adolescent, what is the false?",
       "options": [
         "Mood swings",
-        "Lower school achievement",
-        "Higher concentration",
+        "Lower achievements in high school",
+        "Higher level of concentration",
         "Change in libido"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "A 6-month-old infant with slightly open anterior fontanel requires:",
-      "options": [
-        "Immediate physician notification",
-        "Intensive neurological exam",
-        "No action; normal finding",
-        "Intensive developmental exam"
       ],
       "correctIndex": 2
     },
@@ -567,169 +612,214 @@
       "correctIndex": 1
     },
     {
-      "question": "The best way to assess infant development is by:",
+      "question": "By which one of the following, the pediatric nurse can assess infant's development:",
       "options": [
         "Observation of motor progress",
         "Measurement of head circumference",
         "Teeth eruption",
-        "Closure of fontanel"
+        "Observation for closure of the fontanel"
       ],
       "correctIndex": 0
     },
     {
-      "question": "Infant chest circumference equals head circumference at:",
+      "question": "In which of the following ages the infant's chest circumference is equal for head circumference?",
       "options": ["6 months", "9 months", "12 months", "15 months"],
       "correctIndex": 2
     },
     {
-      "question": "Freud’s oral stage extends from:",
+      "question": "The oral stage of development according to \"Freud\" extends from?",
       "options": [
-        "Birth to 10 months",
-        "Birth to 12 months",
-        "Birth to 15 months",
-        "Birth to 18 months"
+        "Birth to 10 months.",
+        "Birth to 12 months.",
+        "Birth to 15 months.",
+        "Birth to 18 months."
       ],
       "correctIndex": 3
     },
     {
-      "question": "Congenital heart defect with breathlessness at rest and poor growth refers to:",
+      "question": "While performing physical assessment of a 6-month-old infant, the nurse notes that the anterior fontanel is still slightly open. What is the most appropriate action?",
       "options": [
-        "Transposition of the great vessels",
-        "Atrial septal defect",
-        "Patent ductus arteriosus",
-        "Aortic stenosis"
+        "Notify the physician immediately",
+        "Perform an intensive neurological examination",
+        "Do nothing because this is a normal finding for the age",
+        "Perform an intensive developmental examination"
       ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Congenital heart defect with sweating during feeding refers to:",
-      "options": [
-        "Transposition of the great vessels",
-        "Patent ductus arteriosus",
-        "Coarctation of aorta",
-        "Aortic stenosis"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Clubbing of fingers and intolerance to effort indicates:",
-      "options": [
-        "Acidosis",
-        "Tetralogy of Fallot",
-        "Atrial septal defect",
-        "Patent ductus arteriosus"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Most serious complication of coarctation of aorta is:",
-      "options": [
-        "Aortic rupture",
-        "Growth retardation",
-        "Infective endocarditis",
-        "High blood pressure"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Priority assessment before administering digoxin is:",
-      "options": [
-        "Respiratory rate",
-        "Apical pulse",
-        "Blood pressure",
-        "Liver function"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Pulmonary stenosis causes obstruction between:",
-      "options": [
-        "Right ventricle and pulmonary arteries",
-        "Left ventricle and aorta",
-        "Atria and ventricles",
-        "Pulmonary veins and atrium"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Sickle cell disease follows which inheritance pattern?",
-      "options": [
-        "Autosomal dominant",
-        "Autosomal recessive",
-        "X-linked dominant",
-        "X-linked recessive"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Abnormal lab finding in hemophilia is:",
-      "options": [
-        "Platelet count",
-        "Hematocrit level",
-        "Hemoglobin level",
-        "Partial thromboplastin time"
-      ],
-      "correctIndex": 3
-    },
-    {
-      "question": "Vaso-occlusive crisis in sickle cell anemia causes:",
-      "options": [
-        "Circulatory collapse",
-        "Cardiomegaly",
-        "Hepatomegaly",
-        "Painful swelling of hands and joints"
-      ],
-      "correctIndex": 3
-    },
-    {
-      "question": "Mother of child with thalassemia should avoid:",
-      "options": [
-        "High iron diet",
-        "Adequate rest",
-        "Infection prevention",
-        "Disease education"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Priority consideration in thalassemia care is:",
-      "options": [
-        "Iron overload",
-        "Delayed growth",
-        "Parental anxiety",
-        "Fatigue"
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "Blue-black pigmentation on newborn’s buttocks is:",
-      "options": ["Lanugo", "Milia", "Mongolian spots", "Vernix caseosa"],
       "correctIndex": 2
     },
     {
-      "question": "Blood on newborn girl’s diaper is explained as:",
+      "question": "Which statement is most accurate regarding the gross motor skills of a 4-year-old?",
       "options": [
-        "Kidney infection",
-        "Vitamin deficiency",
-        "Renal stone",
-        "Pseudo menstruation"
+        "The child can hop on one foot",
+        "The child can walk backwards with heel to toe",
+        "The child can jump rope",
+        "The child can throw and catch a ball"
       ],
-      "correctIndex": 3
+      "correctIndex": 0
     },
     {
-      "question": "Newborn stomach capacity is:",
-      "options": ["40–50 ml", "50–60 ml", "60–70 ml", "70–80 ml"],
+      "question": "What is the normal psychosocial activity characteristic of a preschooler?",
+      "options": [
+        "Engages in solitary play with peers",
+        "Initiates activities with others",
+        "Engages in parallel play with peers",
+        "Refuses to play with others"
+      ],
       "correctIndex": 1
     },
     {
-      "question": "Anterior fontanel closes completely at:",
+      "question": "A 4-year-old is going to finger paint for the first time. What is the best action for the caregiver?",
       "options": [
-        "9–11 months",
-        "11–12 months",
-        "12–16 months",
-        "12–18 months"
+        "Make a model for the child to copy",
+        "Tell the child not to make a mess",
+        "Draw a picture first",
+        "Support whatever the child paints"
       ],
       "correctIndex": 3
+    },
+    {
+      "question": "A 5-year-old says “the sky is crying because my throat hurts.” Which mental process is demonstrated?",
+      "options": ["Magical thinking", "Centration", "Transduction", "Animism"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which statement is most accurate regarding fine motor skills of a 3-year-old?",
+      "options": [
+        "The child can feed himself well",
+        "The child can use scissors",
+        "The child can tie shoelaces",
+        "The child can print a few letters"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A 3-year-old child is in which Piaget stage?",
+      "options": [
+        "Tertiary circular reaction",
+        "Primary circular reaction",
+        "Preoperational thought",
+        "Coordination of secondary schema"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Acute myeloid leukemia (AML) is increased in:",
+      "options": [
+        "Early infancy",
+        "Late infancy",
+        "Early adolescence",
+        "Late adolescence"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "One important motor finding suggestive of brain tumor in a child is:",
+      "options": [
+        "Hyperreflexia",
+        "Positive Babinski sign",
+        "Pronator drift",
+        "Dysmetria"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Cancer begins when cells grow out of control. A slow-growing localized mass is called:",
+      "options": ["Cancerous tumor", "Adenosarcoma", "Benign tumor", "Lipoma"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The stage of Hodgkin disease with radiation above the diaphragm and 90% cure rate is:",
+      "options": ["Stage I", "Stage I and Stage II", "Stage III", "Stage IV"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principal surgery for Wilms’ tumor is:",
+      "options": [
+        "Liver resection",
+        "Nephrectomy",
+        "Splenectomy",
+        "Adenectomy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a hereditary cause of congenital anomalies?",
+      "options": [
+        "Radiation exposure",
+        "Rubella virus",
+        "Genetic defects",
+        "Anticonvulsant therapy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A common sign of hydrocephalus in infants is:",
+      "options": ["Diarrhea", "Setting sun sign", "Clubfoot", "Cyanosis"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cleft lip and palate are caused by failure of fusion of:",
+      "options": [
+        "Mandibular and nasal",
+        "Maxillary and premaxillary",
+        "Zygomatic and maxillary",
+        "Occipital and frontal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 3-week-old infant with projectile non-bilious vomiting and olive-like mass has:",
+      "options": [
+        "Hirschsprung disease",
+        "Intussusception",
+        "Hypertrophic pyloric stenosis",
+        "Esophageal atresia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Best position to reduce aspiration risk in a child with cerebral palsy during feeding:",
+      "options": [
+        "Reclining at 45°",
+        "Sitting upright at 90°",
+        "Lying flat with head turned",
+        "Semi-reclining with head tilted back"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is NOT common in Down syndrome?",
+      "options": [
+        "Heart defects",
+        "Gastrointestinal problems",
+        "Chronic respiratory infections",
+        "Diabetes mellitus type 2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which statement indicates need for further teaching about early intervention?",
+      "options": [
+        "Improves communication skills",
+        "Enhances social and cognitive development",
+        "Delaying intervention has no effect",
+        "Therapy can be tailored to child’s needs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of cerebral palsy is characterized by poor balance and coordination?",
+      "options": ["Spastic", "Athetoid", "Ataxic", "Mixed"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Most effective nursing intervention for severe intellectual disability:",
+      "options": [
+        "Consistent routine and positive reinforcement",
+        "Ignoring inappropriate behavior",
+        "Using punishment",
+        "Allowing self-regulation without guidance"
+      ],
+      "correctIndex": 0
     }
   ]
 }
