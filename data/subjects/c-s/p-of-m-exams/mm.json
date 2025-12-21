@@ -555,6 +555,181 @@
         "Intensive developmental exam"
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "The infant can sit down from a standing position alone at:",
+      "options": ["10 months", "9 months", "12 months", "8 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Infant can drink from cup with assistance at:",
+      "options": ["9 months", "8 months", "10 months", "12 months"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The best way to assess infant development is by:",
+      "options": [
+        "Observation of motor progress",
+        "Measurement of head circumference",
+        "Teeth eruption",
+        "Closure of fontanel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Infant chest circumference equals head circumference at:",
+      "options": ["6 months", "9 months", "12 months", "15 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Freud’s oral stage extends from:",
+      "options": [
+        "Birth to 10 months",
+        "Birth to 12 months",
+        "Birth to 15 months",
+        "Birth to 18 months"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Congenital heart defect with breathlessness at rest and poor growth refers to:",
+      "options": [
+        "Transposition of the great vessels",
+        "Atrial septal defect",
+        "Patent ductus arteriosus",
+        "Aortic stenosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Congenital heart defect with sweating during feeding refers to:",
+      "options": [
+        "Transposition of the great vessels",
+        "Patent ductus arteriosus",
+        "Coarctation of aorta",
+        "Aortic stenosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Clubbing of fingers and intolerance to effort indicates:",
+      "options": [
+        "Acidosis",
+        "Tetralogy of Fallot",
+        "Atrial septal defect",
+        "Patent ductus arteriosus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Most serious complication of coarctation of aorta is:",
+      "options": [
+        "Aortic rupture",
+        "Growth retardation",
+        "Infective endocarditis",
+        "High blood pressure"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Priority assessment before administering digoxin is:",
+      "options": [
+        "Respiratory rate",
+        "Apical pulse",
+        "Blood pressure",
+        "Liver function"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pulmonary stenosis causes obstruction between:",
+      "options": [
+        "Right ventricle and pulmonary arteries",
+        "Left ventricle and aorta",
+        "Atria and ventricles",
+        "Pulmonary veins and atrium"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sickle cell disease follows which inheritance pattern?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Abnormal lab finding in hemophilia is:",
+      "options": [
+        "Platelet count",
+        "Hematocrit level",
+        "Hemoglobin level",
+        "Partial thromboplastin time"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Vaso-occlusive crisis in sickle cell anemia causes:",
+      "options": [
+        "Circulatory collapse",
+        "Cardiomegaly",
+        "Hepatomegaly",
+        "Painful swelling of hands and joints"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Mother of child with thalassemia should avoid:",
+      "options": [
+        "High iron diet",
+        "Adequate rest",
+        "Infection prevention",
+        "Disease education"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Priority consideration in thalassemia care is:",
+      "options": [
+        "Iron overload",
+        "Delayed growth",
+        "Parental anxiety",
+        "Fatigue"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Blue-black pigmentation on newborn’s buttocks is:",
+      "options": ["Lanugo", "Milia", "Mongolian spots", "Vernix caseosa"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Blood on newborn girl’s diaper is explained as:",
+      "options": [
+        "Kidney infection",
+        "Vitamin deficiency",
+        "Renal stone",
+        "Pseudo menstruation"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Newborn stomach capacity is:",
+      "options": ["40–50 ml", "50–60 ml", "60–70 ml", "70–80 ml"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Anterior fontanel closes completely at:",
+      "options": [
+        "9–11 months",
+        "11–12 months",
+        "12–16 months",
+        "12–18 months"
+      ],
+      "correctIndex": 3
     }
   ]
 }
