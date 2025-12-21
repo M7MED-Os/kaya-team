@@ -1,0 +1,820 @@
+{
+  "title": "communication",
+  "questions": [
+    {
+      "question": "A 5-years-old child is brought to the emergency room with a temperature of 37.5°C, a tight cough, stridor, and hoarseness. Which nursing intervention should be done?",
+      "options": [
+        "Immediate IV placement.",
+        "Provides humidified O2 + epinephrine (2.5%) delivered by Nebulizer.",
+        "A tracheostomy set at the bedside.",
+        "Informing the child's parents about a tonsillectomy."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An 8-month-old infant presents to the pediatrician with a 3 days history of tight cough, temperature of 38.5°C and decreased appetite. Examination reveals inspiratory stridor. What is the most likely diagnosis?",
+      "options": [
+        "Acute bronchiolitis",
+        "Laryngo-tracheo bronchitis",
+        "Asthma",
+        "Pneumonia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 7-month-old infant has a low-grade fever, nasal congestion, and a mild cough. What is the nursing care of this child?",
+      "options": [
+        "Maintaining strict bed rest.",
+        "Avoiding contact with family members.",
+        "Instilling saline nose drops.",
+        "Keeping the head of the bed flat."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following assessment findings would help confirm a diagnosis of asthma in a child suspected of having the disorder?",
+      "options": [
+        "Circumoral cyanosis",
+        "Increased forced expiratory volume",
+        "Psychotherapy symptoms, wheezing",
+        "Normal breathing sound"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following positions should the nurse put a 3 years old child with pneumonia?",
+      "options": [
+        "Supine position",
+        "Semi prone position",
+        "In an infant seat",
+        "On the affected side"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Is a progressive increase in skills and capacity of function in adulthood?",
+      "options": ["Family planning", "Maturation", "Growth", "Development"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Nurse can assess growth through observation of:",
+      "options": [
+        "Five senses",
+        "Vital signs",
+        "Reflexes",
+        "Anthropometric measurements"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is not a characteristic of the principles of growth & development?",
+      "options": [
+        "Growth proceeds from the head to the toes.",
+        "Growth proceeds from the center of the body to the periphery.",
+        "Growth proceeds from the general to the specific.",
+        "Growth proceeds in a spiral fashion."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is not an environmental factor that influences growth and development?",
+      "options": [
+        "Geographical location",
+        "Season",
+        "O2 concentration",
+        "Race and nationality"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is considered pattern of growth and development?",
+      "options": [
+        "Continuous process",
+        "Depends on maturation",
+        "It is predictable",
+        "General to specific"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following nursing action done for a 3-day-old neonate who receiving phototherapy to treat pathological jaundice?",
+      "options": [
+        "Turn the neonate every 6 hours",
+        "Encourage the mother to discontinue breastfeeding",
+        "Notify the physician if skin becomes bronze in color",
+        "Check the vital signs every 2-4 hours"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A preterm infant is monitored for respiratory distress syndrome. Which assessment signs would alert the possibility of this syndrome?",
+      "options": [
+        "Hypotension",
+        "Tachypnea and retractions",
+        "Bradycardia",
+        "The presence of a barrel chest"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the first priority action should be taken by the nurse for infant of diabetic mother?",
+      "options": [
+        "Have the mother feed her newborn.",
+        "Immediately feed the infant and monitoring blood glucose level",
+        "Report the results immediately",
+        "Document the information in the newborn's medical record."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A preterm infant is defined as an infant with a gestational age:",
+      "options": [
+        "Less than 35 weeks",
+        "Less than 36 weeks",
+        "Less than 37 weeks",
+        "Less than 38 weeks"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The preterm infants have an increased incidence of:",
+      "options": [
+        "Hyperkalemia",
+        "Hypercalcemia",
+        "Hypothermia",
+        "Hypermagnesmia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Most common complications of neonatal sepsis are:",
+      "options": [
+        "Septicemia",
+        "Carditis",
+        "Gastroenteritis",
+        "Chorioamnionitis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which reflex is identified when the neonate's head, arm, and leg on one side slowly relax?",
+      "options": ["Eye blinking", "Tonic neck", "Grasping", "Startle"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse is assessing a newborn at 1 minute after birth. What is the newborn's APGAR score?",
+      "options": ["7 score", "8 score", "9 score", "10 score"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In caring of infant with oral thrush, the mother should avoid:",
+      "options": [
+        "Give the infant Mycostatin drops",
+        "Remove the patches from the mucous membrane",
+        "Apply gentian violet locally",
+        "Mouth care after feeding"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate has skin lesions that fail to heal with erythematous papules and pus. This condition refers to:",
+      "options": [
+        "Tetanus Neonatorum",
+        "TORCH infection",
+        "Septicemia",
+        "Impetigo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A 3 days old neonate presenting with eyelid redness, swelling and purulent discharge. What is the likely causative organism?",
+      "options": [
+        "Streptococci",
+        "Neisseria Gonorrhea",
+        "Cytomegaly",
+        "Staphylococci"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn with low birth weight, microcephaly, rash, jaundice and thrombocytopenia is suspected of:",
+      "options": [
+        "Tetanus Neonatorum",
+        "TORCH infection",
+        "Impetigo",
+        "Umbilical infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 7 days old neonate with fever, neck stiffness and muscular contractions is most likely diagnosed with:",
+      "options": ["Umbilical infection", "Sepsis", "Tetanus", "Rubella"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The most appropriate treatment for children with stage I and II of Hodgkin’s disease is:",
+      "options": [
+        "Radiation therapy",
+        "Hormonal therapy",
+        "Surgical therapy",
+        "Antibiotic therapy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "In leukemia, increased WBCs can cause alteration of child temperature as:",
+      "options": [
+        "Highly elevated body temperature",
+        "Low grade fever",
+        "Intermittent fever",
+        "Remittent fever"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hodgkin’s disease in early stage is characterized by:",
+      "options": [
+        "Low grade fever",
+        "Loss of weight with hepatosplenomegaly",
+        "Cough and dyspnea",
+        "Chest pain"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An infant with abdominal mass, hematuria, anemia and cachexia is diagnosed with:",
+      "options": [
+        "Hodgkin’s disease",
+        "Leukemia",
+        "Hepatosplenomegaly",
+        "Wilms tumor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The majority of children having brain tumor show which gait finding?",
+      "options": [
+        "Unsteady wide-based",
+        "Steady narrowed",
+        "Walking in tandem straight-line",
+        "Walking in a wavering way"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "An 11-month-old infant with loss of subcutaneous fat and listlessness is most likely diagnosed with:",
+      "options": ["Kwashiorkor", "Marasmus", "Failure to thrive", "Scurvy"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is used for prevention of rickets?",
+      "options": [
+        "Provide the child with diet containing calcium and vitamin D",
+        "Vitamin C and A therapy",
+        "Provide the child with diet containing vitamin C",
+        "Provide the child with diet containing vitamin E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which deficiency leads to hidden hunger in children?",
+      "options": [
+        "Vitamin C & D, and iodine",
+        "Vitamin A & D, protein, and iron",
+        "Fats, vitamin A & D, iodine",
+        "Vitamin A & D, zinc, iodine, and iron"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Lack of adequate weight gain with weight below 3rd to 5th percentile is:",
+      "options": [
+        "Failure to thrive",
+        "Hidden hunger",
+        "Marasmus",
+        "Kwashiorkor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Features of scurvy in children include:",
+      "options": [
+        "Bone disease in growing children",
+        "Subperiosteal bleeds",
+        "Neuro-muscular irritability",
+        "Delayed anterior fontanel closing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which disorder causes increasing neuromuscular irritability?",
+      "options": ["Rickets", "Scurvy", "Tetany", "Marasmus"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child with untreated congenital hypothyroidism may be complicated with:",
+      "options": [
+        "Mental disability",
+        "Coronary artery disease",
+        "Blurred vision",
+        "Ketoacidosis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which health concern is expected in congenital hypothyroidism?",
+      "options": [
+        "Increased appetite and weight loss",
+        "Thyroid gland swelling",
+        "Hypotonia and lethargy",
+        "Nervousness and tremors"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nephropathy in diabetic children means:",
+      "options": [
+        "Destroys vessels of brain",
+        "Destroys vessels of lung",
+        "Destroys vessels of retina",
+        "Destroys vessels of kidneys"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which is a cause of insulin dependent diabetes?",
+      "options": [
+        "Complete destruction of the islet cells",
+        "Lack of physical activity",
+        "Dietary factors",
+        "Excessive body weight"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A child with extremely high T3 and T4 level will have:",
+      "options": [
+        "Increase metabolic rate and intolerance to heat",
+        "Increase metabolic rate and puffy eyelids",
+        "Increase metabolic rate and ugly face",
+        "Decrease metabolic rate and weight loss"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which statement best describes physiological goiter?",
+      "options": [
+        "Occurs in iodine-deficient areas",
+        "Enlargement of thyroid during puberty in girls",
+        "Tumor localized in thyroid tissue",
+        "Errors in synthesis of thyroid hormones"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During the period of 8 to 11 years, children are interested in:",
+      "options": ["Religion", "Body posture", "Other", "Socialization"],
+      "correctIndex": 3
+    },
+    {
+      "question": "A child can recognize months, days, and numbers at age:",
+      "options": ["5 years", "6 years", "7 years", "8 years"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which best describes development of a 10 years old child?",
+      "options": [
+        "Afraid from separation",
+        "Same-sex peers are more important",
+        "Not concerned about appearance",
+        "Interested in sexualization"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 7-years-old child is in which psychosocial stage?",
+      "options": [
+        "Autonomy vs. Shame and Doubt",
+        "Initiative vs. Guilt",
+        "Industry vs. Inferiority",
+        "Identity vs. Role Confusion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The role of peer group in school-age children is to:",
+      "options": [
+        "Learn dominance and hostility",
+        "Remain dependent on parents",
+        "Decrease learning sex roles",
+        "Provide security and independence"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A child with thrombocytopenia and petechiae should receive:",
+      "options": [
+        "Fat emulsion",
+        "Platelet transfusion",
+        "Furosemide intravenously",
+        "Heparin sodium"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which medication is used for chelation therapy in β-thalassemia?",
+      "options": ["Fragmin", "Meropenem", "Metoprolol", "Deferoxamine"],
+      "correctIndex": 3
+    },
+    {
+      "question": "A toddler with Tetralogy of Fallot may assume which position?",
+      "options": ["Supine", "Semi sitting", "Right", "Chest-Knee"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which history finding is specific to rheumatic fever development?",
+      "options": [
+        "Back pain",
+        "Headaches",
+        "Nausea or vomiting",
+        "Recent sore throat or fever"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A child with aortic stenosis is expected to show:",
+      "options": [
+        "Pallor",
+        "Hyperactivity",
+        "Activity intolerance",
+        "Gastrointestinal disturbances"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The most serious complication of coarctation of aorta is:",
+      "options": [
+        "Aortic aneurysm",
+        "Growth retardation",
+        "Infective endocarditis",
+        "High blood pressure"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A 3 years-old child is hospitalized, parent tell the nurse that at home the child was potty trained but now he refuse to use the toilet and voiding on himself. What the nurse should tell the parent?",
+      "options": [
+        "Try potty training again while the child is hospitalized.",
+        "Reassure the parent that this is temporary and is most likely occurring because the child is hospitalized.",
+        "Advise the parent to set limits and implement discipline strategies for toilet accidents.",
+        "Recommend the parent avoids ritualistic routines until the child is not hospitalized."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 2 years old child having temper tantrum. What actions below are not appropriate for dealing with this situation?",
+      "options": [
+        "Attempt to stop the tantrum, reason with the child and leave the child alone until the tantrum stops",
+        "Protect the child from hurting himself",
+        "Ignore the behavior",
+        "Be consistent with the approach"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "How to calculate weight for a 3 year old child?",
+      "options": [
+        "Use formula age in year × 2 + 8",
+        "Use formula age in month × 2 + 8",
+        "Use formula age in year × 5 + 80",
+        "Use formula age in month × 5 + 80"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "According to Erikson’s stage of development, what is the sense of a 20-month-old can develop?",
+      "options": [
+        "Autonomy versus shame and doubt",
+        "Trust versus mistrust",
+        "Initiative versus guilt",
+        "Industry versus inferiority"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Toddler can say 50 words and 2-word sentences at age of:",
+      "options": ["15 months", "36 months", "24 months", "30 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 1-year-old girl with fever and diarrhea for 3 days has increased hematocrit. Which microorganism is the most likely cause?",
+      "options": [
+        "Cytomegalovirus",
+        "Rotavirus",
+        "Salmonella typhi",
+        "Shigella dysenteriae"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 12 months infant with severe diarrhea and vomiting has serum sodium >150 mEq/L and loss of HCO3 in stool. What is the main complication?",
+      "options": [
+        "Kussmaul’s breathing",
+        "Septic shock",
+        "Alveolar necrosis",
+        "Hemolytic uremic syndrome"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is linked with chronic diarrhea?",
+      "options": [
+        "Inflammatory bowel disease",
+        "Cow’s milk allergy",
+        "Intussusception",
+        "Lactose intolerance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is the most common viral cause of gastroenteritis?",
+      "options": ["Adenovirus", "Astrovirus", "Norovirus", "Rotavirus"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Regarding hypertonic dehydration, which of the following is true?",
+      "options": [
+        "Water loss is more than electrolyte loss",
+        "Depressed anterior fontanel is marked",
+        "Serum sodium is less than 150 mEq/L",
+        "Tone is usually moist"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "An 18 months old infant with shock signs after vomiting and diarrhea. What is the most likely action?",
+      "options": [
+        "Chest X-ray",
+        "Oral treatment and follow up",
+        "Administration of IV fluids",
+        "Blood gas analysis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which symptom is most commonly associated with cerebral palsy?",
+      "options": [
+        "Sudden and severe headaches",
+        "Difficulty in controlling muscles and movement",
+        "Loss of vision",
+        "Progressive muscle weakness"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a common physical feature of a child with Down syndrome?",
+      "options": [
+        "Large hands and feet",
+        "Short stature and small hands",
+        "Broad forehead and high-arched feet",
+        "Long neck and narrow face"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the major consequence of substance abuse among adolescents?",
+      "options": [
+        "Enhanced cognitive abilities",
+        "Improved mental health",
+        "Negative impact on brain development and academic performance",
+        "Equal opportunities for growth"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key characteristic of adolescence?",
+      "options": [
+        "Rapid physical growth",
+        "Stable emotional regulation",
+        "Decreased need for peer relationships",
+        "Fixed identity formation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "An adolescent with addiction, robbery and rejection is expected to be diagnosed with:",
+      "options": [
+        "An addict",
+        "Delinquency",
+        "Psychoneurosis",
+        "Ritualistic behavior"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 9-month-old infant with congenital heart defect has breathlessness and persistent fast breathing. These are signs of:",
+      "options": [
+        "Aortic stenosis",
+        "Ventricular septal defect",
+        "Atrial septal defect",
+        "Patent ductus arteriosus"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Acute kidney failure due to decreased renal perfusion refers to:",
+      "options": [
+        "Pre-kidney injury",
+        "Intrinsic kidney injury",
+        "Post kidney injury",
+        "None of them"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is NOT a cause of UTI in infants or young children?",
+      "options": [
+        "Bacteria travelling up the urethra",
+        "Severe constipation",
+        "Structural abnormalities of the urinary tract",
+        "Viruses travelling up the urethra"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which foods should be limited in acute glomerulonephritis?",
+      "options": [
+        "Calcium-rich foods",
+        "Potassium-rich foods",
+        "Purine-rich foods",
+        "Iodine-rich food"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Early sign of relapse in nephrotic syndrome includes:",
+      "options": [
+        "Weight loss",
+        "Loss of appetite",
+        "Tea-colored urine",
+        "Swelling in the legs, hands, face, or abdomen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which additional diet is important in nephrotic syndrome?",
+      "options": ["Low-fat", "Triple carbohydrate", "High-magnesium"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which life-threatening electrolyte disorder occurs in acute kidney failure?",
+      "options": [
+        "Hyponatraemia",
+        "Hypernatraemia",
+        "Triple bacteria",
+        "Hyperkalaemia"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "According to Piaget, the first stage of cognitive development is:",
+      "options": [
+        "Sensorimotor stage",
+        "Infant cognition stage",
+        "Object permanence stage",
+        "Sensory information stage"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What milestone should an infant aged 8-9 months perform?",
+      "options": [
+        "Begin walking",
+        "Say several words",
+        "Sit without support",
+        "Follow basic commands"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Most children triple their birth weight by:",
+      "options": ["6 months", "9 months", "12 months", "18 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Normal weight of a 5-month-old infant is:",
+      "options": [
+        "Quadruple the birth weight",
+        "Triple the birth weight",
+        "Two and a half times the birth weight",
+        "Double the birth weight"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Calculate weight of a 7-month-old infant with birth weight 3 kg.",
+      "options": ["6.5 kg", "8.5 kg", "6 kg", "7.5 kg"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which gross motor skill is expected in a 4-year-old?",
+      "options": [
+        "Hop on one foot",
+        "Walk backwards heel to toe",
+        "Jump rope",
+        "Throw and catch a ball"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The school-child stands erect with a more ______ posture.",
+      "options": ["Slender", "Obesity", "Disturbed", "Ugly"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Thinking in preschool aged children is:",
+      "options": [
+        "Egocentric and concrete",
+        "Undefined",
+        "Mental",
+        "Disturbed"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A child establishing first friendships is expected to be in which age group?",
+      "options": ["Adolescence", "Preschool", "School age", "Toddler"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 3-year-old child is in which Piaget stage?",
+      "options": [
+        "Tertiary circular reaction",
+        "Primary circular reaction",
+        "Preoperational thought",
+        "Coordination of secondary schema"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is correct regarding diaphragmatic hernia?",
+      "options": [
+        "Failure to pass meconium with bile stained vomiting",
+        "Dyspnea and cyanosis at birth with feeding discomfort",
+        "Abdominal distention after 2-3 days of life",
+        "Excessive salivation with choking"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is correct regarding pyloric stenosis?",
+      "options": [
+        "Failure to pass meconium with bile stained vomiting",
+        "Dyspnea and cyanosis at birth",
+        "Non-bilious and non-projectile vomiting",
+        "Abdominal distention after 2-3 days"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Failure to pass meconium within 24 hours indicates:",
+      "options": [
+        "Hirschsprung disease",
+        "Celiac disease",
+        "Intussusception",
+        "Abdominal wall defect"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is correct regarding trachea-esophageal fistula?",
+      "options": [
+        "Failure to pass meconium",
+        "Dyspnea and constipation",
+        "Currant jelly stool",
+        "Excessive salivation with choking"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Choking and vomiting after feeding in newborn indicates:",
+      "options": [
+        "Diaphragmatic hernia",
+        "Esophageal atresia",
+        "RDS",
+        "Hirschsprung disease"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Children with cleft palate are at risk for otitis media due to:",
+      "options": [
+        "Lowered resistance",
+        "Ineffective Eustachian tube function",
+        "Food particles blocking the tubes",
+        "Middle ear defects"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
