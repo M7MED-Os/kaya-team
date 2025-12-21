@@ -21,13 +21,6 @@
       "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/communication.json",
       "file": null,
       "summary": null
-    },
-    {
-      "title": ".",
-      "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/mgfdg.json",
-      "file": null,
-      "summary": null
     }
   ]
 }
