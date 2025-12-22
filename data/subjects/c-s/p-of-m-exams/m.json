@@ -36,7 +36,7 @@
       "options": [
         "Circumoral cyanosis",
         "Increased forced expiratory volume",
-        "Psychotherapy symptoms, wheezing",
+        "Insbiratory and expiratory wheezing",
         "Normal breathing sound"
       ],
       "correctIndex": 2
@@ -162,7 +162,7 @@
       "correctIndex": 1
     },
     {
-      "question": "A nurse is assessing a newborn at 1 minute after birth. What is the newborn's APGAR score?",
+      "question": "A nurse is assessing a newborn at 1 minute after birth. The newborn has a heart rate of 150 b/m, a strong cry, and well-flexed muscle tone, pink body with blue hands and feet, and grimaces when suctioned. What is the newborn's APGAR score?",
       "options": ["7 score", "8 score", "9 score", "10 score"],
       "correctIndex": 1
     },
