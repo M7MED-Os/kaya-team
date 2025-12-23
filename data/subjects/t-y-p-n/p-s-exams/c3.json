@@ -1,0 +1,295 @@
+{
+  "title": "Chapter 3",
+  "questions": [
+    {
+      "question": "What is the definition of intestinal atresia?",
+      "options": [
+        "Inflammation of the intestinal wall",
+        "A malformation with narrowing or absence of a portion of the intestine",
+        "Twisting of the intestine on itself",
+        "Abnormal fixation of the intestine to the abdominal wall"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of intestinal atresia is most commonly associated with Down syndrome?",
+      "options": [
+        "Jejunal atresia",
+        "Ileal atresia",
+        "Colon atresia",
+        "Duodenal atresia"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the classic radiological sign of duodenal atresia?",
+      "options": [
+        "Apple-core lesion",
+        "Football sign",
+        "Double-bubble sign",
+        "Thumbprinting"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A newborn presents with bilious vomiting and abdominal distension. An abdominal X-ray shows multiple air-fluid levels. What is the most likely manifestation?",
+      "options": [
+        "Gastroenteritis",
+        "Intestinal obstruction",
+        "Gastroesophageal reflux",
+        "Peptic ulcer disease"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What percentage of infants with duodenal atresia are premature?",
+      "options": ["10%", "25%", "50%", "75%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the definitive surgical treatment for duodenal atresia?",
+      "options": [
+        "Ileostomy",
+        "Gastrostomy",
+        "Duodenoduodenostomy",
+        "Pyloromyotomy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the incidence of anorectal malformation?",
+      "options": [
+        "1 in 1000 live births",
+        "1 in 3000 live births",
+        "1 in 5000 live births",
+        "1 in 10,000 live births"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In an invertogram for imperforate anus, a distance of >2 cm between the rectal gas bubble and the metal marker indicates:",
+      "options": [
+        "Low type",
+        "High type",
+        "Membranous stenosis",
+        "Ectopic anus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the initial management for a high type imperforate anus?",
+      "options": [
+        "Immediate perineal anoplasty",
+        "Serial Hegar dilations",
+        "Colostomy",
+        "Posterior sagittal anorectoplasty (PSARP)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which imaging study is used to demonstrate the level of the rectal pouch in a neonate with imperforate anus?",
+      "options": [
+        "CT abdomen",
+        "Prone cross-table lateral plain X-ray",
+        "Upper GI series",
+        "Renal ultrasound"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A low type imperforate anus with a perineal fistula in a good position can be initially treated by:",
+      "options": [
+        "Colostomy",
+        "PSARP",
+        "Simple dilation (Hegar dilators)",
+        "Laparotomy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the definition of an undescended testis?",
+      "options": [
+        "A testis that is easily retracted but remains in the scrotum",
+        "The absence of one or both testes in the normal scrotal position",
+        "A testis that is present in the perineum",
+        "A testis that was never formed"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which hormone is NOT directly involved in testicular descent?",
+      "options": [
+        "Testosterone",
+        "Dihydrotestosterone",
+        "Insulin",
+        "Mullerian-inhibiting Substance (MIS/AMH)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A testis that is non-palpable and located within the abdomen is classified as:",
+      "options": ["Inguinal", "Gliding", "Abdominal", "Ectopic"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the most significant long-term complication of untreated cryptorchidism?",
+      "options": [
+        "Hydrocele",
+        "Varicocele",
+        "Testicular malignancy",
+        "Epididymitis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended age for surgical correction (orchidopexy) of cryptorchidism?",
+      "options": ["1-3 months", "9-15 months", "3-5 years", "At puberty"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a \"retractile testis\"?",
+      "options": [
+        "A testis that is absent",
+        "A testis that is extrascrotal at birth",
+        "A testis that retracts easily but can be manually placed and retained in the scrotum",
+        "A testis that ascends after hernia repair"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Hypospadias is defined by a urethral opening on which surface of the penis?",
+      "options": [
+        "Dorsal surface",
+        "Lateral surface",
+        "Ventral surface",
+        "Glanular surface only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the ideal age for surgical repair of hypospadias in a healthy infant?",
+      "options": ["1-3 months", "6-12 months", "2-3 years", "5-7 years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a common complication after hypospadias surgery?",
+      "options": [
+        "Hydrocele",
+        "Urethro-cutaneous fistula",
+        "Phimosis",
+        "Priapism"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a child with hypospadias, what procedure should typically be avoided?",
+      "options": ["Meatotomy", "Circumcision", "Urethroplasty", "Dorsal slit"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Physiologic phimosis is normal at birth and usually resolves in what percentage of uncircumcised boys by age 3?",
+      "options": ["50%", "60%", "70%", "80%"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the first-line medical treatment for pathologic phimosis?",
+      "options": [
+        "Oral antibiotics",
+        "Topical antifungal cream",
+        "Application of topical corticosteroid cream",
+        "Manual stretching under anesthesia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Paraphimosis is characterized by:",
+      "options": [
+        "Inability to retract the foreskin",
+        "Foreskin retracted proximal to the coronal sulcus that cannot be reduced",
+        "A congenitally narrow foreskin opening",
+        "Infection of the glans penis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the emergency treatment for paraphimosis?",
+      "options": [
+        "Topical steroids",
+        "Antibiotic therapy",
+        "Emergency circumcision or reduction",
+        "Warm compresses only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Duodenal atresia is often associated with annular pancreas.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In a high type imperforate anus, the bowel termination is below the pelvic floor.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hormonal therapy with hCG is the definitive treatment for all cases of cryptorchidism.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Circumcision is recommended as a routine part of hypospadias repair.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Paraphimosis, if left untreated, can lead to gangrene of the glans penis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A 2-day-old full-term baby boy presents with recurrent bilious vomiting. An abdominal X-ray reveals a \"double-bubble\" sign with no distal gas. What is the most likely diagnosis?",
+      "options": [
+        "Hypertrophic pyloric stenosis",
+        "Jejunal atresia",
+        "Duodenal atresia",
+        "Necrotizing enterocolitis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An invertogram shows the rectal gas bubble 2.5 cm from the perineal skin marker in a newborn with imperforate anus. What is the type and initial management?",
+      "options": [
+        "Low type; Perineal anoplasty",
+        "High type; Colostomy",
+        "Membranous type; Dilation",
+        "Ectopic type; Fistula repair"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A testis felt in the inguinal canal that can be manipulated into the scrotum but immediately retracts is classified as:",
+      "options": ["Abdominal", "Gliding", "Retractile", "Ectopic"],
+      "correctIndex": 1
+    },
+    {
+      "question": "An infant with a ventral mid-penile urethral opening and dorsal hooded foreskin has which diagnosis and management plan?",
+      "options": [
+        "Phimosis; apply steroid cream",
+        "Epispadias; immediate surgery",
+        "Mid-penile hypospadias; plan for surgical repair at 6-12 months",
+        "Paraphimosis; emergency reduction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child with a retracted foreskin that cannot be reduced and a swollen, dusky glans most likely has which condition and requires what intervention?",
+      "options": [
+        "Physiologic phimosis; reassurance",
+        "Balanitis; oral antibiotics",
+        "Paraphimosis; emergency reduction or circumcision",
+        "Hypospadias; elective surgery"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
