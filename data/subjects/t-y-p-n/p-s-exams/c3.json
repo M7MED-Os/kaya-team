@@ -32,6 +32,26 @@
       "correctIndex": 2
     },
     {
+      "question": "What is the defining anatomical feature of an omphalocele?",
+      "options": [
+        "Herniation of abdominal contents through a defect to the side of the umbilicus, without a covering sac.",
+        "Herniation of abdominal contents through the umbilical cord, covered by a translucent sac.",
+        "Complete absence of the abdominal wall musculature.",
+        "Herniation of abdominal contents through the inguinal canal."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn is noted to have abdominal viscera protruding through a defect located to the side of the umbilicus. The exposed organs are not covered by any membrane. What is the most likely diagnosis?",
+      "options": [
+        "Omphalocele",
+        "Umbilical hernia",
+        "Gastroschisis",
+        "Bladder exstrophy"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "A newborn presents with bilious vomiting and abdominal distension. An abdominal X-ray shows multiple air-fluid levels. What is the most likely manifestation?",
       "options": [
         "Gastroenteritis",
