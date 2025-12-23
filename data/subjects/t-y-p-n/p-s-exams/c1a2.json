@@ -1,0 +1,350 @@
+{
+  "title": "Chapter 1 and 2",
+  "questions": [
+    {
+      "question": "According to the pediatric stages of development, a child aged 2 years falls into which category?",
+      "options": ["Neonate", "Infant", "Toddler", "Child"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the normal heart rate range for children?",
+      "options": [
+        "60–100 beats/min",
+        "80–120 beats/min",
+        "100–160 beats/min",
+        "120–180 beats/min"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In a term neonate, what is the estimated blood volume per kg?",
+      "options": ["70 mL/kg", "75 mL/kg", "85 mL/kg", "100 mL/kg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Allowable blood loss in children should not exceed what percentage of total blood volume (TBV)?",
+      "options": ["10%", "15%", "20%", "25%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In newborns, what fluid is sometimes used initially to replace blood losses due to high hematocrit?",
+      "options": ["Normal saline", "Plasma", "Packed RBCs", "Dextrose"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the normal oxygen consumption (mL/kg/min) in a neonate?",
+      "options": ["2–4", "4–6", "6–8", "8–10"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why do newborns have poor temperature regulation?",
+      "options": [
+        "Excessive sweating",
+        "Immature hypothalamus and sympathetic nervous system",
+        "High metabolic rate",
+        "Low body fat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In children, dehydration can lead to circulatory failure within how many hours if untreated?",
+      "options": ["6 hours", "12 hours", "24 hours", "48 hours"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the daily fluid requirement for the first 10 kg of body weight in a child?",
+      "options": [
+        "50 mL/kg/day",
+        "75 mL/kg/day",
+        "100 mL/kg/day",
+        "150 mL/kg/day"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The phrase “children are not small adults” emphasizes that:",
+      "options": [
+        "Children have lower heart rates",
+        "Children and adults differ physically and mentally",
+        "Children require less fluid",
+        "Children have better temperature regulation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the incidence of cleft lip?",
+      "options": [
+        "1/200 births",
+        "1/500 births",
+        "1/700 births",
+        "1/2000 births"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Cleft palate results from failure of fusion of:",
+      "options": [
+        "Medial nasal process and maxillary process",
+        "Palatine processes of the two maxilla",
+        "Mandibular processes",
+        "Nasal septum and palate"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which medication is listed as a potential environmental cause of cleft lip/palate?",
+      "options": ["Aspirin", "Phenytoin", "Penicillin", "Insulin"],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the “Rule of 10,” surgery for cleft lip is performed when the infant reaches:",
+      "options": [
+        "10 weeks and 10 kg",
+        "10 weeks and 10 pounds",
+        "10 months and 10 kg",
+        "10 months and 10 pounds"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A prenatal advantage of diagnosing cleft lip/palate includes:",
+      "options": [
+        "Immediate surgery",
+        "Psychological preparation of parents",
+        "Avoiding ultrasound",
+        "Preventing chromosomal abnormalities"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the most common type of esophageal atresia?",
+      "options": [
+        "Pure esophageal atresia",
+        "Esophageal atresia with proximal TOF",
+        "Esophageal atresia with distal TOF",
+        "H-shaped TOF without atresia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In which type of EA/TOF might a baby present with scaphoid abdomen?",
+      "options": [
+        "Pure esophageal atresia",
+        "Esophageal atresia with proximal TOF",
+        "Esophageal atresia with distal TOF",
+        "H-shaped TOF"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What complication is associated with distal TOF due to gastric acid entering the airways?",
+      "options": [
+        "Aspiration pneumonia",
+        "Acid pneumonia",
+        "Bronchial asthma",
+        "GERD"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the most common location of CDH?",
+      "options": [
+        "Esophageal hiatus",
+        "Retrosternal (Morgagni)",
+        "Posterolateral (Bochdalek)",
+        "Parasophageal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which finding on chest X-ray suggests CDH?",
+      "options": [
+        "Enlarged heart",
+        "Coils of intestine in chest",
+        "Pneumothorax",
+        "Rib fractures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "CDH is more common in which gender?",
+      "options": ["Male", "Female", "Equal", "Not specified"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a classic sign of CHPS on palpation?",
+      "options": [
+        "Tender liver",
+        "Olive mass",
+        "Kidney-shaped mass",
+        "Suprapubic mass"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which electrolyte imbalance is commonly seen in CHPS?",
+      "options": [
+        "Hyperkalemia",
+        "Hypochloremic alkalosis",
+        "Hypernatremia",
+        "Hypercalcemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the definitive surgical treatment for CHPS?",
+      "options": [
+        "Gastrostomy",
+        "Ramstedt pyloromyotomy",
+        "Nissen fundoplication",
+        "Pyloric dilation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Infants are defined as children aged 1 month to 12 months.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Blood loss in children should be replaced when it exceeds 20% of vascular volume.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Newborns have well-developed shivering and sweating mechanisms.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cleft lip is more common in females.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Cleft palate is more common in females.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Esophageal atresia is rarely associated with tracheoesophageal fistula.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "CDH is more common on the right side.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In CHPS, vomiting is typically bilious.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The “Rule of 10” applies to both cleft lip and cleft palate surgery criteria.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Postoperative care for cleft lip includes allowing the infant to suck on a pacifier.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 3-week-old infant presents with projectile, nonbilious vomiting after feeds and appears hungry immediately after vomiting. What is the most likely diagnosis?",
+      "options": [
+        "GERD",
+        "Congenital diaphragmatic hernia",
+        "Congenital hypertrophic pyloric stenosis",
+        "Esophageal atresia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A newborn develops severe respiratory distress and cyanosis shortly after birth. Chest X-ray shows bowel loops in the left hemithorax with mediastinal shift. What is the most likely diagnosis?",
+      "options": [
+        "Pneumonia",
+        "Congenital diaphragmatic hernia",
+        "Pneumothorax",
+        "Transient tachypnea of the newborn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate is diagnosed with esophageal atresia with distal TOF. Which complication is most concerning?",
+      "options": [
+        "Scaphoid abdomen",
+        "Aspiration of saliva",
+        "Acid pneumonia",
+        "Bronchial asthma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 2-month-old infant with cleft lip is scheduled for surgery. According to the “Rule of 10,” which criteria must be met?",
+      "options": [
+        "Weight 10 kg, Age 10 months, Hb 10 g/dL",
+        "Weight 10 pounds, Age 10 weeks, Hb 10 g/dL",
+        "Weight 10 pounds, Age 10 months, Hb 10 g/dL",
+        "Weight 10 kg, Age 10 weeks, Hb 10 g/dL"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn with poor feeding, nasal regurgitation, and recurrent otitis media is suspected to have:",
+      "options": [
+        "Esophageal atresia",
+        "Cleft palate",
+        "Pyloric stenosis",
+        "Diaphragmatic hernia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 3 kg neonate has an estimated total blood volume of 250–300 mL. What is the maximum allowable blood loss during surgery?",
+      "options": ["15 mL", "30 mL", "45 mL", "60 mL"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a hypovolemic infant, volume depletion is best accomplished by:",
+      "options": [
+        "Slow continuous infusion",
+        "Bolus therapy of 25 mL/kg at a time",
+        "Blood transfusion only",
+        "Oral rehydration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A pregnant mother took phenytoin during pregnancy. Her newborn is at increased risk for:",
+      "options": [
+        "Esophageal atresia",
+        "Cleft lip/palate",
+        "Pyloric stenosis",
+        "Diaphragmatic hernia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with cleft lip is being prepared for surgery. Which preoperative nursing goal is most important?",
+      "options": [
+        "Prevent infection",
+        "Maintain nutrition and prevent aspiration",
+        "Administer antibiotics",
+        "Encourage sucking"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 6-month-old with repaired cleft lip is post-op. Which item is used to protect the suture line?",
+      "options": [
+        "Nasogastric tube",
+        "Logan’s bow",
+        "Pacifier",
+        "Feeding tube"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
