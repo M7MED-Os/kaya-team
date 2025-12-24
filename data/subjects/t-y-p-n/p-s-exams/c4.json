@@ -1,0 +1,395 @@
+{
+  "title": "Chapter 4",
+  "questions": [
+    {
+      "question": "A hernia is defined as a protrusion of a viscus through:",
+      "options": [
+        "A normal opening only",
+        "Its containing cavity",
+        "The skin only",
+        "The diaphragm only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a factor responsible for hernia production?",
+      "options": [
+        "Decrease in intra-abdominal pressure",
+        "Strength of the abdominal wall",
+        "Increase in intra-abdominal pressure",
+        "Low protein diet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Congenital hernias usually have a:",
+      "options": [
+        "Pulsion sac",
+        "Preformed sac",
+        "Traumatic sac",
+        "Acquired sac"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Abnormal collagen metabolism leads to which type of weakness?",
+      "options": [
+        "Traumatic",
+        "Mesenchymal tissue weakness",
+        "Neurogenic weakness",
+        "Iatrogenic weakness"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of incision is specifically mentioned to potentially cause a direct inguinal hernia due to nerve injury?",
+      "options": [
+        "Midline incision",
+        "Paramedian incision",
+        "Gridiron incision",
+        "Subcostal incision"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Obesity causes abdominal wall weakness because:",
+      "options": [
+        "It increases muscle mass",
+        "Fat separates the muscle bundles",
+        "It decreases intra-abdominal pressure",
+        "It strengthens the fascia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chronic cough (e.g., bronchial asthma) leads to hernia by:",
+      "options": [
+        "Weakening the muscles directly",
+        "Increasing intra-abdominal pressure",
+        "Causing nerve injury",
+        "Reducing collagen synthesis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a component of a hernia?",
+      "options": ["The defect", "The sac", "The contents", "The gubernaculum"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The hernia sac consists of:",
+      "options": [
+        "Skin",
+        "Peritoneal pouch",
+        "Muscle fibers",
+        "Omental tissue"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A hernia containing only omentum is called:",
+      "options": ["Enterocele", "Hydrocele", "Omentocele", "Omphalocele"],
+      "correctIndex": 2
+    },
+    {
+      "question": "In which type of hernia can contents be returned to the abdominal cavity?",
+      "options": [
+        "Irreducible hernia",
+        "Reducible hernia",
+        "Obstructed hernia",
+        "Strangulated hernia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Irreducibility without any other complications defines:",
+      "options": [
+        "Reducible hernia",
+        "Irreducible hernia",
+        "Strangulated hernia",
+        "Incarcerated hernia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In obstructed hernia, the primary issue is:",
+      "options": [
+        "Arrest of blood supply",
+        "Occlusion of the lumen of bowel",
+        "Infection of the sac",
+        "Reducibility"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The hallmark of a strangulated hernia is:",
+      "options": [
+        "Easily reduced",
+        "Arrest of blood supply",
+        "Positive cough impulse",
+        "Never painful"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A strangulated hernia is clinically:",
+      "options": [
+        "Soft and non-tender",
+        "Tense and tender",
+        "Positive cough impulse",
+        "Fluctuant"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The mandatory treatment for a diagnosed hernia in children is:",
+      "options": [
+        "Observation",
+        "Herniotomy",
+        "Truss application",
+        "Manual reduction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "High ligation of the sac is the definition of:",
+      "options": [
+        "Hernioplasty",
+        "Herniorrhaphy",
+        "Herniotomy",
+        "Appendectomy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Congenital inguinal hernia results from:",
+      "options": [
+        "Patent processus vaginalis",
+        "Weakness of rectus sheath",
+        "Trauma",
+        "Heavy lifting"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "If the processus vaginalis remains patent and the opening is large:",
+      "options": [
+        "Hydrocele",
+        "Inguinal hernia",
+        "Undescended testis",
+        "Caput medusae"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The incidence of inguinal hernia in preterm babies is:",
+      "options": ["1–5%", "10%", "30%", "60%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Inguinal hernia in babies is more common on:",
+      "options": ["Left side", "Right side", "Both equally", "Middle"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Male to female ratio for inguinal hernia:",
+      "options": ["1:1", "2:1", "6:1", "10:1"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Umbilical hernia in children is usually:",
+      "options": [
+        "Self-correcting after birth",
+        "Requiring immediate surgery",
+        "Caused by lifting heavy objects",
+        "Never reducible"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Umbilical hernia increases in size when the child is:",
+      "options": ["Sleeping", "Crying", "Eating", "Relaxed"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Management of umbilical hernia usually involves waiting until age:",
+      "options": ["6 months", "1 year", "2 years", "10 years"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A hydrocele is an abnormal collection of:",
+      "options": ["Blood", "Pus", "Serous fluid", "Bowel"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The fluid in a hydrocele collects within the:",
+      "options": [
+        "Processus vaginalis",
+        "Inguinal canal",
+        "Umbilicus",
+        "Peritoneal cavity"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A hydrocele that maintains a connection with the peritoneal cavity is called:",
+      "options": [
+        "Vaginal hydrocele",
+        "Communicating hydrocele",
+        "Encysted hydrocele",
+        "Secondary hydrocele"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Congenital hydrocele is a type of:",
+      "options": [
+        "Non-communicating hydrocele",
+        "Communicating hydrocele",
+        "Acquired hydrocele",
+        "Secondary hydrocele"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type is a non-communicating hydrocele?",
+      "options": [
+        "Congenital hydrocele",
+        "Vaginal hydrocele",
+        "Inguinal hernia",
+        "Omentocele"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hydrocele of the cord is classified as:",
+      "options": [
+        "Communicating",
+        "Non-communicating",
+        "Hernial sac type",
+        "Omentocele"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Primary vaginal hydrocele is a subtype of:",
+      "options": [
+        "Communicating hydrocele",
+        "Non-communicating hydrocele",
+        "Infantile hydrocele",
+        "Congenital hydrocele"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "If the opening of the processus vaginalis is small, only _____ can enter:",
+      "options": ["Intestine", "Omentum", "Peritoneal fluid", "Air"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A typical clinical feature of hydrocele is:",
+      "options": [
+        "Extremely painful swelling",
+        "Reducible swelling",
+        "Not painful and neither reducible",
+        "Positive cough impulse"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The content of a hydrocele is always:",
+      "options": ["Fluid", "Intestine", "Omentum", "Gas"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hydrocele usually improves without surgery within the:",
+      "options": [
+        "First month of life",
+        "First year of life",
+        "First 5 years",
+        "First week"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Surgical treatment for hydrocele is required if it persists after:",
+      "options": ["6 months", "1 year", "2 years", "5 years"],
+      "correctIndex": 1
+    },
+    {
+      "question": "One complication of hydrocele where it becomes infected is called:",
+      "options": ["Hematocele", "Pyocele", "Chylocele", "Varicocele"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Collection of blood in the hydrocele sac due to trauma is called:",
+      "options": ["Pyocele", "Hematocele", "Chylocele", "Lymphocele"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Collection of lymph in the sac is called:",
+      "options": ["Hematocele", "Pyocele", "Chylocele", "Hydrocele"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A serious complication of hydrocele that affects the testis is:",
+      "options": [
+        "Hypertrophy",
+        "Atrophy of the testis",
+        "Inflammation",
+        "Increase in sperm count"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Long-term untreated hydrocele may lead to:",
+      "options": ["Hernia", "Infertility", "Obesity", "Cough"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Surgical treatment of hydrocele involves:",
+      "options": [
+        "High ligation only",
+        "Draining fluid and eversion of tunica vaginalis",
+        "Muscle repair",
+        "Skin grafting"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Diagnosis of hydrocele is primarily made by:",
+      "options": [
+        "Blood tests",
+        "Physical examination & ultrasound",
+        "X-ray",
+        "MRI only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In an infantile hydrocele, it is a type of:",
+      "options": [
+        "Communicating",
+        "Non-communicating",
+        "Traumatic",
+        "Acquired"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The destination of testis during embryology is the:",
+      "options": ["Pelvis", "Inguinal canal", "Scrotum", "Abdomen"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The gubernaculum is a fibromuscular band extending from the:",
+      "options": [
+        "Kidney to scrotum",
+        "Testis to scrotal bottom",
+        "Liver to umbilicus",
+        "Bladder to groin"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
