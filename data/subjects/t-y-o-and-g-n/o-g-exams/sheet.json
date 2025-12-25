@@ -1,0 +1,280 @@
+{
+  "title": "Obstetrics and Gynecology Sheet",
+  "questions": [
+    {
+      "question": "In menopause there is atrophic vaginitis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Perimenopause is 3 years before and 1 year after menopause.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hot flushes occur in about 5% of menopausal women.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Postmenopausal atrophic vaginitis may be due to decrease in estrogen.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Calcium is one of the general lines of treatment of menopause.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antenatal care is part of preventive obstetrics.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The first trimester of pregnancy is from 12-28 week gestation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Urine analysis is one of routine investigation of antenatal care.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Sonar is valuable in first visit of antenatal care.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Pregnant woman must decrease water intake.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Folic acid must be used during first 12-week of pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Lochia is the uterine discharge during pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Offensive lochia indicates infection.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Lochia is a pathological condition.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first stage of lochia is lochia serosa.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sudden suppression of lochia is beneficial.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Post natal care program is of no value.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Persist of vaginal bleeding for 6 weeks after delivery is normal.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Health education is of no value in post-natal care.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The choice of method of contraception is not of the aims of postnatal care.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first visit after labour is of value.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Macrosomia is one of complications of postterm pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In postterm pregnancy the nails is below finger tips.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In postterm pregnancy there is excessive vernix.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In postterm pregnancy the skin is dry.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Postpartum hemorrhage is one of complications of anemia with pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Anemia means increased hematocrit value.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Folic acid deficiency anemia is the commonest type of anemia in pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In iron deficiency anemia MCV decrease.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ferrous salts can be used for treatment of iron deficiency anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "We can use parentral iron for treatment of iron deficiency anemia with pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "We can use oral iron for treatment of iron deficiency anemia with malabsorption.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Iron deficiency anemia is macrocytic anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vesicular mole is one of the causes of DIC in pregnancy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In DIC bleeding time is decreased.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Most of tocolytic drugs are vasodilators.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Beta-adrenergic agonists can be a tocolytic drug.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Macrosomia is increase of fetal weight more than 3kg.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Mini OGTT is done at 16-22w.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fasting blood glucose level is normally below 140 mg%.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The main item in ANC to control D.M. is diet and insulin.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The baby of diabetic mother is red, plethoric and moon face.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "With baby of diabetic mother there is no congenital anomalies.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Premature rupture of membrane occurs before beginning of labour pains.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Postnatal care is preventive obstetrics.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The first visit in postnatal care is after one month postpartum.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The most important cause of puerperal pyrexia is puerperal sepsis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Mastitis is one of the causes of puerperal pyrexia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Accumulation of milk in breast is called breast abscess.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "W.B.C is not increased in mastitis.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Suppression of lactation is mandatory in treatment of breast abscess.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Suppression of lactation can be done with increase suckling.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Subinvolution is failure of uterus to regain its normal non-pregnant size.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Polyhydramnios can do premature rupture of membrane.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "pH of amniotic fluid is acidic.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
