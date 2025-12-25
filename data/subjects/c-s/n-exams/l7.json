@@ -1,0 +1,240 @@
+{
+  "title": "Nutritional Vulnerability",
+  "questions": [
+    {
+      "question": "What is the definition of \"nutritional vulnerability\"?",
+      "options": [
+        "The diminished capacity to cope with natural hazards",
+        "A reduced physical reserve that limits recovery from acute health threats",
+        "An extreme event that disrupts life and livelihood",
+        "A severe destruction of societal functioning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which group is NOT explicitly listed as a separate vulnerable group in the lecture?",
+      "options": ["Elderly", "Adolescents", "Street families", "Prisoners"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Low birth weight (LBW) is defined as a birth weight of less than:",
+      "options": ["1500g", "2500g", "1000g", "3000g"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which factor is stated as the major cause of low birth weight in developing countries?",
+      "options": [
+        "Excessive maternal weight gain",
+        "Maternal undernutrition",
+        "High socioeconomic status",
+        "Advanced maternal age"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended feeding method for Low Birth Weight (LBW) and Very Low Birth Weight (VLBW) infants who cannot be fed mother's own milk or donor milk?",
+      "options": [
+        "Cow’s milk",
+        "Standard infant formula",
+        "Solid foods",
+        "Fruit juices"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For how many months should Low Birth Weight (LBW) infants be exclusively breastfed?",
+      "options": ["4 months", "6 months", "12 months", "2 months"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which vitamin supplementation is specifically stated as NOT recommended daily for preterm infants?",
+      "options": ["Vitamin D", "Vitamin A", "Iron", "Calcium"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a primary feeding challenge mentioned for preterm and low birth weight infants?",
+      "options": [
+        "Overfeeding",
+        "Inability to tolerate oral feeds",
+        "Excessive weight gain",
+        "Early weaning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key factor contributing to nutritional vulnerability in women of reproductive age?",
+      "options": [
+        "High literacy level",
+        "Nutrient losses through menstruation, pregnancy, and lactation",
+        "Low physical activity",
+        "High socioeconomic status"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the daily recommended dose of iron and folic acid supplementation for pregnant women according to the lecture?",
+      "options": [
+        "30mg iron + 200µg folic acid",
+        "60mg iron + 400µg folic acid",
+        "100mg iron + 600µg folic acid",
+        "15mg iron + 100µg folic acid"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is listed as a leading chronic disease in developed countries?",
+      "options": ["Arthritis", "Malaria", "Diabetes", "Cardiovascular disease"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the Body Mass Index (BMI) threshold for classifying obesity?",
+      "options": [">25 kg/m²", ">30 kg/m²", ">35 kg/m²", ">40 kg/m²"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a recommended lifestyle intervention for managing chronic conditions?",
+      "options": [
+        "Increased salt intake",
+        "Smoking cessation",
+        "Reduced physical activity",
+        "High saturated fat diet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the definition of \"Gerontology\"?",
+      "options": [
+        "The study of chronic diseases in the elderly",
+        "The study of normal aging, including biological, psychological, and social factors",
+        "The treatment of age-related illnesses",
+        "The provision of food assistance to the elderly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT listed as a cause of poor appetite in the elderly?",
+      "options": [
+        "Social isolation",
+        "Increased sense of taste",
+        "Depression",
+        "Medication side effects"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a common physical cause of \"inability to eat\" mentioned for the elderly?",
+      "options": [
+        "High appetite",
+        "Dysphagia (difficulty swallowing)",
+        "Excessive food availability",
+        "High socioeconomic status"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of program is suggested to support the elderly in resource-poor settings?",
+      "options": [
+        "Immunization campaigns",
+        "Supplementary feeding programs",
+        "School meal programs",
+        "Malaria prevention programs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the lecture, when is a child considered vulnerable?",
+      "options": [
+        "When the household has a high income",
+        "When there is a high probability that a shock will cause a negative outcome like malnutrition",
+        "Only if the child is disabled",
+        "When the child has access to excellent healthcare"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In populations with Vitamin A deficiency, from what age should vitamin A supplementation for children begin?",
+      "options": [
+        "From birth",
+        "From 6 months of age",
+        "Only during illness",
+        "Only for mothers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What dietary advice is given to pregnant women to improve iron absorption?",
+      "options": [
+        "Drink tea with meals",
+        "Avoid tea or coffee with meals",
+        "Reduce fluid intake",
+        "Eat large, infrequent meals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which statement about Rheumatoid Arthritis is accurate based on the lecture?",
+      "options": [
+        "It only affects the joints.",
+        "It is a chronic inflammatory disorder that can affect joints, skin, eyes, lungs, and heart.",
+        "It only occurs in the elderly.",
+        "It is always non-inflammatory."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a primary aim of feeding preterm infants?",
+      "options": [
+        "To reduce their metabolic rate",
+        "To provide optimal nutrition early to improve survival and promote growth",
+        "To delay the introduction of any milk feeds",
+        "To avoid enteral feeding entirely"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is listed as a mode of feeding for preterm, LBW, and VLBW infants?",
+      "options": [
+        "Parenteral nutrition",
+        "Cup feeding",
+        "Solid foods only",
+        "Breastfeeding"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nutritional vulnerability is defined as an increased physical reserve that enhances the body's ability to resist health threats.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A baby born weighing less than 2500 grams is classified as having Low Birth Weight (LBW).",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Preterm infants generally have lower nutrient requirements than full-term infants.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The lecture recommends exclusive breastfeeding for the first 6 months for infants with Low Birth Weight.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Maternal undernutrition is described as a minor contributing factor to low birth weight globally.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the lecture, obesity is defined as having a Body Mass Index (BMI) greater than 30 kg/m².",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Geriatrics is the field of study that focuses on the normal biological, psychological, and social aspects of aging.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
