@@ -52,16 +52,6 @@
       "correctIndex": 1
     },
     {
-      "question": "What is a primary feeding challenge mentioned for preterm and low birth weight infants?",
-      "options": [
-        "Overfeeding",
-        "Inability to tolerate oral feeds",
-        "Excessive weight gain",
-        "Early weaning"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "Which of the following is a key factor contributing to nutritional vulnerability in women of reproductive age?",
       "options": [
         "High literacy level",
@@ -72,18 +62,13 @@
       "correctIndex": 1
     },
     {
-      "question": "What is the daily recommended dose of iron and folic acid supplementation for pregnant women according to the lecture?",
+      "question": "What is the daily recommended dose of iron and folic acid supplementation for pregnant women?",
       "options": [
         "30mg iron + 200µg folic acid",
         "60mg iron + 400µg folic acid",
         "100mg iron + 600µg folic acid",
         "15mg iron + 100µg folic acid"
       ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which of the following is listed as a leading chronic disease in developed countries?",
-      "options": ["Arthritis", "Malaria", "Diabetes", "Cardiovascular disease"],
       "correctIndex": 1
     },
     {
@@ -142,7 +127,7 @@
       "correctIndex": 1
     },
     {
-      "question": "According to the lecture, when is a child considered vulnerable?",
+      "question": "When is a child considered vulnerable?",
       "options": [
         "When the household has a high income",
         "When there is a high probability that a shock will cause a negative outcome like malnutrition",
@@ -172,7 +157,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Which statement about Rheumatoid Arthritis is accurate based on the lecture?",
+      "question": "Which statement about Rheumatoid Arthritis is accurate?",
       "options": [
         "It only affects the joints.",
         "It is a chronic inflammatory disorder that can affect joints, skin, eyes, lungs, and heart.",
@@ -192,11 +177,11 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is listed as a mode of feeding for preterm, LBW, and VLBW infants?",
+      "question": "Which of the following is NOT listed as a mode of feeding for preterm, LBW, and VLBW infants?",
       "options": [
         "Parenteral nutrition",
         "Cup feeding",
-        "Solid foods only",
+        "Solid foods",
         "Breastfeeding"
       ],
       "correctIndex": 2
@@ -217,7 +202,7 @@
       "correctIndex": 1
     },
     {
-      "question": "The lecture recommends exclusive breastfeeding for the first 6 months for infants with Low Birth Weight.",
+      "question": "Exclusive breastfeeding is recommended for the first 6 months for infants with Low Birth Weight.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
@@ -227,12 +212,22 @@
       "correctIndex": 1
     },
     {
-      "question": "According to the lecture, obesity is defined as having a Body Mass Index (BMI) greater than 30 kg/m².",
+      "question": "Obesity is defined as having a Body Mass Index (BMI) greater than 30 kg/m².",
       "options": ["True", "False"],
       "correctIndex": 0
     },
     {
       "question": "Geriatrics is the field of study that focuses on the normal biological, psychological, and social aspects of aging.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Overweight is a chronic disorder of excessive fat accumulation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Obesity refers to excess body weight in all tissues.",
       "options": ["True", "False"],
       "correctIndex": 1
     }
