@@ -80,7 +80,7 @@
       "question": "In G6PD deficiency, management primarily involves:",
       "options": [
         "Long-term steroid therapy",
-        "Avoiding known triggers (e.g., certain drugs)",
+        "Avoiding known triggers",
         "Immediate splenectomy",
         "Regular blood transfusions"
       ],
@@ -107,7 +107,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Which condition is characterized by sickle-shaped red blood cells?",
+      "question": "Which condition is characterized by C-shaped red blood cells?",
       "options": [
         "Hereditary spherocytosis",
         "Autoimmune hemolytic anemia",
@@ -152,17 +152,17 @@
       "correctIndex": 1
     },
     {
-      "question": "A 25-year-old male presents with sudden onset of dark urine and fatigue after starting a new antibiotic. Lab results show low hemoglobin, high reticulocytes, and normal Coombs test. What is the most likely diagnosis?",
+      "question": "A 3-year-old male presents with sudden onset of dark urine and fatigue after starting a new antibiotic. Lab results show low hemoglobin, high reticulocytes, and normal Coombs test. What is the most likely diagnosis?",
       "options": [
         "Autoimmune hemolytic anemia",
-        "Drug-induced hemolytic anemia (e.g., G6PD deficiency)",
+        "Drug-induced hemolytic anemia",
         "Hereditary spherocytosis",
         "Sickle cell crisis"
       ],
       "correctIndex": 1
     },
     {
-      "question": "A 40-year-old female with a history of autoimmune disorder presents with pallor, jaundice, and splenomegaly. Direct Coombs test is positive. What is the most appropriate initial treatment?",
+      "question": "A 7-year-old female with a history of autoimmune disorder presents with pallor, jaundice, and splenomegaly. Direct Coombs test is positive. What is the most appropriate initial treatment?",
       "options": [
         "Blood transfusion",
         "Corticosteroids",
@@ -212,7 +212,7 @@
       "correctIndex": 1
     },
     {
-      "question": "A 35-year-old female with severe autoimmune hemolytic anemia does not respond to corticosteroids. What could be the next line of management?",
+      "question": "A 5-year-old female with severe autoimmune hemolytic anemia does not respond to corticosteroids. What could be the next line of management?",
       "options": [
         "Discontinue all treatment",
         "Splenectomy",
