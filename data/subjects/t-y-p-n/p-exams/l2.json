@@ -202,7 +202,7 @@
       "correctIndex": 1
     },
     {
-      "question": "A newborn is delivered after a prolonged labor. At 5 minutes, the Apgar score is 6, the baby is cyanotic, and has a weak cry. Q: What is the most likely diagnosis?",
+      "question": "A newborn is delivered after a prolonged labor. At 5 minutes, the Apgar score is 6, the baby is cyanotic, and has a weak cry. What is the most likely diagnosis?",
       "options": [
         "Neonatal sepsis",
         "Birth asphyxia",
@@ -212,7 +212,7 @@
       "correctIndex": 1
     },
     {
-      "question": "A neonate presents with bleeding from the umbilical stump and petechiae on the trunk. The mother did not receive vitamin K prophylaxis. Q: What is the most probable cause?",
+      "question": "A neonate presents with bleeding from the umbilical stump and petechiae on the trunk. The mother did not receive vitamin K prophylaxis. What is the most probable cause?",
       "options": [
         "Hemophilia",
         "Vitamin K deficiency bleeding",
@@ -222,12 +222,12 @@
       "correctIndex": 1
     },
     {
-      "question": "A baby born to a mother with severe preeclampsia shows poor respiratory effort, low heart rate, and low Apgar scores. Q: Which maternal condition likely contributed to this?",
+      "question": "A baby born to a mother with severe preeclampsia shows poor respiratory effort, low heart rate, and low Apgar scores. Which maternal condition likely contributed to this?",
       "options": ["Anemia", "Hypertension", "Diabetes", "Thyroid disorder"],
       "correctIndex": 1
     },
     {
-      "question": "A preterm neonate develops seizures and multiorgan dysfunction after a difficult delivery. Q: Which complication of birth asphyxia is most likely?",
+      "question": "A preterm neonate develops seizures and multiorgan dysfunction after a difficult delivery. Which complication of birth asphyxia is most likely?",
       "options": [
         "Hyperbilirubinemia",
         "Hypoxic-ischemic encephalopathy",
@@ -237,7 +237,7 @@
       "correctIndex": 1
     },
     {
-      "question": "A newborn with suspected birth asphyxia is being evaluated. Blood gas shows pH 7.1 and high CO2. Q: What do these findings indicate?",
+      "question": "A newborn with suspected birth asphyxia is being evaluated. Blood gas shows pH 7.1 and high CO2. What do these findings indicate?",
       "options": [
         "Metabolic alkalosis",
         "Respiratory acidosis",
@@ -247,7 +247,7 @@
       "correctIndex": 1
     },
     {
-      "question": "A neonate with excessive bleeding is found to have prolonged PT and aPTT, but normal platelet count. Q: What is the most appropriate initial treatment?",
+      "question": "A neonate with excessive bleeding is found to have prolonged PT and aPTT, but normal platelet count. What is the most appropriate initial treatment?",
       "options": [
         "Platelet transfusion",
         "Vitamin K injection",
@@ -257,7 +257,7 @@
       "correctIndex": 1
     },
     {
-      "question": "During resuscitation of a newborn with asphyxia, the team focuses on Airway, Breathing, and Circulation. Q: What is this approach called?",
+      "question": "During resuscitation of a newborn with asphyxia, the team focuses on Airway, Breathing, and Circulation. What is this approach called?",
       "options": [
         "Neonatal ICU protocol",
         "ABC resuscitation",
@@ -267,17 +267,17 @@
       "correctIndex": 1
     },
     {
-      "question": "A baby is born with cord prolapse and shows signs of respiratory distress and cyanosis. Q: Which type of cause does this represent?",
+      "question": "A baby is born with cord prolapse and shows signs of respiratory distress and cyanosis. Which type of cause does this represent?",
       "options": ["Maternal", "Placental", "Fetal", "Environmental"],
       "correctIndex": 2
     },
     {
-      "question": "A newborn with birth asphyxia is stable after resuscitation but develops jitteriness and abnormal movements on day 2. Q: What complication should be suspected?",
+      "question": "A newborn with birth asphyxia is stable after resuscitation but develops jitteriness and abnormal movements on day 2. What complication should be suspected?",
       "options": ["Hypoglycemia", "Seizures", "Hyperthermia", "Dehydration"],
       "correctIndex": 1
     },
     {
-      "question": "A preterm neonate with sepsis develops widespread bleeding and laboratory signs of DIC. Q: What underlying condition may be causing the bleeding?",
+      "question": "A preterm neonate with sepsis develops widespread bleeding and laboratory signs of DIC. What underlying condition may be causing the bleeding?",
       "options": [
         "Vitamin K deficiency",
         "Hemophilia",
