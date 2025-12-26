@@ -147,11 +147,6 @@
       "correctIndex": 0
     },
     {
-      "question": "Cranial ultrasound is never used in diagnosing birth asphyxia.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
       "question": "Thermal regulation is not important in managing birth asphyxia.",
       "options": ["True", "False"],
       "correctIndex": 1
@@ -180,11 +175,6 @@
       "question": "PT and aPTT are used to diagnose bleeding disorders in neonates.",
       "options": ["True", "False"],
       "correctIndex": 0
-    },
-    {
-      "question": "Fresh frozen plasma is never used in managing neonatal bleeding.",
-      "options": ["True", "False"],
-      "correctIndex": 1
     },
     {
       "question": "Preterm neonates are not at higher risk for bleeding.",
