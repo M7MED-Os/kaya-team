@@ -37,22 +37,7 @@
       "correctIndex": 0
     },
     {
-      "question": "The term protein energy malnutrition refers to acute malnutrition as a result of insufficient intake of protein and calories?",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
       "question": "A micronutrient deficiency refers to a deficiency of essential vitamins and minerals needed for physiological function and development?",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Kwashiorkor is a severe manifestation of protein energy malnutrition?",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "Maternal deprivation syndrome is a psychological factor that causes kwashiorkor?",
       "options": ["True", "False"],
       "correctIndex": 0
     },
@@ -63,11 +48,6 @@
     },
     {
       "question": "Edema may mask muscle wasting in kwashiorkor.",
-      "options": ["True", "False"],
-      "correctIndex": 0
-    },
-    {
-      "question": "The weight of a child with kwashiorkor is usually 60–80% of the expected weight for age.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
@@ -327,11 +307,6 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is not a feature of kwashiorkor?",
-      "options": ["Edema", "Fatty liver", "Anorexia", "Good appetite"],
-      "correctIndex": 3
-    },
-    {
       "question": "Which statement best differentiates kwashiorkor and marasmus?",
       "options": [
         "Both have severe wasting and edema",
@@ -377,11 +352,6 @@
       "correctIndex": 0
     },
     {
-      "question": "Hypoglycemia and hypothermia are late complications of marasmus only?",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
       "question": "Marasmic-Kwashiorkor is a stage of recovery after kwashiorkor?",
       "options": ["True", "False"],
       "correctIndex": 1
@@ -400,11 +370,6 @@
       "question": "Health education and immunization are preventive measures against protein-energy malnutrition?",
       "options": ["True", "False"],
       "correctIndex": 0
-    },
-    {
-      "question": "Risk for infection is not part of the nursing care plan for PEM?",
-      "options": ["True", "False"],
-      "correctIndex": 1
     },
     {
       "question": "The most common nutritional cause of marasmus in infants is:",
