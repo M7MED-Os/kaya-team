@@ -152,7 +152,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Scenario: A 25-year-old male presents with sudden onset of dark urine and fatigue after starting a new antibiotic. Lab results show low hemoglobin, high reticulocytes, and normal Coombs test. Question: What is the most likely diagnosis?",
+      "question": "A 25-year-old male presents with sudden onset of dark urine and fatigue after starting a new antibiotic. Lab results show low hemoglobin, high reticulocytes, and normal Coombs test. What is the most likely diagnosis?",
       "options": [
         "Autoimmune hemolytic anemia",
         "Drug-induced hemolytic anemia (e.g., G6PD deficiency)",
@@ -162,7 +162,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Scenario: A 40-year-old female with a history of autoimmune disorder presents with pallor, jaundice, and splenomegaly. Direct Coombs test is positive. Question: What is the most appropriate initial treatment?",
+      "question": "A 40-year-old female with a history of autoimmune disorder presents with pallor, jaundice, and splenomegaly. Direct Coombs test is positive. What is the most appropriate initial treatment?",
       "options": [
         "Blood transfusion",
         "Corticosteroids",
@@ -172,7 +172,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Scenario: A newborn is noted to have severe jaundice within 24 hours of birth. Blood tests reveal high indirect bilirubin and low haptoglobin. Question: What type of anemia should be suspected?",
+      "question": "A newborn is noted to have severe jaundice within 24 hours of birth. Blood tests reveal high indirect bilirubin and low haptoglobin. What type of anemia should be suspected?",
       "options": [
         "Iron deficiency anemia",
         "Hemolytic anemia",
@@ -182,7 +182,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Scenario: A patient with a prosthetic heart valve develops anemia, high LDH, and low haptoglobin. Question: What is the most likely mechanism of anemia?",
+      "question": "A patient with a prosthetic heart valve develops anemia, high LDH, and low haptoglobin. What is the most likely mechanism of anemia?",
       "options": [
         "Immune-mediated destruction",
         "Mechanical destruction of RBCs",
@@ -192,7 +192,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Scenario: A 10-year-old child with known sickle cell disease presents with severe pain, fever, and worsening anemia. Question: What complication is most likely occurring?",
+      "question": "A 10-year-old child with known sickle cell disease presents with severe pain, fever, and worsening anemia. What complication is most likely occurring?",
       "options": [
         "Aplastic crisis",
         "Hemolytic crisis",
@@ -202,7 +202,7 @@
       "correctIndex": 2
     },
     {
-      "question": "Scenario: A patient with hemolytic anemia is found to have a high reticulocyte count and elevated indirect bilirubin, but normal direct Coombs test. Question: Which cause is less likely?",
+      "question": "A patient with hemolytic anemia is found to have a high reticulocyte count and elevated indirect bilirubin, but normal direct Coombs test. Which cause is less likely?",
       "options": [
         "Hereditary spherocytosis",
         "Autoimmune hemolytic anemia",
@@ -212,7 +212,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Scenario: A 35-year-old female with severe autoimmune hemolytic anemia does not respond to corticosteroids. Question: What could be the next line of management?",
+      "question": "A 35-year-old female with severe autoimmune hemolytic anemia does not respond to corticosteroids. What could be the next line of management?",
       "options": [
         "Discontinue all treatment",
         "Splenectomy",
