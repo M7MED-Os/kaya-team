@@ -169,7 +169,7 @@
     {
       "question": "What is the effect of malnutrition on tonsils?",
       "options": ["Increase size", "Decrease size", "Normal size", "No effect"],
-      "correctIndex": 1
+      "correctIndex": 0
     },
 
     {
