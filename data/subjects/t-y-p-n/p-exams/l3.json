@@ -1,0 +1,225 @@
+{
+  "title": "Hemolytic Anemia",
+  "questions": [
+    {
+      "question": "What is the primary definition of hemolytic anemia?",
+      "options": [
+        "A condition where red blood cells are produced too slowly",
+        "A condition where red blood cells are destroyed faster than they are produced",
+        "A condition caused by iron deficiency",
+        "A condition with increased RBC lifespan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an inherited (intrinsic) cause of hemolytic anemia?",
+      "options": [
+        "Autoimmune hemolytic anemia",
+        "Mechanical destruction from a prosthetic heart valve",
+        "G6PD deficiency",
+        "Drug-induced hemolysis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which inherited hemolytic anemia is caused by a membrane defect?",
+      "options": [
+        "Sickle cell disease",
+        "Hereditary spherocytosis",
+        "G6PD deficiency",
+        "Autoimmune hemolytic anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an acquired (extrinsic) cause of hemolytic anemia?",
+      "options": [
+        "Hemoglobin disorder",
+        "Enzyme deficiency",
+        "Infection",
+        "Membrane defect"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which clinical feature is commonly associated with hemolytic anemia?",
+      "options": ["Hypertension", "Jaundice", "Bradycardia", "Hyperglycemia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a key laboratory finding in hemolytic anemia?",
+      "options": [
+        "Low reticulocyte count",
+        "High haptoglobin",
+        "Elevated indirect bilirubin",
+        "Low LDH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Direct Coombs test is used to detect:",
+      "options": [
+        "Antibodies in the serum",
+        "Antibodies attached to red blood cells",
+        "Low hemoglobin levels",
+        "High reticulocyte count"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which treatment is commonly used for autoimmune hemolytic anemia?",
+      "options": [
+        "Splenectomy",
+        "Corticosteroids",
+        "IVIG only",
+        "Avoidance of fava beans"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In G6PD deficiency, management primarily involves:",
+      "options": [
+        "Long-term steroid therapy",
+        "Avoiding known triggers (e.g., certain drugs)",
+        "Immediate splenectomy",
+        "Regular blood transfusions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a potential complication of chronic hemolytic anemia?",
+      "options": [
+        "Hypertension",
+        "Gallstones",
+        "Osteoporosis",
+        "Hypothyroidism"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does a low haptoglobin level indicate in hemolytic anemia?",
+      "options": [
+        "Increased RBC production",
+        "Increased RBC destruction",
+        "Iron overload",
+        "Liver dysfunction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which condition is characterized by sickle-shaped red blood cells?",
+      "options": [
+        "Hereditary spherocytosis",
+        "Autoimmune hemolytic anemia",
+        "Sickle cell disease",
+        "G6PD deficiency"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Plasmapheresis may be used in the management of:",
+      "options": [
+        "All types of anemia",
+        "Severe autoimmune hemolytic anemia",
+        "Only inherited hemolytic anemias",
+        "Iron deficiency anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hemolytic anemia results in a decreased RBC lifespan.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hereditary spherocytosis is an example of an acquired hemolytic anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Elevated LDH is a common laboratory finding in hemolytic anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The Indirect Coombs test detects antibodies attached to red blood cells.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Splenectomy is never considered in the management of hemolytic anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scenario: A 25-year-old male presents with sudden onset of dark urine and fatigue after starting a new antibiotic. Lab results show low hemoglobin, high reticulocytes, and normal Coombs test. Question: What is the most likely diagnosis?",
+      "options": [
+        "Autoimmune hemolytic anemia",
+        "Drug-induced hemolytic anemia (e.g., G6PD deficiency)",
+        "Hereditary spherocytosis",
+        "Sickle cell crisis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scenario: A 40-year-old female with a history of autoimmune disorder presents with pallor, jaundice, and splenomegaly. Direct Coombs test is positive. Question: What is the most appropriate initial treatment?",
+      "options": [
+        "Blood transfusion",
+        "Corticosteroids",
+        "Splenectomy",
+        "IVIG"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scenario: A newborn is noted to have severe jaundice within 24 hours of birth. Blood tests reveal high indirect bilirubin and low haptoglobin. Question: What type of anemia should be suspected?",
+      "options": [
+        "Iron deficiency anemia",
+        "Hemolytic anemia",
+        "Aplastic anemia",
+        "Anemia of chronic disease"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scenario: A patient with a prosthetic heart valve develops anemia, high LDH, and low haptoglobin. Question: What is the most likely mechanism of anemia?",
+      "options": [
+        "Immune-mediated destruction",
+        "Mechanical destruction of RBCs",
+        "Decreased RBC production",
+        "Nutritional deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scenario: A 10-year-old child with known sickle cell disease presents with severe pain, fever, and worsening anemia. Question: What complication is most likely occurring?",
+      "options": [
+        "Aplastic crisis",
+        "Hemolytic crisis",
+        "Vaso-occlusive crisis",
+        "Gallstone formation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Scenario: A patient with hemolytic anemia is found to have a high reticulocyte count and elevated indirect bilirubin, but normal direct Coombs test. Question: Which cause is less likely?",
+      "options": [
+        "Hereditary spherocytosis",
+        "Autoimmune hemolytic anemia",
+        "G6PD deficiency",
+        "Sickle cell disease"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scenario: A 35-year-old female with severe autoimmune hemolytic anemia does not respond to corticosteroids. Question: What could be the next line of management?",
+      "options": [
+        "Discontinue all treatment",
+        "Splenectomy",
+        "Iron supplements",
+        "Vitamin B12 injections"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
