@@ -138,8 +138,8 @@
     },
     {
       "question": "Which of the following is a trace element?",
-      "options": ["Protein", "Vitamin", "Iron", "Carbohydrate"],
-      "correctIndex": 2
+      "options": ["Protein", "Vitamin", "Fiber", "Carbohydrate"],
+      "correctIndex": 1
     },
     {
       "question": "Which of the following is NOT a micronutrient?",
