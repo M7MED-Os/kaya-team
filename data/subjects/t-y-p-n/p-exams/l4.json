@@ -39,7 +39,7 @@
     {
       "question": "The term protein energy malnutrition refers to acute malnutrition as a result of insufficient intake of protein and calories?",
       "options": ["True", "False"],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "A micronutrient deficiency refers to a deficiency of essential vitamins and minerals needed for physiological function and development?",
