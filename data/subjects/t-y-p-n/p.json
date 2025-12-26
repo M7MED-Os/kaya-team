@@ -4,14 +4,28 @@
     {
       "title": "Neonatal Hypothermia and Constipation",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/nhac.json",
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/l1.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Birth Asphyxia and Bleeding",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/l4.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": ".",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/l4.json",
       "file": null,
       "summary": null
     },
     {
       "title": "KWASH and Marasmus",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/kwasham.json",
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/l4.json",
       "file": null,
       "summary": null
     }

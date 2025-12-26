@@ -1,0 +1,290 @@
+{
+  "title": "Birth Asphyxia and Bleeding",
+  "questions": [
+    {
+      "question": "What is the primary definition of birth asphyxia?",
+      "options": [
+        "Inability to regulate body temperature",
+        "Failure to initiate and sustain breathing at birth",
+        "Excessive bleeding in the first 24 hours",
+        "Low blood glucose level"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a typical consequence of birth asphyxia?",
+      "options": ["Hypoxia", "Hypercapnia", "Alkalosis", "Acidosis"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which maternal condition is a risk factor for birth asphyxia?",
+      "options": ["Migraine", "Hypertension", "Obesity", "Thyroid disorder"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which placental issue can lead to birth asphyxia?",
+      "options": [
+        "Placenta accreta",
+        "Placenta previa",
+        "Placental insufficiency",
+        "Placental abruption"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A low Apgar score at 5 minutes is defined as:",
+      "options": ["Less than 3", "Less than 5", "Less than 7", "Less than 9"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a common clinical feature of birth asphyxia?",
+      "options": ["Hypertonia", "Strong cry", "Cyanosis", "Bradycardia"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which diagnostic test is most directly used to assess acid-base status in birth asphyxia?",
+      "options": [
+        "Complete blood count",
+        "Blood gases",
+        "Liver function test",
+        "Cranial ultrasound"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the first step in managing birth asphyxia?",
+      "options": [
+        "Administer antibiotics",
+        "Immediate resuscitation (ABC)",
+        "Give vitamin K",
+        "Start phototherapy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which complication is most associated with severe birth asphyxia?",
+      "options": [
+        "Jaundice",
+        "Hypoglycemia",
+        "Hypoxic-ischemic encephalopathy",
+        "Sepsis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Neonatal bleeding is defined as excessive bleeding within:",
+      "options": [
+        "The first 24 hours",
+        "The first week",
+        "The first 28 days",
+        "The first 48 hours"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is a common cause of neonatal bleeding due to deficiency?",
+      "options": ["Vitamin D", "Vitamin C", "Vitamin K", "Vitamin B12"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended initial treatment for vitamin K deficiency bleeding?",
+      "options": [
+        "Oral vitamin K",
+        "1 mg IM vitamin K injection",
+        "Platelet transfusion",
+        "Fresh frozen plasma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a clinical sign of neonatal bleeding?",
+      "options": [
+        "Hyperactivity",
+        "Petechiae or purpura",
+        "Hypertension",
+        "Hyperglycemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which lab test is essential in diagnosing neonatal bleeding disorders?",
+      "options": [
+        "Blood glucose",
+        "PT and aPTT",
+        "Serum creatinine",
+        "Bilirubin level"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prevention of neonatal bleeding includes:",
+      "options": [
+        "Delayed cord clamping",
+        "Routine vitamin K prophylaxis at birth",
+        "Early discharge",
+        "Avoiding breastfeeding"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Birth asphyxia is a major cause of neonatal morbidity and mortality.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Maternal diabetes is not a risk factor for birth asphyxia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In birth asphyxia, hypoxia leads to increased ATP production.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Seizures can be a clinical feature of birth asphyxia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Cranial ultrasound is never used in diagnosing birth asphyxia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Thermal regulation is not important in managing birth asphyxia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Developmental delay can be a complication of birth asphyxia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Neonatal bleeding can be caused by birth trauma.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vitamin K deficiency bleeding is also known as VKDB.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Petechiae are not a sign of neonatal bleeding.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "PT and aPTT are used to diagnose bleeding disorders in neonates.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Fresh frozen plasma is never used in managing neonatal bleeding.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Preterm neonates are not at higher risk for bleeding.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Early recognition of birth asphyxia can reduce mortality.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vitamin K prophylaxis is given orally only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn is delivered after a prolonged labor. At 5 minutes, the Apgar score is 6, the baby is cyanotic, and has a weak cry. Q: What is the most likely diagnosis?",
+      "options": [
+        "Neonatal sepsis",
+        "Birth asphyxia",
+        "Hypoglycemia",
+        "Physiological jaundice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate presents with bleeding from the umbilical stump and petechiae on the trunk. The mother did not receive vitamin K prophylaxis. Q: What is the most probable cause?",
+      "options": [
+        "Hemophilia",
+        "Vitamin K deficiency bleeding",
+        "Sepsis",
+        "Birth trauma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A baby born to a mother with severe preeclampsia shows poor respiratory effort, low heart rate, and low Apgar scores. Q: Which maternal condition likely contributed to this?",
+      "options": ["Anemia", "Hypertension", "Diabetes", "Thyroid disorder"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A preterm neonate develops seizures and multiorgan dysfunction after a difficult delivery. Q: Which complication of birth asphyxia is most likely?",
+      "options": [
+        "Hyperbilirubinemia",
+        "Hypoxic-ischemic encephalopathy",
+        "Necrotizing enterocolitis",
+        "Retinopathy of prematurity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn with suspected birth asphyxia is being evaluated. Blood gas shows pH 7.1 and high CO2. Q: What do these findings indicate?",
+      "options": [
+        "Metabolic alkalosis",
+        "Respiratory acidosis",
+        "Metabolic acidosis",
+        "Normal values"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A neonate with excessive bleeding is found to have prolonged PT and aPTT, but normal platelet count. Q: What is the most appropriate initial treatment?",
+      "options": [
+        "Platelet transfusion",
+        "Vitamin K injection",
+        "Antibiotics",
+        "IV fluids"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During resuscitation of a newborn with asphyxia, the team focuses on Airway, Breathing, and Circulation. Q: What is this approach called?",
+      "options": [
+        "Neonatal ICU protocol",
+        "ABC resuscitation",
+        "Delayed cord clamping",
+        "Kangaroo care"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A baby is born with cord prolapse and shows signs of respiratory distress and cyanosis. Q: Which type of cause does this represent?",
+      "options": ["Maternal", "Placental", "Fetal", "Environmental"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A newborn with birth asphyxia is stable after resuscitation but develops jitteriness and abnormal movements on day 2. Q: What complication should be suspected?",
+      "options": ["Hypoglycemia", "Seizures", "Hyperthermia", "Dehydration"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A preterm neonate with sepsis develops widespread bleeding and laboratory signs of DIC. Q: What underlying condition may be causing the bleeding?",
+      "options": [
+        "Vitamin K deficiency",
+        "Hemophilia",
+        "Disseminated intravascular coagulation",
+        "Birth trauma"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
