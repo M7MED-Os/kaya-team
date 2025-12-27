@@ -37,12 +37,12 @@
         "Intravenous antibiotics",
         "Oral rehydration solution (ORS)",
         "Antidiarrheal medication",
-        "Probiotic supplementation"
+        "Intravenous fluids"
       ],
       "correctIndex": 1
     },
     {
-      "question": "According to the lecture, which of the following is a common complication of untreated gastroenteritis?",
+      "question": "ًWhich of the following is a common complication of untreated gastroenteritis?",
       "options": [
         "Hyperglycemia",
         "Hemolytic uremic syndrome",
@@ -77,7 +77,7 @@
         "Yogurt",
         "Lean meats",
         "Complex carbohydrates",
-        "Foods high in fat and sugars"
+        "High sugars"
       ],
       "correctIndex": 3
     },
