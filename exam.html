@@ -2,367 +2,679 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exam System</title>
+    <!-- إضافة Font Awesome -->
     <link
-      rel="shortcut icon"
-      href="data/images/favicon-16x16.png"
-      type="image/x-icon"
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
     />
-    <title>Quiz</title>
     <style>
       :root {
-        --main-color: #03a9f4;
-        --second-color: #2196f3;
-        --green-color: #06d6a0;
-        --main-transition-duration: 0.3s;
-        --main-sec-padding: 50px;
-        --spe-text-color: #002147;
-        --text-color: #a1a1a1;
+        --bg-color: #f9f9f9;
+        --card-bg: #fff;
+        --text-color: #333;
+        --primary-color: #00b4d8;
+        --correct-color: #4caf50;
+        --wrong-color: #f44336;
+        --bar-bg: #e0e0e0;
+        --bar-active: #00b4d8;
+        --nav-bg: #2c3e50;
+        --border-color: #ddd;
+        --shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+        --radius: 12px;
+      }
+
+      body.dark {
+        --bg-color: #121212;
+        --card-bg: #1f1f1f;
+        --text-color: #eee;
+        --bar-bg: #333;
+        --bar-active: #00b4d8;
+        --nav-bg: #0d1117;
+        --border-color: #444;
+        --shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
       }
 
       * {
         box-sizing: border-box;
+        margin: 0;
+        padding: 0;
       }
 
       body {
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        background: linear-gradient(135deg, #3498db 0%, #6dd5fa 100%);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        transition: background 0.3s ease, color 0.3s ease;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        line-height: 1.6;
+        transition: background-color 0.3s, color 0.3s;
+        padding: 20px;
+        min-height: 100vh;
       }
 
-      /* Buttons */
-      .btn {
-        position: fixed;
-        padding: 8px 14px;
-        font-size: 14px;
-        border: none;
-        border-radius: 8px;
-        cursor: pointer;
-        background-color: #2980b9;
-        color: white;
-        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
-        transition: background-color 0.3s ease;
-        z-index: 1000;
-      }
-
-      #theme-toggle {
-        top: 15px;
-        right: 15px;
-      }
-      #questions-btn {
-        top: 15px;
-        left: 15px;
-      }
-
-      #theme-toggle:hover {
-        background-color: #1c5980;
-      }
-
-      /* Questions navigation */
-      #questions-nav {
-        position: absolute;
-        top: 50px;
-        padding: 10px;
-        background-color: #fff;
-        border-radius: 10px;
-        opacity: 0;
-        visibility: hidden;
-        transition: all 0.3s ease;
-        z-index: 1000;
-        display: grid;
-        grid-template-columns: repeat(6, 1fr);
-      }
-
-      #questions-nav li {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-      }
-
-      #questions-nav.show-questions-nav {
-        opacity: 1;
-        visibility: visible;
-      }
-
-      body.active::before {
-        content: "";
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        background-color: #0000008f;
-        z-index: 1000;
-      }
-
-      /* Quiz container */
       .container {
-        width: 420px;
-        background: #ffffff;
-        margin: 0 10px;
-        padding: 30px 25px;
-        border-radius: 16px;
-        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-        text-align: center;
-        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 15px;
       }
 
-      #question-text {
-        font-size: 22px;
-        font-weight: 700;
-        margin-bottom: 25px;
-        color: #333;
-        padding: 14px 20px;
-        background-color: #e3f2fd;
-        border-radius: 12px;
-        box-shadow: 0 2px 8px rgba(33, 150, 243, 0.15);
-        user-select: none;
-        transition: background-color 0.3s ease, color 0.3s ease;
+      .exam-container {
+        background-color: var(--card-bg);
+        padding: 25px;
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        position: relative;
+        transition: all 0.3s;
       }
 
-      #question-number {
-        margin-bottom: 15px;
-        font-size: 16px;
-        color: #666;
-        font-weight: 500;
-        transition: color 0.3s ease;
-      }
-
-      /* Buttons grid */
-      .btn-grid {
+      /* Header Styles */
+      .exam-header {
         display: flex;
-        flex-direction: column;
-        gap: 12px;
-        margin-top: 15px;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 25px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid var(--border-color);
+        flex-wrap: wrap;
+        gap: 15px;
       }
 
-      button {
-        padding: 12px;
-        font-size: 16px;
-        border: none;
-        border-radius: 10px;
+      .exam-title {
+        font-size: clamp(1.5rem, 4vw, 2rem);
+        font-weight: 700;
+        color: var(--primary-color);
+      }
+
+      .header-controls {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+
+      /* Dark Mode Toggle Button with Icons */
+      .dark-mode-toggle {
+        background-color: transparent;
+        color: var(--text-color);
+        border: 1px solid var(--border-color);
+        border-radius: 6px;
+        padding: 10px 15px;
         cursor: pointer;
-        background-color: #3498db;
-        color: white;
-        transition: background-color 0.3s ease, transform 0.1s ease;
+        font-size: 1.2rem;
+        transition: all 0.3s;
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
       }
 
-      button:hover {
-        background-color: #2980b9;
-        transform: scale(1.02);
+      .dark-mode-toggle:hover {
+        background-color: rgba(0, 180, 216, 0.1);
+        border-color: var(--primary-color);
+        transform: scale(1.05);
       }
 
-      button:disabled {
-        background-color: #bdc3c7;
-        cursor: not-allowed;
+      .dark-mode-toggle i {
+        transition: transform 0.3s ease;
       }
 
-      .correct,
-      .correct:hover {
-        background-color: #2ecc71 !important;
-      }
-      .wrong,
-      .wrong:hover {
-        background-color: #e74c3c !important;
+      .dark-mode-toggle:hover i {
+        transform: rotate(20deg);
       }
 
-      .answer-btn:last-of-type {
+      /* Question Navigation Bar - بدون عنوان */
+      .question-nav-container {
+        margin-bottom: 20px;
+      }
+
+      .questions-nav-header {
+        display: flex;
+        justify-content: flex-end;
         margin-bottom: 10px;
       }
 
-      /* Result */
-      #result-box {
-        margin-top: 20px;
-        font-size: 20px;
-        font-weight: bold;
-        color: #2c3e50;
-        padding: 12px;
-        background-color: #dfefff;
-        border-radius: 10px;
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-        transition: background-color 0.3s ease, color 0.3s ease;
+      .toggle-nav-btn {
+        background-color: var(--primary-color);
+        color: white;
+        border: none;
+        border-radius: 6px;
+        padding: 8px 15px;
+        cursor: pointer;
+        font-size: clamp(0.875rem, 1.5vw, 1rem);
+        transition: background-color 0.3s;
+        min-width: 120px;
       }
 
-      .hide {
+      .toggle-nav-btn:hover {
+        background-color: #0096c7;
+      }
+
+      .questions-nav {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
+        gap: 8px;
+        max-height: 300px; /* مفتوح مسبقاً */
+        overflow: hidden;
+        transition: max-height 0.5s ease;
+      }
+
+      .questions-nav.hidden {
+        max-height: 0;
+        margin-bottom: 0;
+      }
+
+      .question-nav-item {
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--bar-bg);
+        border: 1px solid transparent;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 0.95rem;
+        transition: all 0.3s;
+      }
+
+      @media (max-width: 576px) {
+        .question-nav-item {
+          width: 40px;
+          height: 40px;
+          font-size: 0.85rem;
+        }
+      }
+
+      .question-nav-item.answered.correct {
+        background-color: var(--correct-color);
+        color: white;
+      }
+
+      .question-nav-item.answered.wrong {
+        background-color: var(--wrong-color);
+        color: white;
+      }
+
+      .question-nav-item.unanswered {
+        background-color: var(--bar-bg);
+        color: var(--text-color);
+      }
+
+      .question-nav-item.current {
+        background-color: var(--bar-active);
+        color: white;
+      }
+
+      /* Question Display */
+      .question-container {
+        margin-bottom: 30px;
+      }
+
+      .question-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .question-number {
+        font-size: clamp(1rem, 2vw, 1.2rem);
+        font-weight: 700;
+        color: var(--primary-color);
+      }
+
+      .question-progress {
+        font-size: clamp(0.875rem, 1.5vw, 1rem);
+        color: #777;
+      }
+
+      .question-text {
+        font-size: clamp(1rem, 2vw, 1.25rem);
+        line-height: 1.6;
+        margin-bottom: 25px;
+        padding: 20px;
+        background-color: rgba(0, 180, 216, 0.05);
+        border-radius: 8px;
+        border-left: 3px solid var(--primary-color);
+      }
+
+      /* Options */
+      .options-container {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .option-label {
+        display: flex;
+        align-items: center;
+        padding: 15px 20px;
+        border: 1px solid var(--border-color);
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s;
+        position: relative;
+      }
+
+      .option-label:hover:not(.disabled) {
+        background-color: rgba(0, 180, 216, 0.05);
+        border-color: var(--primary-color);
+      }
+
+      .option-label.correct {
+        background-color: rgba(76, 175, 80, 0.15);
+        border-color: var(--correct-color);
+        color: #1b5e20;
+      }
+
+      body.dark .option-label.correct {
+        background-color: rgba(76, 175, 80, 0.25);
+        color: #a5d6a7;
+      }
+
+      .option-label.wrong {
+        background-color: rgba(244, 67, 54, 0.15);
+        border-color: var(--wrong-color);
+        color: #b71c1c;
+      }
+
+      body.dark .option-label.wrong {
+        background-color: rgba(244, 67, 54, 0.25);
+        color: #ef9a9a;
+      }
+
+      .option-label.disabled {
+        cursor: not-allowed;
+        opacity: 0.9;
+        pointer-events: none; /* منع النقر بعد الاختيار */
+      }
+
+      .option-radio {
+        display: none;
+        margin-right: 15px;
+        width: 18px;
+        height: 18px;
+        min-width: 18px;
+        accent-color: var(--primary-color);
+      }
+
+      .option-text {
+        font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+        margin-left: 10px;
+        flex: 1;
+      }
+
+      /* Navigation Buttons - التعديل الرئيسي هنا */
+      .nav-buttons {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+
+      .nav-btn {
+        padding: 12px 24px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+        font-weight: 600;
+        transition: all 0.3s;
+        flex: 1;
+        min-width: 120px;
+        background-color: var(--primary-color);
+        color: white;
+      }
+
+      @media (max-width: 576px) {
+        .nav-btn {
+          padding: 10px 18px;
+          min-width: 100px;
+        }
+      }
+
+      /* Previous button - يبقى كما هو */
+      #prevBtn {
+        background-color: #6c757d;
+        order: 1; /* الترتيب: الأول */
+      }
+
+      #prevBtn:hover:not(:disabled) {
+        background-color: #5a6268;
+      }
+
+      /* Next button - يعمل بغض النظر عن الإجابة */
+      #nextBtn {
+        background-color: var(--primary-color);
+        order: 3; /* الترتيب: الثالث */
+      }
+
+      #nextBtn:hover:not(:disabled) {
+        background-color: #0096c7;
+      }
+
+      .nav-btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+
+      /* Result Box */
+      .result-box {
+        text-align: center;
+        padding: 40px 30px;
+        background-color: rgba(0, 180, 216, 0.05);
+        border-radius: var(--radius);
+        margin-top: 20px;
         display: none;
       }
 
-      /* Dark mode */
-      body.dark {
-        background: linear-gradient(135deg, #181818 0%, #0c0c0c 100%);
-        color: #ddd;
-      }
-      body.dark #questions-nav {
-        background-color: #353535;
-      }
-      body.dark .container {
-        background: #1c1c1c;
-        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.7);
-      }
-      body.dark #question-text {
-        background-color: #353535;
-        color: #f0f0f0;
-      }
-      body.dark #question-number {
-        color: #bbb;
-      }
-      body.dark #result-box {
-        background-color: #3a3a3a;
-        color: #eee;
-      }
-      body.dark button {
-        background-color: #1b4f72;
-      }
-      body.dark button:hover {
-        background-color: #1c5980;
-      }
-      body.dark button:disabled {
-        background-color: #555;
-      }
-      body.dark .correct {
-        background-color: #27ae60;
-      }
-      body.dark .wrong {
-        background-color: #c0392b;
+      .result-box.show {
+        display: block;
+        animation: fadeIn 0.5s ease;
       }
 
-      /* Quran overlay */
-      #quran-overlay {
-        position: absolute;
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .result-title {
+        font-size: clamp(1.5rem, 3vw, 2.2rem);
+        color: var(--primary-color);
+        margin-bottom: 25px;
+      }
+
+      .score-text {
+        font-size: clamp(2rem, 5vw, 3.5rem);
+        font-weight: 800;
+        margin: 25px 0;
+        color: var(--primary-color);
+      }
+
+      .result-message {
+        font-size: clamp(1rem, 2vw, 1.3rem);
+        margin: 30px 0;
+        line-height: 1.6;
+      }
+
+      .result-actions {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 40px;
+        flex-wrap: wrap;
+      }
+
+      .result-actions .nav-btn {
+        min-width: 160px;
+        padding: 15px 30px;
+      }
+
+      /* Quran Overlay */
+      .quran-overlay {
+        position: fixed;
         top: 0;
         left: 0;
         width: 100%;
         height: 100%;
-        background: rgba(248, 249, 250, 0.98);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        z-index: 999;
-        opacity: 0;
-        pointer-events: none;
-        transition: opacity 0.3s ease-in-out;
-        direction: rtl;
-        padding: 10px;
-        border-radius: 5px;
-      }
-
-      #quran-overlay.show {
-        opacity: 1;
-        pointer-events: auto;
-      }
-      .overlay-content {
+        background-color: rgba(0, 0, 0, 0.9);
         display: flex;
         flex-direction: column;
-        align-items: center;
-        gap: 10px;
-      }
-
-      .surah {
-        width: 100%;
-        background: #fff;
-        padding: 20px;
-        border-radius: 15px;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-      }
-      .surah > * {
-        margin: 0;
-        line-height: 1.8;
-      }
-
-      .surah h2 {
-        margin-bottom: 10px;
-      }
-
-      body.dark #quran-overlay {
-        background: linear-gradient(135deg, #181818 0%, #0c0c0c 100%);
-      }
-      body.dark #quran-overlay .surah {
-        background: #1c1c1c;
-      }
-
-      #countdown {
-        margin-top: 15px;
-        font-size: 22px;
-        font-weight: bold;
-        width: 50px;
-        height: 50px;
-        padding: 5px;
-        border-radius: 50%;
-        display: flex;
         justify-content: center;
         align-items: center;
-        background-color: #fff;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+        color: white;
+        z-index: 1000;
+        display: none;
+        padding: 20px;
       }
-      body.dark #countdown {
-        color: #fff;
-        background: #1c1c1c;
+
+      .quran-overlay.show {
+        display: flex;
+        animation: fadeIn 0.3s ease;
+      }
+
+      .quran-text {
+        font-size: clamp(1.2rem, 3vw, 2rem);
+        text-align: center;
+        max-width: 800px;
+        margin: 20px;
+        line-height: 1.8;
+        font-family: "Amiri", serif;
+      }
+
+      .countdown {
+        font-size: clamp(2rem, 6vw, 4rem);
+        margin-top: 40px;
+        color: #f1c40f;
+        font-weight: 700;
+      }
+
+      /* Responsive Design */
+      @media (max-width: 768px) {
+        body {
+          padding: 15px;
+        }
+
+        .exam-container {
+          padding: 20px 15px;
+        }
+
+        .question-text {
+          padding: 15px;
+          font-size: 1.1rem;
+        }
+
+        .option-label {
+          padding: 12px 15px;
+        }
+
+        .questions-nav {
+          grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+        }
+
+        .nav-buttons {
+          flex-direction: row; /* الحفاظ على الترتيب الأفقي */
+          justify-content: space-between;
+        }
+
+        .nav-btn {
+          width: auto;
+          flex: 1;
+        }
+
+        .result-actions {
+          flex-direction: column;
+          align-items: center;
+        }
+
+        .result-actions .nav-btn {
+          width: 100%;
+          max-width: 300px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .exam-header {
+          flex-direction: column-reverse;
+          text-align: center;
+        }
+
+        .header-controls {
+          justify-content: center;
+        }
+
+        .questions-nav-header {
+          justify-content: center;
+        }
+
+        .question-header {
+          flex-direction: column;
+          text-align: center;
+        }
+
+        .question-nav-item {
+          width: 35px;
+          height: 35px;
+          font-size: 0.8rem;
+        }
+
+        .quran-text {
+          font-size: 1.3rem;
+          margin: 10px;
+        }
+
+        .countdown {
+          font-size: 2.5rem;
+          margin-top: 30px;
+        }
+
+        .dark-mode-toggle {
+          width: 45px;
+          height: 45px;
+          padding: 8px 12px;
+        }
+
+        .nav-buttons {
+          flex-direction: column;
+        }
+
+        .nav-btn {
+          width: 100%;
+          order: initial !important; /* إعادة تعيين الترتيب في الشاشات الصغيرة */
+        }
+      }
+
+      /* Print Styles */
+      @media print {
+        .exam-header,
+        .question-nav-container,
+        .nav-buttons,
+        .result-actions {
+          display: none;
+        }
+
+        .exam-container {
+          box-shadow: none;
+          padding: 0;
+        }
+
+        body {
+          background-color: white;
+          color: black;
+        }
+      }
+
+      /* إزالة outline و border مبالغ فيه */
+      button:focus,
+      .option-label:focus,
+      .question-nav-item:focus {
+        outline: none;
+      }
+
+      /* تحسين focus للوصولية بدون outline واضح */
+      button:focus-visible,
+      .option-label:focus-visible,
+      .question-nav-item:focus-visible {
+        outline: 2px solid var(--primary-color);
+        outline-offset: 2px;
+      }
+
+      /* إخفاء outline افتراضي */
+      *:focus {
+        outline: none;
       }
     </style>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <!-- Controls -->
-    <button id="theme-toggle" class="btn">Dark mode</button>
-    <button id="questions-btn" class="btn">Questions</button>
-    <ul id="questions-nav"></ul>
-
-    <!-- Quiz container -->
     <div class="container">
-      <!-- Quran Overlay -->
-      <div id="quran-overlay">
-        <div class="overlay-content">
-          <div id="countdown">20</div>
-
-          <div class="surah">
-            <h2>﷽ سورة الإخلاص</h2>
-            <p>
-              قُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ
-              وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾
-            </p>
+      <div class="exam-container">
+        <!-- Header -->
+        <div class="exam-header">
+          <h1 class="exam-title" id="examTitle">Exam System</h1>
+          <div class="header-controls">
+            <button
+              class="dark-mode-toggle"
+              id="themeToggle"
+              title="Toggle dark/light mode"
+            >
+              <i class="fa-solid fa-moon"></i>
+            </button>
           </div>
+        </div>
 
-          <div class="surah">
-            <h2>﷽ سورة الفلق</h2>
-            <p>
-              قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِن شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِن
-              شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي
-              الْعُقَدِ ﴿٤﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾
-            </p>
+        <!-- Questions Navigation - بدون عنوان -->
+        <div class="question-nav-container">
+          <div class="questions-nav-header">
+            <button class="toggle-nav-btn" id="toggleNavBtn">
+              Hide Navigation
+            </button>
           </div>
+          <div class="questions-nav" id="questionsNav"></div>
+        </div>
 
-          <div class="surah">
-            <h2>﷽ سورة الناس</h2>
-            <p>
-              قُلْ أَعُوذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ إِلَٰهِ
-              النَّاسِ ﴿٣﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِي
-              يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾
-            </p>
+        <!-- Question Container -->
+        <div class="question-container" id="questionContainer">
+          <div class="question-header">
+            <div class="question-number" id="questionNumber">Question 1</div>
+            <div class="question-progress" id="questionProgress">1 of 10</div>
+          </div>
+          <div class="question-text" id="questionText"></div>
+          <div class="options-container" id="optionsContainer"></div>
+        </div>
+
+        <!-- Navigation Buttons -->
+        <div class="nav-buttons">
+          <button class="nav-btn" id="prevBtn" disabled>Previous</button>
+          <button class="nav-btn" id="nextBtn">Next</button>
+        </div>
+
+        <!-- Result Box -->
+        <div class="result-box" id="resultBox">
+          <h2 class="result-title">Exam Results</h2>
+          <div class="score-text" id="scoreText">0 out of 0</div>
+          <div class="result-message" id="resultMessage"></div>
+          <div class="result-actions">
+            <button
+              class="nav-btn"
+              id="tryAgainBtn"
+              style="background-color: #ffc107; color: #000"
+            >
+              Try Again
+            </button>
+            <button
+              class="nav-btn"
+              id="homeBtn"
+              style="background-color: #6c757d"
+            >
+              Return to Home
+            </button>
           </div>
         </div>
       </div>
+    </div>
 
-      <!-- Quiz -->
-      <h2 id="quiz-title"></h2>
-      <div id="start-box"><button id="start-btn">Start</button></div>
-
-      <div id="quiz-box" class="hide">
-        <div id="question-number"></div>
-        <div id="question-text"></div>
-        <div id="answer-buttons" class="btn-grid"></div>
-        <button id="next-btn" disabled>Next</button>
+    <!-- Quran Overlay -->
+    <div class="quran-overlay" id="quranOverlay">
+      <div class="quran-text">
+        "My Lord, expand for me my breast, ease my task for me, and remove the
+        impediment from my speech, so they may understand what I say."
       </div>
-
-      <!-- Result -->
-      <div id="result-box" class="hide">
-        <h3>Your Score</h3>
-        <p id="score-text"></p>
-        <button id="try-again-btn">Try Again</button>
-        <button id="home-btn">Home</button>
-      </div>
+      <div class="countdown" id="countdown">30</div>
     </div>
 
     <script>
@@ -371,129 +683,626 @@
       let answersState = []; // [{answered, correct, chosenIndex}, ...]
       let currentQuestionIndex = 0;
       let score = 0;
+      let isNavVisible = true; // Navigation مفتوح مسبقاً
 
+      // استخراج اسم الملف من URL
       const params = new URLSearchParams(window.location.search);
       const file = params.get("file");
 
+      // الخيارات الثابتة التي يجب أن تبقى في النهاية
+      const FIXED_OPTIONS = [
+        "All of the above",
+        "All are true",
+        "All are false",
+        "All are correct",
+        "All of the answers are correct",
+        "All of the answers are recommended",
+        "None of the above",
+      ];
+
       /* DOM Elements */
-      const homeBtn = document.getElementById("home-btn");
-      const startBtn = document.getElementById("start-btn");
-      const nextBtn = document.getElementById("next-btn");
-      const tryAgainBtn = document.getElementById("try-again-btn");
+      const examTitle = document.getElementById("examTitle");
+      const themeToggle = document.getElementById("themeToggle");
+      const themeIcon = themeToggle.querySelector("i");
+      const toggleNavBtn = document.getElementById("toggleNavBtn");
+      const questionsNav = document.getElementById("questionsNav");
+      const questionContainer = document.getElementById("questionContainer");
+      const questionNumber = document.getElementById("questionNumber");
+      const questionProgress = document.getElementById("questionProgress");
+      const questionText = document.getElementById("questionText");
+      const optionsContainer = document.getElementById("optionsContainer");
+      const prevBtn = document.getElementById("prevBtn");
+      const nextBtn = document.getElementById("nextBtn");
+      const resultBox = document.getElementById("resultBox");
+      const scoreText = document.getElementById("scoreText");
+      const resultMessage = document.getElementById("resultMessage");
+      const tryAgainBtn = document.getElementById("tryAgainBtn");
+      const homeBtn = document.getElementById("homeBtn");
+      const quranOverlay = document.getElementById("quranOverlay");
+      const countdownElement = document.getElementById("countdown");
 
-      const quizBox = document.getElementById("quiz-box");
-      const startBox = document.getElementById("start-box");
-      const questionBox = document.getElementById("question-box");
-      const resultBox = document.getElementById("result-box");
+      /* إنشاء عنصر الرسالة المنبثقة */
+      function createMessageBox() {
+        const messageBox = document.createElement("div");
+        messageBox.id = "customAlertBox";
+        messageBox.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background: linear-gradient(135deg, #ff6b6b, #ee5a52);
+        color: white;
+        padding: 20px 25px;
+        border-radius: 12px;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+        z-index: 9999;
+        display: none;
+        align-items: center;
+        gap: 15px;
+        max-width: 400px;
+        animation: slideInRight 0.5s ease-out, fadeOut 0.5s ease-out 2.5s forwards;
+        border-left: 5px solid #ff3838;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    `;
 
-      const questionNumberElement = document.getElementById("question-number");
-      const questionText = document.getElementById("question-text");
-      const answerButtons = document.getElementById("answer-buttons");
-      const scoreText = document.getElementById("score-text");
+        // إضافة أيقونة
+        const icon = document.createElement("i");
+        icon.className = "fa-solid fa-exclamation-circle";
+        icon.style.fontSize = "24px";
 
-      const themeToggleBtn = document.getElementById("theme-toggle");
-      const questionsBtn = document.getElementById("questions-btn");
-      const questionsNav = document.getElementById("questions-nav");
+        // إضافة نص الرسالة
+        const messageText = document.createElement("div");
+        messageText.innerHTML = `
+        <div style="font-weight: bold; font-size: 18px; margin-bottom: 5px;">تنبيه!</div>
+        <div style="font-size: 16px;">جاوب باقي الاسئلة أولاً</div>
+    `;
 
-      const quranOverlay = document.getElementById("quran-overlay");
-      const countdown = document.getElementById("countdown");
+        messageBox.appendChild(icon);
+        messageBox.appendChild(messageText);
 
-      /* Load Exam File */
-      if (file) {
-        fetch(file)
-          .then((res) => res.json())
-          .then((data) => {
-            allQuestions = data.questions || [];
-            answersState = allQuestions.map(() => ({
-              answered: false,
-              correct: null,
-              chosenIndex: null,
-            }));
+        // إضافة أنيميشن
+        const style = document.createElement("style");
+        style.textContent = `
+        @keyframes slideInRight {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+        
+        @keyframes fadeOut {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0;
+                display: none;
+            }
+        }
+        
+        body.dark #customAlertBox {
+            background: linear-gradient(135deg, #c0392b, #e74c3c);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+        }
+    `;
 
-            buildQuestionsNav();
+        document.head.appendChild(style);
+        document.body.appendChild(messageBox);
 
-            const examTitle = data.title || data.examTitle || "Exam";
-            document.getElementById("quiz-title").textContent = examTitle;
-
-            startBtn.addEventListener("click", startQuiz);
-          })
-          .catch((err) => console.error("Error loading exam file:", err));
-      } else {
-        document.getElementById("quiz-container").innerHTML =
-          "<p style='color:red'>No exam file specified</p>";
+        return messageBox;
       }
 
-      /* Build Questions Navigation */
-      function buildQuestionsNav() {
-        questionsNav.innerHTML = "";
-        allQuestions.forEach((q, index) => {
-          const li = document.createElement("li");
-          li.textContent = index + 1;
-          li.style.cursor = "pointer";
-          li.style.display = "inline-block";
-          li.style.margin = "5px";
-          li.style.padding = "8px 12px";
-          li.style.border = "1px solid #ccc";
-          li.style.borderRadius = "6px";
+      // إنشاء صندوق الرسالة
+      const customAlertBox = createMessageBox();
 
-          li.addEventListener("click", (e) => {
-            e.stopPropagation();
-            currentQuestionIndex = index;
-            setNextQuestion();
-            questionsNav.classList.remove("show-questions-nav");
-            document.body.classList.remove("active");
-          });
+      /* وظيفة لعرض الرسالة المنبثقة */
+      function showCustomAlert() {
+        customAlertBox.style.display = "flex";
+        customAlertBox.style.animation =
+          "slideInRight 0.5s ease-out, fadeOut 0.5s ease-out 2.5s forwards";
 
-          questionsNav.appendChild(li);
-        });
+        // إعادة تعيين الأنيميشن بعد انتهائها
+        setTimeout(() => {
+          customAlertBox.style.display = "none";
+        }, 3000);
       }
 
-      /* Highlight Current Question in Nav */
-      function highlightCurrentNav() {
-        const items = questionsNav.querySelectorAll("li");
-        items.forEach((li, i) => {
-          if (!answersState[i].answered) {
-            li.style.backgroundColor = "";
-            li.style.color = "";
-          } else if (answersState[i].correct) {
-            li.style.backgroundColor = "#2ecc71";
-            li.style.color = "#fff";
-          } else {
-            li.style.backgroundColor = "#e74c3c";
-            li.style.color = "#fff";
-          }
-
-          if (i === currentQuestionIndex) {
-            li.style.backgroundColor = "#3498db";
-            li.style.color = "#fff";
-          }
-        });
-      }
-
-      /* Utility Functions*/
+      /* وظائف المساعدة */
       function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
           [array[i], array[j]] = [array[j], array[i]];
         }
+        return array;
       }
 
       function isTrueFalseQuestion(questionObj) {
-        const opts = questionObj.options;
+        const opts = questionObj.options.map((opt) => opt.trim());
         return (
           opts.length === 2 && opts.includes("True") && opts.includes("False")
         );
       }
 
-      /* Overlay Quran Display */
+      function prepareQuestionOptions(question) {
+        let optionsWithData = question.options.map((opt, i) => ({
+          text: opt,
+          isCorrect: i === question.correctIndex,
+          originalIndex: i,
+        }));
+
+        // إذا كان السؤال True/False، نرتب الخيارات بحيث يكون True أولاً ثم False
+        if (isTrueFalseQuestion(question)) {
+          // فرز الخيارات بحيث يكون True أولاً ثم False
+          optionsWithData.sort((a, b) => {
+            const aText = a.text.trim();
+            const bText = b.text.trim();
+
+            if (aText === "True" && bText === "False") return -1;
+            if (aText === "False" && bText === "True") return 1;
+            return 0;
+          });
+
+          return optionsWithData;
+        }
+
+        // البحث عن الخيارات الثابتة
+        const fixedOptionsIndexes = [];
+        const otherOptions = [];
+
+        optionsWithData.forEach((opt, index) => {
+          if (FIXED_OPTIONS.includes(opt.text.trim())) {
+            fixedOptionsIndexes.push(index);
+          } else {
+            otherOptions.push(opt);
+          }
+        });
+
+        // خلط الخيارات العادية
+        shuffleArray(otherOptions);
+
+        // إضافة الخيارات الثابتة في النهاية مع الحفاظ على ترتيبها الأصلي
+        fixedOptionsIndexes.forEach((fixedIndex) => {
+          otherOptions.push(optionsWithData[fixedIndex]);
+        });
+
+        return otherOptions;
+      }
+
+      /* تحميل الأسئلة من ملف JSON */
+      async function loadQuestionsFromJSON() {
+        try {
+          // إذا كان هناك ملف محدد في URL
+          if (file) {
+            const response = await fetch(file);
+            if (!response.ok) {
+              throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
+            const data = await response.json();
+
+            // التحقق من هيكل البيانات
+            if (!data || typeof data !== "object") {
+              throw new Error("Invalid JSON data");
+            }
+
+            if (!data.questions || !Array.isArray(data.questions)) {
+              throw new Error("Questions array not found in JSON");
+            }
+
+            // نسخ الأسئلة من الملف
+            allQuestions = [...data.questions];
+
+            // خلط الأسئلة
+            shuffleArray(allQuestions);
+
+            // تحديث عنوان الامتحان
+            const examTitleText = data.title || "Interactive Exam System";
+            examTitle.textContent = examTitleText;
+
+            // تخزين العنوان الأصلي في localStorage لعرضه عند المحاولة مجدداً
+            localStorage.setItem("examTitle", examTitleText);
+
+            // تحميل أيقونة للتحميل
+            showLoadingIndicator();
+
+            // تهيئة الامتحان بعد تأكد تحميل البيانات
+            setTimeout(() => {
+              initExam();
+              hideLoadingIndicator();
+            }, 500);
+          } else {
+            // استخدام الأسئلة الافتراضية إذا لم يكن هناك ملف
+            useDefaultQuestions();
+          }
+        } catch (error) {
+          console.error("Error loading exam file:", error);
+          showErrorMessage(`Error loading questions: ${error.message}`);
+          useDefaultQuestions();
+        }
+      }
+
+      /* عرض رسالة الخطأ */
+      function showErrorMessage(message) {
+        const errorDiv = document.createElement("div");
+        errorDiv.style.cssText = `
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: linear-gradient(135deg, #ff6b6b, #ee5a52);
+        color: white;
+        padding: 30px;
+        border-radius: 15px;
+        text-align: center;
+        z-index: 9999;
+        max-width: 80%;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    `;
+        errorDiv.innerHTML = `
+        <i class="fa-solid fa-triangle-exclamation" style="font-size: 48px; margin-bottom: 20px;"></i>
+        <h3 style="margin-bottom: 10px;">Error Loading Questions</h3>
+        <p style="margin-bottom: 20px;">${message}</p>
+        <p>Using default questions instead.</p>
+        <button id="closeErrorBtn" style="
+            background: white;
+            color: #ff6b6b;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 15px;
+            font-weight: bold;
+        ">Close</button>
+    `;
+
+        document.body.appendChild(errorDiv);
+
+        document
+          .getElementById("closeErrorBtn")
+          .addEventListener("click", () => {
+            document.body.removeChild(errorDiv);
+          });
+      }
+
+      /* مؤشر التحميل */
+      function showLoadingIndicator() {
+        const loadingDiv = document.createElement("div");
+        loadingDiv.id = "loadingIndicator";
+        loadingDiv.style.cssText = `
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 9998;
+        color: white;
+    `;
+        loadingDiv.innerHTML = `
+        <div style="
+            width: 50px;
+            height: 50px;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid var(--primary-color, #00b4d8);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        "></div>
+        <p>Loading questions...</p>
+    `;
+
+        const style = document.createElement("style");
+        style.textContent = `
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    `;
+        document.head.appendChild(style);
+        document.body.appendChild(loadingDiv);
+      }
+
+      function hideLoadingIndicator() {
+        const loadingDiv = document.getElementById("loadingIndicator");
+        if (loadingDiv) {
+          document.body.removeChild(loadingDiv);
+        }
+      }
+
+      /* استخدام الأسئلة الافتراضية */
+      function useDefaultQuestions() {
+        allQuestions = [
+          {
+            question: "What is 2 + 2?",
+            options: ["3", "4", "5", "6"],
+            correctIndex: 1,
+          },
+          {
+            question: "Select the correct option for 5 * 3.",
+            options: ["15", "10", "20", "8"],
+            correctIndex: 0,
+          },
+          {
+            question: "Which of these is a primary color?",
+            options: ["Red", "Green", "Purple", "Orange"],
+            correctIndex: 0,
+          },
+          {
+            question: "What is the capital of France?",
+            options: ["London", "Berlin", "Paris", "Madrid"],
+            correctIndex: 2,
+          },
+          {
+            question: "This statement is correct.",
+            options: ["True", "False", "None of the above"],
+            correctIndex: 0,
+          },
+          {
+            question: "Which of these is not a JavaScript framework?",
+            options: ["React", "Vue", "Angular", "Django", "All of the above"],
+            correctIndex: 3,
+          },
+        ];
+
+        // خلط الأسئلة
+        shuffleArray(allQuestions);
+
+        // استخدام العنوان المخزن أو العنوان الافتراضي
+        const examTitleText =
+          localStorage.getItem("examTitle") || "Interactive Exam System";
+        examTitle.textContent = examTitleText;
+
+        // تهيئة الامتحان
+        initExam();
+      }
+
+      /* Initialize Exam */
+      function initExam() {
+        answersState = allQuestions.map(() => ({
+          answered: false,
+          correct: null,
+          chosenIndex: null,
+        }));
+
+        // Build questions navigation
+        buildQuestionsNav();
+
+        // Show first question
+        showQuestion(currentQuestionIndex);
+
+        // Update navigation buttons state
+        updateNavButtons();
+      }
+
+      /* Build Questions Navigation */
+      function buildQuestionsNav() {
+        questionsNav.innerHTML = "";
+
+        allQuestions.forEach((_, index) => {
+          const navItem = document.createElement("div");
+          navItem.className = "question-nav-item unanswered";
+          navItem.textContent = index + 1;
+          navItem.dataset.index = index;
+          navItem.setAttribute("aria-label", `Go to question ${index + 1}`);
+
+          navItem.addEventListener("click", () => {
+            currentQuestionIndex = parseInt(navItem.dataset.index);
+            showQuestion(currentQuestionIndex);
+            updateQuestionsNav();
+          });
+
+          questionsNav.appendChild(navItem);
+        });
+
+        updateQuestionsNav();
+      }
+
+      /* Update Questions Navigation Highlighting */
+      function updateQuestionsNav() {
+        const navItems = questionsNav.querySelectorAll(".question-nav-item");
+
+        navItems.forEach((item, index) => {
+          // Reset classes
+          item.className = "question-nav-item";
+
+          // Add base class
+          if (answersState[index].answered) {
+            if (answersState[index].correct) {
+              item.classList.add("answered", "correct");
+            } else {
+              item.classList.add("answered", "wrong");
+            }
+          } else {
+            item.classList.add("unanswered");
+          }
+
+          // Highlight current question
+          if (index === currentQuestionIndex) {
+            item.classList.add("current");
+          }
+        });
+      }
+
+      /* Show Question */
+      function showQuestion(index) {
+        if (index < 0 || index >= allQuestions.length) return;
+
+        const question = allQuestions[index];
+        const answerState = answersState[index];
+
+        // Update question number and progress
+        questionNumber.textContent = `Question ${index + 1}`;
+        questionProgress.textContent = `${index + 1} of ${allQuestions.length}`;
+
+        // Update question text
+        questionText.textContent = question.question;
+
+        // Clear options
+        optionsContainer.innerHTML = "";
+
+        // تحضير الخيارات مع الترتيب المناسب
+        const preparedOptions = prepareQuestionOptions(question);
+
+        // إنشاء الخيارات
+        preparedOptions.forEach((optionData, displayIndex) => {
+          const option = optionData.text;
+          const isCorrect = optionData.isCorrect;
+          const originalIndex = optionData.originalIndex;
+
+          const label = document.createElement("label");
+          label.className = "option-label";
+          label.dataset.index = originalIndex;
+
+          // If this question has been answered
+          if (answerState.answered) {
+            label.classList.add("disabled");
+            label.style.pointerEvents = "none"; // منع النقر
+
+            // Check if this option is the correct answer
+            const wasChosen = answerState.chosenIndex === originalIndex;
+
+            if (isCorrect) {
+              label.classList.add("correct");
+            } else if (wasChosen && !isCorrect) {
+              label.classList.add("wrong");
+            }
+          }
+
+          // Create radio input
+          const radio = document.createElement("input");
+          radio.type = "radio";
+          radio.name = "option";
+          radio.value = originalIndex;
+          radio.className = "option-radio";
+          radio.id = `option-${index}-${originalIndex}`;
+
+          // Create option text
+          const textSpan = document.createElement("span");
+          textSpan.className = "option-text";
+          textSpan.textContent = option;
+
+          // Add event listeners if not answered
+          if (!answerState.answered) {
+            const handleSelect = () => {
+              selectAnswer(originalIndex, isCorrect);
+            };
+
+            label.addEventListener("click", handleSelect);
+          } else {
+            radio.disabled = true;
+            if (answerState.chosenIndex === originalIndex) {
+              radio.checked = true;
+            }
+          }
+
+          // Assemble option
+          label.appendChild(radio);
+          label.appendChild(textSpan);
+          optionsContainer.appendChild(label);
+        });
+
+        // Update navigation
+        updateQuestionsNav();
+        updateNavButtons();
+      }
+
+      /* Select Answer */
+      function selectAnswer(selectedIndex, isCorrect) {
+        const currentQuestion = allQuestions[currentQuestionIndex];
+        const currentState = answersState[currentQuestionIndex];
+
+        // Mark as answered
+        currentState.answered = true;
+        currentState.chosenIndex = selectedIndex;
+        currentState.correct = isCorrect;
+
+        // Update score if correct
+        if (isCorrect) {
+          score++;
+        }
+
+        // تحديث تلوين الخيارات فوراً وإضافة pointer-events: none
+        const allLabels = optionsContainer.querySelectorAll(".option-label");
+
+        // البحث عن الخيار الصحيح في العرض الحالي
+        const preparedOptions = prepareQuestionOptions(currentQuestion);
+        const correctOriginalIndex = currentQuestion.correctIndex;
+
+        allLabels.forEach((label) => {
+          const optionIndex = parseInt(label.dataset.index);
+          const isThisCorrect = optionIndex === correctOriginalIndex;
+          const isThisChosen = optionIndex === selectedIndex;
+
+          // إضافة كلاس disabled لجميع الخيارات
+          label.classList.add("disabled");
+
+          // إضافة pointer-events: none لمنع النقر
+          label.style.pointerEvents = "none";
+
+          // تعطيل زر الراديو
+          const radio = label.querySelector(".option-radio");
+          if (radio) {
+            radio.disabled = true;
+            if (isThisChosen) {
+              radio.checked = true;
+            }
+          }
+
+          // تلوين الخيارات بناءً على الإجابة
+          if (isThisCorrect) {
+            label.classList.add("correct");
+          } else if (isThisChosen && !isThisCorrect) {
+            label.classList.add("wrong");
+          }
+        });
+
+        // Update UI
+        updateQuestionsNav();
+        updateNavButtons();
+      }
+
+      /* وظيفة للبحث عن أول سؤال لم تتم الإجابة عليه */
+      function findFirstUnansweredQuestion() {
+        for (let i = 0; i < answersState.length; i++) {
+          if (!answersState[i].answered) {
+            return i;
+          }
+        }
+        return -1; // جميع الأسئلة تمت الإجابة عليها
+      }
+
+      /* وظيفة للتحقق مما إذا كانت جميع الأسئلة تمت الإجابة عليها */
+      function areAllQuestionsAnswered() {
+        return answersState.every((state) => state.answered);
+      }
+
+      /* Update Navigation Buttons State */
+      function updateNavButtons() {
+        // Previous button
+        prevBtn.disabled = currentQuestionIndex === 0;
+
+        // Next button
+        const isLastQuestion = currentQuestionIndex === allQuestions.length - 1;
+        nextBtn.textContent = isLastQuestion ? "Show Result" : "Next";
+        nextBtn.disabled = false;
+      }
+
+      /* Quran Overlay Display */
       function showQuranOverlay(callback) {
         quranOverlay.classList.add("show");
         let timeLeft = 30;
-        countdown.textContent = timeLeft;
+        countdownElement.textContent = timeLeft;
 
         let timer = setInterval(() => {
           timeLeft--;
-          countdown.textContent = timeLeft;
+          countdownElement.textContent = timeLeft;
 
           if (timeLeft <= 0) {
             clearInterval(timer);
@@ -503,209 +1312,188 @@
         }, 1000);
       }
 
-      /* Event Listeners*/
-      // Questions Nav Toggle
-      questionsBtn.onclick = function (event) {
-        event.stopPropagation();
-        questionsNav.classList.toggle("show-questions-nav");
-        document.body.classList.toggle("active");
-      };
-
-      // Close nav on body click
-      document.addEventListener("click", function () {
-        if (questionsNav.classList.contains("show-questions-nav")) {
-          questionsNav.classList.remove("show-questions-nav");
-          document.body.classList.remove("active");
-        }
-      });
-
-      // Home button
-      homeBtn.addEventListener("click", () => {
-        window.location.href = "https://kaya-benha-nursing.netlify.app/";
-      });
-
-      // Theme toggle
-      themeToggleBtn.addEventListener("click", () => {
-        document.body.classList.toggle("dark");
-        themeToggleBtn.textContent = document.body.classList.contains("dark")
-          ? "Light mode"
-          : "Dark mode";
-      });
-
-      // Start button
-      startBtn.addEventListener("click", () => {
-        startBox.classList.add("hide");
+      /* Show Exam Results */
+      function showResults() {
         showQuranOverlay(() => {
-          quizBox.classList.remove("hide");
-          setNextQuestion();
+          // Hide question container, show result box
+          questionContainer.style.display = "none";
+          document.querySelector(".nav-buttons").style.display = "none";
+          document.querySelector(".question-nav-container").style.display =
+            "none";
+
+          // Calculate score
+          const correctAnswers = answersState.filter(
+            (state) => state.correct
+          ).length;
+          const totalQuestions = allQuestions.length;
+          const percentage = Math.round(
+            (correctAnswers / totalQuestions) * 100
+          );
+
+          // Update result text
+          scoreText.textContent = `${correctAnswers} out of ${totalQuestions}`;
+
+          // Set result message based on score
+          let message = "";
+          if (percentage >= 90) {
+            message = "Excellent! You have achieved an outstanding result.";
+          } else if (percentage >= 70) {
+            message = "Very good! Your performance is excellent.";
+          } else if (percentage >= 50) {
+            message = "Good. You can improve with more practice.";
+          } else {
+            message =
+              "Needs improvement. Review the study material and try again.";
+          }
+
+          resultMessage.textContent = message;
+
+          // Show result box
+          resultBox.classList.add("show");
         });
-      });
-      // startBtn.addEventListener("click", () => {
-      //   startBox.classList.add("hide");
-      //   setNextQuestion();
-      // });
+      }
 
-      // Next button
-      nextBtn.addEventListener("click", () => {
-        currentQuestionIndex++;
-        setNextQuestion();
-      });
+      /* وظيفة معالجة ضغط زر Show Result */
+      function handleShowResult() {
+        if (areAllQuestionsAnswered()) {
+          // الحالة الأولى: جميع الأسئلة تمت الإجابة عليها
+          showResults();
+        } else {
+          // الحالة الثانية: هناك أسئلة لم تتم الإجابة عليها
+          const firstUnansweredIndex = findFirstUnansweredQuestion();
+          if (firstUnansweredIndex !== -1) {
+            // الانتقال لأول سؤال لم تتم الإجابة عليه
+            currentQuestionIndex = firstUnansweredIndex;
+            showQuestion(currentQuestionIndex);
 
-      // Try again button
-      tryAgainBtn.addEventListener("click", startQuiz);
+            // إظهار الرسالة المنبثقة للمستخدم
+            showCustomAlert();
+          }
+        }
+      }
 
-      /*  Quiz Logic */
-      function startQuiz() {
+      /* Try Again - Restart Exam */
+      function restartExam() {
+        // Reset variables
         currentQuestionIndex = 0;
         score = 0;
-        shuffleArray(allQuestions);
         answersState = allQuestions.map(() => ({
           answered: false,
           correct: null,
           chosenIndex: null,
         }));
 
-        startBox.classList.add("hide");
-        resultBox.classList.add("hide");
-        quizBox.classList.remove("hide");
+        // خلط الأسئلة مرة أخرى
+        shuffleArray(allQuestions);
 
-        setNextQuestion();
+        // Show question container, hide result box
+        questionContainer.style.display = "block";
+        document.querySelector(".nav-buttons").style.display = "flex";
+        document.querySelector(".question-nav-container").style.display =
+          "block";
+        resultBox.classList.remove("show");
+
+        // Show first question
+        showQuestion(currentQuestionIndex);
       }
 
-      function setNextQuestion() {
-        resetState();
+      /* Event Listeners */
+      // Theme toggle with icons
+      themeToggle.addEventListener("click", () => {
+        const isDark = document.body.classList.toggle("dark");
 
-        if (currentQuestionIndex < allQuestions.length) {
-          showQuestion(allQuestions[currentQuestionIndex]);
-          highlightCurrentNav();
-
-          nextBtn.textContent =
-            currentQuestionIndex === allQuestions.length - 1
-              ? "Show Result"
-              : "Next";
-
-          nextBtn.disabled = !answersState[currentQuestionIndex].answered;
+        // تغيير الأيقونة بناءً على الوضع الحالي
+        if (isDark) {
+          themeIcon.className = "fa-solid fa-sun";
+          themeToggle.title = "Switch to light mode";
         } else {
-          const firstUnanswered = answersState.findIndex((q) => !q.answered);
-          if (firstUnanswered !== -1) {
-            currentQuestionIndex = firstUnanswered;
-            setNextQuestion();
-          } else {
-            showResult();
-          }
-        }
-      }
-
-      function showQuestion(questionObj) {
-        questionNumberElement.textContent = `Question ${
-          currentQuestionIndex + 1
-        } of ${allQuestions.length}`;
-        questionText.textContent = questionObj.question;
-
-        let optionsWithFlag = questionObj.options.map((opt, i) => ({
-          text: opt,
-          isCorrect: i === questionObj.correctIndex,
-          index: i,
-        }));
-
-        if (!isTrueFalseQuestion(questionObj)) {
-          const fixedOptions = [
-            "All of the above",
-            "All are true",
-            "All are false",
-            "All are correct",
-            "All of the answers are correct",
-            "All of the answers are recommended",
-            "None of the above",
-          ];
-          const fixedIndex = optionsWithFlag.findIndex((opt) =>
-            fixedOptions.includes(opt.text.trim())
-          );
-          if (fixedIndex !== -1) {
-            const fixedOption = optionsWithFlag.splice(fixedIndex, 1)[0];
-            shuffleArray(optionsWithFlag);
-            optionsWithFlag.push(fixedOption);
-          } else {
-            shuffleArray(optionsWithFlag);
-          }
+          themeIcon.className = "fa-solid fa-moon";
+          themeToggle.title = "Switch to dark mode";
         }
 
-        optionsWithFlag.forEach((option) => {
-          const button = document.createElement("button");
-          button.textContent = option.text;
-          button.classList.add("answer-btn");
+        // Save theme preference
+        localStorage.setItem("theme", isDark ? "dark" : "light");
 
-          if (answersState[currentQuestionIndex].answered) {
-            button.disabled = true;
-            if (option.isCorrect) button.classList.add("correct");
-            if (
-              answersState[currentQuestionIndex].chosenIndex === option.index &&
-              !option.isCorrect
-            ) {
-              button.classList.add("wrong");
-            }
-          } else {
-            button.addEventListener("click", () =>
-              selectAnswer(button, option.isCorrect, option.index)
-            );
-          }
+        // حفظ حالة الأيقونة
+        localStorage.setItem("themeIcon", isDark ? "sun" : "moon");
+      });
 
-          answerButtons.appendChild(button);
-        });
-      }
-
-      function resetState() {
-        nextBtn.disabled = true;
-        answerButtons.innerHTML = "";
-      }
-
-      function selectAnswer(button, isCorrect, chosenIndex) {
-        const buttons = answerButtons.querySelectorAll("button");
-        buttons.forEach((btn) => (btn.disabled = true));
-
-        if (isCorrect) {
-          button.classList.add("correct");
-          score++;
-          answersState[currentQuestionIndex] = {
-            answered: true,
-            correct: true,
-            chosenIndex,
-          };
+      // Toggle navigation
+      toggleNavBtn.addEventListener("click", () => {
+        isNavVisible = !isNavVisible;
+        if (isNavVisible) {
+          questionsNav.classList.remove("hidden");
+          toggleNavBtn.textContent = "Hide Navigation";
         } else {
-          button.classList.add("wrong");
-          buttons.forEach((btn) => {
-            if (
-              btn.textContent ===
-              allQuestions[currentQuestionIndex].options[
-                allQuestions[currentQuestionIndex].correctIndex
-              ]
-            ) {
-              btn.classList.add("correct");
-            }
-          });
-          answersState[currentQuestionIndex] = {
-            answered: true,
-            correct: false,
-            chosenIndex,
-          };
+          questionsNav.classList.add("hidden");
+          toggleNavBtn.textContent = "Show Navigation";
         }
+      });
 
-        highlightCurrentNav();
-        nextBtn.disabled = false;
-      }
+      // Previous button
+      prevBtn.addEventListener("click", () => {
+        if (currentQuestionIndex > 0) {
+          currentQuestionIndex--;
+          showQuestion(currentQuestionIndex);
+        }
+      });
 
-      // function showResult() {
-      //   quizBox.classList.add("hide");
-      //   resultBox.classList.remove("hide");
-      //   scoreText.textContent = `${score} out of ${allQuestions.length}`;
-      // }
-      function showResult() {
-        showQuranOverlay(() => {
-          quizBox.classList.add("hide");
-          resultBox.classList.remove("hide");
-          scoreText.textContent = `${score} out of ${allQuestions.length}`;
+      // Next button
+      nextBtn.addEventListener("click", () => {
+        if (currentQuestionIndex < allQuestions.length - 1) {
+          currentQuestionIndex++;
+          showQuestion(currentQuestionIndex);
+        } else {
+          // آخر سؤال - معالجة زر Show Result
+          handleShowResult();
+        }
+      });
+
+      // Try again button
+      tryAgainBtn.addEventListener("click", () => {
+        restartExam();
+      });
+
+      // Home button
+      homeBtn.addEventListener("click", () => {
+        // In a real application, this would redirect to home page
+        alert("You will be redirected to the home page");
+        // window.location.href = "https://example.com";
+      });
+
+      // إزالة auto-focus من أي عنصر
+      document.addEventListener("DOMContentLoaded", () => {
+        // تعطيل auto-focus على أي عنصر
+        const allFocusable = document.querySelectorAll(
+          "button, .option-label, .question-nav-item"
+        );
+        allFocusable.forEach((el) => {
+          el.setAttribute("tabindex", "0");
         });
+      });
+
+      // Load saved theme preference and icon
+      const savedTheme = localStorage.getItem("theme");
+      const savedIcon = localStorage.getItem("themeIcon");
+
+      if (savedTheme === "dark") {
+        document.body.classList.add("dark");
+        themeIcon.className = "fa-solid fa-sun";
+        themeToggle.title = "Switch to light mode";
+      } else {
+        themeIcon.className = "fa-solid fa-moon";
+        themeToggle.title = "Switch to dark mode";
       }
+
+      // إذا كان هناك إعداد سابق للأيقونة
+      if (savedIcon === "sun") {
+        themeIcon.className = "fa-solid fa-sun";
+      } else if (savedIcon === "moon") {
+        themeIcon.className = "fa-solid fa-moon";
+      }
+
+      // بدء تحميل الأسئلة
+      loadQuestionsFromJSON();
     </script>
   </body>
 </html>
