@@ -28,6 +28,13 @@
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/l4.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Chest",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/l5.json",
+      "file": null,
+      "summary": null
     }
   ]
 }

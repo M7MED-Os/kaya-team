@@ -1,0 +1,345 @@
+{
+  "title": "Pediatric Respiratory Conditions",
+  "questions": [
+    {
+      "question": "Which structure is the site of gas exchange in the lungs?",
+      "options": ["Bronchus", "Alveoli", "Trachea", "Larynx"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The carina is a part of which respiratory structure?",
+      "options": ["Larynx", "Bronchi", "Trachea", "Pharynx"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Acute rhinosinusitis lasting more than 10 days is most likely due to:",
+      "options": [
+        "Viral infection",
+        "Bacterial infection",
+        "Allergic irritation",
+        "Fungal infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which illness is characterized by paroxysmal coughing episodes followed by a loud \"whooping\" gasp?",
+      "options": ["Asthma", "Pneumonia", "Pertussis", "Croup"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Allergic rhinitis primarily causes cough through which mechanism?",
+      "options": [
+        "Direct lung inflammation",
+        "Post-nasal drip irritating airways",
+        "Bronchospasm",
+        "Pulmonary edema"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Up to what percentage of chronic cough cases in children may be attributed to gastroesophageal reflux disease (GERD)?",
+      "options": ["10%", "25%", "40%", "60%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the most common viral cause of croup?",
+      "options": [
+        "Influenza virus",
+        "Respiratory syncytial virus (RSV)",
+        "Parainfluenza virus",
+        "Adenovirus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT a typical symptom of croup?",
+      "options": [
+        "Barking cough",
+        "Inspiratory stridor",
+        "High-grade fever",
+        "Hoarseness"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The symptoms of viral croup typically peak in severity on which days of illness?",
+      "options": ["Days 1-2", "Days 3-4", "Days 5-6", "Day 7"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a recommended nursing intervention for a child with croup?",
+      "options": [
+        "Use of a warm mist humidifier",
+        "Encouraging fluid intake with frozen juice popsicles",
+        "Laying the child flat without pillows",
+        "Administering antitussive medication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bronchiolitis most commonly affects which age group?",
+      "options": [
+        "Newborns",
+        "Children younger than 2 years",
+        "Children 5-10 years",
+        "Adolescents"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a pathophysiological change seen in bronchiolitis?",
+      "options": [
+        "Dilation of bronchioles",
+        "Increased ciliary function",
+        "Mucus buildup and epithelial necrosis",
+        "Relaxation of smooth muscles"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A clinical sign of increased work of breathing in bronchiolitis is:",
+      "options": [
+        "Bradycardia",
+        "Nasal flaring",
+        "Hypertension",
+        "Hyperactivity"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which child is at the HIGHEST risk for severe bronchiolitis?",
+      "options": [
+        "A 6-month-old born at 38 weeks",
+        "A 4-month-old born at 32 weeks",
+        "A 12-month-old with eczema",
+        "A 2-year-old with allergic rhinitis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the leading global cause of morbidity and mortality in children under 5 years?",
+      "options": [
+        "Asthma",
+        "Congenital heart disease",
+        "Pneumonia",
+        "Gastroenteritis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In neonates (0-30 days), pneumonia is most commonly caused by:",
+      "options": [
+        "Respiratory viruses",
+        "Mycoplasma pneumoniae",
+        "Bacteria from the birth canal (e.g., Group B Strep)",
+        "Streptococcus pneumoniae"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In school-aged children (5-13 years), which organism is frequently a cause of pneumonia?",
+      "options": [
+        "Respiratory syncytial virus (RSV)",
+        "Mycoplasma pneumoniae",
+        "Listeria monocytogenes",
+        "Haemophilus influenzae type B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which complication of pneumonia involves the formation of pus pockets in the lung?",
+      "options": [
+        "Atelectasis",
+        "Empyema",
+        "Pulmonary embolism",
+        "Lung abscess"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which diagnostic test provides a direct examination of the main airways using a flexible tube?",
+      "options": [
+        "Chest X-ray",
+        "Sputum culture",
+        "Bronchoscopy",
+        "Pulse oximetry"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A key nursing responsibility for a hospitalized child with pneumonia is monitoring for:",
+      "options": [
+        "Hyperglycemia",
+        "Fluid deficit and dehydration",
+        "Hypertension",
+        "Bradycardia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Asthma is best defined as a chronic condition involving:",
+      "options": [
+        "Permanent airway dilation",
+        "Episodic airflow obstruction due to inflammation",
+        "Consistent over-production of pulmonary surfactant",
+        "Isolated infection of the large bronchi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During an asthma attack, the primary change in the airway includes:",
+      "options": [
+        "Thinning of the airway wall",
+        "Relaxation of smooth muscles",
+        "Inflammation, thickening, and smooth muscle tightening",
+        "Increased ciliary clearance"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT a common trigger for asthma symptoms?",
+      "options": [
+        "Upper respiratory infections",
+        "Exercise",
+        "Exposure to tobacco smoke",
+        "High-fiber diet"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which class of medication is used for long-term asthma control by reducing airway inflammation?",
+      "options": [
+        "Short-acting beta-agonists (SABA)",
+        "Inhaled corticosteroids (ICS)",
+        "Anticholinergics",
+        "Antitussives"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Leukotriene receptor antagonists (LTRAs) like montelukast work by:",
+      "options": [
+        "Blocking histamine receptors",
+        "Inhibiting the 5-lipoxygenase pathway or blocking cysteinyl-leukotriene receptors",
+        "Stimulating beta-2 receptors",
+        "Enhancing mucociliary clearance"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An 18-month-old infant presents with rhinorrhea, low-grade fever, and a worsening cough for 3 days. On exam, you note tachypnea, subcostal retractions, and fine wheezes/crackles throughout the lung fields. What is the most likely diagnosis?",
+      "options": [
+        "Bacterial Pneumonia",
+        "Acute Asthma",
+        "Viral Bronchiolitis",
+        "Foreign Body Aspiration"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 4-year-old boy is brought to the ED at 2 AM. His parents report 2 days of cold symptoms, and tonight he developed a loud, harsh cough that sounds like a \"seal barking.\" He has audible noise when breathing in. What is the most appropriate initial management focus?",
+      "options": [
+        "Administer IV antibiotics",
+        "Provide cool mist humidification and assess airway",
+        "Order a STAT chest X-ray",
+        "Perform abdominal thrusts"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 7-year-old with known asthma comes to the clinic with increased daytime cough, wheezing, and shortness of breath when playing soccer for the past week. Lung auscultation reveals diffuse expiratory wheezes. Which medication should be emphasized for preventing these exercise-induced symptoms?",
+      "options": [
+        "Oral corticosteroids",
+        "Inhaled short-acting beta-agonist (SABA) used prophylactically before exercise",
+        "Daily antihistamine",
+        "Inhaled anticholinergic"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 3-week-old neonate presents with fever, lethargy, and grunting respirations. Chest X-ray shows a consolidative infiltrate. Which group of pathogens is of greatest concern?",
+      "options": [
+        "Respiratory viruses (RSV, Rhinovirus)",
+        "Mycoplasma pneumoniae",
+        "Birth canal bacteria (Group B Streptococcus, E. coli)",
+        "Mycobacterium tuberculosis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 2-year-old with moderate croup receives nebulized epinephrine in the ED with good improvement. The stridor resolves, and the child is playful. What is an important reason for observing this child for several hours post-treatment?",
+      "options": [
+        "To monitor for diarrhea",
+        "To watch for the potential rebound worsening of symptoms",
+        "To administer a second dose of antibiotics",
+        "To obtain a sputum culture"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 10-year-old child is diagnosed with pneumonia. Despite 48 hours of appropriate antibiotics, she remains febrile and now reports sharp right-sided chest pain that worsens with breathing. Which complication should be suspected?",
+      "options": [
+        "Asthma exacerbation",
+        "Development of empyema or pleural effusion",
+        "Pulmonary embolism",
+        "Otitis media"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 5-year-old with a chronic wet cough for 8 weeks has no fever or wheezing. History reveals she often complains of a \"sour taste\" in her mouth, especially after meals. What is a leading potential cause of this chronic cough?",
+      "options": [
+        "Bacterial sinusitis",
+        "Gastroesophageal reflux disease (GERD)",
+        "Tuberculosis",
+        "Cystic fibrosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An infant with bronchiolitis has a respiratory rate of 65/min, mild subcostal retractions, and a pulse oximetry reading of 89% on room air. What is the most immediate nursing action?",
+      "options": [
+        "Start oral fluids",
+        "Administer supplemental oxygen",
+        "Obtain a blood culture",
+        "Perform chest physiotherapy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pertussis (whooping cough) is caused by a viral infection.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In croup, agitation can worsen the symptom of stridor.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Bronchiolitis is primarily treated with a course of oral antibiotics.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Streptococcus pneumoniae is a common bacterial cause of pneumonia in preschool-aged children (2-5 years).",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Inhaled corticosteroids are used for quick relief during an acute asthma attack.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A key component of nursing care for pneumonia includes monitoring for signs of sepsis, such as fever and vital sign instability.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Leukotriene pathway modifiers (like montelukast) can cause both bronchoconstriction and increased mucus secretion.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
