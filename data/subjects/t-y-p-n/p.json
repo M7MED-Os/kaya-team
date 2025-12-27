@@ -42,6 +42,20 @@
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/l6.json",
       "file": null,
       "summary": null
+    },
+    {
+      "title": "Cardio",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Nephro",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
     }
   ]
 }
