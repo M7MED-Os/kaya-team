@@ -131,7 +131,7 @@
       "options": [
         "Respiratory viruses",
         "Mycoplasma pneumoniae",
-        "Bacteria from the birth canal (e.g., Group B Strep)",
+        "Bacteria from the birth canal",
         "Streptococcus pneumoniae"
       ],
       "correctIndex": 2
@@ -191,7 +191,7 @@
       "options": [
         "Thinning of the airway wall",
         "Relaxation of smooth muscles",
-        "Inflammation, thickening, and smooth muscle tightening",
+        "Thickening and smooth muscle tightening",
         "Increased ciliary clearance"
       ],
       "correctIndex": 2
@@ -213,16 +213,6 @@
         "Inhaled corticosteroids (ICS)",
         "Anticholinergics",
         "Antitussives"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Leukotriene receptor antagonists (LTRAs) like montelukast work by:",
-      "options": [
-        "Blocking histamine receptors",
-        "Inhibiting the 5-lipoxygenase pathway or blocking cysteinyl-leukotriene receptors",
-        "Stimulating beta-2 receptors",
-        "Enhancing mucociliary clearance"
       ],
       "correctIndex": 1
     },
@@ -250,7 +240,7 @@
       "question": "A 7-year-old with known asthma comes to the clinic with increased daytime cough, wheezing, and shortness of breath when playing soccer for the past week. Lung auscultation reveals diffuse expiratory wheezes. Which medication should be emphasized for preventing these exercise-induced symptoms?",
       "options": [
         "Oral corticosteroids",
-        "Inhaled short-acting beta-agonist (SABA) used prophylactically before exercise",
+        "Inhaled short-acting beta-agonist (SABA)",
         "Daily antihistamine",
         "Inhaled anticholinergic"
       ],
@@ -280,7 +270,7 @@
       "question": "A 10-year-old child is diagnosed with pneumonia. Despite 48 hours of appropriate antibiotics, she remains febrile and now reports sharp right-sided chest pain that worsens with breathing. Which complication should be suspected?",
       "options": [
         "Asthma exacerbation",
-        "Development of empyema or pleural effusion",
+        "Empyema or pleural effusion",
         "Pulmonary embolism",
         "Otitis media"
       ],
