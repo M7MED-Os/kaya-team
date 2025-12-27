@@ -1,0 +1,35 @@
+{
+  "title": "Neonatal Hypothermia and Constipation",
+  "questions": [
+    {
+      "question": "Neonatal hypothermia is defined as a core body temperature below 36.5°C.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Premature infants are less likely to develop hypothermia because they have more brown fat.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A distinguishing feature of functional constipation is:",
+      "options": [
+        "Detectable anatomical defect",
+        "Absence of underlying disease",
+        "Presence of infection",
+        "Blood in stool"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Constipation caused by hypothyroidism is an example of functional constipation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Early breastfeeding helps prevent both hypothermia and constipation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
