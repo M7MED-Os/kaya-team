@@ -30,9 +30,9 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        min-height: 100vh;
+        height: 100vh;
         margin: 0;
-        padding: 10px;
+        transition: background 0.3s ease, color 0.3s ease;
       }
 
       /* Buttons */
@@ -46,37 +46,43 @@
         background-color: #2980b9;
         color: white;
         box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+        transition: background-color 0.3s ease;
         z-index: 1000;
       }
 
       #theme-toggle {
-        top: 10px;
-        right: 10px;
+        top: 15px;
+        right: 15px;
       }
       #questions-btn {
-        top: 10px;
-        left: 10px;
+        top: 15px;
+        left: 15px;
+      }
+
+      #theme-toggle:hover {
+        background-color: #1c5980;
       }
 
       /* Questions navigation */
       #questions-nav {
-        position: fixed;
-        top: 60px;
-        left: 50%;
-        transform: translateX(-50%);
-        max-width: 95%;
-        max-height: 60vh;
-        overflow-y: auto;
+        position: absolute;
+        top: 50px;
         padding: 10px;
         background-color: #fff;
-        border-radius: 12px;
+        border-radius: 10px;
         opacity: 0;
         visibility: hidden;
-        transition: 0.3s;
+        transition: all 0.3s ease;
+        z-index: 1000;
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
-        gap: 8px;
-        z-index: 1001;
+        grid-template-columns: repeat(6, 1fr);
+      }
+
+      #questions-nav li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
       }
 
       #questions-nav.show-questions-nav {
@@ -86,142 +92,215 @@
 
       body.active::before {
         content: "";
-        position: fixed;
-        inset: 0;
-        background-color: rgba(0, 0, 0, 0.6);
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: #0000008f;
         z-index: 1000;
       }
 
       /* Quiz container */
       .container {
-        width: 100%;
-        max-width: 420px;
+        width: 420px;
         background: #ffffff;
-        padding: 25px 20px;
+        margin: 0 10px;
+        padding: 30px 25px;
         border-radius: 16px;
         box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
         text-align: center;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
       }
 
       #question-text {
-        font-size: 18px;
+        font-size: 22px;
         font-weight: 700;
-        margin-bottom: 20px;
-        padding: 14px;
+        margin-bottom: 25px;
+        color: #333;
+        padding: 14px 20px;
         background-color: #e3f2fd;
         border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(33, 150, 243, 0.15);
+        user-select: none;
+        transition: background-color 0.3s ease, color 0.3s ease;
       }
 
       #question-number {
-        margin-bottom: 10px;
-        font-size: 14px;
+        margin-bottom: 15px;
+        font-size: 16px;
         color: #666;
+        font-weight: 500;
+        transition: color 0.3s ease;
       }
 
+      /* Buttons grid */
       .btn-grid {
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 12px;
+        margin-top: 15px;
       }
 
       button {
-        padding: 14px;
-        font-size: 15px;
+        padding: 12px;
+        font-size: 16px;
         border: none;
         border-radius: 10px;
         cursor: pointer;
         background-color: #3498db;
         color: white;
+        transition: background-color 0.3s ease, transform 0.1s ease;
+      }
+
+      button:hover {
+        background-color: #2980b9;
+        transform: scale(1.02);
       }
 
       button:disabled {
         background-color: #bdc3c7;
+        cursor: not-allowed;
       }
 
-      .correct {
+      .correct,
+      .correct:hover {
         background-color: #2ecc71 !important;
       }
-      .wrong {
+      .wrong,
+      .wrong:hover {
         background-color: #e74c3c !important;
       }
 
+      .answer-btn:last-of-type {
+        margin-bottom: 10px;
+      }
+
+      /* Result */
       #result-box {
         margin-top: 20px;
-        font-size: 18px;
-        padding: 15px;
+        font-size: 20px;
+        font-weight: bold;
+        color: #2c3e50;
+        padding: 12px;
         background-color: #dfefff;
         border-radius: 10px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease, color 0.3s ease;
       }
 
       .hide {
         display: none;
       }
 
+      /* Dark mode */
+      body.dark {
+        background: linear-gradient(135deg, #181818 0%, #0c0c0c 100%);
+        color: #ddd;
+      }
+      body.dark #questions-nav {
+        background-color: #353535;
+      }
+      body.dark .container {
+        background: #1c1c1c;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.7);
+      }
+      body.dark #question-text {
+        background-color: #353535;
+        color: #f0f0f0;
+      }
+      body.dark #question-number {
+        color: #bbb;
+      }
+      body.dark #result-box {
+        background-color: #3a3a3a;
+        color: #eee;
+      }
+      body.dark button {
+        background-color: #1b4f72;
+      }
+      body.dark button:hover {
+        background-color: #1c5980;
+      }
+      body.dark button:disabled {
+        background-color: #555;
+      }
+      body.dark .correct {
+        background-color: #27ae60;
+      }
+      body.dark .wrong {
+        background-color: #c0392b;
+      }
+
       /* Quran overlay */
       #quran-overlay {
-        position: fixed;
-        inset: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
         background: rgba(248, 249, 250, 0.98);
         display: flex;
         justify-content: center;
         align-items: center;
-        z-index: 2000;
+        z-index: 999;
         opacity: 0;
         pointer-events: none;
-        transition: 0.3s;
-        overflow-y: auto;
-        padding: 15px;
+        transition: opacity 0.3s ease-in-out;
+        direction: rtl;
+        padding: 10px;
+        border-radius: 5px;
       }
 
       #quran-overlay.show {
         opacity: 1;
         pointer-events: auto;
       }
-
       .overlay-content {
-        max-width: 600px;
-        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
       }
 
       .surah {
+        width: 100%;
         background: #fff;
-        padding: 15px;
-        border-radius: 12px;
-        margin-bottom: 15px;
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+      }
+      .surah > * {
+        margin: 0;
         line-height: 1.8;
       }
 
+      .surah h2 {
+        margin-bottom: 10px;
+      }
+
+      body.dark #quran-overlay {
+        background: linear-gradient(135deg, #181818 0%, #0c0c0c 100%);
+      }
+      body.dark #quran-overlay .surah {
+        background: #1c1c1c;
+      }
+
       #countdown {
-        margin: 0 auto 15px;
-        font-size: 20px;
+        margin-top: 15px;
+        font-size: 22px;
+        font-weight: bold;
         width: 50px;
         height: 50px;
+        padding: 5px;
         border-radius: 50%;
         display: flex;
         justify-content: center;
         align-items: center;
         background-color: #fff;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
       }
-
-      /* Mobile specific improvements */
-      @media (max-width: 480px) {
-        #question-text {
-          font-size: 16px;
-        }
-
-        button {
-          font-size: 14px;
-          padding: 12px;
-        }
-
-        .btn {
-          font-size: 12px;
-          padding: 6px 10px;
-        }
-
-        #questions-nav {
-          grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
-        }
+      body.dark #countdown {
+        color: #fff;
+        background: #1c1c1c;
       }
     </style>
   </head>
