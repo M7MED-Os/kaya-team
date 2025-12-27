@@ -1,0 +1,325 @@
+{
+  "title": "GIT",
+  "questions": [
+    {
+      "question": "What is the most common cause of acute gastroenteritis in infants younger than 24 months of age worldwide?",
+      "options": [
+        "Shigella spp.",
+        "Norovirus",
+        "Rotavirus",
+        "Campylobacter jejuni"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is the primary route of transmission for infectious gastroenteritis?",
+      "options": [
+        "Airborne droplets",
+        "Fecal–oral route",
+        "Bloodborne transmission",
+        "Direct skin contact"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What percentage of pediatric deaths worldwide is attributed to gastroenteritis?",
+      "options": ["5%", "10%", "15%", "20%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a common clinical symptom of gastroenteritis?",
+      "options": ["Vomiting", "Diarrhea", "Jaundice", "Abdominal cramps"],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the management of acute gastroenteritis, which of the following is the first-line intervention for mild to moderate dehydration?",
+      "options": [
+        "Intravenous antibiotics",
+        "Oral rehydration solution (ORS)",
+        "Antidiarrheal medication",
+        "Probiotic supplementation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the lecture, which of the following is a common complication of untreated gastroenteritis?",
+      "options": [
+        "Hyperglycemia",
+        "Hemolytic uremic syndrome",
+        "Hypertension",
+        "Respiratory alkalosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which clinical sign is part of the \"MD, SUN BUN LORN\" mnemonic for assessing dehydration?",
+      "options": [
+        "Bradycardia",
+        "Sunken fontanelle",
+        "Hypertension",
+        "Peripheral edema"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a child with gastroenteritis, which type of dehydration is characterized by sodium levels <135 mEq/L?",
+      "options": [
+        "Hypernatremic",
+        "Isonatremic",
+        "Hyponatremic",
+        "Hyperkalemic"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following foods should be avoided during early refeeding after gastroenteritis?",
+      "options": [
+        "Yogurt",
+        "Lean meats",
+        "Complex carbohydrates",
+        "Foods high in fat and sugars"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which nursing intervention is essential in preventing the spread of infectious gastroenteritis?",
+      "options": [
+        "Administering IV fluids",
+        "Educating on hand hygiene",
+        "Providing antipyretics",
+        "Monitoring blood glucose"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which organism is primarily responsible for causing typhoid fever?",
+      "options": [
+        "Escherichia coli",
+        "Salmonella typhi",
+        "Shigella dysenteriae",
+        "Vibrio cholerae"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the characteristic fever pattern in typhoid fever?",
+      "options": [
+        "Intermittent fever",
+        "Remittent fever",
+        "Step-ladder fever",
+        "Hectic fever"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a common gastrointestinal symptom in typhoid fever?",
+      "options": [
+        "Projectile vomiting",
+        "Pea soup diarrhea",
+        "Bloody stools",
+        "Clay-colored stools"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "\"Rose spots\" in typhoid fever are best described as:",
+      "options": [
+        "Hemorrhagic patches on the legs",
+        "Salmon-colored blanching maculopapules on the trunk",
+        "Petechiae on the palate",
+        "Vesicular rash on the face"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which diagnostic test is considered the gold standard for typhoid fever?",
+      "options": ["Widal test", "Blood culture", "Stool antigen test", "PCR"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which class of antibiotics is commonly used as first-line treatment for typhoid fever?",
+      "options": [
+        "Penicillins",
+        "Third-generation cephalosporins",
+        "Aminoglycosides",
+        "Macrolides"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In typhoid fever, which of the following is a key nursing intervention to prevent complications?",
+      "options": [
+        "Encouraging ambulation",
+        "Restricting fluid intake",
+        "Administering antipyretics as prescribed",
+        "Providing a high-fiber diet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Type 1 diabetes mellitus results from:",
+      "options": [
+        "Insulin resistance",
+        "Autoimmune destruction of pancreatic beta cells",
+        "Excessive carbohydrate intake",
+        "Viral infection of the liver"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "At what age does the first peak incidence of type 1 diabetes typically occur?",
+      "options": ["1–3 years", "5–7 years", "10–12 years", "Adolescence only"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a common early symptom of type 1 diabetes in children?",
+      "options": ["Weight gain", "Polyuria", "Bradycardia", "Hypotension"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a sign of diabetic ketoacidosis (DKA) in children?",
+      "options": [
+        "Bradycardia",
+        "Kussmaul breathing",
+        "Hypertension",
+        "Hypothermia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which long-term complication is associated with type 1 diabetes?",
+      "options": [
+        "Osteoporosis",
+        "Retinopathy",
+        "Parkinson’s disease",
+        "Asthma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the standard method of insulin delivery in type 1 diabetes management?",
+      "options": [
+        "Oral insulin tablets",
+        "Once-daily long-acting insulin",
+        "Multiple daily injections (MDI) or insulin pump",
+        "Subcutaneous insulin implants"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which dietary component is essential in the management of type 1 diabetes?",
+      "options": [
+        "High-fat diet",
+        "Carbohydrate counting",
+        "Protein restriction",
+        "Vitamin D supplementation only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key nursing role in caring for a child with type 1 diabetes?",
+      "options": [
+        "Restricting physical activity",
+        "Providing emotional support to the child and family",
+        "Avoiding insulin during illness",
+        "Encouraging unrestricted sugar intake"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the most appropriate initial management for a 2-year-old child with severe dehydration due to gastroenteritis?",
+      "options": [
+        "Oral rehydration solution at home",
+        "Intravenous fluid resuscitation",
+        "Antidiarrheal medication",
+        "Probiotic administration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with high-grade fever, step-wise rising pattern, abdominal pain, and rose spots most likely has:",
+      "options": [
+        "Viral gastroenteritis",
+        "Typhoid fever",
+        "Type 1 diabetes",
+        "Urinary tract infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with polyuria, polydipsia, weight loss, fruity breath, and blood glucose of 450 mg/dL is most likely experiencing:",
+      "options": [
+        "Gastroenteritis",
+        "Typhoid fever",
+        "Diabetic ketoacidosis",
+        "Dehydration due to rotavirus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An irritable infant with slightly dry mucosa, normal skin turgor, and normal urine output has which degree of dehydration?",
+      "options": ["Mild", "Moderate", "Severe", "No dehydration"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which description best matches the \"pea soup diarrhea\" of typhoid fever?",
+      "options": [
+        "Bloody stools",
+        "Foul, green-yellow liquid diarrhea",
+        "Clay-colored stools",
+        "Rice-water stools"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Rotavirus is the most common cause of gastroenteritis in infants under 24 months of age.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The decline in diarrheal mortality is solely due to antibiotic therapy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In hyponatremic dehydration, sodium loss is greater than water loss.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antibiotics are the first-line treatment for viral gastroenteritis.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Typhoid fever is transmitted only through the fecal–oral route.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Rose spots in typhoid fever are typically found on the palms and soles.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Type 1 diabetes is more common in girls than boys.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kussmaul breathing is a sign of diabetic ketoacidosis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In type 1 diabetes, insulin can be administered orally.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Early reintroduction of a normal diet is recommended in the management of gastroenteritis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
