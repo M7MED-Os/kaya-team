@@ -2,6 +2,13 @@
   "subject": "طب أطفال",
   "lectures": [
     {
+      "title": "Final",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/f.json",
+      "file": null,
+      "summary": null
+    },
+    {
       "title": "Neonatal Hypothermia and Constipation",
       "video": null,
       "quiz": "exam.html?file=data/subjects/t-y-p-n/p-exams/l1.json",
