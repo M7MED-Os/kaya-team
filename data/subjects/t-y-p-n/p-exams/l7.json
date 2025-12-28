@@ -1,0 +1,435 @@
+{
+  "title": "Cardio",
+  "questions": [
+    {
+      "question": "Congenital heart disease (CHD) is best defined as:",
+      "options": [
+        "An acquired disorder affecting coronary arteries only",
+        "A structural heart abnormality present at birth",
+        "A rhythm disorder detected in infancy",
+        "A functional cardiac problem due to infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is classified as an acyanotic CHD related to a hole in the heart?",
+      "options": [
+        "Tetralogy of Fallot",
+        "Transposition of great arteries",
+        "Ventricular septal defect",
+        "Truncus arteriosus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A problem with the aorta in acyanotic CHD may include:",
+      "options": [
+        "Pulmonary atresia",
+        "Aortic coarctation",
+        "Tricuspid atresia",
+        "Total anomalous pulmonary venous return"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pulmonary artery stenosis primarily affects blood flow:",
+      "options": [
+        "From left heart to body",
+        "From lungs to left atrium",
+        "From right heart to lungs",
+        "From body to right atrium"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a cyanotic congenital heart disease?",
+      "options": [
+        "Patent ductus arteriosus",
+        "Atrial septal defect",
+        "Tetralogy of Fallot",
+        "Coarctation of aorta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Squatting in children with CHD mainly helps by:",
+      "options": [
+        "Decreasing pulmonary resistance",
+        "Increasing systemic vascular resistance",
+        "Increasing heart rate",
+        "Reducing venous return"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which symptom is LEAST likely in CHD?",
+      "options": [
+        "Cyanosis",
+        "Dyspnea",
+        "Excessive sweating",
+        "Hypertension crisis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Environmental risk factor for CHD includes maternal:",
+      "options": [
+        "Hypertension only",
+        "Diabetes and rubella",
+        "Iron deficiency anemia",
+        "Hypothyroidism only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which chromosomal abnormality is strongly associated with CHD?",
+      "options": ["Trisomy 21", "Trisomy 8", "XXY syndrome", "Trisomy 16"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Turner syndrome is characterized by:",
+      "options": ["Trisomy X", "Monosomy X", "Trisomy 21", "Mosaic trisomy 18"],
+      "correctIndex": 1
+    },
+    {
+      "question": "About 72% of CHD cases:",
+      "options": [
+        "Are due to trisomy 21",
+        "Have identifiable single-gene defects",
+        "Have no identifiable genetic etiology",
+        "Are caused by infections only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fetal echocardiography should be performed when:",
+      "options": [
+        "All pregnancies reach 20 weeks",
+        "Maternal diabetes is present only",
+        "Cardiac abnormality is suspected on ultrasound",
+        "Baby shows postnatal cyanosis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "ECG in CHD can identify all EXCEPT:",
+      "options": [
+        "Rhythm abnormalities",
+        "Ventricular hypertrophy",
+        "Valve stenosis severity",
+        "Abnormal axis deviation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Pulse oximetry screening for CHD is best performed:",
+      "options": [
+        "Immediately after birth",
+        "Before discharge even if <12 h",
+        "At ≥24 hours of age",
+        "At 72 hours only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A positive pulse oximetry screen includes:",
+      "options": [
+        "Saturation 96% in both limbs once",
+        "Any saturation <90%",
+        "Difference of 2% once",
+        "Hand saturation higher than foot"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pulse oximetry screening mainly detects lesions with:",
+      "options": [
+        "Left-to-right shunt",
+        "Obstructive lesions only",
+        "Right-to-left shunt and cyanosis",
+        "Valvular regurgitation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is NOT a complication of intracardiac shunts?",
+      "options": [
+        "Pulmonary hypertension",
+        "Eisenmenger syndrome",
+        "Failure to thrive",
+        "Systemic hypertension crisis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Prostaglandin E1 in cyanotic heart disease is used to:",
+      "options": [
+        "Close ductus arteriosus",
+        "Reduce pulmonary edema",
+        "Keep ductus arteriosus open",
+        "Increase myocardial contractility"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Heart failure is defined as inability of the heart to:",
+      "options": [
+        "Maintain normal rhythm",
+        "Meet metabolic needs of the body",
+        "Pump blood to lungs only",
+        "Prevent cardiomegaly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In older children with heart failure, common symptoms include:",
+      "options": [
+        "Wheezing and rales only",
+        "Abdominal pain and anorexia",
+        "Cyanosis and clubbing",
+        "Syncope only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A consistent finding in pediatric heart failure is:",
+      "options": [
+        "Normal heart size",
+        "Cardiomegaly",
+        "Bradycardia",
+        "Dry lungs always"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In infants with heart failure, which finding is most characteristic?",
+      "options": [
+        "Polyuria and weight gain",
+        "Feeding difficulty and excessive sweating",
+        "Hypertension and headache",
+        "Cyanosis without respiratory signs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Wheezing in young infants with heart failure is often more prominent than:",
+      "options": ["Stridor", "Rales", "Cyanosis", "Clubbing"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hepatomegaly in infant heart failure occurs mainly due to:",
+      "options": [
+        "Portal hypertension",
+        "Right-sided heart congestion",
+        "Liver infection",
+        "Dehydration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema in infants with heart failure commonly involves:",
+      "options": [
+        "Hands only",
+        "Legs only",
+        "Eyelids and sacrum",
+        "Face and neck only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A gallop rhythm in heart failure indicates:",
+      "options": [
+        "Normal cardiac finding",
+        "Arrhythmia without significance",
+        "Ventricular dysfunction",
+        "Valve stenosis only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Rheumatic fever is best described as:",
+      "options": [
+        "A viral myocarditis of infancy",
+        "A degenerative valvular disease",
+        "An immune-mediated sequel of GAS pharyngitis",
+        "A congenital inflammatory disorder"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The age group most affected by rheumatic fever is:",
+      "options": [
+        "Neonates",
+        "Infants",
+        "Children and adolescents",
+        "Elderly adults"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to modified Jones criteria, diagnosis of recurrent RF requires:",
+      "options": [
+        "Only 1 major criterion",
+        "2 minor criteria only",
+        "2 major, or 1 major + 2 minor, or 3 minor",
+        "Fever plus positive throat culture"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a MAJOR Jones criterion?",
+      "options": [
+        "Fever",
+        "Prolonged PR interval",
+        "Polyarthritis",
+        "Elevated ESR"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is considered a MAJOR manifestation of RF?",
+      "options": ["Monoarthralgia", "Chorea", "Fever ≥38°C", "Raised CRP"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Erythema marginatum is best described as:",
+      "options": [
+        "Painful vesicular rash",
+        "Raised itchy urticarial rash",
+        "Flat, painless rash with ragged edges",
+        "Nodular purpuric rash"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is a MINOR Jones criterion?",
+      "options": [
+        "Carditis",
+        "Subcutaneous nodules",
+        "Fever ≥38.5°C",
+        "Chorea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Prolonged PR interval in RF represents:",
+      "options": [
+        "Ventricular hypertrophy",
+        "Atrial enlargement",
+        "Conduction abnormality",
+        "Ischemic change"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Throat cultures in RF are often negative because:",
+      "options": [
+        "Test sensitivity is low",
+        "Infection has usually resolved by symptom onset",
+        "Antibiotics always given earlier",
+        "GAS does not grow in culture"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Antistreptococcal antibody tests are useful because they:",
+      "options": [
+        "Detect current infection only",
+        "Peak after symptoms disappear",
+        "Confirm previous GAS infection",
+        "Replace throat culture"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Echocardiography in acute RHD helps to:",
+      "options": [
+        "Detect coronary artery disease",
+        "Measure blood pressure",
+        "Quantify valve insufficiency and ventricular dysfunction",
+        "Diagnose arrhythmias only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Anti-inflammatory treatment in acute RF mainly includes:",
+      "options": [
+        "NSAIDs only",
+        "Salicylates and steroids",
+        "Antibiotics only",
+        "Diuretics and ACE inhibitors"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Severe chorea in RF is managed with:",
+      "options": [
+        "Antibiotics",
+        "Diuretics",
+        "Anticonvulsant medications",
+        "Beta blockers"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Heart failure in acute RHD is classically treated with:",
+      "options": [
+        "Digoxin alone",
+        "Diuretics only",
+        "Inotropes + diuretics + afterload reduction",
+        "Steroids only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "CHD may be diagnosed in adulthood in some cases.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "All congenital heart defects are symptomatic at birth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pulse oximetry screening should be done before 12 hours to avoid missing cases.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Eisenmenger syndrome is a complication of long-standing intracardiac shunts.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Cardiomegaly is invariably present in pediatric heart failure.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In infants with heart failure, rales are usually more prominent than wheezing.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Rheumatic fever is a direct bacterial invasion of heart valves.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chorea is one of the major Jones criteria.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Elevated ESR and CRP are minor Jones criteria.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "About 40% of patients with acute RF may later develop mitral stenosis as adults.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
