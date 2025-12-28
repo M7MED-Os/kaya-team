@@ -484,7 +484,7 @@
     {
       "question": "Polyarthralgia is a major diagnostic criterion for acute rheumatic fever.",
       "options": ["True", "False"],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Monoarthritis is a major diagnostic criterion for acute rheumatic fever.",
