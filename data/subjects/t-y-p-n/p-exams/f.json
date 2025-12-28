@@ -347,12 +347,12 @@
       "correctIndex": 1
     },
     {
-      "question": "سؤال غلط بس مش همسحه عشان اسيب العدد 100🥱",
+      "question": "",
       "options": [
         ".",
         ".",
         ".",
-        "صلي على النبي"
+        ""
       ],
       "correctIndex": 3
     },
@@ -564,7 +564,7 @@
         "Continuous albuterol nebulization",
         "Chest physiotherapy"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
       "question": "Which of the following complications of pneumonia is characterized by the accumulation of pus within the pleural cavity?",
