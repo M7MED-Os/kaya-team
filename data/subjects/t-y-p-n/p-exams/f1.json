@@ -775,6 +775,61 @@
         "Dehydration"
       ],
       "correctIndex": 1
+    },
+    {
+      "question": "Jaundice is diagnosed when total bilirubin level is greater than 3 mg/dL.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Breast milk jaundice usually appears in the first 24 hours after birth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kernicterus is a complication of severe jaundice that can cause brain damage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is a cause of PRE-hepatic jaundice?",
+      "options": [
+        "Liver cancer",
+        "Bile duct obstruction",
+        "Hemolytic anemia",
+        "Viral hepatitis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the most common cause of pathological jaundice appearing within 24–48 hours after birth?",
+      "options": [
+        "Malaria",
+        "Breast milk intake",
+        "ABO or Rh incompatibility",
+        "Liver cancer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which treatment is commonly used for neonatal jaundice?",
+      "options": [
+        "Antibiotics",
+        "Phototherapy",
+        "Surgery",
+        "Blood transfusion only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 5-day-old newborn appears yellowish, especially on the face and chest. The mother reports the baby is breastfeeding well and has no fever. Bilirubin level is 10 mg/dL, mostly indirect. What is the most likely type of jaundice?",
+      "options": [
+        "Pathological jaundice",
+        "Physiological jaundice",
+        "Breast milk jaundice",
+        "Obstructive jaundice"
+      ],
+      "correctIndex": 1
     }
   ]
 }
