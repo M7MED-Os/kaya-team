@@ -1,0 +1,480 @@
+{
+  "title": "Final",
+  "questions": [
+    {
+      "question": "A 4-year-old boy is brought to the clinic because he has bowel movements only once every 4-5 days, which are hard and painful. His mother also reports intermittent diarrhea that soils his underwear. What is the most likely explanation for this soiling?",
+      "options": [
+        "Lactose intolerance",
+        "Infectious gastroenteritis",
+        "Overflow incontinence secondary to fecal impaction",
+        "A behavioral issue of refusing to use the toilet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is the MOST common type of constipation in pediatric patients?",
+      "options": [
+        "Constipation due to Hirschsprung's disease",
+        "Functional constipation",
+        "Constipation secondary to hypothyroidism",
+        "Medication-induced constipation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A toddler presents with constipation, abdominal distension, and failure to pass meconium in the first 48 hours of life as an infant. Which organic cause should be suspected?",
+      "options": [
+        "Cystic Fibrosis",
+        "Functional stool withholding",
+        "Hypothyroidism",
+        "Hirschsprung's disease"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is NOT a typical clinical manifestation of chronic constipation in a child?",
+      "options": [
+        "Abdominal pain and bloating",
+        "Frequent, watery stools (>3 per day)",
+        "Infrequent bowel movements (<2 per week)",
+        "Passage of hard, painful stools"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with chronic constipation develops soiling (encopresis). What is the primary pathophysiological mechanism?",
+      "options": [
+        "Hyperactive gastrocolic reflex",
+        "Rectal sphincter dyssynergia",
+        "Liquid stool leaking around a hardened fecal mass in the rectum",
+        "Increased intestinal secretory function"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Initial non-pharmacological management of functional constipation in a child should include:",
+      "options": [
+        "Immediate start of stimulant laxatives",
+        "Increase in dietary fiber and fluid intake",
+        "Surgical referral",
+        "Discontinuation of all dairy products"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of an ORGANIC cause of constipation?",
+      "options": [
+        "Low fiber diet",
+        "Toilet training issues",
+        "Spinal cord abnormality (e.g., spina bifida)",
+        "Stool withholding due to painful fissure"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Encopresis in the context of pediatric constipation refers to:",
+      "options": [
+        "Voluntary passage of stools in inappropriate places",
+        "Involuntary leakage of liquid stool, often associated with fecal impaction",
+        "The medical term for diarrhea",
+        "A congenital malformation of the anus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the defining core body temperature for neonatal hypothermia?",
+      "options": ["<37.5°C", "<36.5°C", "<35.0°C", "<38.0°C"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn with a temperature of 33.5°C is classified as having:",
+      "options": [
+        "Mild hypothermia",
+        "Moderate hypothermia",
+        "Severe hypothermia",
+        "Normal temperature"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key physiological reason newborns are at high risk for hypothermia?",
+      "options": [
+        "High metabolic rate",
+        "Large surface area-to-weight ratio",
+        "Excessive sweating",
+        "Thick subcutaneous fat layer"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The FIRST and most important step in preventing hypothermia in a newborn immediately after delivery is:",
+      "options": [
+        "Giving a warm bath",
+        "Immediate drying and skin-to-skin contact",
+        "Wrapping in a single blanket",
+        "Placing in an incubator"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Neonatal bleeding can be caused by birth trauma.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Vitamin K injection for newborns is usually given orally.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Birth asphyxia is best defined as:",
+      "options": [
+        "Neonatal infection",
+        "Failure to initiate and sustain breathing at birth",
+        "Congenital heart defect",
+        "Excessive bleeding after birth"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a maternal cause of birth asphyxia?",
+      "options": [
+        "Cord prolapse",
+        "Placental insufficiency",
+        "Hypertension",
+        "Prematurity"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A low Apgar score at 5 minutes that suggests birth asphyxia is:",
+      "options": ["10", "8–9", "<7", ">8"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The most common and preventable cause of neonatal bleeding is:",
+      "options": [
+        "Hemophilia",
+        "Vitamin K deficiency",
+        "Sepsis",
+        "Birth trauma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which lab test is most important in diagnosing neonatal bleeding disorders?",
+      "options": [
+        "Blood glucose",
+        "PT/INR and aPTT",
+        "Serum creatinine",
+        "C-reactive protein"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypoxic-ischemic encephalopathy (HIE) mainly affects which system?",
+      "options": ["Renal", "Gastrointestinal", "Nervous system", "Respiratory"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A newborn has weak respiratory effort, cyanosis, and a heart rate of 85 bpm at birth. What is the priority action?",
+      "options": [
+        "Give vitamin K injection",
+        "Start immediate resuscitation (ABC)",
+        "Obtain a blood gas",
+        "Administer antibiotics"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 3-day-old baby presents with umbilical stump bleeding and petechiae. No vitamin K was given at birth. What is the most appropriate first treatment?",
+      "options": [
+        "Oral vitamin K",
+        "IM vitamin K injection",
+        "Fresh frozen plasma",
+        "Platelet transfusion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Hemolytic Anemia, red blood cells are destroyed faster than they are produced.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "G6PD deficiency is an example of an acquired (extrinsic) cause of hemolytic anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key lab finding in hemolytic anemia?",
+      "options": [
+        "High haptoglobin",
+        "Low reticulocyte count",
+        "Elevated indirect bilirubin",
+        "Low LDH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which test detects antibodies attached to red blood cells?",
+      "options": [
+        "Indirect Coombs test",
+        "Direct Coombs test",
+        "CBC",
+        "Serum bilirubin test"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A patient presents with pallor, jaundice, dark urine, and an enlarged spleen. Lab results show high reticulocyte count, low haptoglobin, and elevated LDH. What is the most likely diagnosis?",
+      "options": [
+        "Iron-deficiency anemia",
+        "Hemolytic anemia",
+        "Aplastic anemia",
+        "Thalassemia major"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with known G6PD deficiency develops sudden pallor, dark urine, and jaundice after starting a new medication. What is the priority action?",
+      "options": [
+        "Give intravenous iron",
+        "Start corticosteroids",
+        "Stop the triggering drug",
+        "Perform immediate splenectomy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following best describes the primary nutritional deficiency in Marasmus compared to Kwashiorkor?",
+      "options": [
+        "Marasmus: deficiency of protein only / Kwashiorkor: deficiency of energy only",
+        "Marasmus: deficiency of both protein and energy / Kwashiorkor: mainly protein deficiency with adequate energy",
+        "Both conditions involve equal deficiency of protein and energy",
+        "Marasmus: deficiency of vitamins / Kwashiorkor: deficiency of minerals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a constant clinical finding in Kwashiorkor?",
+      "options": [
+        "Hypothermia",
+        "Bilateral pitting edema",
+        "Hair, skin, and mental changes",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "In Marasmus, which of the following is typically present?",
+      "options": [
+        "Generalized edema",
+        "Moon face appearance",
+        "Loss of subcutaneous fat and muscle wasting",
+        "Dark, curly hair"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common complication in both Marasmus and Kwashiorkor?",
+      "options": [
+        "Hypertension",
+        "Hyperglycemia",
+        "Hypothermia",
+        "Polycythemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which lab finding is expected in severe Protein-Energy Malnutrition?",
+      "options": [
+        "High serum albumin",
+        "Low plasma protein",
+        "High hemoglobin",
+        "Elevated blood glucose"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 2-year-old child presents with weight loss, wrinkled skin, loss of subcutaneous fat, and no edema. The mother reports poor feeding since weaning. What is the most likely diagnosis?",
+      "options": ["Kwashiorkor", "Marasmus", "Scurvy", "Rickets"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A child with swollen legs and face, thin arms, and discolored hair is brought to the clinic. The diet is mainly cassava and rice. What deficiency is most likely?",
+      "options": [
+        "Vitamin C deficiency",
+        "Protein deficiency with adequate calorie intake",
+        "Protein deficiency inadequate calorie intake",
+        "Essential fatty acid deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During the stabilization phase of treating severe PEM, what is the priority?",
+      "options": [
+        "High-protein diet immediately",
+        "Correction of dehydration and infection control",
+        "Vitamin A megadose",
+        "Blood transfusion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema is a common feature in Marasmus.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kwashiorkor is often associated with a diet high in carbohydrates but low in protein.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which organism is the most common cause of acute gastroenteritis in infants younger than 24 months?",
+      "options": ["Shigella", "Norovirus", "Rotavirus", "Campylobacter jejuni"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a protozoal cause of gastroenteritis?",
+      "options": [
+        "Salmonella typhi",
+        "Giardia lamblia",
+        "Escherichia coli",
+        "Rotavirus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which bacterial pathogen is commonly associated with bloody diarrhea and hemolytic uremic syndrome (HUS)?",
+      "options": [
+        "Vibrio cholerae",
+        "Shigella",
+        "Enteropathogenic E. coli",
+        "Shiga toxin-producing E. coli (STEC)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is NOT a viral cause of gastroenteritis?",
+      "options": [
+        "Astrovirus",
+        "Cryptosporidium",
+        "Enteric adenovirus",
+        "Calicivirus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary route of transmission for gastroenteritis?",
+      "options": [
+        "Airborne droplets",
+        "Fecal-oral route",
+        "Blood transfusion",
+        "Insect bites"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which clinical sign is most characteristic of severe dehydration in an infant?",
+      "options": [
+        "Slightly dry buccal mucosa",
+        "Sunken eyes and absent tears",
+        "Normal skin turgor",
+        "Slightly increased thirst"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the management of acute gastroenteritis, what is the first-line treatment for mild to moderate dehydration?",
+      "options": [
+        "Intravenous fluids",
+        "Oral rehydration solution (ORS)",
+        "Antidiarrheal medication",
+        "Broad-spectrum antibiotics"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key feature of Typhoid fever?",
+      "options": [
+        "Maculopapular rash on palms and soles",
+        "Step-ladder pattern of fever",
+        "Severe vomiting without diarrhea",
+        "Hepatomegaly without splenomegaly"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the gold standard for diagnosing Typhoid fever?",
+      "options": [
+        "Widal test",
+        "Blood culture",
+        "Stool antigen test",
+        "Complete blood count (CBC)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 3-year-old child presents with 3 days of watery diarrhea, vomiting, and mild fever. The mother says the child is drinking less and has had only one wet diaper in the past 8 hours. On exam, the child is irritable, has dry mucous membranes, and delayed skin pinch. What is the most appropriate initial management?",
+      "options": [
+        "Start IV antibiotics",
+        "Administer ORS immediately",
+        "Give antiemetic medication",
+        "Admit for observation only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 10-year-old child returns from a trip to a region with poor sanitation. He presents with gradually rising fever over a week, abdominal pain, and “pea soup” diarrhea. Small, salmon-colored spots are noted on the trunk. What is the most likely diagnosis?",
+      "options": [
+        "Rotavirus gastroenteritis",
+        "Typhoid fever",
+        "Giardia infection",
+        "Appendicitis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 6-month-old infant with gastroenteritis is brought to the clinic. The mother has been diluting formula to “give the baby’s stomach a rest.” The infant now appears lethargic, with tenting skin and sunken fontanelles. What type of dehydration is most likely?",
+      "options": [
+        "Isonatremic dehydration",
+        "Hypernatremic dehydration",
+        "Hyponatremic dehydration",
+        "Normonatremic dehydration"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Rotavirus is the most common cause of gastroenteritis in children older than 5 years.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Widal test is the most specific diagnostic tool for confirming Typhoid fever.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In gastroenteritis, early reintroduction of age-appropriate feeding is recommended to reduce the duration of diarrhea.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Salmonella typhi is transmitted only through contaminated poultry and eggs; human-to-human transmission does not occur.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What are the approximate percentages of causative organisms in pediatric gastroenteritis?",
+      "options": [
+        "Viruses: 50%, Bacteria: 30%, Protozoa: 20%",
+        "Viruses: 70%, Bacteria: 10-20%, Protozoa: <10%",
+        "Viruses: 80%, Bacteria: 15%, Protozoa: 5%",
+        "Viruses: 40%, Bacteria: 40%, Protozoa: 20%"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
