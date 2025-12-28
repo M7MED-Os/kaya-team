@@ -1,0 +1,155 @@
+{
+  "title": "Jaundice",
+  "questions": [
+    {
+      "question": "What is the defining laboratory finding for clinical jaundice?",
+      "options": [
+        "Hemoglobin < 10 mg/dl",
+        "Bilirubin level > 3 mg/dl",
+        "Reticulocyte count > 2%",
+        "Direct bilirubin > 1 mg/dl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which clinical finding is a primary manifestation of jaundice?",
+      "options": [
+        "Cyanosis",
+        "Yellowish discoloration of skin and sclera",
+        "Petechiae",
+        "Pallor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In which type of jaundice is malaria classified?",
+      "options": ["Intrahepatic", "Posthepatic", "Prehepatic", "Physiological"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common cause of posthepatic jaundice?",
+      "options": [
+        "Viral hepatitis",
+        "Alcoholic liver disease",
+        "Obstruction of the bile duct by stones",
+        "Sickle cell anemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which enzyme converts biliverdin to bilirubin?",
+      "options": [
+        "Heme oxygenase",
+        "Biliverdin reductase",
+        "Cytochrome P450",
+        "UDP-glucuronosyltransferase"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the most feared complication of severe neonatal jaundice?",
+      "options": ["Hepatitis", "Kernicterus", "Gallstones", "Anemia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "At what bilirubin level does kernicterus typically become a risk?",
+      "options": ["> 10 mg/dl", "> 12 mg/dl", "> 16–18 mg/dl", "> 20 mg/dl"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of jaundice appears within the first 24–48 hours after birth?",
+      "options": [
+        "Physiological jaundice",
+        "Breast milk jaundice",
+        "Pathological jaundice",
+        "Obstructive jaundice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common cause of pathological jaundice?",
+      "options": [
+        "Immature liver function",
+        "ABO or Rh incompatibility",
+        "Breastfeeding",
+        "Bile duct obstruction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How is breast milk jaundice typically managed?",
+      "options": [
+        "Immediate surgical intervention",
+        "Temporary cessation of breastfeeding for about a week",
+        "Phototherapy only, without altering feeding",
+        "Permanent switch to formula"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jaundice is defined as yellowish discoloration of the skin only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Physiological jaundice typically appears on the first day after birth.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prehepatic jaundice can be caused by sickle cell anemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Intrahepatic jaundice includes causes like viral hepatitis and alcoholic liver disease.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Kernicterus is a mild, reversible complication of jaundice.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Breast milk jaundice usually appears in the first 48 hours of life.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In breast milk jaundice, the mother should completely stop breastfeeding and discard all milk.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A newborn baby, 36 hours old, presents with yellowish skin. Laboratory tests show elevated bilirubin, and blood typing reveals the mother is Rh-negative and the baby is Rh-positive. What type of jaundice is most likely?",
+      "options": [
+        "Physiological jaundice",
+        "Breast milk jaundice",
+        "Pathological jaundice (due to Rh incompatibility)",
+        "Obstructive jaundice"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A full-term baby, now 8 days old, has mild yellowish discoloration. Bilirubin is elevated but below dangerous levels. The baby is breastfeeding well, and there are no signs of hemolysis. What type of jaundice is this most consistent with?",
+      "options": [
+        "Pathological jaundice",
+        "Physiological jaundice",
+        "Breast milk jaundice",
+        "Posthepatic jaundice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A 2-week-old breastfed baby develops worsening jaundice. Bilirubin levels are moderately elevated but not critical. The baby is otherwise healthy, and all other causes have been ruled out. What is the most appropriate initial management?",
+      "options": [
+        "Immediate exchange transfusion",
+        "Surgical consultation",
+        "Temporarily stop breastfeeding for about a week, substitute with formula, and express breast milk",
+        "Continue breastfeeding and start phototherapy only if bilirubin rises further"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
