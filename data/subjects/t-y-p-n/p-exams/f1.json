@@ -680,6 +680,26 @@
       "question": "In older children and adolescents, heart failure often presents with prominent abdominal symptoms rather than respiratory complaints.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "Which of the following laboratory tests is most useful for confirming a recent Group A Streptococcal infection in a patient suspected of having acute rheumatic fever?",
+      "options": [
+        "Complete blood count (CBC)",
+        "Throat culture",
+        "Antistreptococcal antibody titers",
+        "Blood culture"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which medication is used as first-line anti-inflammatory treatment in acute rheumatic fever to reduce joint and heart inflammation?",
+      "options": ["Antibiotics", "Diuretics", "Salicylates", "Anticonvulsants"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A 10-year-old girl is diagnosed with acute rheumatic fever. She presents with migratory polyarthritis, carditis, and involuntary, jerky movements of her limbs and face (chorea). Her mother reports that these movements have been worsening over the past week and are interfering with her daily activities. Which medication is most appropriate to manage her choreiform movements?",
+      "options": ["Antibiotics", "Salicylates", "Anticonvulsant", "Digitalis"],
+      "correctIndex": 2
     }
   ]
 }
