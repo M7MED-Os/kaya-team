@@ -1,0 +1,390 @@
+{
+  "title": "Nephro",
+  "questions": [
+    {
+      "question": "The primary pathophysiological defect in nephrotic syndrome is:",
+      "options": [
+        "Reduced renal blood flow",
+        "Immune-mediated inflammation of glomeruli",
+        "Increased glomerular basement membrane permeability",
+        "Obstruction of urinary outflow"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which combination is MOST characteristic of nephrotic syndrome?",
+      "options": [
+        "Hematuria + RBC casts + hypertension",
+        "Proteinuria + hypoalbuminemia + hyperlipidemia",
+        "Oliguria + fever + leukocytosis",
+        "Azotemia + metabolic acidosis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Serum albumin level in nephrotic syndrome is usually:",
+      "options": [
+        "> 4.5 g/dL",
+        "3.5–4 g/dL",
+        "< 3.5 g/dL but > 3 g/dL",
+        "< 2.5 g/dL"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Generalized edema in nephrotic syndrome is mainly due to:",
+      "options": [
+        "Sodium retention only",
+        "Increased capillary permeability",
+        "Hypoalbuminemia leading to decreased oncotic pressure",
+        "Increased aldosterone secretion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Foamy urine in nephrotic syndrome is caused by:",
+      "options": [
+        "Presence of glucose",
+        "Increased bilirubin",
+        "Excess protein in urine",
+        "Increased RBCs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A known complication of nephrotic syndrome is:",
+      "options": [
+        "Hypocalcemia",
+        "Hypercoagulability",
+        "Increased infection risk",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which lipid abnormality is commonly seen in nephrotic syndrome?",
+      "options": [
+        "Hypocholesterolemia",
+        "Hypertriglyceridemia",
+        "Increased HDL only",
+        "Decreased LDL"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Renal biopsy in nephrotic syndrome is mainly done to:",
+      "options": [
+        "Confirm proteinuria",
+        "Measure serum creatinine",
+        "Determine underlying pathology",
+        "Treat edema"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Thromboembolism in nephrotic syndrome is due to:",
+      "options": [
+        "Dehydration",
+        "Loss of anticoagulant proteins in urine",
+        "Increased platelet count",
+        "Hypertension"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Edema of the gut in nephrotic syndrome may result in:",
+      "options": [
+        "Diarrhea",
+        "Malabsorption and malnutrition",
+        "Constipation",
+        "GI bleeding"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Acute glomerulonephritis is primarily caused by:",
+      "options": [
+        "Direct bacterial invasion",
+        "Immune-mediated glomerular injury",
+        "Obstruction of renal tubules",
+        "Toxic drug accumulation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The hallmark urinary finding in acute glomerulonephritis is:",
+      "options": ["Fatty casts", "WBC casts", "RBC casts", "Hyaline casts"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The most common infectious cause of acute glomerulonephritis is:",
+      "options": [
+        "Staphylococcus aureus",
+        "Escherichia coli",
+        "Group A beta-hemolytic streptococcus",
+        "Pseudomonas"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Urine color in acute glomerulonephritis is best described as:",
+      "options": ["Clear", "Tea-colored or smoky", "Milky", "Bright red"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hypertension in acute glomerulonephritis occurs mainly due to:",
+      "options": [
+        "Vasodilation",
+        "Fluid overload",
+        "Loss of protein",
+        "Hypokalemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which symptom is LEAST likely in acute glomerulonephritis?",
+      "options": [
+        "Hematuria",
+        "Periorbital edema",
+        "Massive proteinuria",
+        "Oliguria"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fever in acute glomerulonephritis:",
+      "options": [
+        "Persists for weeks",
+        "Is usually absent",
+        "Decreases after few days",
+        "Indicates chronic disease"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Streptozyme test in acute glomerulonephritis is used to detect:",
+      "options": [
+        "Active infection",
+        "Renal damage",
+        "Previous streptococcal infection",
+        "Renal failure"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Antibiotics in acute glomerulonephritis:",
+      "options": [
+        "Prevent disease progression",
+        "Cure glomerular damage",
+        "Do not prevent development of acute glomerulonephritis",
+        "Reverse renal failure"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Loop diuretics in acute glomerulonephritis are used mainly to:",
+      "options": [
+        "Reduce proteinuria",
+        "Treat hypertension and edema",
+        "Improve GFR",
+        "Prevent infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Acute kidney injury is defined as:",
+      "options": [
+        "Permanent kidney damage",
+        "Sudden reversible decline in kidney function",
+        "Chronic reduction in GFR",
+        "Renal obstruction only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to KDIGO, acute kidney injury includes:",
+      "options": [
+        "Decrease in creatinine",
+        "Increase in creatinine ≥ 0.3 mg/dL in 48 hours",
+        "Urine output > 1 mL/kg/hr",
+        "GFR > 90"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pre-renal acute kidney injury is caused by:",
+      "options": [
+        "Tubular necrosis",
+        "Reduced renal blood flow",
+        "Urinary obstruction",
+        "Infection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prolonged pre-renal injury may progress to:",
+      "options": [
+        "Chronic kidney disease only",
+        "Post-renal acute kidney injury",
+        "Intrinsic renal injury",
+        "Nephrotic syndrome"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is a post-renal cause of acute kidney injury?",
+      "options": ["Hypovolemia", "Sepsis", "Renal calculi", "Nephrotoxins"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A classic sign of acute kidney injury is:",
+      "options": ["Polyuria", "Oliguria", "Hemoptysis", "Hypotension"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Confusion in acute kidney injury is mainly due to:",
+      "options": ["Hypoglycemia", "Uremia", "Hypertension", "Anemia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Daily weight monitoring in acute kidney injury helps assess:",
+      "options": [
+        "Nutrition",
+        "Fluid balance",
+        "Blood pressure",
+        "Renal perfusion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Potassium monitoring in acute kidney injury is essential because:",
+      "options": [
+        "Hypokalemia is common",
+        "Hyperkalemia may be fatal",
+        "Potassium loss in urine",
+        "It affects albumin levels"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Head elevation in acute kidney injury patients helps reduce:",
+      "options": [
+        "Hypertension",
+        "Pulmonary edema",
+        "Proteinuria",
+        "Hematuria"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chronic kidney disease is defined as kidney damage lasting:",
+      "options": ["> 2 weeks", "> 1 month", "> 3 months", "> 6 months"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Chronic kidney disease is diagnosed when eGFR is:",
+      "options": ["< 90 ml/min", "< 75 ml/min", "< 60 ml/min", "< 30 ml/min"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is NOT a nursing diagnosis in chronic kidney disease?",
+      "options": ["Anxiety", "Oliguria", "Chest discomfort", "Polycythemia"],
+      "correctIndex": 3
+    },
+    {
+      "question": "An urgent indication for dialysis is:",
+      "options": [
+        "Mild edema",
+        "Controlled hypertension",
+        "Uremic encephalopathy",
+        "Mild nausea"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Dialysis is indicated in:",
+      "options": [
+        "Refractory hyperkalemia",
+        "Refractory metabolic acidosis",
+        "Fluid overload not responding to diuretics",
+        "All of the above"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Nephrotic syndrome is characterized by hematuria and RBC casts.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Hyperlipidemia is a complication of nephrotic syndrome.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Acute glomerulonephritis usually presents with massive proteinuria.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "RBC casts are specific for glomerular disease.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Antibiotics can prevent the development of acute glomerulonephritis.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Acute kidney injury is always irreversible.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Urine output < 0.5 mL/kg/hr for 6 hours meets acute kidney injury criteria.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Post-renal acute kidney injury is caused by reduced renal blood flow.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Chronic kidney disease requires persistence of kidney damage for at least 3 months.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hyperkalemia is a life-threatening complication in acute kidney injury.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Edema in acute glomerulonephritis occurs due to protein loss in urine.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Foamy urine indicates proteinuria.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Renal ultrasound is part of acute glomerulonephritis diagnosis.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hypocalcemia can occur in nephrotic syndrome.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Thromboembolism is a possible complication of nephrotic syndrome.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

@@ -13,12 +13,7 @@
     },
     {
       "question": "Which clinical finding is a primary manifestation of jaundice?",
-      "options": [
-        "Cyanosis",
-        "Yellowish discoloration of skin and sclera",
-        "Petechiae",
-        "Pallor"
-      ],
+      "options": ["Cyanosis", "Yellowish discoloration", "Petechiae", "Pallor"],
       "correctIndex": 1
     },
     {
@@ -31,7 +26,7 @@
       "options": [
         "Viral hepatitis",
         "Alcoholic liver disease",
-        "Obstruction of the bile duct by stones",
+        "Obstruction of the bile duct",
         "Sickle cell anemia"
       ],
       "correctIndex": 2
@@ -80,7 +75,7 @@
       "question": "How is breast milk jaundice typically managed?",
       "options": [
         "Immediate surgical intervention",
-        "Temporary cessation of breastfeeding for about a week",
+        "Temporary cessation of breastfeeding",
         "Phototherapy only, without altering feeding",
         "Permanent switch to formula"
       ],
@@ -126,13 +121,13 @@
       "options": [
         "Physiological jaundice",
         "Breast milk jaundice",
-        "Pathological jaundice (due to Rh incompatibility)",
+        "Pathological jaundice",
         "Obstructive jaundice"
       ],
       "correctIndex": 2
     },
     {
-      "question": "A full-term baby, now 8 days old, has mild yellowish discoloration. Bilirubin is elevated but below dangerous levels. The baby is breastfeeding well, and there are no signs of hemolysis. What type of jaundice is this most consistent with?",
+      "question": "A full-term baby, now 5 days old, has mild yellowish discoloration. Bilirubin is elevated but below dangerous levels. The baby is breastfeeding well, and there are no signs of hemolysis. What type of jaundice is this most consistent with?",
       "options": [
         "Pathological jaundice",
         "Physiological jaundice",
@@ -145,7 +140,7 @@
       "question": "A 2-week-old breastfed baby develops worsening jaundice. Bilirubin levels are moderately elevated but not critical. The baby is otherwise healthy, and all other causes have been ruled out. What is the most appropriate initial management?",
       "options": [
         "Immediate exchange transfusion",
-        "Surgical consultation",
+        "Start antibiotic therapy Immediately",
         "Temporarily stop breastfeeding for about a week, substitute with formula, and express breast milk",
         "Continue breastfeeding and start phototherapy only if bilirubin rises further"
       ],
