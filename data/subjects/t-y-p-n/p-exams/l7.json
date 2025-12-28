@@ -146,7 +146,7 @@
       "options": [
         "Left-to-right shunt",
         "Obstructive lesions only",
-        "Right-to-left shunt and cyanosis",
+        "Right-to-left shunt",
         "Valvular regurgitation"
       ],
       "correctIndex": 2
