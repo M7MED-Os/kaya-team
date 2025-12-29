@@ -264,7 +264,7 @@
         "Hair, skin, and mental changes",
         "All of the above"
       ],
-      "correctIndex": 3
+      "correctIndex": 1
     },
     {
       "question": "In Marasmus, which of the following is typically present?",
@@ -347,12 +347,12 @@
       "correctIndex": 1
     },
     {
-      "question": "Which bacterial pathogen is commonly associated with bloody diarrhea and hemolytic uremic syndrome (HUS)?",
+      "question": "",
       "options": [
-        "Vibrio cholerae",
-        "Shigella",
-        "Enteropathogenic E. coli",
-        "Shiga toxin-producing E. coli (STEC)"
+        ".",
+        ".",
+        ".",
+        ""
       ],
       "correctIndex": 3
     },
@@ -484,7 +484,7 @@
     {
       "question": "Polyarthralgia is a major diagnostic criterion for acute rheumatic fever.",
       "options": ["True", "False"],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Monoarthritis is a major diagnostic criterion for acute rheumatic fever.",
@@ -497,7 +497,7 @@
         "Respiratory syncytial virus (RSV)",
         "Influenza A",
         "Parainfluenza virus",
-        "Adenovirus"
+        "Rotavirus"
       ],
       "correctIndex": 2
     },
@@ -564,7 +564,7 @@
         "Continuous albuterol nebulization",
         "Chest physiotherapy"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
       "question": "Which of the following complications of pneumonia is characterized by the accumulation of pus within the pleural cavity?",
