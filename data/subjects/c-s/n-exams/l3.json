@@ -315,6 +315,11 @@
       "question": "The recommended protein intake for a lactating woman is lower than for a healthy adult man.",
       "options": ["True", "False"],
       "correctIndex": 1
+    },
+    {
+      "question": "Vitamin B1 deficiency causes diarrhea",
+      "options": ["True", "False"],
+      "correctIndex": 1
     }
   ]
 }
