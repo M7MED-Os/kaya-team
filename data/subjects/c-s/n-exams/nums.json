@@ -200,6 +200,61 @@
       "question": "Fiber deficiency can lead to constipation.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "Osteoporosis more common in especially in middle-aged and elderly women.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which deficiency is characterized by cracks at the corners of the mouth and inflamed lips?",
+      "options": [
+        "Vitamin C deficiency",
+        "Riboflavin (B2) deficiency",
+        "Vitamin A deficiency",
+        "Iron deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which condition results from Vitamin D deficiency in adults?",
+      "options": ["Rickets", "Osteomalacia", "Scurvy", "Pellagra"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which deficiency leads to increased excitability of nerves and muscle spasms?",
+      "options": [
+        "Iron deficiency",
+        "Calcium deficiency",
+        "Iodine deficiency",
+        "Magnesium deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Night blindness and dry, damaged skin are early signs of deficiency in which vitamin?",
+      "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin K"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which deficiency results in macrocytic anemia, where red blood cells are larger than normal?",
+      "options": [
+        "Iron deficiency",
+        "Folate deficiency",
+        "Vitamin D deficiency",
+        "Vitamin A deficiency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which vitamin deficiency can lead to pernicious anemia and neurological problems?",
+      "options": ["Vitamin B6", "Vitamin B12", "Folate", "Vitamin K"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Deficiency of which nutrient is associated with osteoporosis, especially in middle-aged and elderly women?",
+      "options": ["Protein", "Vitamin C", "Calcium", "Fiber"],
+      "correctIndex": 2
     }
   ]
 }
