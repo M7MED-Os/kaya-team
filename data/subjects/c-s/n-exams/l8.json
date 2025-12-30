@@ -322,6 +322,11 @@
       "correctIndex": 1
     },
     {
+      "question": "Patients with osteomalacia due to malabsorption or chronic liver disease may need maintenance dose of vitamin K",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
       "question": "Which parasitic infection is linked to chronic blood loss and iron deficiency anemia?",
       "options": ["Tapeworm", "Hookworm", "Roundworm", "Giardia"],
       "correctIndex": 1
