@@ -1,0 +1,255 @@
+{
+  "title": "Diabetes Mellitus",
+  "questions": [
+    {
+      "question": "What is the primary goal of Medical Nutrition Therapy (MNT) for Diabetes Mellitus?",
+      "options": [
+        "To eliminate all carbohydrates from the diet.",
+        "To cure the underlying pancreatic dysfunction.",
+        "To maintain optimal blood glucose, lipid, and blood pressure levels and prevent complications.",
+        "To promote rapid weight loss regardless of starting weight."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT an objective of nutritional management in diabetes according to the lecture?",
+      "options": [
+        "Achieve and maintain near-normal blood glucose levels.",
+        "Maintain optimal lipid levels and blood pressure.",
+        "Achieve and maintain a healthy body weight.",
+        "Restrict all dietary fats to less than 10% of daily calories."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "For which type of diabetes is the nutritional focus specifically on \"insulin-carbohydrate balance and consistent meal timing\"?",
+      "options": ["Type 2 DM", "Gestational DM", "Secondary DM", "Type 1 DM"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The primary cause of hyperglycemia in Diabetes Mellitus is:",
+      "options": [
+        "Excessive protein intake.",
+        "Defects in insulin secretion, insulin action, or both.",
+        "Consuming high glycemic index foods exclusively.",
+        "A deficiency in dietary chromium."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Gestational Diabetes, what is a key component of the nutritional focus?",
+      "options": [
+        "Very low-calorie diet for significant weight loss.",
+        "Controlled carbohydrate intake and frequent meals.",
+        "High intake of saturated fats for energy.",
+        "Unlimited simple sugars to prevent ketosis."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended percentage range of total daily calories that should come from carbohydrates for a diabetic patient?",
+      "options": ["20-35%", "15-20%", "45-60%", "10-15%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of carbohydrate is preferred in a diabetic diet?",
+      "options": [
+        "Refined sugars",
+        "Simple carbohydrates from sweets and sodas",
+        "Complex carbohydrates from whole grains and legumes",
+        "Carbohydrates with a high glycemic index"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Glycemic Index (GI) is a measure that ranks foods based on their:",
+      "options": [
+        "Total calorie content.",
+        "Effect on post-meal blood glucose levels.",
+        "Amount of dietary fiber.",
+        "Protein quality."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A patient is taught that 15 grams of carbohydrates equals one \"exchange.\" This concept is part of which meal planning approach?",
+      "options": [
+        "The Plate Method",
+        "Glycemic Index Approach",
+        "Carbohydrate Counting",
+        "Nursing Assessment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended daily fiber intake for diabetic patients?",
+      "options": [
+        "10-15 grams",
+        "At least 25-30 grams",
+        "50-60 grams",
+        "Fiber intake is not specifically recommended."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following micronutrients is noted to improve insulin sensitivity?",
+      "options": [
+        "Vitamin C and Beta-carotene",
+        "Chromium and Magnesium",
+        "Omega-3 fatty acids",
+        "Trans fats"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For diabetic patients, the recommended protein intake is what percentage of total calories?",
+      "options": ["10-15%", "15-20%", "45-60%", "20-35%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A patient with diabetic nephropathy may require which specific dietary modification?",
+      "options": [
+        "Increased protein intake.",
+        "Carbohydrate restriction to below 30%.",
+        "Protein restriction.",
+        "Increased saturated fat intake."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of fat should be preferred in a diabetic meal plan?",
+      "options": [
+        "Saturated fats",
+        "Trans fats",
+        "Unsaturated fats (e.g., olive oil, nuts)",
+        "Animal fats only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Plate Method for meal planning recommends dividing the plate into which portions?",
+      "options": [
+        "1/2 protein, 1/4 vegetables, 1/4 grains",
+        "1/2 grains, 1/4 protein, 1/4 vegetables",
+        "1/2 vegetables, 1/4 protein, 1/4 whole grains",
+        "Equal thirds of protein, grains, and fats"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the sample diet plan, what is the suggested bedtime snack to prevent nocturnal hypoglycemia?",
+      "options": [
+        "A piece of cake",
+        "A glass of regular soda",
+        "10 almonds",
+        "Small fruit or sugar-free milk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which special consideration is recommended regarding alcohol consumption for diabetic patients?",
+      "options": [
+        "Alcohol should be completely avoided.",
+        "If consumed, it should be limited and taken with food.",
+        "Alcohol helps lower blood glucose and can replace medication.",
+        "Only distilled spirits are permitted."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is cultural adaptation important in diabetic nutrition education?",
+      "options": [
+        "It ensures patients only eat imported health foods.",
+        "It disregards local preferences to impose a standard diet.",
+        "It considers local foods and habits to improve adherence.",
+        "It is not mentioned as an important factor."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary purpose of using exchange lists in meal planning?",
+      "options": [
+        "To count total daily calories precisely.",
+        "To provide flexibility by grouping foods with similar nutrient content.",
+        "To eliminate all fats from the diet.",
+        "To prescribe a rigid, unchangeable menu."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which item from the sample diet plan is noted as a source of \"healthy fats\"?",
+      "options": ["Oatmeal", "10 almonds", "Grilled chicken", "Lentil soup"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is part of the nursing role in assessment for diabetic nutritional care?",
+      "options": [
+        "Prescribing insulin dosages.",
+        "Evaluating dietary habits and BMI.",
+        "Performing surgical interventions.",
+        "Developing complex diet plans independently."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the target HbA1c level indicated as an evaluation indicator for diabetic control?",
+      "options": ["< 10%", "< 8.5%", "< 7%", "< 5%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the collaborative aspect of the nursing role, the nurse should work with:",
+      "options": [
+        "Only the patient's family.",
+        "Dietitians and physicians to individualize care.",
+        "Only laboratory technicians.",
+        "Pharmaceutical representatives."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key component of the nurse's educational role?",
+      "options": [
+        "Administering IV medications.",
+        "Teaching meal planning and portion control.",
+        "Ordering diagnostic tests.",
+        "Adjusting insulin pump settings without consultation."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the target range for fasting blood glucose listed as an evaluation indicator?",
+      "options": [
+        "60-100 mg/dL",
+        "80-130 mg/dL",
+        "130-180 mg/dL",
+        "180-250 mg/dL"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary nutritional focus for Type 2 Diabetes is insulin-carbohydrate balance and consistent meal timing.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Carbohydrate counting involves adjusting insulin dose based on total carbohydrate intake, where 15g of carbs is often considered one exchange.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Saturated and trans fats are the preferred types of fat in a diabetic diet because they improve cholesterol levels.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A key nursing responsibility in monitoring is to observe for signs of hypo- or hyperglycemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The Plate Method for diabetic meal planning recommends that half of the plate should be filled with protein-rich foods.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
