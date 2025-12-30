@@ -1,0 +1,260 @@
+{
+  "title": "Nutritional Disorders (Undernutrition, Malnutrition, Deficiency Diseases)",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a main classification of nutritional disorders?",
+      "options": [
+        "Under nutrition",
+        "Malnutrition",
+        "Nutrient excess",
+        "Hyperactivity"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Marasmus in children is primarily caused by a deficiency of:",
+      "options": [
+        "Protein only",
+        "Calories only",
+        "Simultaneous deficiency of proteins and calories",
+        "Vitamin D only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Kwashiorkor typically occurs in children due to a diet that is:",
+      "options": [
+        "High in protein, low in starch",
+        "Low in protein, high in starch",
+        "High in both protein and calories",
+        "Low in vitamins only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a clinical feature of Marasmus?",
+      "options": [
+        "Edema",
+        "Fatty liver",
+        "Severe muscle wasting and no subcutaneous fat",
+        "Symmetrical skin changes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of anemia is microcytic and hypochromic?",
+      "options": [
+        "Vitamin B12 deficiency anemia",
+        "Folate deficiency anemia",
+        "Iron deficiency anemia",
+        "Copper deficiency anemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Rickets is caused by a deficiency of:",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Calcium only (without vitamin D deficiency)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a predisposing factor for Protein-Energy Malnutrition (PEM)?",
+      "options": [
+        "High socioeconomic status",
+        "Good sanitary environment",
+        "Prolonged breastfeeding with faulty weaning practices",
+        "High protein supplementation from an early age"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Osteomalacia is the adult equivalent of which childhood deficiency disease?",
+      "options": ["Scurvy", "Rickets", "Kwashiorkor", "Marasmus"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which laboratory finding is characteristic of iron deficiency anemia?",
+      "options": [
+        "Increased serum iron",
+        "Hemoglobin as low as 3 gm/dL",
+        "Large oval red cells",
+        "Hyper-segmented polymorphonuclear leukocytes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Megaloblastic anemia can be caused by deficiency of:",
+      "options": [
+        "Iron",
+        "Vitamin B12 and folate",
+        "Vitamin D",
+        "Protein only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a symptom of iron deficiency anemia?",
+      "options": [
+        "Edema",
+        "Pallor and brittle nails",
+        "Bone pain",
+        "Muscular hypotonia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a common feature in both Marasmus and Kwashiorkor?",
+      "options": ["Edema", "Fatty liver", "Muscle wasting", "Hair changes"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following prevents rickets?",
+      "options": [
+        "Avoiding sunlight",
+        "Vitamin D supplementation and sunlight exposure",
+        "High carbohydrate diet",
+        "Iron supplementation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Nutritional anemias are mainly due to deficiency of:",
+      "options": [
+        "Carbohydrates",
+        "Fats",
+        "Haemopoietic nutrients (iron, B12, folate)",
+        "Vitamin C only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which group is most vulnerable to nutritional deficiencies?",
+      "options": [
+        "Young adults",
+        "Athletes",
+        "Young children, elderly, and disabled",
+        "Middle-aged men"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A child with a distended abdomen, edema, and hair changes most likely has:",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Iron deficiency anemia",
+        "Rickets"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is NOT a cause of undernutrition?",
+      "options": [
+        "Insufficient food",
+        "Anorexia",
+        "Malabsorption",
+        "Excessive protein intake"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The earliest physical sign of rickets is often:",
+      "options": [
+        "Bowlegs",
+        "Craniotabes (soft skull bones)",
+        "Narrowed pelvic inlet",
+        "Bossing of frontal bones"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Prevention of PEM includes:",
+      "options": [
+        "Avoiding breastfeeding",
+        "Health education of mothers",
+        "Reducing protein intake",
+        "Ignoring communicable diseases"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which condition is characterized by bone pain and waddling gait in adults?",
+      "options": [
+        "Kwashiorkor",
+        "Osteomalacia",
+        "Marasmus",
+        "Megaloblastic anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Folate deficiency anemia is often due to:",
+      "options": [
+        "Excess vegetable intake",
+        "Poor intake of vegetables",
+        "High protein diet",
+        "Excess iron intake"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a feature of Vitamin B12 deficiency anemia?",
+      "options": [
+        "Microcytic red cells",
+        "Numbness and tingling in feet",
+        "Edema",
+        "Craniotabes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Malnutrition includes both undernutrition and overnutrition.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Marasmus is commonly associated with edema.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kwashiorkor occurs mainly in the first year of life.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Iron deficiency anemia is macrocytic and hyperchromic.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Rickets can be prevented by adequate sunlight exposure and vitamin D intake.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Osteomalacia is caused by a deficiency of vitamin C.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Megaloblastic anemia is due to iron deficiency.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "PEM in adults can be caused by anorexia and malabsorption.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Nutritional disorders only refer to deficiencies, not excesses.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
