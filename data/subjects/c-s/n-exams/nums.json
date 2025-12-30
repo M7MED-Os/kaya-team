@@ -217,6 +217,16 @@
       "correctIndex": 1
     },
     {
+      "question": "Which mineral is essential for maintaining electrical potential in nerve and muscle cells?",
+      "options": ["Phosphorus", "Calcium", "Magnesium", "Sodium"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which mineral, when consumed in excess, can cause edema and contribute to high blood pressure?",
+      "options": ["Iron", "Sodium", "Iodine", "Potassium"],
+      "correctIndex": 1
+    },
+    {
       "question": "Which condition results from Vitamin D deficiency in adults?",
       "options": ["Rickets", "Osteomalacia", "Scurvy", "Pellagra"],
       "correctIndex": 1
