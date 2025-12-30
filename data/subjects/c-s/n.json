@@ -44,6 +44,20 @@
       "summary": null
     },
     {
+      "title": "Nutritional Disorders",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/n-exams/l8.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Therapeutic Nutrition",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/n-exams/l9.json",
+      "file": null,
+      "summary": null
+    },
+    {
       "title": "Parenteral Nutrition (IV Nutrition)",
       "video": null,
       "quiz": "exam.html?file=data/subjects/c-s/n-exams/l10.json",
