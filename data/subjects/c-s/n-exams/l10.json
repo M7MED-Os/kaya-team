@@ -5,9 +5,9 @@
       "question": "What is the primary definition of Parenteral Nutrition (PN)?",
       "options": [
         "Oral intake of nutritional supplements",
-        "Intravenous administration of nutrients when the GI tract is nonfunctional or unsafe",
+        "Intravenous administration of nutrients",
         "Tube feeding directly into the stomach",
-        "Subcutaneous injection of vitamins"
+        "Used when the GI tract is functional and safe"
       ],
       "correctIndex": 1
     },
@@ -43,12 +43,7 @@
     },
     {
       "question": "Which solution component provides the highest caloric density per gram in PN?",
-      "options": [
-        "Dextrose (3.4 kcal/g)",
-        "Amino acids (4 kcal/g)",
-        "Lipids (9 kcal/g)",
-        "Electrolytes (0 kcal/g)"
-      ],
+      "options": ["Dextrose", "Amino acids", "Lipids", "Electrolytes"],
       "correctIndex": 2
     },
     {
@@ -97,7 +92,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Which complication presents with hypophosphatemia and weakness, often seen when feeding is initiated too rapidly?",
+      "question": "Which complication presents with hypophosphatemia and weakness?",
       "options": [
         "Hyperglycemia",
         "Catheter-related sepsis",
@@ -110,7 +105,7 @@
       "question": "What is the immediate nursing action for suspected air embolism during PN infusion?",
       "options": [
         "Increase infusion rate",
-        "Place patient in left Trendelenburg position and administer oxygen",
+        "Place patient in left Trendelenburg position",
         "Stop infusion and remove catheter immediately",
         "Flush line with heparin"
       ],
@@ -119,7 +114,7 @@
     {
       "question": "When should TPN be discontinued according to standard guidelines?",
       "options": [
-        "When patient feels hungry",
+        "When <60% of caloric needs are met enterally",
         "When >60% of caloric needs are met enterally",
         "After 5 days regardless of oral intake",
         "When blood glucose is normal"
