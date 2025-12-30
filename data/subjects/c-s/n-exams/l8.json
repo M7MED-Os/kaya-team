@@ -16,7 +16,7 @@
       "options": [
         "Protein only",
         "Calories only",
-        "Simultaneous deficiency of proteins and calories",
+        "Proteins and calories",
         "Vitamin D only"
       ],
       "correctIndex": 2
@@ -33,12 +33,7 @@
     },
     {
       "question": "Which of the following is a clinical feature of Marasmus?",
-      "options": [
-        "Edema",
-        "Fatty liver",
-        "Severe muscle wasting and no subcutaneous fat",
-        "Symmetrical skin changes"
-      ],
+      "options": ["Edema", "Fatty liver", "Muscle wasting", "Skin changes"],
       "correctIndex": 2
     },
     {
@@ -53,12 +48,7 @@
     },
     {
       "question": "Rickets is caused by a deficiency of:",
-      "options": [
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin A",
-        "Calcium only (without vitamin D deficiency)"
-      ],
+      "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Calcium only"],
       "correctIndex": 1
     },
     {
@@ -108,14 +98,19 @@
     },
     {
       "question": "What is a common feature in both Marasmus and Kwashiorkor?",
-      "options": ["Edema", "Fatty liver", "Muscle wasting", "Hair changes"],
+      "options": [
+        "Lack of subcutaneous fat",
+        "Fatty liver",
+        "Muscle wasting",
+        "Hair changes"
+      ],
       "correctIndex": 2
     },
     {
       "question": "Which of the following prevents rickets?",
       "options": [
         "Avoiding sunlight",
-        "Vitamin D supplementation and sunlight exposure",
+        "Sunlight exposure",
         "High carbohydrate diet",
         "Iron supplementation"
       ],
@@ -126,19 +121,14 @@
       "options": [
         "Carbohydrates",
         "Fats",
-        "Haemopoietic nutrients (iron, B12, folate)",
-        "Vitamin C only"
+        "Haemopoietic nutrients",
+        "Vitamin C"
       ],
       "correctIndex": 2
     },
     {
       "question": "Which group is most vulnerable to nutritional deficiencies?",
-      "options": [
-        "Young adults",
-        "Athletes",
-        "Young children, elderly, and disabled",
-        "Middle-aged men"
-      ],
+      "options": ["Young adults", "Athletes", "Disabled", "Middle-aged men"],
       "correctIndex": 2
     },
     {
@@ -165,7 +155,7 @@
       "question": "The earliest physical sign of rickets is often:",
       "options": [
         "Bowlegs",
-        "Craniotabes (soft skull bones)",
+        "Craniotabes",
         "Narrowed pelvic inlet",
         "Bossing of frontal bones"
       ],
@@ -184,7 +174,7 @@
     {
       "question": "Which condition is characterized by bone pain and waddling gait in adults?",
       "options": [
-        "Kwashiorkor",
+        "Rickets",
         "Osteomalacia",
         "Marasmus",
         "Megaloblastic anemia"
@@ -194,12 +184,12 @@
     {
       "question": "Folate deficiency anemia is often due to:",
       "options": [
-        "Excess vegetable intake",
-        "Poor intake of vegetables",
+        "Low vegetable intake",
+        "Low fats intake",
         "High protein diet",
-        "Excess iron intake"
+        "Low iron intake"
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "Which is a feature of Vitamin B12 deficiency anemia?",
@@ -233,19 +223,14 @@
     },
     {
       "question": "Which of the following is NOT a symptom of rickets?",
-      "options": [
-        "Craniotabes",
-        "Pigeon chest",
-        "Bowlegs",
-        "Pallor and brittle nails"
-      ],
+      "options": ["Craniotabes", "Pigeon chest", "Bowlegs", "Brittle nails"],
       "correctIndex": 3
     },
     {
       "question": "What is the primary cause of iron deficiency anemia?",
       "options": [
         "Excess iron intake",
-        "Deficient intake of iron and chronic blood loss",
+        "Chronic blood loss",
         "Vitamin C deficiency",
         "Excessive protein intake"
       ],
@@ -270,7 +255,7 @@
       "question": "Which of the following is a prevention strategy for nutritional anemias?",
       "options": [
         "Avoiding all vegetables",
-        "Nutrition education and treatment of parasitic infections",
+        "Balanced diet",
         "Reducing protein intake",
         "Avoiding sunlight"
       ],
@@ -332,9 +317,44 @@
       "correctIndex": 1
     },
     {
-      "question": "Folate deficiency anemia is commonly seen in individuals with poor vegetable intake.",
+      "question": "B12 deficiency anemia is commonly seen in individuals with poor vegetable intake.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
+    },
+    {
+      "question": "Which parasitic infection is linked to chronic blood loss and iron deficiency anemia?",
+      "options": ["Tapeworm", "Hookworm", "Roundworm", "Giardia"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Tapeworm infestation can lead to which type of nutritional anemia?",
+      "options": [
+        "Iron deficiency anemia",
+        "Vitamin B12 deficiency anemia",
+        "Folate deficiency anemia",
+        "Vitamin D deficiency anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Peptic ulcer disease is most likely to cause which type of anemia due to chronic blood loss?",
+      "options": [
+        "Megaloblastic anemia",
+        "Iron deficiency anemia",
+        "Folate deficiency anemia",
+        "Hemolytic anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Coeliac disease primarily interferes with nutrient absorption and can lead to which type of anemia?",
+      "options": [
+        "Iron deficiency anemia only",
+        "Folate deficiency anemia only",
+        "Both iron and folate deficiency anemias",
+        "Vitamin B12 deficiency anemia only"
+      ],
+      "correctIndex": 2
     }
   ]
 }
