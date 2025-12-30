@@ -4,15 +4,15 @@
     {
       "question": "What is the primary goal of Medical Nutrition Therapy (MNT) for Diabetes Mellitus?",
       "options": [
-        "To eliminate all carbohydrates from the diet.",
-        "To cure the underlying pancreatic dysfunction.",
-        "To maintain optimal blood glucose, lipid, and blood pressure levels and prevent complications.",
-        "To promote rapid weight loss regardless of starting weight."
+        "To maintain optimal blood glucose.",
+        "To maintain optimal blood lipid.",
+        "To maintain optimal blood pressure.",
+        "All of the above"
       ],
-      "correctIndex": 2
+      "correctIndex": 3
     },
     {
-      "question": "Which of the following is NOT an objective of nutritional management in diabetes according to the lecture?",
+      "question": "Which of the following is NOT an objective of nutritional management in diabetes?",
       "options": [
         "Achieve and maintain near-normal blood glucose levels.",
         "Maintain optimal lipid levels and blood pressure.",
@@ -20,6 +20,21 @@
         "Restrict all dietary fats to less than 10% of daily calories."
       ],
       "correctIndex": 3
+    },
+    {
+      "question": "For which type of diabetes is absolute insulin deficiency?",
+      "options": ["Type 2 DM", "Gestational DM", "Secondary DM", "Type 1 DM"],
+      "correctIndex": 3
+    },
+    {
+      "question": "For which type of diabetes is occurs during pregnancy?",
+      "options": ["Type 2 DM", "Gestational DM", "Secondary DM", "Type 1 DM"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For which type of diabetes is occurs due to medications?",
+      "options": ["Type 2 DM", "Gestational DM", "Secondary DM", "Type 1 DM"],
+      "correctIndex": 2
     },
     {
       "question": "For which type of diabetes is the nutritional focus specifically on \"insulin-carbohydrate balance and consistent meal timing\"?",
@@ -55,8 +70,8 @@
       "question": "Which type of carbohydrate is preferred in a diabetic diet?",
       "options": [
         "Refined sugars",
-        "Simple carbohydrates from sweets and sodas",
-        "Complex carbohydrates from whole grains and legumes",
+        "Simple carbohydrates",
+        "Complex carbohydrates",
         "Carbohydrates with a high glycemic index"
       ],
       "correctIndex": 2
@@ -95,7 +110,7 @@
       "question": "Which of the following micronutrients is noted to improve insulin sensitivity?",
       "options": [
         "Vitamin C and Beta-carotene",
-        "Chromium and Magnesium",
+        "Chromium",
         "Omega-3 fatty acids",
         "Trans fats"
       ],
@@ -107,21 +122,16 @@
       "correctIndex": 1
     },
     {
-      "question": "A patient with diabetic nephropathy may require which specific dietary modification?",
-      "options": [
-        "Increased protein intake.",
-        "Carbohydrate restriction to below 30%.",
-        "Protein restriction.",
-        "Increased saturated fat intake."
-      ],
-      "correctIndex": 2
+      "question": "A patient with diabetic nephropathy require Increased protein intake.",
+      "options": ["True", "False"],
+      "correctIndex": 1
     },
     {
       "question": "Which type of fat should be preferred in a diabetic meal plan?",
       "options": [
         "Saturated fats",
         "Trans fats",
-        "Unsaturated fats (e.g., olive oil, nuts)",
+        "Unsaturated fats",
         "Animal fats only"
       ],
       "correctIndex": 2
@@ -137,16 +147,6 @@
       "correctIndex": 2
     },
     {
-      "question": "According to the sample diet plan, what is the suggested bedtime snack to prevent nocturnal hypoglycemia?",
-      "options": [
-        "A piece of cake",
-        "A glass of regular soda",
-        "10 almonds",
-        "Small fruit or sugar-free milk"
-      ],
-      "correctIndex": 3
-    },
-    {
       "question": "Which special consideration is recommended regarding alcohol consumption for diabetic patients?",
       "options": [
         "Alcohol should be completely avoided.",
@@ -157,28 +157,13 @@
       "correctIndex": 1
     },
     {
-      "question": "Why is cultural adaptation important in diabetic nutrition education?",
-      "options": [
-        "It ensures patients only eat imported health foods.",
-        "It disregards local preferences to impose a standard diet.",
-        "It considers local foods and habits to improve adherence.",
-        "It is not mentioned as an important factor."
-      ],
-      "correctIndex": 2
-    },
-    {
       "question": "What is the primary purpose of using exchange lists in meal planning?",
       "options": [
         "To count total daily calories precisely.",
-        "To provide flexibility by grouping foods with similar nutrient content.",
+        "To provide flexibility.",
         "To eliminate all fats from the diet.",
         "To prescribe a rigid, unchangeable menu."
       ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which item from the sample diet plan is noted as a source of \"healthy fats\"?",
-      "options": ["Oatmeal", "10 almonds", "Grilled chicken", "Lentil soup"],
       "correctIndex": 1
     },
     {
