@@ -1,0 +1,230 @@
+{
+  "title": "Parenteral Nutrition (IV Nutrition)",
+  "questions": [
+    {
+      "question": "What is the primary definition of Parenteral Nutrition (PN)?",
+      "options": [
+        "Oral intake of nutritional supplements",
+        "Intravenous administration of nutrients when the GI tract is nonfunctional or unsafe",
+        "Tube feeding directly into the stomach",
+        "Subcutaneous injection of vitamins"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of Parenteral Nutrition is administered via a central venous catheter?",
+      "options": [
+        "Peripheral Parenteral Nutrition (PPN)",
+        "Total Parenteral Nutrition (TPN)",
+        "Enteral Nutrition",
+        "Oral Nutritional Supplement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a common indication for IV Nutrition?",
+      "options": [
+        "Severe pancreatitis",
+        "Short bowel syndrome",
+        "Functional GI tract with adequate absorption",
+        "Sepsis with high metabolic demand"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Peripheral Parenteral Nutrition (PPN) is generally suitable for:",
+      "options": [
+        "Long-term use (>10 days)",
+        "Short-term use (≤10 days)",
+        "Complete nutritional support",
+        "High osmolarity solutions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which solution component provides the highest caloric density per gram in PN?",
+      "options": [
+        "Dextrose (3.4 kcal/g)",
+        "Amino acids (4 kcal/g)",
+        "Lipids (9 kcal/g)",
+        "Electrolytes (0 kcal/g)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which electrolyte is primarily responsible for muscle and heart function in PN?",
+      "options": [
+        "Sodium (Na⁺)",
+        "Potassium (K⁺)",
+        "Magnesium (Mg²⁺)",
+        "Calcium (Ca²⁺)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a major complication associated with carbohydrate overadministration in PN?",
+      "options": [
+        "Hypoglycemia",
+        "Hyperglycemia",
+        "Hypokalemia",
+        "Fat overload syndrome"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which vitamin group is fat-soluble and included in PN formulations?",
+      "options": [
+        "B-complex and C",
+        "A, D, E, K",
+        "Only vitamin C",
+        "Only B vitamins"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How often should the IV tubing and filter be changed during PN administration?",
+      "options": [
+        "Every 72 hours",
+        "Every 48 hours",
+        "Every 24 hours",
+        "Every week"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended initial frequency for blood glucose monitoring in a patient starting TPN?",
+      "options": ["Every 12 hours", "Every 6 hours", "Daily", "Weekly"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which complication presents with hypophosphatemia and weakness, often seen when feeding is initiated too rapidly?",
+      "options": [
+        "Hyperglycemia",
+        "Catheter-related sepsis",
+        "Refeeding syndrome",
+        "Air embolism"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the immediate nursing action for suspected air embolism during PN infusion?",
+      "options": [
+        "Increase infusion rate",
+        "Place patient in left Trendelenburg position and administer oxygen",
+        "Stop infusion and remove catheter immediately",
+        "Flush line with heparin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When should TPN be discontinued according to standard guidelines?",
+      "options": [
+        "When patient feels hungry",
+        "When >60% of caloric needs are met enterally",
+        "After 5 days regardless of oral intake",
+        "When blood glucose is normal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which trace element is essential for immune function and wound healing?",
+      "options": ["Copper", "Chromium", "Zinc", "Selenium"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the maximum recommended percentage of total calories from lipids in PN?",
+      "options": ["10%", "30%", "50%", "70%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which parameter should be monitored daily to assess fluid balance in patients receiving PN?",
+      "options": [
+        "Liver function tests",
+        "Weight",
+        "Hemoglobin",
+        "Platelet count"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What type of filter is used for aqueous PN solutions during infusion?",
+      "options": [
+        "5 µm filter",
+        "0.22 µm filter",
+        "10 µm filter",
+        "No filter needed"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a contraindication for initiating PN?",
+      "options": [
+        "Severe anorexia",
+        "Hemodynamic instability",
+        "Intestinal obstruction",
+        "Crohn's disease flare"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which modern trend in PN involves the use of omega-3 enriched lipid emulsions?",
+      "options": [
+        "Closed-system TPN bags",
+        "Smart infusion pumps",
+        "Reduction of inflammation",
+        "AI-guided protocols"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary purpose of using an infusion pump for PN administration?",
+      "options": [
+        "To reduce cost",
+        "To allow rapid infusion",
+        "For precise rate control",
+        "To eliminate the need for monitoring"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "True or False: Peripheral Parenteral Nutrition (PPN) can safely deliver solutions with osmolarity greater than 900 mOsm/L.",
+      "correctAnswer": false
+    },
+    {
+      "question": "True or False: TPN must always be prepared by a nurse at the bedside.",
+      "correctAnswer": false
+    },
+    {
+      "question": "True or False: Electrolytes such as sodium, potassium, and magnesium are optional components of PN.",
+      "correctAnswer": false
+    },
+    {
+      "question": "True or False: Fat overload syndrome is a potential complication of excessive lipid administration.",
+      "correctAnswer": true
+    },
+    {
+      "question": "True or False: Blood glucose should be monitored weekly in stable patients on long-term TPN.",
+      "correctAnswer": false
+    },
+    {
+      "question": "True or False: Refeeding syndrome is characterized by hyperphosphatemia and hypertension.",
+      "correctAnswer": false
+    },
+    {
+      "question": "True or False: Catheter-related sepsis is an infectious complication of PN.",
+      "correctAnswer": true
+    },
+    {
+      "question": "True or False: PN solutions should be mixed under laminar airflow hoods to ensure sterility.",
+      "correctAnswer": true
+    },
+    {
+      "question": "True or False: TPN should be stopped abruptly once oral intake begins.",
+      "correctAnswer": false
+    },
+    {
+      "question": "True or False: Home Parenteral Nutrition (HPN) is an option for patients with chronic intestinal failure.",
+      "correctAnswer": true
+    }
+  ]
+}
