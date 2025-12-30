@@ -187,44 +187,54 @@
       "correctIndex": 2
     },
     {
-      "question": "True or False: Peripheral Parenteral Nutrition (PPN) can safely deliver solutions with osmolarity greater than 900 mOsm/L.",
-      "correctAnswer": false
+      "question": "Parenteral Nutrition is used when the gastrointestinal tract is functional and safe.",
+      "options": ["True", "False"],
+      "correctIndex": 1
     },
     {
-      "question": "True or False: TPN must always be prepared by a nurse at the bedside.",
-      "correctAnswer": false
+      "question": "Total Parenteral Nutrition (TPN) is administered through a peripheral vein.",
+      "options": ["True", "False"],
+      "correctIndex": 1
     },
     {
-      "question": "True or False: Electrolytes such as sodium, potassium, and magnesium are optional components of PN.",
-      "correctAnswer": false
+      "question": "Severe pancreatitis is an indication for IV nutrition.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     },
     {
-      "question": "True or False: Fat overload syndrome is a potential complication of excessive lipid administration.",
-      "correctAnswer": true
+      "question": "PPN is suitable for long-term nutritional support (>10 days).",
+      "options": ["True", "False"],
+      "correctIndex": 1
     },
     {
-      "question": "True or False: Blood glucose should be monitored weekly in stable patients on long-term TPN.",
-      "correctAnswer": false
+      "question": "Dextrose provides 3.4 kcal per gram in PN solutions.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     },
     {
-      "question": "True or False: Refeeding syndrome is characterized by hyperphosphatemia and hypertension.",
-      "correctAnswer": false
+      "question": "Lipids should provide more than 50% of total calories in PN.",
+      "options": ["True", "False"],
+      "correctIndex": 1
     },
     {
-      "question": "True or False: Catheter-related sepsis is an infectious complication of PN.",
-      "correctAnswer": true
+      "question": "Electrolytes such as potassium and magnesium are optional in PN formulas.",
+      "options": ["True", "False"],
+      "correctIndex": 1
     },
     {
-      "question": "True or False: PN solutions should be mixed under laminar airflow hoods to ensure sterility.",
-      "correctAnswer": true
+      "question": "Catheter-related sepsis is an infectious complication of PN.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     },
     {
-      "question": "True or False: TPN should be stopped abruptly once oral intake begins.",
-      "correctAnswer": false
+      "question": "TPN should be tapered gradually to prevent rebound hypoglycemia.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     },
     {
-      "question": "True or False: Home Parenteral Nutrition (HPN) is an option for patients with chronic intestinal failure.",
-      "correctAnswer": true
+      "question": "Home Parenteral Nutrition (HPN) is available for chronic patients.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     }
   ]
 }
