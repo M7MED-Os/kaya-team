@@ -1,5 +1,5 @@
 {
-  "title": "Nutritional Disorders (Undernutrition, Malnutrition, Deficiency Diseases)",
+  "title": "Nutritional Disorders",
   "questions": [
     {
       "question": "Which of the following is NOT a main classification of nutritional disorders?",
@@ -212,6 +212,81 @@
       "correctIndex": 1
     },
     {
+      "question": "Which of the following is a cause of megaloblastic anemia?",
+      "options": [
+        "Iron deficiency",
+        "Vitamin D deficiency",
+        "Folate deficiency",
+        "Protein excess"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key difference between Marasmus and Kwashiorkor?",
+      "options": [
+        "Marasmus has edema, Kwashiorkor does not",
+        "Kwashiorkor has edema, Marasmus does not",
+        "Only Marasmus involves muscle wasting",
+        "Only Kwashiorkor occurs in children"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a symptom of rickets?",
+      "options": [
+        "Craniotabes",
+        "Pigeon chest",
+        "Bowlegs",
+        "Pallor and brittle nails"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the primary cause of iron deficiency anemia?",
+      "options": [
+        "Excess iron intake",
+        "Deficient intake of iron and chronic blood loss",
+        "Vitamin C deficiency",
+        "Excessive protein intake"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which vitamin deficiency causes both megaloblastic anemia and neurological symptoms?",
+      "options": ["Vitamin B12", "Folate", "Vitamin D", "Vitamin A"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the main pathological feature in osteomalacia?",
+      "options": [
+        "Fatty liver",
+        "Softening of bones",
+        "Muscle hypertrophy",
+        "Edema"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a prevention strategy for nutritional anemias?",
+      "options": [
+        "Avoiding all vegetables",
+        "Nutrition education and treatment of parasitic infections",
+        "Reducing protein intake",
+        "Avoiding sunlight"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In PEM, which factor increases vulnerability?",
+      "options": [
+        "High socioeconomic status",
+        "Good sanitary conditions",
+        "Nutrition ignorance of mothers",
+        "Early and proper weaning"
+      ],
+      "correctIndex": 2
+    },
+    {
       "question": "Malnutrition includes both undernutrition and overnutrition.",
       "options": ["True", "False"],
       "correctIndex": 0
@@ -255,6 +330,11 @@
       "question": "Nutritional disorders only refer to deficiencies, not excesses.",
       "options": ["True", "False"],
       "correctIndex": 1
+    },
+    {
+      "question": "Folate deficiency anemia is commonly seen in individuals with poor vegetable intake.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     }
   ]
 }
