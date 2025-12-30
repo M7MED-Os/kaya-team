@@ -52,8 +52,8 @@
       "correctIndex": 2
     },
     {
-      "question": "How much Vitamin D per day protects against rickets?",
-      "options": ["50 IU", "100 IU", "300 IU", "500 IU"],
+      "question": "What is the minimum amount of vitamin D that can be taken daily to prevent rickets?",
+      "options": ["400 IU", "100 IU", "300 IU", "500 IU"],
       "correctIndex": 1
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "question": "Iron requirement for adult males is:",
-      "options": ["5–7 mg/day", "7–10 mg/day", "12–15 mg/day", "15–20 mg/day"],
+      "options": ["5–7 mg/day", "7–10 mg/day", "12–15 mg/day", "12–20 mg/day"],
       "correctIndex": 1
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "question": "Iodine requirement for adults is:",
-      "options": ["0.5 µg/kg", "1 µg/kg", "2 µg/kg", "3 µg/kg"],
+      "options": ["0.5 µg/kg", "1 µg/kg", "25 µg/kg", "50 µg/kg"],
       "correctIndex": 1
     },
     {
@@ -133,8 +133,8 @@
     },
     {
       "question": "Which vitamin deficiency causes pellagra?",
-      "options": ["Vitamin B1", "Vitamin B3", "Vitamin B6", "Vitamin B12"],
-      "correctIndex": 1
+      "options": ["Vitamin B1", "Vitamin B2", "Vitamin B6", "Vitamin B12"],
+      "correctIndex": 3
     },
     {
       "question": "Which vitamin is produced sufficiently by intestinal bacteria?",
@@ -182,7 +182,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Thiamine deficiency can cause beriberi.",
+      "question": "Thiamine deficiency can cause Peripheral neuropathy.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
