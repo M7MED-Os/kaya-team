@@ -42,6 +42,13 @@
       "quiz": "exam.html?file=data/subjects/c-s/n-exams/l7.json",
       "file": "https://t.me/M7KAYA290/9016",
       "summary": null
+    },
+    {
+      "title": "Diabetes Mellitus",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/n-exams/l11.json",
+      "file": null,
+      "summary": null
     }
   ]
 }
