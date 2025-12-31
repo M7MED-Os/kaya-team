@@ -669,6 +669,96 @@
         "Carbohydrates with a high glycemic index"
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "How many calories does 1 gram of carbohydrate provide?",
+      "options": ["2 kcal", "4 kcal", "9 kcal", "7 kcal"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Recommended carbohydrate intake should be more than what percentage of total energy?",
+      "options": ["30%", "50%", "70%", "40%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Protein requirement for a healthy adult is:",
+      "options": ["0.5 g/kg", "1.0 g/kg", "1.5 g/kg", "2.0 g/kg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Protein requirement for infants is:",
+      "options": ["1.0 g/kg", "1.8 g/kg", "2.0 g/kg", "3.0 g/kg"],
+      "correctIndex": 2
+    },
+    {
+      "question": "How many calories does 1 gram of fat provide?",
+      "options": ["2 kcal", "4 kcal", "7 kcal", "9 kcal"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Recommended fat intake should provide what percentage of total calories?",
+      "options": ["10–20%", "25–35%", "40–50%", "55–65%"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Recommended daily Vitamin A intake for adult males is:",
+      "options": ["2000 IU", "4000 IU", "5000 IU", "6000 IU"],
+      "correctIndex": 2
+    },
+    {
+      "question": "During pregnancy, Vitamin A intake should increase to:",
+      "options": ["4000 IU", "5000 IU", "6000 IU", "7000 IU"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which vitamin deficiency causes night blindness?",
+      "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin K"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vitamin D intake recommended for infants and pregnant women is:",
+      "options": ["100 IU", "200 IU", "400 IU", "800 IU"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the minimum amount of vitamin D that can be taken daily to prevent rickets?",
+      "options": ["400 IU", "100 IU", "300 IU", "500 IU"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Thiamine (Vitamin B1) requirement for adult males is:",
+      "options": ["0.9 mg", "1.2 mg", "1.6 mg", "2.0 mg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Riboflavin (Vitamin B2) requirement for adult females is:",
+      "options": ["0.9 mg", "1.2 mg", "1.6 mg", "2.0 mg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pyridoxine (Vitamin B6) daily requirement for adults is:",
+      "options": ["1 mg", "2 mg", "3 mg", "4 mg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Vitamin B12 requirement for adult females is:",
+      "options": ["10 mg", "15 mg", "20 mg", "25 mg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Folate (Folic Acid) daily requirement for adults is:",
+      "options": ["0.2 mg", "0.4 mg", "0.6 mg", "1.0 mg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which deficiency causes macrocytic anemia?",
+      "options": ["Iron", "Folate", "Vitamin D", "Vitamin C"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Calcium requirement for children is:",
+      "options": ["400 mg/day", "600 mg/day", "800 mg/day", "1000 mg/day"],
+      "correctIndex": 2
     }
   ]
 }
