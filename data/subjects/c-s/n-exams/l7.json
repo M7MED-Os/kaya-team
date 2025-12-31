@@ -12,11 +12,6 @@
       "correctIndex": 1
     },
     {
-      "question": "Which group is NOT explicitly listed as a separate vulnerable group in the lecture?",
-      "options": ["Elderly", "Adolescents", "Street families", "Prisoners"],
-      "correctIndex": 1
-    },
-    {
       "question": "Low birth weight (LBW) is defined as a birth weight of less than:",
       "options": ["1500g", "2500g", "1000g", "3000g"],
       "correctIndex": 1

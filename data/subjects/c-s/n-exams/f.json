@@ -1,0 +1,674 @@
+{
+  "title": "Final Nutrition",
+  "questions": [
+    {
+      "question": "Which of the following defines \"Nutrition\"?",
+      "options": [
+        "The application of nutrition principles in public and clinical health.",
+        "The science of food and its relationship to health.",
+        "A professional who advises on food and nutrition.",
+        "The practical application of nutrition in meal planning."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following defines \"Applied Nutrition\"?",
+      "options": [
+        "The study of how living organisms use food for life processes.",
+        "The application of nutritional knowledge in public and clinical health.",
+        "A health condition due to imbalanced nutrient intake.",
+        "A professional specializing in dietary advice."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following defines a \"Nutritionist\"?",
+      "options": [
+        "The science studying the relationship between food and health.",
+        "A professional who advises individuals or groups on food and nutrition.",
+        "The practical application of meal planning for healthy and sick individuals.",
+        "A health condition resulting from inadequate or excessive nutrient intake."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a sign of good nutrition?",
+      "options": [
+        "Weak and flabby muscles.",
+        "Dry and rough skin.",
+        "Bright eyes and normal vision.",
+        "Fatigue and low energy."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a sign of malnutrition?",
+      "options": [
+        "Upright posture in sitting and standing.",
+        "Healthy gums and well-formed teeth.",
+        "Bowed legs and bone deformities.",
+        "High resistance to infections."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vitamin A deficiency leads to:",
+      "options": [
+        "Bleeding gums.",
+        "Night blindness.",
+        "Rickets.",
+        "Osteoporosis."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is associated with Vitamin C deficiency?",
+      "options": [
+        "Bone deformities.",
+        "Bleeding gums and scurvy.",
+        "Night blindness.",
+        "Obesity."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an effect of malnutrition on the nervous system and learning?",
+      "options": [
+        "Calm nerves and quick learning.",
+        "Good concentration and strong memory.",
+        "Nervousness, anxiety, and poor concentration.",
+        "High energy levels for productivity."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Erect posture in sitting and standing is a sign of good nutrition.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Poor resistance to infections is a sign of good nutrition.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Dietetics includes planning meals for both healthy individuals and patients.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is the primary function of proteins in the body?",
+      "options": [
+        "Primary energy source",
+        "Regulation of body processes",
+        "Growth, repair, and maintenance of tissues",
+        "Energy storage and insulation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which nutrient is primarily responsible for the regulation of body processes?",
+      "options": ["Carbohydrates", "Proteins", "Vitamins", "Fats"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Carbohydrates are mainly used by the body for energy storage and insulation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key role of nutrition in disease prevention?",
+      "options": [
+        "It increases the risk of chronic diseases like diabetes and hypertension.",
+        "It can lead to nutritional deficiency diseases such as scurvy and anemia if adequate.",
+        "It strengthens the immune system and reduces the risk of infections.",
+        "It has no impact on mental or cognitive health."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Good nutrition contributes to mental and cognitive health by:",
+      "options": [
+        "Causing mood swings and behavioral issues.",
+        "Worsening memory and concentration over time.",
+        "Improving memory, concentration, and mood.",
+        "Having no effect on learning or cognitive function."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nutrition plays a vital role in reproductive and maternal health by ensuring fertility and preventing complications such as neural tube defects.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is a characteristic of macronutrients?",
+      "options": [
+        "They are required in very small quantities (milligrams or less).",
+        "They are primarily responsible for disease prevention.",
+        "They provide the main source of energy for the body.",
+        "Examples include vitamins and minerals."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A deficiency in micronutrients is most likely to result in:",
+      "options": [
+        "Kwashiorkor or marasmus.",
+        "Obesity and cardiovascular disease.",
+        "Conditions such as anemia, goiter, or scurvy.",
+        "Excessive energy and weight gain."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a consequence of overconsumption of macronutrients?",
+      "options": [
+        "Liver and nerve damage.",
+        "Increased risk of cardiovascular disease, diabetes, and obesity.",
+        "Improved immune function.",
+        "Strengthened bones and teeth."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Micronutrients are also known as:",
+      "options": [
+        "Major elements.",
+        "Proximate principles.",
+        "Trace elements.",
+        "Energy providers."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vitamins and minerals are considered macronutrients because they provide the bulk of dietary energy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Overconsumption of micronutrients, such as vitamins, can lead to health issues like liver and nerve damage.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is considered a 'bodybuilding food'?",
+      "options": [
+        "Cereals and sugars.",
+        "Vegetables and fruits.",
+        "Milk, meat, and eggs.",
+        "Fats and oils."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT one of the five major food groups in the food pyramid?",
+      "options": [
+        "Bread, cereal, rice, and pasta group.",
+        "Fruit and vegetable group.",
+        "Meat group.",
+        "Water and beverages group."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Following the food pyramid guidelines helps to:",
+      "options": [
+        "Increase fat intake and cholesterol levels.",
+        "Ignore calorie counting for weight management.",
+        "Keep fat intake and total cholesterol at recommended levels.",
+        "Focus only on one food group for optimal health."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The food pyramid is designed to provide guidance on what and how much to eat from the five major food groups.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is a function of Vitamin A?",
+      "options": [
+        "Essential for blood coagulation.",
+        "Regulates calcium and phosphorus metabolism.",
+        "Prevents night blindness and maintains healthy skin.",
+        "Important for synthesis of collagen and connective tissues."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which mineral is primarily responsible for the formation of hemoglobin?",
+      "options": ["Calcium", "Iodine", "Iron", "Magnesium"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A deficiency in Vitamin D primarily leads to:",
+      "options": [
+        "Scurvy and bleeding gums.",
+        "Rickets in children.",
+        "Pellagra.",
+        "Beriberi and neurological issues."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which nutrient is a concentrated source of energy, providing 9 kcal per gram?",
+      "options": ["Carbohydrates", "Proteins", "Fats (Lipids)", "Fiber"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Vitamin C can be stored in the body for long periods and does not need to be consumed daily.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fiber aids in digestion and prevents constipation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended daily protein intake for a healthy adult (in grams per kilogram of body weight)?",
+      "options": ["0.5 g/kg", "1.0 g/kg", "1.8 g/kg", "2.0 g/kg"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Manifestations of insanitary meat include the following except:",
+      "options": [
+        "Changing its color, smell or consistency of fresh meat.",
+        "When cooking it, a bad smell arises from it.",
+        "Meat is marked with an abattoir marker."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Milk is important in food sanitation because of the following except one:",
+      "options": [
+        "Difficult-made food",
+        "Consumed for all age groups especially below 2 years.",
+        "Subjected to handling many times during milking, distribution, packing, processing, and cheese or yoghurt preparation.",
+        "Subjected to adulteration by many ways as adding water, flour"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Manifestations of insanitary fish include:",
+      "options": [
+        "Change characteristic smell of fish.",
+        "No color of gills.",
+        "Fresh tail of fish.",
+        "High brightness of eyes of fish to opaque coloration."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Obesity is defined as generally describing people who are at least ______ above a desired weight for height.",
+      "options": ["10%", "15%", "20%", "25%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "All of the following are listed as health risks of obesity EXCEPT:",
+      "options": [
+        "Type 2 diabetes",
+        "Hypertension",
+        "Hyperlipidemias",
+        "Type 1 diabetes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the normal range for Body Mass Index (BMI) in kg/m²?",
+      "options": ["15-20", "20-25", "25-30", "30-35"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A BMI of 45 kg/m² would be classified as:",
+      "options": [
+        "Severe obesity",
+        "Morbid obesity",
+        "Super obese",
+        "Normal weight"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Qualitative Assessment' of obesity primarily involves:",
+      "options": [
+        "Calculating Body Mass Index",
+        "Measuring the thickness of skin folds",
+        "Determining the distribution of adiposity",
+        "Weighing the individual"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is one primary purpose of a nutritional assessment?",
+      "options": [
+        "To perform surgery",
+        "To identify individuals who are malnourished",
+        "To prescribe medication",
+        "To replace biochemical tests"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is listed as an indirect method of nutritional assessment?",
+      "options": [
+        "Anthropometric methods",
+        "Community health indices, such as infant mortality",
+        "Clinical methods",
+        "Dietary evaluation methods"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT one of the five domains of nutritional assessment?",
+      "options": [
+        "Food and Nutrition Related History",
+        "Psychological Assessment",
+        "Anthropometric Assessment",
+        "Biochemical data, medical tests and procedure assessment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary purpose of biochemical assessment?",
+      "options": [
+        "To measure body weight and height",
+        "To diagnose and monitor nutritional status",
+        "To conduct dietary interviews",
+        "To perform physical exercise tests"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The \"ABCD\" of direct nutritional assessment methods stands for:",
+      "options": [
+        "Analysis, Behavior, Clinical, Dietary",
+        "Anthropometric, Biochemical, Clinical, Dietary",
+        "Assessment, Biochemical, Calculation, Dietary",
+        "Anthropometric, Blood, Clinical, Diet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the average head circumference for a newborn?",
+      "options": ["37.6 cm", "34.5 cm", "53 cm", "56 cm"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For adult women, what is the average range for head circumference?",
+      "options": ["56-61 cm", "50-55 cm", "53-58.5 cm", "58-63 cm"],
+      "correctIndex": 2
+    },
+    {
+      "question": "At birth, how does a newborn's head circumference typically compare to its chest circumference?",
+      "options": [
+        "Head is smaller than the chest.",
+        "Head is equal to the chest.",
+        "Head is about 2 cm larger than the chest.",
+        "Head is about 5 cm larger than the chest."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the definition of \"nutritional vulnerability\"?",
+      "options": [
+        "The diminished capacity to cope with natural hazards",
+        "A reduced physical reserve that limits recovery from acute health threats",
+        "An extreme event that disrupts life and livelihood",
+        "A severe destruction of societal functioning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Low birth weight (LBW) is defined as a birth weight of less than:",
+      "options": ["1500g", "2500g", "1000g", "3000g"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which factor is stated as the major cause of low birth weight in developing countries?",
+      "options": [
+        "Excessive maternal weight gain",
+        "Maternal undernutrition",
+        "High socioeconomic status",
+        "Advanced maternal age"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended feeding method for Low Birth Weight (LBW) and Very Low Birth Weight (VLBW) infants who cannot be fed mother's own milk or donor milk?",
+      "options": [
+        "Cow’s milk",
+        "Standard infant formula",
+        "Solid foods",
+        "Fruit juices"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When is a child considered vulnerable?",
+      "options": [
+        "When the household has a high income",
+        "When there is a high probability that a shock will cause a negative outcome like malnutrition",
+        "Only if the child is disabled",
+        "When the child has access to excellent healthcare"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In populations with Vitamin A deficiency, from what age should vitamin A supplementation for children begin?",
+      "options": [
+        "From birth",
+        "From 6 months of age",
+        "Only during illness",
+        "Only for mothers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a main classification of nutritional disorders?",
+      "options": [
+        "Under nutrition",
+        "Malnutrition",
+        "Nutrient excess",
+        "Hyperactivity"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Marasmus in children is primarily caused by a deficiency of:",
+      "options": [
+        "Protein only",
+        "Calories only",
+        "Proteins and calories",
+        "Vitamin D only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Rickets is caused by a deficiency of:",
+      "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Calcium only"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kwashiorkor typically occurs in children due to a diet that is:",
+      "options": [
+        "High in protein, low in starch",
+        "Low in protein, high in starch",
+        "High in both protein and calories",
+        "Low in vitamins only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a clinical feature of Marasmus?",
+      "options": ["Edema", "Fatty liver", "Muscle wasting", "Skin changes"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of anemia is microcytic and hypochromic?",
+      "options": [
+        "Vitamin B12 deficiency anemia",
+        "Folate deficiency anemia",
+        "Iron deficiency anemia",
+        "Copper deficiency anemia"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which condition is characterized by bone pain and waddling gait in adults?",
+      "options": [
+        "Rickets",
+        "Osteomalacia",
+        "Marasmus",
+        "Megaloblastic anemia"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Folate deficiency anemia is often due to:",
+      "options": [
+        "Low vegetable intake",
+        "Low fats intake",
+        "High protein diet",
+        "Low iron intake"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the primary definition of Parenteral Nutrition (PN)?",
+      "options": [
+        "Oral intake of nutritional supplements",
+        "Intravenous administration of nutrients",
+        "Tube feeding directly into the stomach",
+        "Used when the GI tract is functional and safe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of Parenteral Nutrition is administered via a central venous catheter?",
+      "options": [
+        "Peripheral Parenteral Nutrition (PPN)",
+        "Total Parenteral Nutrition (TPN)",
+        "Enteral Nutrition",
+        "Oral Nutritional Supplement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a common indication for IV Nutrition?",
+      "options": [
+        "Severe pancreatitis",
+        "Short bowel syndrome",
+        "Functional GI tract with adequate absorption",
+        "Sepsis with high metabolic demand"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Peripheral Parenteral Nutrition (PPN) is generally suitable for:",
+      "options": [
+        "Long-term use (>10 days)",
+        "Short-term use (≤10 days)",
+        "Complete nutritional support",
+        "High osmolarity solutions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which solution component provides the highest caloric density per gram in PN?",
+      "options": ["Dextrose", "Amino acids", "Lipids", "Electrolytes"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which electrolyte is primarily responsible for muscle and heart function in PN?",
+      "options": [
+        "Sodium (Na⁺)",
+        "Potassium (K⁺)",
+        "Magnesium (Mg²⁺)",
+        "Calcium (Ca²⁺)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which vitamin group is fat-soluble and included in PN formulations?",
+      "options": [
+        "B-complex and C",
+        "A, D, E, K",
+        "Only vitamin C",
+        "Only B vitamins"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How often should the IV tubing and filter be changed during PN administration?",
+      "options": [
+        "Every 72 hours",
+        "Every 48 hours",
+        "Every 24 hours",
+        "Every week"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the recommended initial frequency for blood glucose monitoring in a patient starting TPN?",
+      "options": ["Every 12 hours", "Every 6 hours", "Daily", "Weekly"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For which type of diabetes is absolute insulin deficiency?",
+      "options": ["Type 2 DM", "Gestational DM", "Secondary DM", "Type 1 DM"],
+      "correctIndex": 3
+    },
+    {
+      "question": "For which type of diabetes is occurs during pregnancy?",
+      "options": ["Type 2 DM", "Gestational DM", "Secondary DM", "Type 1 DM"],
+      "correctIndex": 1
+    },
+    {
+      "question": "For which type of diabetes is occurs due to medications?",
+      "options": ["Type 2 DM", "Gestational DM", "Secondary DM", "Type 1 DM"],
+      "correctIndex": 2
+    },
+    {
+      "question": "For which type of diabetes is the nutritional focus specifically on \"insulin-carbohydrate balance and consistent meal timing\"?",
+      "options": ["Type 2 DM", "Gestational DM", "Secondary DM", "Type 1 DM"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The primary cause of hyperglycemia in Diabetes Mellitus is:",
+      "options": [
+        "Excessive protein intake.",
+        "Defects in insulin secretion, insulin action, or both.",
+        "Consuming high glycemic index foods exclusively.",
+        "A deficiency in dietary chromium."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Gestational Diabetes, what is a key component of the nutritional focus?",
+      "options": [
+        "Very low-calorie diet for significant weight loss.",
+        "Controlled carbohydrate intake and frequent meals.",
+        "High intake of saturated fats for energy.",
+        "Unlimited simple sugars to prevent ketosis."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the recommended percentage range of total daily calories that should come from carbohydrates for a diabetic patient?",
+      "options": ["20-35%", "15-20%", "45-60%", "10-15%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of carbohydrate is preferred in a diabetic diet?",
+      "options": [
+        "Refined sugars",
+        "Simple carbohydrates",
+        "Complex carbohydrates",
+        "Carbohydrates with a high glycemic index"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
