@@ -4,21 +4,56 @@
     {
       "title": "Management",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/man.json",
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l1.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Planning",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/pla.json",
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l2.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Organizing",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l3.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Staffing",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l4.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Directing",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l5.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Controlling",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l6.json",
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Decision making and problem solving",
+      "video": null,
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l7.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Communication",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/communication.json",
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l8.json",
       "file": null,
       "summary": null
     }
