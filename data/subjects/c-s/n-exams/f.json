@@ -264,7 +264,7 @@
     {
       "question": "Fiber aids in digestion and prevents constipation.",
       "options": ["True", "False"],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "question": "What is the recommended daily protein intake for a healthy adult (in grams per kilogram of body weight)?",
