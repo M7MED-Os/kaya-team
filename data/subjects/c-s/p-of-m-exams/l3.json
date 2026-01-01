@@ -5,7 +5,7 @@
       "question": "What is the main purpose of organizing in management?",
       "options": [
         "Creating financial budgets",
-        "Arranging activities and resources systematically to achieve goals",
+        "Arranging activities and resources",
         "Evaluating employee performance",
         "Conducting market analysis"
       ],
@@ -84,7 +84,7 @@
     {
       "question": "Informal organizations arise from:",
       "options": [
-        "Management design",
+        "Organizational design",
         "People's desire to associate",
         "Legal requirements",
         "Organizational charts"
@@ -135,7 +135,7 @@
       "question": "An organizational chart primarily shows:",
       "options": [
         "Employee salaries",
-        "Authority and communication lines",
+        "Authority",
         "Social networks",
         "Financial data"
       ],
@@ -155,7 +155,7 @@
       "question": "A skeleton chart shows:",
       "options": [
         "Employee counts",
-        "Main divisions and their relationships",
+        "Main divisions",
         "Detailed job duties",
         "Informal relationships"
       ],
@@ -342,7 +342,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Accountability means having hiring and firing authority.",
+      "question": "Accountability means having hiring and firing power.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
