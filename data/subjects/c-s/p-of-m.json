@@ -2,7 +2,7 @@
   "subject": "مبادئ ادارة",
   "lectures": [
     {
-      "title": "Managementt",
+      "title": "Management",
       "video": null,
       "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l1.json",
       "file": null,
@@ -18,7 +18,7 @@
     {
       "title": "Organizing",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l33.json",
+      "quiz": "exam.html?file=data/subjects/c-s/p-of-m-exams/l3.json",
       "file": null,
       "summary": null
     },
