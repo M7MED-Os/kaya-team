@@ -1,0 +1,355 @@
+{
+  "title": "Organizing",
+  "questions": [
+    {
+      "question": "What is the primary purpose of organizing as a management function?",
+      "options": [
+        "To establish financial budgets",
+        "To systematically arrange activities and resources to achieve goals",
+        "To evaluate employee performance",
+        "To conduct market research"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the lecture, which of the following best defines an organization?",
+      "options": [
+        "A social gathering of individuals",
+        "An institution that arranges and allocates people and resources to achieve enterprise goals",
+        "A legal document outlining company policies",
+        "A temporary project team"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the first step in the organizing function according to the steps outlined in the lecture?",
+      "options": [
+        "Identify and classify activities",
+        "Formulate supporting objectives, policies, and plans",
+        "Establish overall objectives",
+        "Delegate authority to group heads"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which organizing principle states that organizations are established with hierarchical relationships where authority flows from top to bottom?",
+      "options": [
+        "Unity of command",
+        "Span of control",
+        "Chain of command",
+        "Specialization"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The principle of unity of command emphasizes that:",
+      "options": [
+        "An employee should receive orders from multiple supervisors for better flexibility",
+        "An employee has one supervisor and there is one leader and one plan for a group of activities with the same objective",
+        "Managers should control as many subordinates as possible for efficiency",
+        "Work should be divided into specialized tasks regardless of reporting lines"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does the span of control principle specifically refer to?",
+      "options": [
+        "The number of departments in an organization",
+        "The number of people a supervisor can effectively manage considering job complexity and subordinate competency",
+        "The length of the chain of command from top to bottom",
+        "The degree of employee specialization across departments"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is explicitly listed as one of the four main elements of organizing in the lecture?",
+      "options": [
+        "Marketing strategy",
+        "Organizational structure",
+        "Financial auditing procedures",
+        "Product development cycles"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A formal organization is best characterized by which of the following features?",
+      "options": [
+        "Emotional attachments among members as the primary bond",
+        "Written rules, procedures, and defined relationships set by regulations",
+        "Temporary and spontaneous formation based on immediate needs",
+        "Leadership based solely on group support without official recognition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the lecture, an informal organization primarily arises from:",
+      "options": [
+        "Deliberate design and planning by top management",
+        "The natural desire of people to associate, talk, exchange information, and share difficulties",
+        "Legal and regulatory requirements",
+        "Mandates in the official organizational chart"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is explicitly listed as a benefit of organizing in the lecture?",
+      "options": [
+        "Decreasing resource efficiency to reduce costs",
+        "Creating confusion in roles to encourage creativity",
+        "Improving employee understanding of job duties and responsibilities",
+        "Reducing coordination among activities to promote independence"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the organizing process sequence presented, immediately after \"establish overall objectives,\" what is the next step?",
+      "options": [
+        "Group activities in light of available resources",
+        "Formulate supporting objectives, policies, and plans",
+        "Identify and classify activities necessary to accomplish objectives",
+        "Delegate authority to group heads"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle of specialization suggests that:",
+      "options": [
+        "Employees should perform multiple unrelated functions to build versatility",
+        "Work of every person should be confined as far as possible to the performance of a single leading function",
+        "Managers should avoid delegating specialized tasks to maintain control",
+        "Teams should have no defined roles to encourage collaboration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which element of organizing specifically involves creating written statements that describe duties, authority, and accountability for various jobs?",
+      "options": [
+        "Staffing",
+        "Scheduling",
+        "Developing job descriptions",
+        "Organizational structure design"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary purpose of an organizational chart according to the lecture?",
+      "options": [
+        "To display employee salaries and benefits",
+        "To visually represent lines of authority, communications, and allocation of rights and duties",
+        "To map informal social networks within the company",
+        "To track financial performance metrics"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of organizational chart is described as \"most common\" and shows high-level management at the top with formal lines of authority down the hierarchy?",
+      "options": [
+        "Circular chart",
+        "Horizontal chart",
+        "Vertical chart",
+        "Functional chart"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A \"skeleton\" organization chart primarily shows:",
+      "options": [
+        "The exact number of employees in each position",
+        "Main divisions represented by boxes arranged according to administrative levels, connected by lines",
+        "Detailed job duties listed within each box",
+        "Informal relationships through dotted lines"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is explicitly mentioned as a purpose of an organizational chart in the nursing department example?",
+      "options": [
+        "To determine employee salary increases",
+        "To show the span of control of the nursing service director and each supervisor",
+        "To list personal contact information of staff",
+        "To replace the need for policy manuals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the lecture's definition, accountability in an organization means:",
+      "options": [
+        "Having official power to direct the work of others",
+        "Individuals agree to be morally responsible for the consequences of their actions",
+        "Receiving orders from only one supervisor",
+        "Supervising a large number of subordinates effectively"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a formal organization, authority is primarily derived from:",
+      "options": [
+        "Group consensus during meetings",
+        "Emotional attachment and personal loyalty",
+        "Official power given by the organization to direct work",
+        "Temporary assignments for specific projects"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Informal organization leaders gain their authority primarily through:",
+      "options": [
+        "Formal appointment by top management",
+        "Written rules and procedures in policy manuals",
+        "Combined support of group members who elect them informally",
+        "Legal mandates and regulatory requirements"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT listed as one of the six steps in the organizing function in the lecture?",
+      "options": [
+        "Establishing overall objectives",
+        "Conducting market analysis and competitive research",
+        "Grouping activities in light of human and material resources",
+        "Delegating authority to the head of each group"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The \"content\" of an organizational structure, as described in the lecture, includes all EXCEPT:",
+      "options": [
+        "The number of departments and sections",
+        "Employee personal career goals and aspirations",
+        "The function of each department, section and position",
+        "The number of levels of management"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which organizing principle is most directly concerned with how the complexity of subordinates' jobs and their competency affects supervisory capacity?",
+      "options": [
+        "Chain of command",
+        "Unity of command",
+        "Span of control",
+        "Specialization"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A \"master\" organization chart is defined as one that:",
+      "options": [
+        "Shows only one specific department in detail",
+        "Represents the organization as a whole",
+        "Maps only informal relationships between employees",
+        "Lists only staffing needs and vacancies"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a key distinguishing difference between formal and informal organizations according to the comparison table?",
+      "options": [
+        "Formal organizations are temporary; informal ones are permanent",
+        "Formal organizations are created by top management; informal ones arise spontaneously from natural desire",
+        "Informal organizations have extensive written rules; formal ones rely on unwritten norms",
+        "Formal organizations lack any defined authority structures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is explicitly listed as a use of a job description in the lecture?",
+      "options": [
+        "Calculating profit margins and financial ratios",
+        "Orienting new employees to their jobs",
+        "Designing marketing campaigns and promotional materials",
+        "Setting product prices and discount structures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does \"staffing\" as an element of organizing primarily involve?",
+      "options": [
+        "Scheduling work hours and shifts for employees",
+        "Filling positions with qualified personnel",
+        "Designing the organizational chart structure",
+        "Writing policies and procedure manuals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the Benha University Hospital organizational chart example provided, who reports directly to the \"Ng. director\" (Nursing Director)?",
+      "options": [
+        "Governing Board",
+        "Hospital administrator",
+        "Surgical supervisor and Medical supervisor",
+        "Staff nurses from all units"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The relationship between formal and informal organizations is best described as:",
+      "options": [
+        "Completely independent with no interaction",
+        "Informal organization depends totally upon the formal organization",
+        "Formal organization is unnecessary if a strong informal organization exists",
+        "They are always in direct conflict and competition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "\"Qualification Requirements\" are specifically listed under which component of a job description according to the lecture?",
+      "options": [
+        "Identifying Data",
+        "Job Summary",
+        "Contents of a Job Description",
+        "Uses of Job Description"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Organizing is the first step in the management process, followed by planning.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "An informal organization is created deliberately by top management through official design.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle of unity of command helps diminish confusion, resentment, overlapping and contradiction of orders.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Organizational structure refers only to the arrangement of physical resources like equipment and facilities, not to relationships among people.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A vertical organizational chart shows high-level management at the top with formal lines of authority flowing downward through the hierarchy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Job descriptions are used for multiple purposes including recruitment, orientation, performance evaluation, and identifying training needs.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The span of control is unaffected by the training and competence of subordinates.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Informal organization structure can be clearly shown in official organizational charts and graphs.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Accountability means having the official power to direct the work of others, such as hiring or firing authority.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Formal and informal organizations are two completely separate concerns that do not interact within the same enterprise.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
