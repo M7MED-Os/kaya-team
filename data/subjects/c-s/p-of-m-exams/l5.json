@@ -1,0 +1,295 @@
+{
+  "title": "Directing",
+  "questions": [
+    {
+      "question": "Which of the following is referred to as the \"heart of the management process\"?",
+      "options": ["Planning", "Organizing", "Directing", "Staffing"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Directing in management involves:",
+      "options": [
+        "Only giving orders",
+        "Instructing, guiding, communicating, and inspiring people",
+        "Only organizing resources",
+        "Only controlling performance"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a type of directing?",
+      "options": [
+        "Formal and Informal",
+        "Oral and Written",
+        "Direct and Indirect",
+        "Vertical and Horizontal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which technique of direction involves the manager consulting subordinates before making a decision?",
+      "options": ["Free Rein", "Automatic", "Consultative", "Authoritative"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a disadvantage of consultative direction?",
+      "options": [
+        "It saves time",
+        "Subordinates feel excluded",
+        "It is time-consuming",
+        "It reduces motivation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In which technique of direction does the manager give clear, precise orders with detailed instructions?",
+      "options": ["Free Rein", "Consultative", "Automatic", "Democratic"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which principle of direction emphasizes that employees' interests should align with group interests?",
+      "options": [
+        "Direct Objectives",
+        "Harmony of Objectives",
+        "Managerial Communication",
+        "Follow Through"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which characteristic of directing states that it is required at all levels of an organization?",
+      "options": [
+        "Continuous Activity",
+        "Pervasive Function",
+        "Creative Activity",
+        "Executive Function"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which element of directing is defined as \"guiding and directing efforts of employees to accomplish work outputs\"?",
+      "options": ["Motivation", "Leadership", "Supervision", "Communication"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Motivation is best described as:",
+      "options": [
+        "Giving clear orders",
+        "The complex force that starts and keeps a person at work",
+        "The transfer of information",
+        "The ability to inspire others"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT an element of directing?",
+      "options": ["Giving Orders", "Staffing", "Leadership", "Communication"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which leadership style allows subordinates to contribute their own initiative and solutions?",
+      "options": ["Autocratic", "Democratic", "Laissez-faire", "Authoritative"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of communication involves transferring information from a sender to a receiver?",
+      "options": ["Supervision", "Motivation", "Communication", "Leadership"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is an advantage of written directions?",
+      "options": [
+        "They are less clear than oral directions",
+        "They minimize misunderstandings",
+        "They are harder to consult",
+        "They reduce accountability"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Directing helps in creating balance in an organization through:",
+      "options": [
+        "Only salary increments",
+        "Motivation, cooperation, and coordination",
+        "Only promotion",
+        "Only supervision"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which principle of direction ensures that the receiver actually understands the information?",
+      "options": [
+        "Direct Objectives",
+        "Comprehension",
+        "Follow Through",
+        "Harmony of Objectives"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a characteristic of directing?",
+      "options": [
+        "It occurs only at the top level",
+        "It is a one-time activity",
+        "It is related to the human factor",
+        "It excludes motivation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which element of directing is defined as \"the ability to inspire and influence others\"?",
+      "options": ["Supervision", "Motivation", "Leadership", "Communication"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following improves with effective communication?",
+      "options": [
+        "Employee turnover",
+        "Misunderstandings",
+        "Coordination and mutual understanding",
+        "Absenteeism"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which technique of direction encourages subordinates to use their own initiative?",
+      "options": ["Automatic", "Consultative", "Free Rein", "Authoritative"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Directing is said to begin from:",
+      "options": [
+        "The middle management level",
+        "The supervisory level",
+        "The topmost level in the hierarchy",
+        "The subordinate staff level"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a function of directing?",
+      "options": [
+        "Recruiting staff",
+        "Converting plans into performance",
+        "Budgeting",
+        "Market analysis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT a type of communication mentioned in the lecture?",
+      "options": ["Upward", "Diagonal", "Circular", "Horizontal"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which principle of direction requires monitoring to ensure policies are enforced?",
+      "options": [
+        "Direct Objectives",
+        "Follow Through",
+        "Managerial Communication",
+        "Comprehension"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an importance of motivation?",
+      "options": [
+        "It increases employee turnover",
+        "It reduces absenteeism",
+        "It decreases productivity",
+        "It reduces morale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Leadership styles include all EXCEPT:",
+      "options": ["Autocratic", "Democratic", "Lassize-fair", "Authoritative"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which element of directing ensures that subordinates have the required facilities to perform their jobs?",
+      "options": [
+        "Giving Orders",
+        "Supervision",
+        "Motivation",
+        "Communication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a characteristic of directing?",
+      "options": [
+        "It is only related to physical resources",
+        "It is a discontinuous process",
+        "It is a creative activity",
+        "It excludes human interaction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is an advantage of consultative direction?",
+      "options": [
+        "It discourages participation",
+        "It leads to better coordination",
+        "It increases resistance from subordinates",
+        "It reduces communication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an element of directing?",
+      "options": ["Planning", "Organizing", "Communication", "Controlling"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Directing is only performed by top-level managers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Oral directions are always clearer than written directions.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Consultative direction involves subordinates in the decision-making process.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Directing is a one-time activity in an organization.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Motivation is defined as the transfer of information from one person to another.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Free rein direction allows subordinates to use their own initiative.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Directing helps in creating coordination among employees.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Leadership is not considered an element of directing.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Communication includes only verbal methods.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Directing ensures that every employee works toward organizational goals.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
