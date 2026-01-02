@@ -9,10 +9,10 @@
     {
       "question": "Directing in management involves:",
       "options": [
-        "Only giving orders",
+        "Preparing budgets and financial forecasts",
         "Instructing, guiding, communicating, and inspiring people",
-        "Only organizing resources",
-        "Only controlling performance"
+        "Designing organizational structure and assigning tasks",
+        "Recruiting, selecting, and training new staff"
       ],
       "correctIndex": 1
     },
@@ -74,22 +74,22 @@
     {
       "question": "Motivation is best described as:",
       "options": [
-        "Giving clear orders",
+        "The structured process of assigning roles and responsibilities",
         "The complex force that starts and keeps a person at work",
-        "The transfer of information",
+        "The transmission of clear instructions to complete a task",
         "The ability to inspire others"
       ],
       "correctIndex": 1
     },
     {
       "question": "Which of the following is NOT an element of directing?",
-      "options": ["Giving Orders", "Staffing", "Leadership", "Communication"],
+      "options": ["Giving Orders", "Choosing", "Leadership", "Communication"],
       "correctIndex": 1
     },
     {
-      "question": "Which leadership style allows subordinates to contribute their own initiative and solutions?",
-      "options": ["Autocratic", "Democratic", "Laissez-faire", "Authoritative"],
-      "correctIndex": 2
+      "question": "Which Technique of Direction allows subordinates to contribute their own initiative and solutions?",
+      "options": ["Consultative", "Democratic", "Automatic", "Free Rein"],
+      "correctIndex": 3
     },
     {
       "question": "Which type of communication involves transferring information from a sender to a receiver?",
@@ -146,7 +146,7 @@
       "options": [
         "Employee turnover",
         "Misunderstandings",
-        "Coordination and mutual understanding",
+        "Mutual understanding",
         "Absenteeism"
       ],
       "correctIndex": 2
@@ -177,7 +177,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is NOT a type of communication mentioned in the lecture?",
+      "question": "Which of the following is NOT a type of communication?",
       "options": ["Upward", "Diagonal", "Circular", "Horizontal"],
       "correctIndex": 2
     },
