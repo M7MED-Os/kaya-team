@@ -5,7 +5,7 @@
       "question": "What is the primary purpose of controlling?",
       "options": [
         "To create organizational charts",
-        "To check errors and take corrective action",
+        "To check errors",
         "To recruit new employees",
         "To conduct market research"
       ],
@@ -24,10 +24,10 @@
     {
       "question": "Who is responsible for control activities in an organization?",
       "options": [
-        "Only top management",
-        "Only first-line managers",
+        "Top management",
+        "First-line managers",
         "Managers at all levels",
-        "Only mid-line managers"
+        "Mid-line managers"
       ],
       "correctIndex": 2
     },
@@ -101,8 +101,7 @@
       "options": [
         "Feedback controls",
         "Steering controls",
-        "Feed-forward controls",
-        "Post-action controls"
+        "Feed-forward controls"
       ],
       "correctIndex": 2
     },
@@ -122,8 +121,8 @@
       "correctIndex": 2
     },
     {
-      "question": "Which control type is most popular according to the lecture?",
-      "options": ["Preliminary", "Concurrent", "Post-action", "Steering"],
+      "question": "Which control type is most popular?",
+      "options": ["Preliminary", "Concurrent", "Post-action"],
       "correctIndex": 2
     },
     {
@@ -140,9 +139,9 @@
       "question": "External controls include:",
       "options": [
         "Self-discipline only",
-        "Personal supervision and formal administrative systems",
-        "Only performance appraisal",
-        "Only compensation systems"
+        "Supervision",
+        "Motivation",
+        "Internal need"
       ],
       "correctIndex": 1
     },
@@ -150,7 +149,7 @@
       "question": "How does controlling facilitate goal achievement?",
       "options": [
         "By replacing planning",
-        "By monitoring progress and correcting deviations",
+        "By monitoring progress",
         "By increasing employee salaries",
         "By reducing communication"
       ],
@@ -180,7 +179,7 @@
       "question": "What is included in Information and Financial Controls?",
       "options": [
         "Pay for performance",
-        "Liquidity and leverage",
+        "Leverage",
         "Performance appraisal",
         "Job design"
       ],
@@ -197,14 +196,14 @@
       "correctIndex": 0
     },
     {
-      "question": "Which step in organizing is most closely linked to establishing standards in controlling?",
+      "question": "All of the following are part of Management process control EXCEPT:",
       "options": [
-        "Departmentalization",
-        "Delegation",
-        "Defining roles and responsibilities",
-        "Resource allocation"
+        "Performance appraisal",
+        "Performance modeling",
+        "Performance norms",
+        "Pay for performance"
       ],
-      "correctIndex": 2
+      "correctIndex": 3
     },
     {
       "question": "Controlling is most closely related to which other management function in terms of monitoring performance?",
@@ -218,12 +217,7 @@
     },
     {
       "question": "What does Management-by-Exception help save?",
-      "options": [
-        "Quality",
-        "Time, energy, and resources",
-        "Employee turnover",
-        "Product cost"
-      ],
+      "options": ["Quality", "Time", "Employee turnover", "Product cost"],
       "correctIndex": 1
     },
     {
@@ -250,6 +244,16 @@
         "Final output"
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "What is the focus of Preliminary controls?",
+      "options": [
+        "Past performance",
+        "Future problems",
+        "Ongoing operations",
+        "Final output"
+      ],
+      "correctIndex": 1
     },
     {
       "question": "Which control system uses progressive discipline to achieve compliance?",
