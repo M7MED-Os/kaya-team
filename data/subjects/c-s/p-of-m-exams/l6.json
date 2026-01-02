@@ -1,0 +1,325 @@
+{
+  "title": "Controllingg",
+  "questions": [
+    {
+      "question": "What is the primary purpose of controlling?",
+      "options": [
+        "To create organizational charts",
+        "To check errors and take corrective action",
+        "To recruit new employees",
+        "To conduct market research"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is NOT one of the main activities in controlling?",
+      "options": [
+        "Setting standards",
+        "Measuring performance",
+        "Recruiting staff",
+        "Taking corrective action"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who is responsible for control activities in an organization?",
+      "options": [
+        "Only top management",
+        "Only first-line managers",
+        "Managers at all levels",
+        "Only mid-line managers"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The first step in the control process is:",
+      "options": [
+        "Measure performance",
+        "Compare results",
+        "Establish standards",
+        "Take corrective action"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of standard measures work efforts that go into a performance task?",
+      "options": [
+        "Output standards",
+        "Input standards",
+        "Quality standards",
+        "Time standards"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of standard measures performance results in terms of quantity, quality, cost, or time?",
+      "options": [
+        "Input standards",
+        "Process standards",
+        "Output standards",
+        "Benchmarking standards"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the purpose of comparing actual performance with standards?",
+      "options": [
+        "To set new goals",
+        "To establish the need for action",
+        "To recruit employees",
+        "To design new policies"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Management-by-Exception focuses attention on:",
+      "options": [
+        "Routine tasks",
+        "Minor deviations",
+        "Substantial differences between actual and desired performance",
+        "Employee satisfaction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a characteristic of effective control?",
+      "options": ["Complex", "Costly", "Understandable", "Inflexible"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Effective controls should encourage:",
+      "options": [
+        "Micromanagement",
+        "Self-control",
+        "External supervision only",
+        "Rigid procedures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Preliminary controls are also known as:",
+      "options": [
+        "Feedback controls",
+        "Steering controls",
+        "Feed-forward controls",
+        "Post-action controls"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of control occurs while an activity is in progress?",
+      "options": ["Preliminary", "Concurrent", "Post-action", "Feed-forward"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Feedback controls take place:",
+      "options": [
+        "Before work begins",
+        "During work",
+        "After work is completed",
+        "During planning"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which control type is most popular according to the lecture?",
+      "options": ["Preliminary", "Concurrent", "Post-action", "Steering"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Internal controls allow employees to:",
+      "options": [
+        "Avoid supervision",
+        "Exercise self-control",
+        "Ignore standards",
+        "Work independently of goals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "External controls include:",
+      "options": [
+        "Self-discipline only",
+        "Personal supervision and formal administrative systems",
+        "Only performance appraisal",
+        "Only compensation systems"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How does controlling facilitate goal achievement?",
+      "options": [
+        "By replacing planning",
+        "By monitoring progress and correcting deviations",
+        "By increasing employee salaries",
+        "By reducing communication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a role of control?",
+      "options": [
+        "Creating uncertainty",
+        "Detecting irregularities",
+        "Ignoring opportunities",
+        "Simplifying tasks only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which organizational control system includes policies and procedures?",
+      "options": [
+        "Compensation and benefits",
+        "Employee discipline system",
+        "Management process control",
+        "Information and financial controls"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is included in Information and Financial Controls?",
+      "options": [
+        "Pay for performance",
+        "Liquidity and leverage",
+        "Performance appraisal",
+        "Job design"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How does controlling differ from planning?",
+      "options": [
+        "Planning sets goals, controlling ensures they are met",
+        "Planning corrects errors, controlling sets standards",
+        "Planning is done only by top management, controlling by all",
+        "Planning is optional, controlling is mandatory"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which step in organizing is most closely linked to establishing standards in controlling?",
+      "options": [
+        "Departmentalization",
+        "Delegation",
+        "Defining roles and responsibilities",
+        "Resource allocation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Controlling is most closely related to which other management function in terms of monitoring performance?",
+      "options": ["Staffing", "Directing", "Organizing", "Planning"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which characteristic of effective control ensures it is not too costly to implement?",
+      "options": ["Timely", "Cost-effective", "Flexible", "Accurate"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does Management-by-Exception help save?",
+      "options": [
+        "Quality",
+        "Time, energy, and resources",
+        "Employee turnover",
+        "Product cost"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of exception refers to performance above standard?",
+      "options": ["Problems", "Errors", "Opportunities", "Deviations"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT part of the control process?",
+      "options": [
+        "Establish standards",
+        "Measure performance",
+        "Recruit employees",
+        "Compare results"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the focus of concurrent controls?",
+      "options": [
+        "Past performance",
+        "Future problems",
+        "Ongoing operations",
+        "Final output"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which control system uses progressive discipline to achieve compliance?",
+      "options": [
+        "Management process control",
+        "Compensation and benefits",
+        "Employee discipline system",
+        "Information and financial controls"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a benefit of effective control?",
+      "options": [
+        "Increases uncertainty",
+        "Makes delegation harder",
+        "Facilitates goal achievement",
+        "Reduces need for planning"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Controlling is only the responsibility of top management.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The control process begins with measuring actual performance.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Input standards measure performance results in terms of quantity or quality.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Effective control should be understandable to organizational members.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Preliminary controls are also called feedback controls.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Concurrent controls occur after an action is completed.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "External controls rely solely on employee self-discipline.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Controlling is a critical link back to planning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Management-by-Exception focuses on minor deviations only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Performance appraisal is part of the management process control system.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
