@@ -1,0 +1,335 @@
+{
+  "title": "Staffing in Nursing Management",
+  "questions": [
+    {
+      "question": "What is the main goal of staffing?",
+      "options": [
+        "To reduce overtime costs",
+        "To provide an adequate number and mix of personnel",
+        "To ensure equal shift distribution",
+        "To minimize staff training"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which staff classification requires a Baccalaureate degree?",
+      "options": [
+        "Technical nurse",
+        "Professional nurse",
+        "Auxiliary staff",
+        "Support staff"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the traditional staffing system, numbers are often based on:",
+      "options": [
+        "Patient classification",
+        "Number of beds per unit",
+        "Task quantification",
+        "Budget only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which system determines staffing based on patient acuity levels?",
+      "options": [
+        "Traditional System",
+        "Patient Classification System",
+        "Task Quantification System",
+        "Centralized Scheduling"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the final step in the staffing process?",
+      "options": ["Recruitment", "Selection", "Socialization", "Interview"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which recruitment source can lead to nepotism?",
+      "options": [
+        "Newspaper ads",
+        "Nursing journals",
+        "Word of mouth",
+        "Employment agencies"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The purpose of the selection process is to:",
+      "options": [
+        "Attract many applicants",
+        "Choose the best-qualified person",
+        "Schedule staff shifts",
+        "Set salaries"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An interview with pre-prepared questions is called:",
+      "options": [
+        "Unstructured interview",
+        "Group interview",
+        "Structured interview",
+        "Casual interview"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is Step 4 in the selection process?",
+      "options": [
+        "Completing application forms",
+        "Conducting an interview",
+        "Background investigation",
+        "Socialization"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A key responsibility of a recruiter is:",
+      "options": [
+        "Performing nursing tasks",
+        "Recruiting and selecting personnel",
+        "Managing patient treatment",
+        "Setting hospital budgets"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Scheduling aims to ensure patient care without:",
+      "options": [
+        "Overtime",
+        "Over-staffing or understaffing",
+        "Staff training",
+        "Using advanced systems"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Who typically plans schedules in a centralized system?",
+      "options": [
+        "Head nurse on the unit",
+        "One person in nursing administration",
+        "Each staff nurse",
+        "An external agency"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does the Task Quantification System focus on?",
+      "options": [
+        "Patient emotions",
+        "Nursing tasks to be performed",
+        "Number of hospital beds",
+        "Staff vacation days"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a consideration during staffing?",
+      "options": [
+        "Hospital color scheme",
+        "Type of patient",
+        "Staff uniform style",
+        "Brand of equipment"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the purpose of an interview?",
+      "options": [
+        "To socialize new hires",
+        "To obtain and give information about the job",
+        "To finalize the work schedule",
+        "To conduct a physical exam"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Checking work experience and credentials is part of:",
+      "options": [
+        "Recruitment",
+        "Socialization",
+        "Background investigation",
+        "Scheduling"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the traditional system, day shift might get what percentage of staff?",
+      "options": ["20%", "35%", "45%", "50%"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which staff type comes from a Secondary Technical Nursing School?",
+      "options": [
+        "Professional nurse",
+        "Technical nurse",
+        "Auxiliary staff",
+        "Recruiter"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is NOT a common nursing task in the Task Quantification System?",
+      "options": [
+        "Giving medication",
+        "Telephone calls",
+        "Measuring vital signs",
+        "Designing hospital buildings"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The process of attracting applicants for a job is called:",
+      "options": ["Selection", "Socialization", "Recruitment", "Scheduling"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A good recruiter should have:",
+      "options": [
+        "Strong interpersonal skills",
+        "Medical surgery skills",
+        "Architectural knowledge",
+        "Legal courtroom experience"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "What should be planned before and after a night duty?",
+      "options": [
+        "A staff meeting",
+        "A training session",
+        "A day off",
+        "An interview"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Decentralized scheduling is usually done by:",
+      "options": [
+        "Nursing administration",
+        "The head nurse on the unit",
+        "An external consultant",
+        "The hospital director"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the third phase of the management process?",
+      "options": ["Planning", "Organizing", "Staffing", "Controlling"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which step involves completing application forms and resumes?",
+      "options": [
+        "Step 1 of Selection",
+        "Step 2 of Selection",
+        "Step 3 of Selection",
+        "Step 4 of Selection"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A Class 3 patient requires what type of care?",
+      "options": [
+        "Self-care",
+        "Partial care",
+        "Intermediate care",
+        "Intensive or total care"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which is a principle of time scheduling?",
+      "options": [
+        "Maximizing overtime hours",
+        "Informing staff of schedules 3-6 weeks in advance",
+        "Assigning random days off",
+        "Avoiding all staff meetings"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What might be required before a final job offer?",
+      "options": [
+        "A background investigation",
+        "A family interview",
+        "A uniform fitting",
+        "A hospital tour"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which method uses both patient needs and nursing tasks for staffing?",
+      "options": [
+        "Traditional system only",
+        "Patient Classification only",
+        "Task Quantification only",
+        "Combination of both systems"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The main focus of staffing is to:",
+      "options": [
+        "Fill positions with qualified people",
+        "Decorate the hospital",
+        "Buy new equipment",
+        "Write policy manuals"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Staffing is the first phase of the management process.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Professional nurses require a Baccalaureate degree.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The traditional staffing system is based only on patient acuity.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Socialization involves orienting new employees to hospital policies.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Recruitment is the process of choosing the best candidate from applicants.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A structured interview uses questions prepared in advance.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Background checks are done after the final hiring decision.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Centralized scheduling is planned by the head nurse on each unit.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A day off after night duty is recommended for proper rest.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The primary goal of staffing is to provide the right mix of personnel for patient care.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
