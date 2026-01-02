@@ -2,14 +2,14 @@
   "title": "Staffing",
   "questions": [
     {
-      "question": "What is the main goal of staffing?",
+      "question": "What is the main goal of Scheduling?",
       "options": [
-        "To reduce overtime costs",
+        "To increase overtime costs",
         "To provide an adequate number and mix of personnel",
         "To ensure equal shift distribution",
         "To minimize staff training"
       ],
-      "correctIndex": 1
+      "correctIndex": 2
     },
     {
       "question": "Which staff classification requires a Baccalaureate degree?",
@@ -122,17 +122,7 @@
         "Patient emotions",
         "Nursing tasks to be performed",
         "Number of hospital beds",
-        "Staff vacation days"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which is a consideration during staffing?",
-      "options": [
-        "Hospital color scheme",
-        "Type of patient",
-        "Staff uniform style",
-        "Brand of equipment"
+        "Patients needs"
       ],
       "correctIndex": 1
     },
@@ -150,9 +140,9 @@
       "question": "Checking work experience and credentials is part of:",
       "options": [
         "Recruitment",
-        "Socialization",
+        "Completing application materials",
         "Background investigation",
-        "Scheduling"
+        "Completing any necessary tests"
       ],
       "correctIndex": 2
     },
@@ -165,21 +155,11 @@
       "question": "Which staff type comes from a Secondary Technical Nursing School?",
       "options": [
         "Professional nurse",
-        "Technical nurse",
+        "Diploma degree",
         "Auxiliary staff",
         "Recruiter"
       ],
       "correctIndex": 1
-    },
-    {
-      "question": "Which is NOT a common nursing task in the Task Quantification System?",
-      "options": [
-        "Giving medication",
-        "Telephone calls",
-        "Measuring vital signs",
-        "Designing hospital buildings"
-      ],
-      "correctIndex": 3
     },
     {
       "question": "The process of attracting applicants for a job is called:",
@@ -235,11 +215,10 @@
       "question": "A Class 3 patient requires what type of care?",
       "options": [
         "Self-care",
-        "Partial care",
-        "Intermediate care",
+        "Intermediate care or Partial care",
         "Intensive or total care"
       ],
-      "correctIndex": 3
+      "correctIndex": 2
     },
     {
       "question": "Which is a principle of time scheduling?",
@@ -274,7 +253,7 @@
     {
       "question": "The main focus of staffing is to:",
       "options": [
-        "Fill positions with qualified people",
+        "Fill positions",
         "Decorate the hospital",
         "Buy new equipment",
         "Write policy manuals"
