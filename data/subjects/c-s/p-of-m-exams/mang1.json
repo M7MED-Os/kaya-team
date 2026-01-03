@@ -1,0 +1,795 @@
+{
+  "title": "Management 1",
+  "questions": [
+    {
+      "question": "If an organization possesses all necessary resources but lacks management, what is the most probable direct outcome?",
+      "options": [
+        "Increased employee innovation",
+        "Efficient self-organization by teams",
+        "Wastage of resources and confusion",
+        "Accelerated achievement of objectives"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Koontz and O'Donnell's assertion that management is the most critical area of human activity is fundamentally because its core task is:",
+      "options": [
+        "Controlling financial expenditures.",
+        "Developing new technologies.",
+        "Getting things done through others.",
+        "Establishing legal and ethical standards."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The definition of management as 'the process of using what you have to achieve a goal' most succinctly encapsulates the interplay between:",
+      "options": [
+        "Planning and controlling.",
+        "Leadership and motivation.",
+        "Resources and objectives.",
+        "Authority and accountability."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is explicitly listed as a distinct category of organizational resources?",
+      "options": [
+        "Market Reputation",
+        "Brand Equity",
+        "Energy",
+        "Customer Loyalty"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The importance of management in 'Adaptation to Change' is described as enabling organizations to respond to challenges within what type of environment?",
+      "options": [
+        "Stable and predictable",
+        "Static and controlled",
+        "Dynamic and evolving",
+        "Isolated and independent"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Management is both an art and a science. Its classification as a science is primarily justified by:",
+      "options": [
+        "The need for personal creativity in decision-making.",
+        "The requirement of skills that are personal possessions.",
+        "The existence of an organized body of knowledge.",
+        "The focus on applying experience in unique situations."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Within the 'Levels of Management' hierarchy, the Nursing Supervisor is positioned at which level?",
+      "options": [
+        "Top Management Level",
+        "Middle Management Level",
+        "Lower Management Level",
+        "Operational Level"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary responsibility of the Top Management Level, as described, includes:",
+      "options": [
+        "Directing and controlling daily tasks.",
+        "Delegating tasks and monitoring lower-level employees.",
+        "Setting organizational policies and preparing departmental budgets.",
+        "Achieving specific daily tasks assigned by middle management."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to George Terry's definition cited, the management process is a series of inter-related functions. Which set accurately lists these functions?",
+      "options": [
+        "Planning, Motivating, Staffing, Controlling, Reviewing",
+        "Organizing, Directing, Budgeting, Reporting, Coordinating",
+        "Planning, Organizing, Staffing, Directing, Controlling",
+        "Forecasting, Commanding, Coordinating, Staffing, Evaluating"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the management process, the function described as 'deciding in advance what is to be done in the future' is:",
+      "options": ["Organizing", "Controlling", "Planning", "Directing"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The staffing function is best defined as a process of:",
+      "options": [
+        "Giving instructions and guiding the staff.",
+        "Identifying work and classifying activities.",
+        "Matching jobs with individuals for the right fit.",
+        "Monitoring performance against standards."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The controlling function is distinct because it specifically involves:",
+      "options": [
+        "Assignment of responsibilities and delegation of authority.",
+        "Monitoring performance, comparing it to standards, and taking corrective action.",
+        "Creating a single plan of action to guide managers and workers.",
+        "Formulating supporting objectives and policies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which skill is described as most important for Top-Level Managers?",
+      "options": [
+        "Human Skills",
+        "Technical Skills",
+        "Conceptual Skills",
+        "Clinical Skills"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Technical skills are described as being more important at which level of management?",
+      "options": [
+        "Top Management Level",
+        "Middle Management Level",
+        "Lower Management Level",
+        "They are equally important at all levels."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Human skills, which involve communication and managing conflict, are described as:",
+      "options": [
+        "Only important for middle managers.",
+        "Most critical for lower-level supervisors.",
+        "Equally important at all levels of management.",
+        "Primarily necessary for non-managerial staff."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A cause of management failure listed as 'Paralysis by analysis' most directly relates to a failure in which area?",
+      "options": [
+        "Resource Allocation",
+        "Communication Flow",
+        "Decision-Making Speed",
+        "Talent Development"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of Henri Fayol's principles insists that 'every employee should receive orders from only one superior'?",
+      "options": [
+        "Unity of Direction",
+        "Unity of Command",
+        "Scalar Chain",
+        "Centralization"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle of 'Subordination of Individual Interest to the General Interest' is justified on the basis that:",
+      "options": [
+        "Individual rewards must be precisely calculated.",
+        "No organization can achieve its goals properly without group effort.",
+        "Authority and responsibility must always be equal.",
+        "Specialization increases overall output."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fayol's principle of 'Remuneration' states that differences in incentive must be based on:",
+      "options": [
+        "Seniority and personal relationships.",
+        "Job differential and difficulty of the job.",
+        "The supervisor's discretion.",
+        "The overall profitability of the organization."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle of 'Stability of Tenure of Personnel' suggests that job security primarily leads to:",
+      "options": [
+        "Increased centralization of decision-making.",
+        "Higher employee turnover for fresh ideas.",
+        "Increased productivity and goal achievement.",
+        "Strict adherence to the chain of command."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Planning is considered the first and fundamental function of management because:",
+      "options": [
+        "It is the most time-consuming activity.",
+        "All other management functions are dependent on it.",
+        "It is performed exclusively by top management.",
+        "It deals with day-to-day operational details."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The statement 'Planning bridges the gap from where we are to where we want to go' implies planning's primary role is to:",
+      "options": [
+        "Document past performance.",
+        "Create a rigid, unchanging path.",
+        "Link the present state to a desired future state.",
+        "Eliminate the need for managerial judgment."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A key characteristic of planning is that it is 'pervasive.' This means:",
+      "options": [
+        "It is restricted to the strategic level of top management.",
+        "It is required at all levels and in all types of organizations.",
+        "It is a one-time activity conducted at an organization's inception.",
+        "It is primarily an informal and intuitive process."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the planning hierarchy, a Vision is best described as:",
+      "options": [
+        "A specific, measurable target to be achieved.",
+        "A brief statement identifying why the organization exists.",
+        "A statement that clarifies the organization's purpose and future aspirations.",
+        "A sequence of actions to be followed to achieve an objective."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The difference between a Goal and an Objective in the planning hierarchy is that an objective is:",
+      "options": [
+        "More global and philosophical in nature.",
+        "A specific, measurable result with a timeframe.",
+        "A general guideline for making decisions.",
+        "A statement of core organizational values."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Policies within the planning hierarchy are best defined as:",
+      "options": [
+        "Specific, step-by-step sequences of actions.",
+        "Statements of exactly what should or shouldn't be done.",
+        "General guidelines to be followed when making decisions.",
+        "The ultimate dream or aspiration of the organization."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Strategic plans are primarily characterized by:",
+      "options": [
+        "Being the responsibility of lower-level management and covering 1-3 years.",
+        "Focusing on the day-to-day directing and controlling of tasks.",
+        "Being designed for the entire organization with a long-term time frame (5-10 years).",
+        "Providing clear, unambiguous directives with no flexibility."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Directional plans, as opposed to specific plans, are most useful in situations where:",
+      "options": [
+        "Uncertainty is high, and flexibility is needed.",
+        "Tasks are routine and highly predictable.",
+        "There is no room for managerial discretion.",
+        "The environment is completely stable."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A major limitation of planning listed is 'Reluctance to change.' This refers to:",
+      "options": [
+        "The inherent inaccuracy of all forecasts.",
+        "The financial cost of the planning process itself.",
+        "The psychological resistance of employees to abandon established plans.",
+        "The external legal restrictions imposed on organizations."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is proposed as a way to overcome the limitations of planning?",
+      "options": [
+        "Making plans more rigid and specific.",
+        "Excluding employees from the planning process.",
+        "Providing top management support for the planning function.",
+        "Reducing the frequency of planning activities."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Organizing, as the second step in the management process, fundamentally results in:",
+      "options": [
+        "A set of financial budgets.",
+        "A performance evaluation report.",
+        "An organization structure (a set of formal relationships).",
+        "A marketing strategy."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The benefit of organizing that involves 'Assuring more efficient use of the organization's resources' directly addresses which potential problem?",
+      "options": [
+        "Lack of employee morale",
+        "Resource wastage",
+        "Poor communication",
+        "Absence of goals"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Principle of Unity of Command is primarily intended to diminish:",
+      "options": [
+        "The need for specialization.",
+        "Confusion and contradiction of orders.",
+        "The span of control for supervisors.",
+        "The degree of centralization."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The Principle of Span of Control suggests the number of subordinates a person can effectively supervise is _increased_ by:",
+      "options": [
+        "Greater job complexity for the subordinates.",
+        "Lower competency and training of the employees.",
+        "The subordinate's job being highly specialized.",
+        "The employee being highly trained, requiring less supervision."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A **Formal Organization** is characterized by:",
+      "options": [
+        "Arising spontaneously from social desires.",
+        "Being shown through organization charts and governed by written rules.",
+        "Having leaders with authority based solely on group support.",
+        "Being temporary and changing frequently."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An **Informal Organization** emerges primarily from:",
+      "options": [
+        "The official organizational design by top management.",
+        "The natural desire of people to associate and share.",
+        "The formal lines of authority on an organization chart.",
+        "Written policies and procedures."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A key difference between Formal and Informal organizations is that formal organization is:",
+      "options": [
+        "Temporary and unstable.",
+        "Created by the natural desire of people.",
+        "Managed by informally elected leaders.",
+        "Permanent, stable, and created by top management."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The purpose of an **Organization Chart** includes showing all of the following EXCEPT:",
+      "options": [
+        "The main channels of communication.",
+        "The personal friendships between employees.",
+        "The span of control of managers.",
+        "The different levels or layers of supervision."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "On an organization chart, **Authority** is best defined as:",
+      "options": [
+        "A duty or assignment inherent in a job.",
+        "The moral responsibility for the consequences of one's actions.",
+        "The official power given by the organization to direct work.",
+        "The process of submitting reports to a superior."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A **Functional** type of organization chart is one that:",
+      "options": [
+        "Shows only the main divisions with connecting lines.",
+        "Lists the principle duties of each division or position within the boxes.",
+        "Lists the number and title of all positions in a unit.",
+        "Represents the organization as a whole."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A **Job Description** serves all the following purposes EXCEPT:",
+      "options": [
+        "As the sole basis for determining employee salary increases.",
+        "For recruitment and selection of qualified personnel.",
+        "To orient new employees to their roles.",
+        "As an aid in evaluating employee performance."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The primary goal of staffing in a nursing context is to:",
+      "options": [
+        "Minimize the overall wage budget for the unit.",
+        "Provide an adequate number and mix of personnel for proper patient care.",
+        "Ensure all shifts have an equal number of staff regardless of need.",
+        "Hire only nurses with baccalaureate degrees."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the Traditional System of determining staffing patterns, distribution across shifts (e.g., 45% days, 35% evenings) is typically based on:",
+      "options": [
+        "A detailed patient classification system.",
+        "The nurse manager's opinion of needed care proportions.",
+        "A quantified analysis of all nursing tasks.",
+        "Government-mandated nurse-to-patient ratios."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An Advanced System for staffing, such as the Patient Classification System, focuses primarily on:",
+      "options": [
+        "The seniority of the nursing staff.",
+        "The specific tasks to be performed during a shift.",
+        "Patient needs and acuity of illness.",
+        "The budget constraints of the hospital."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The Task Quantification System for staffing differentiates between:",
+      "options": [
+        "Professional nurses and auxiliary staff.",
+        "Direct care activities and indirect care activities.",
+        "Day shift tasks and night shift tasks.",
+        "Strategic plans and operational plans."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The first step in the staffing process is:",
+      "options": [
+        "Conducting an interview.",
+        "Recruitment.",
+        "Socialization.",
+        "Completing application materials."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A potential disadvantage of using 'Word of Mouth' as a recruitment method is that it may:",
+      "options": [
+        "Be too slow and expensive.",
+        "Foster nepotism and violate equal opportunity.",
+        "Reach too few qualified candidates.",
+        "Lack formal structure and planning."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The core responsibility of a recruiter includes:",
+      "options": [
+        "Personally providing all clinical care on a unit.",
+        "Determining the number and type of personnel needed for patient care.",
+        "Setting the long-term strategic vision for the hospital.",
+        "Negotiating union contracts with staff."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The selection process is best defined as:",
+      "options": [
+        "Actively seeking out applicants for positions.",
+        "The series of steps from initial applicant screening to final hiring.",
+        "Orienting new employees to hospital culture.",
+        "Scheduling work hours for existing staff."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During an interview, the interviewer aims to judge all of the following about an applicant EXCEPT:",
+      "options": [
+        "Their dependability and willingness to work with others.",
+        "Their personal financial history and credit score.",
+        "Their interest in the specific job.",
+        "Their ability to align with the job requirements."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A structured interview differs from an unstructured one in that it:",
+      "options": [
+        "Requires less planning time.",
+        "Uses questions developed in advance to address job requirements.",
+        "Is more informal and conversational.",
+        "Is only used for high-level executive positions."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Socialization, as the final step in staffing, primarily involves:",
+      "options": [
+        "Conducting background and reference checks.",
+        "Orienting new employees to the hospital's units, policies, and culture.",
+        "Negotiating salary and benefits packages.",
+        "Administering skills and intelligence tests."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The primary objective of scheduling in nursing is to:",
+      "options": [
+        "Ensure patient care coverage without over- or under-staffing.",
+        "Maximize overtime pay for senior staff members.",
+        "Create a perfectly identical schedule for every nurse each week.",
+        "Centralize all decision-making with the director of nursing."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "A key principle of time scheduling states that a day off should be given before and after a night on duty to:",
+      "options": [
+        "Reduce the total number of night shifts required.",
+        "Ensure the nurse has proper rest.",
+        "Balance the budget for shift differential pay.",
+        "Comply with labor union regulations."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a Decentralized Scheduling system, the schedule is typically planned by:",
+      "options": [
+        "One person in the central nursing administration office.",
+        "The hospital's governing board.",
+        "The head nurse at the unit level.",
+        "An automated computer software system."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The significance of management can best be understood by considering a scenario where an organization lacks:",
+      "options": [
+        "Sufficient financial capital.",
+        "Modern technology and equipment.",
+        "Management itself, despite having resources.",
+        "A clear and inspiring vision statement."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The diagram linking 'Levels of Management' to 'Authority' and 'Accountability' suggests that authority flows primarily:",
+      "options": [
+        "Laterally between departments.",
+        "From the lower level upward.",
+        "From the middle level outward.",
+        "From the top level downward."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The function of 'Directing' is specifically associated with which component of the management process model?",
+      "options": [
+        "The initial planning phase.",
+        "The organizing of resources.",
+        "Guiding, motivating, and leading staff.",
+        "The final step of control and correction."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A cause of management failure identified as 'Toxic culture / low trust and burnout' would most directly undermine which principle of management?",
+      "options": [
+        "Division of Work",
+        "Discipline",
+        "Esprit de Corps (Team Spirit)",
+        "Centralization"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Fayol's principle of 'Initiative' suggests managers should create an environment where employees are willing to:",
+      "options": [
+        "Strictly follow orders without question.",
+        "Take on responsibility and propose new methods.",
+        "Subordinate their personal goals completely.",
+        "Work within a highly centralized decision-making framework."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The characteristic of planning as an 'intellectual process' means it is:",
+      "options": [
+        "Based on guesswork and intuition.",
+        "A mental exercise involving thinking and foresight.",
+        "A purely physical arrangement of tasks.",
+        "An automatic, routine administrative task."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the planning hierarchy, **Philosophy** refers to a statement concerning:",
+      "options": [
+        "Specific, time-bound accomplishments.",
+        "The values and beliefs pertaining to administration.",
+        "General guidelines for decision-making.",
+        "The step-by-step process for a routine task."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Rules and regulations differ from policies in that they are:",
+      "options": [
+        "More flexible and open to interpretation.",
+        "Global statements about the organization's direction.",
+        "Statements of exactly what should or shouldn't be done.",
+        "Developed only at the very top level of management."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Strategic Plans are distinguished from Operational Plans in that strategic plans are:",
+      "options": [
+        "Focused on directing and controlling daily tasks.",
+        "The responsibility of lower-level management.",
+        "Concerned with the entire organization's long-term goals.",
+        "Typically cover a time frame of one year or less."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A Single-Use Plan is designed for:",
+      "options": [
+        "Ongoing, repeatedly performed activities.",
+        "Meeting the needs of a unique, one-time situation.",
+        "Providing flexible, general guidelines.",
+        "Long-term strategic direction."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A stated limitation of planning is that it is 'costly.' This refers to:",
+      "options": [
+        "The emotional cost to employees.",
+        "The time and financial resources consumed by the planning process.",
+        "The cost of failing to plan.",
+        "The expense of implementing any plan."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Developing clear-cut objectives' is suggested as a way to overcome planning limitations because it:",
+      "options": [
+        "Makes the plan more rigid.",
+        "Reduces the need for employee participation.",
+        "Provides a specific and measurable focus for the planning effort.",
+        "Speeds up the planning process by limiting analysis."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The step in the organizing function that involves 'Tying groups together horizontally and vertically' ultimately establishes:",
+      "options": [
+        "The overall objectives of the organization.",
+        "The job descriptions for each position.",
+        "The channels of communication and authority relationships.",
+        "The recruitment strategy for new staff."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The 'Principle of Specialization' suggests work should be confined to a single function to promote:",
+      "options": [
+        "Flexibility and job rotation.",
+        "Increased efficiency and expertise.",
+        "Greater unity of command.",
+        "Decentralized decision-making."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The 'Content of Organization Structure' includes all of the following EXCEPT:",
+      "options": [
+        "The number of levels of management.",
+        "The personal career goals of each employee.",
+        "The function of each department and position.",
+        "The channels of communication."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The relationship between Formal and Informal organizations is described such that:",
+      "options": [
+        "The informal organization can work independently of the formal one.",
+        "The formal organization depends totally on the informal one.",
+        "Both are required for an efficient organization; they are two phases of the same concern.",
+        "They are always in direct conflict and must be managed separately."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the example organization chart for Benha University Hospital, the 'Head Nurse' reports directly to the:",
+      "options": [
+        "Hospital Administrator",
+        "Nursing Director",
+        "Supervisor (Surgical/Medical)",
+        "Staff Nurse"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A key 'Use of Job Description' is for 'budgetary purposes.' This is because it helps determine:",
+      "options": [
+        "The social dynamics of the work unit.",
+        "The necessary qualifications and scope of a position, influencing its cost.",
+        "The informal leadership structure.",
+        "The patient satisfaction scores for a unit."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Staff Classification includes 'Auxiliary' staff, which refers to roles like:",
+      "options": [
+        "Baccalaureate-degree nurses.",
+        "Diploma-holding technical nurses.",
+        "Messengers and transport personnel.",
+        "Nursing supervisors."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The selection step 'Doing a background investigation' may include checking references:",
+      "options": [
+        "After the final hiring decision is made.",
+        "Before the interview, if possible.",
+        "Only for managerial positions.",
+        "By the applicant's future colleagues."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When 'Deciding to hire or not to hire,' the decision draws upon information from:",
+      "options": [
+        "Only the interview.",
+        "Only the application materials.",
+        "All preceding selection steps.",
+        "The salary negotiation process."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "**Centralized Scheduling** is characterized by:",
+      "options": [
+        "Planning done at the individual unit level by the head nurse.",
+        "One person in the nursing administration office planning for all units.",
+        "Staff creating their own schedules collaboratively.",
+        "Schedules being fixed and identical every week."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle of time scheduling that aims for a 'perceived sense of equity' among personnel relates most closely to Fayol's principle of:",
+      "options": [
+        "Authority and Responsibility",
+        "Equity",
+        "Order",
+        "Initiative"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "'Staffing is most often the responsibility of the nursing office.' This implies staffing is typically a:",
+      "options": [
+        "Decentralized function handled by each doctor.",
+        "Centralized administrative function.",
+        "Responsibility shared equally by all staff nurses.",
+        "Task outsourced to a recruitment agency."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The final integration of a new hire into the organization's values and norms is the goal of which staffing step?",
+      "options": ["Recruitment", "Selection", "Socialization", "Scheduling"],
+      "correctIndex": 2
+    }
+  ]
+}
