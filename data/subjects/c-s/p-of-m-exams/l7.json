@@ -1,0 +1,305 @@
+{
+  "title": "Decision Making and Problem Solving (Testing)",
+  "questions": [
+    {
+      "question": "What is decision making?",
+      "options": [
+        "Finding problems",
+        "Choosing a course of action",
+        "Implementing solutions",
+        "Evaluating results"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Problem solving is:",
+      "options": [
+        "The same as decision making",
+        "A part of decision making",
+        "Only used in crises",
+        "A random process"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the traditional problem-solving model, decision-making occurs at which step?",
+      "options": ["Step 1", "Step 3", "Step 5", "Step 7"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of problem is familiar and straightforward?",
+      "options": ["Unstructured", "Crisis", "Structured", "Unexpected"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Crisis problems are characterized by being:",
+      "options": [
+        "Expected and routine",
+        "Easy to solve",
+        "Unexpected and potentially disastrous",
+        "Structured"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Programmed decisions are used for:",
+      "options": [
+        "New situations",
+        "Routine problems",
+        "Crises",
+        "Unstructured issues"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Non-programmed decisions are used for:",
+      "options": [
+        "Regular problems",
+        "Standard responses",
+        "Non-routine situations",
+        "Preventing problems"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is NOT a characteristic of a successful decision maker?",
+      "options": ["Courage", "Sensitivity", "Laziness", "Creativity"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the first step in the decision-making process?",
+      "options": [
+        "Choose an alternative",
+        "Identify the problem",
+        "Implement solution",
+        "Evaluate results"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Defining a problem too broadly or too narrowly is:",
+      "options": [
+        "A good strategy",
+        "A common mistake",
+        "Only for crises",
+        "Part of implementation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Focusing on symptoms instead of causes is a mistake in which step?",
+      "options": ["Step 1", "Step 2", "Step 3", "Step 4"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is a criterion for evaluating alternatives?",
+      "options": ["Popularity", "Benefits", "Randomness", "Silence"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Decision-making under certainty means:",
+      "options": [
+        "No information is available",
+        "Probabilities are known",
+        "Outcomes are known",
+        "It is common in management"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under risk, the decision maker:",
+      "options": [
+        "Knows all outcomes",
+        "Has no information",
+        "Knows some probabilities",
+        "Cannot choose alternatives"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Under uncertainty, managers rely heavily on:",
+      "options": ["Rules", "Creativity", "Certainty", "Routine"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A manager who makes quick decisions with little information uses:",
+      "options": [
+        "Analytical style",
+        "Conceptual style",
+        "Directive style",
+        "Behavioral style"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which style involves gathering much data and analyzing complex solutions?",
+      "options": [
+        "Directive style",
+        "Analytical style",
+        "Conceptual style",
+        "Behavioral style"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A manager who talks to others and seeks creative solutions uses:",
+      "options": [
+        "Directive style",
+        "Analytical style",
+        "Conceptual style",
+        "Behavioral style"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The behavioral decision style focuses on:",
+      "options": [
+        "Data analysis",
+        "Quick decisions",
+        "People’s feelings",
+        "Avoiding people"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ethical decision-making should be consistent with:",
+      "options": [
+        "Speed",
+        "Cost only",
+        "Ethical principles",
+        "Personal interest only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which principle means 'do no harm'?",
+      "options": ["Autonomy", "Justice", "Beneficence", "Nonmaleficence"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The principle of autonomy emphasizes:",
+      "options": [
+        "Harm prevention",
+        "Freedom of choice",
+        "Fairness",
+        "Loyalty"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Justice in ethical decision-making refers to:",
+      "options": [
+        "Treating everyone the same",
+        "Considering individual uniqueness",
+        "Causing no harm",
+        "Helping others"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Fidelity in ethical decisions means:",
+      "options": [
+        "Being creative",
+        "Honoring commitments",
+        "Gathering data",
+        "Taking risks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Beneficence aims at:",
+      "options": [
+        "Personal gain",
+        "Harming others",
+        "Good of others",
+        "Ignoring ethics"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is a type of managerial problem?",
+      "options": ["Personal", "Structured", "Financial only", "External only"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a key feature of unstructured problems?",
+      "options": [
+        "Clear information",
+        "Expected occurrence",
+        "Ambiguities",
+        "Easy solutions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Evaluating results is part of which step?",
+      "options": ["Step 1", "Step 3", "Step 5", "Step 7"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which condition is ideal but rare in management?",
+      "options": ["Certainty", "Risk", "Uncertainty", "Crisis"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Managers develop crisis plans to:",
+      "options": [
+        "Ignore problems",
+        "Prevent all problems",
+        "Deal with crises effectively",
+        "Only use in certainty"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Decision making is more comprehensive than problem solving.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Structured problems are new and unexpected.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Programmed decisions are used for non-routine situations.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Courage is a characteristic of a successful decision maker.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The first step in decision-making is implementing the solution.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Focusing on symptoms instead of causes is a good strategy.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Under certainty, managers know all possible outcomes.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The directive style involves gathering large amounts of data.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ethical decision-making ignores principles of autonomy and justice.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Evaluating results is optional in the decision-making process.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
