@@ -1,0 +1,300 @@
+{
+  "title": "Final 2022",
+  "questions": [
+    {
+      "question": "Systematic arrangement of activities is",
+      "options": ["Planning", "Organizing", "Controlling", "Directing"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The high-level management at the top with formal lines of authority down the hierarchy is",
+      "options": [
+        "Vertical chart",
+        "Horizontal chart",
+        "Circular chart",
+        "Diagonal chart"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The performance of a single leading function is considered",
+      "options": [
+        "Principle of objective",
+        "Principle of definition",
+        "Principle of specialization",
+        "Principle of co-ordination"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The chart that defines personnel title of all positions in the organization is",
+      "options": [
+        "Manning chart",
+        "Skeleton chart",
+        "Functional chart",
+        "Master chart"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The nurses agree to be morally responsible for the consequences of their actions is considered ………",
+      "options": ["Accountability", "Power", "Responsibility", "Authority"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Time frame from 5 to 10 years to ensure long term goals of organization are reached is",
+      "options": [
+        "Directional planning",
+        "Strategic planning",
+        "Operational planning",
+        "Intermediate planning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Is contained the details of how the overall goals are to be achieved:",
+      "options": [
+        "Directional plans",
+        "Standing plans",
+        "Operational plans",
+        "Specific plans"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A type of planning is included policies, procedures called",
+      "options": ["Standing", "Short term", "Long term", "Single use"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Determine the present circumstances is the……step in the process of strategic planning.",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The problem that can lead to disaster if not resolved quickly is",
+      "options": ["Structured", "Crisis", "Analytic", "Unstructured"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When managers make decision quickly without a lot of information, they apply",
+      "options": [
+        "Directive style",
+        "Analytical style",
+        "Conceptual style",
+        "Behavioral style"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The first step in traditional Problem-Solving model is",
+      "options": [
+        "Gathering data",
+        "Exploring alternative solutions",
+        "Selecting the appropriate solution",
+        "Identifying the problem"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The common mistake may occur at defining the problem is",
+      "options": [
+        "Gathering data",
+        "Exploring solutions",
+        "Neglecting causes",
+        "Selecting the solution"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "If the desired results are not achieved in decision making, the process must be",
+      "options": ["Renewed", "Stopped", "Canceled", "Finished"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The head nurse’s level is in the …………… of management",
+      "options": [
+        "Top level",
+        "Middle level",
+        "Lower level",
+        "Operational level"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The degree to which nurses are involved in decision making is:",
+      "options": ["Order", "Decentralization", "Centralization", "Discipline"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The ability to analyze and diagnose a situation and distinguish between cause and effect is",
+      "options": [
+        "Human Skills",
+        "Technical Skills",
+        "Conceptual Skills",
+        "Developmental skill"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Receive order from only one superior mean",
+      "options": [
+        "Unity of command",
+        "Unity of direction",
+        "Authority",
+        "Responsibility"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "The process of reaching organizational goals by using human and material resources is.",
+      "options": ["Planning", "Administration", "Management", "Leadership"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is not modes for active recruitment",
+      "options": [
+        "School placement",
+        "Advertisement",
+        "Socialization",
+        "Employment agencies"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is not characteristics of recruiters",
+      "options": [
+        "Strong interpersonal skills",
+        "Problem solving skills",
+        "Technology skills",
+        "Enthusiasm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Measures work efforts that go into a performance task through.",
+      "options": [
+        "Strategic plan",
+        "Input Standards",
+        "Output Standards",
+        "Controlling"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The use of personal supervision and formal administrative systems at.",
+      "options": [
+        "Preliminary Controls",
+        "External controls",
+        "Concurrent Controls:",
+        "Internal Controls"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Controls that take place after an action is completed and focused on end results, as opposed to inputs and activities is",
+      "options": [
+        "Preliminary Controls:",
+        "Internal Controls",
+        "Concurrent Controls:",
+        "Post action Controls"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "The importance of control is ………",
+      "options": [
+        "Identifying opportunities",
+        "Critical link back to planning",
+        "Coping with uncertainty",
+        "Handling complex situations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following are not characteristics of effective control",
+      "options": [
+        "Understandable",
+        "Inflexible",
+        "Accurate",
+        "Encourage self-control"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Activity of the management that is concerned with the training and discipline of the workforce.",
+      "options": ["Directing", "Supervision", "Motivation", "Communication"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The type of directing which has the least resistance from subordinates",
+      "options": ["Written", "Autocratic", "Consultative", "Oral"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Giving instructions, counseling for nurses during work to achieve Organizational goals is",
+      "options": ["organizing", "Directing", "leadership", "communication"],
+      "correctIndex": 1
+    },
+    {
+      "question": "When the director of human resources give instructions to nurses, it consider",
+      "options": [
+        "Upward communication",
+        "Downwards communication",
+        "Diagonal communication",
+        "Horizontal communication"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Translating the message into verbal and non verbal symbols is ………………",
+      "options": ["Encoding", "Decoding", "Action", "feedback"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The means of upward communication is",
+      "options": ["Suggestion boxes.", "Instructions", "Policy", "Procedure"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Inappropriate information systems is communication barrier related to",
+      "options": ["Physical", "Physiological", "System", "Attitudinal"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Planning can be defined as a retrospective thinking",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The communication process can be completed without feedback.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Interpersonal skills are consideration that applied during staffing",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The unstructured interview requires little planning",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In decentralized scheduling, one supervisor in the nursing administration office plans coverage for all nursing units",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A written order helps to maintain accuracy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Motivation is the issuance of orders, assignments and instructions that permit the subordinate to understand what is expected of him",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
