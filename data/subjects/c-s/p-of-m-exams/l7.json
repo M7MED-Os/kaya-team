@@ -17,7 +17,7 @@
         "The same as decision making",
         "A part of decision making",
         "Only used in crises",
-        "A random process"
+        "More comprehensive than decision making"
       ],
       "correctIndex": 1
     },
@@ -36,7 +36,7 @@
       "options": [
         "Expected and routine",
         "Easy to solve",
-        "Unexpected and potentially disastrous",
+        "Unexpected",
         "Structured"
       ],
       "correctIndex": 2
@@ -90,11 +90,6 @@
       "question": "Focusing on symptoms instead of causes is a mistake in which step?",
       "options": ["Step 1", "Step 2", "Step 3", "Step 4"],
       "correctIndex": 0
-    },
-    {
-      "question": "Which is a criterion for evaluating alternatives?",
-      "options": ["Popularity", "Benefits", "Randomness", "Silence"],
-      "correctIndex": 1
     },
     {
       "question": "Decision-making under certainty means:",
@@ -154,10 +149,10 @@
     {
       "question": "The behavioral decision style focuses on:",
       "options": [
-        "Data analysis",
+        "Little data",
         "Quick decisions",
         "People’s feelings",
-        "Avoiding people"
+        "Much data"
       ],
       "correctIndex": 2
     },
@@ -192,7 +187,7 @@
         "Treating everyone the same",
         "Considering individual uniqueness",
         "Causing no harm",
-        "Helping others"
+        "Do good"
       ],
       "correctIndex": 1
     },
@@ -209,7 +204,7 @@
     {
       "question": "Beneficence aims at:",
       "options": [
-        "Personal gain",
+        "Do not Harming others",
         "Harming others",
         "Good of others",
         "Ignoring ethics"
@@ -218,8 +213,8 @@
     },
     {
       "question": "Which is a type of managerial problem?",
-      "options": ["Personal", "Structured", "Financial only", "External only"],
-      "correctIndex": 1
+      "options": ["Unstructured", "Structured", "Crises", "All of the above"],
+      "correctIndex": 3
     },
     {
       "question": "What is a key feature of unstructured problems?",
@@ -232,7 +227,12 @@
       "correctIndex": 2
     },
     {
-      "question": "Evaluating results is part of which step?",
+      "question": "In the traditional problem-solving model, evaluating the results is part of which step?",
+      "options": ["Step 1", "Step 3", "Step 5", "Step 7"],
+      "correctIndex": 3
+    },
+    {
+      "question": "In the decision making process, evaluating the results is part of which step?",
       "options": ["Step 1", "Step 3", "Step 5", "Step 7"],
       "correctIndex": 2
     },
@@ -240,16 +240,6 @@
       "question": "Which condition is ideal but rare in management?",
       "options": ["Certainty", "Risk", "Uncertainty", "Crisis"],
       "correctIndex": 0
-    },
-    {
-      "question": "Managers develop crisis plans to:",
-      "options": [
-        "Ignore problems",
-        "Prevent all problems",
-        "Deal with crises effectively",
-        "Only use in certainty"
-      ],
-      "correctIndex": 2
     },
     {
       "question": "Decision making is more comprehensive than problem solving.",
