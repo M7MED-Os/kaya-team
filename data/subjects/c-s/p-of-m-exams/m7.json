@@ -1,5 +1,5 @@
 {
-  "title": "Comprehensive Management Principles",
+  "title": "صلي على النبي (Testing)",
   "questions": [
     {
       "question": "According to Koontz and O'Donnel, why is management considered a crucial human activity?",
@@ -250,6 +250,436 @@
       "question": "The span of control is wider when subordinates' jobs are highly complex and require constant supervision.",
       "options": ["True", "False"],
       "correctIndex": 1
+    },
+    {
+      "question": "The primary goal of staffing in a nursing unit is to:",
+      "options": [
+        "Minimize labor costs at all times.",
+        "Provide an adequate mix of qualified personnel for proper patient care.",
+        "Ensure all shifts have an equal number of nurses.",
+        "Hire only nurses with baccalaureate degrees."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which method of determining staffing focuses directly on patient needs by classifying them according to acuity and dependency?",
+      "options": [
+        "Traditional system (based on beds)",
+        "Task quantification system",
+        "Patient classification system",
+        "Decentralized scheduling"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the key difference between recruitment and selection?",
+      "options": [
+        "Recruitment involves training, while selection involves scheduling.",
+        "Recruitment attracts applicants, while selection chooses the best from them.",
+        "Recruitment is done by HR only, while selection is done by unit managers.",
+        "Recruitment follows selection in the staffing process."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "During the interview step of selection, what is a primary purpose from the organization's perspective?",
+      "options": [
+        "To negotiate the final salary.",
+        "To determine if the applicant meets the job requirements.",
+        "To complete the necessary background checks.",
+        "To socialize the applicant into the team."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a potential disadvantage of using \"word of mouth\" as a recruitment method?",
+      "options": [
+        "It is too slow and inefficient.",
+        "It may violate equal opportunity by fostering nepotism.",
+        "It does not reach qualified candidates.",
+        "It is the most expensive recruitment method."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the staffing process, socialization primarily involves:",
+      "options": [
+        "Conducting final job interviews.",
+        "Checking an applicant's references.",
+        "Orienting new employees to the hospital's policies and culture.",
+        "Determining the staffing pattern for a unit."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A centralized scheduling system is characterized by:",
+      "options": [
+        "Each unit head nurse creating their own schedule.",
+        "One person in the nursing office planning coverage for all units.",
+        "Schedules being based solely on seniority.",
+        "Staff members swapping shifts without managerial approval."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to staffing principles, before hiring, it is crucial to verify an applicant's:",
+      "options": [
+        "Salary expectations.",
+        "Work experience and credentials.",
+        "Personal hobbies and interests.",
+        "Future career aspirations outside the organization."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The traditional system of determining staffing relies exclusively on a detailed patient classification system.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A structured interview involves pre-planned questions developed to address specific job requirements.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Why is directing often referred to as the \"heart\" of the management process?",
+      "options": [
+        "Because it is the first function managers perform.",
+        "Because planning and organizing are meaningless without it to initiate action.",
+        "Because it is only performed by top-level executives.",
+        "Because it deals exclusively with financial resources."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the consultative direction technique, what does the manager do before issuing a directive?",
+      "options": [
+        "Issues direct and precise orders with detailed instructions.",
+        "Encourages subordinates to find their own solutions without intervention.",
+        "Consults with subordinates about the feasibility and content of a problem.",
+        "Delegates all decision-making authority to the team."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a key characteristic of the directing function?",
+      "options": [
+        "It is a one-time activity performed at the start of a project.",
+        "It is only concerned with the allocation of physical resources.",
+        "It is a pervasive function required at all levels of management.",
+        "It replaces the need for motivation and leadership."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a primary advantage of giving written directions compared to oral ones?",
+      "options": [
+        "They are faster to deliver in urgent situations.",
+        "They allow for immediate verbal feedback and clarification.",
+        "They minimize misunderstanding and can be studied carefully.",
+        "They are more suitable for conveying simple, routine tasks."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the principles of direction, what does the \"Follow Through\" principle require managers to do?",
+      "options": [
+        "Communicate orders in the most comprehensible way.",
+        "Ensure that employees' personal interests align with group goals.",
+        "Monitor the extent to which issued directions have been enforced.",
+        "Use the most time-efficient technique for giving orders."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which element of directing is defined as \"guiding and directing efforts of employees to accomplish stated work outputs\"?",
+      "options": ["Motivation", "Leadership", "Supervision", "Communication"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The \"Free Rein\" technique of direction is most effective in situations where:",
+      "options": [
+        "Tasks are highly routine and standardized.",
+        "Subordinates are inexperienced and need clear guidance.",
+        "Subordinates are capable and encouraged to use their own initiative.",
+        "There is no room for error and strict compliance is needed."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT listed as a core element of the directing function?",
+      "options": ["Giving Orders", "Staffing", "Motivation", "Communication"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Directing is a function that only begins from the middle level of management and flows downward.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "One importance of directing is that it helps in bringing about and coping with changes in the organizational structure.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the primary purpose of the controlling function in management?",
+      "options": [
+        "To create detailed operational plans for each department.",
+        "To set the organization's long-term vision and mission.",
+        "To check errors, take corrective action, and ensure goals are achieved as planned.",
+        "To recruit and select the most qualified employees."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the control process, what is the step that involves \"comparing results with objectives and standards\" designed to establish?",
+      "options": [
+        "The reward system for employees.",
+        "The budget for the next fiscal year.",
+        "The need for corrective action.",
+        "The job descriptions for new roles."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A hospital standard stating \"The postoperative wound infection rate should not exceed 2%\" is an example of what type of standard?",
+      "options": [
+        "An Input Standard",
+        "A Concurrent Standard",
+        "An Output Standard",
+        "A Preliminary Standard"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of control is designed to prevent anticipated problems before they occur, such as thorough pre-employment training?",
+      "options": [
+        "Concurrent (Steering) Control",
+        "Feedback Control",
+        "Preliminary (Feed-Forward) Control",
+        "External Control"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Management-by-Exception is a control principle that advises managers to:",
+      "options": [
+        "Micromanage every detail of their subordinates' work.",
+        "Focus their attention on significant deviations from standards.",
+        "Delegate all control activities to lower-level employees.",
+        "Apply the same corrective action to every minor variance."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which characteristic is essential for an effective control system?",
+      "options": [
+        "It should be complex to cover all possible scenarios.",
+        "It must be rigid and inflexible to maintain consistency.",
+        "It should be understandable to the organizational members.",
+        "It should focus solely on punishing below-standard performance."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When a supervisor corrects a nurse's technique while they are administering medication, what type of control is being applied?",
+      "options": [
+        "Feed-Forward Control",
+        "Feedback Control",
+        "Steering (Concurrent) Control",
+        "External Financial Control"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A control system that \"allows motivated individuals to exercise self-control\" is best described as:",
+      "options": [
+        "An Internal Control",
+        "A Preliminary Control",
+        "An External Control",
+        "A Financial Control"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Controlling is a function that is only the responsibility of top-level managers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Feedback controls are applied after an action is completed and are useful for evaluating the effectiveness of planning.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the defining characteristic of mass communication compared to other forms?",
+      "options": [
+        "It involves face-to-face interaction and immediate feedback.",
+        "It is used exclusively for internal organizational announcements.",
+        "It transmits messages to a large, general audience via electronic or print media.",
+        "It follows the formal lines of authority within an organization."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An \"intelligent manager\" can make effective use of the informal communication network (grapevine) by:",
+      "options": [
+        "Ignoring it completely, as it only spreads rumors.",
+        "Using it to spread information informally and prevent false rumors with correct facts.",
+        "Formally reprimanding employees who participate in it.",
+        "Restructuring the organization to eliminate social relationships."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a key technique for effective non-verbal communication?",
+      "options": [
+        "Using complex and technical vocabulary.",
+        "Sending lengthy, detailed written memos.",
+        "Employing appropriate body language and eye contact.",
+        "Relying solely on tone of voice."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When a head nurse sends a memo about a new policy to all staff nurses, this is primarily an example of which communication flow?",
+      "options": [
+        "Upward Communication",
+        "Horizontal Communication",
+        "Diagonal Communication",
+        "Downward Communication"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "A staff nurse from the surgical unit and a pharmacist from the pharmacy department meet to discuss a patient's medication plan. They are at different levels and have no direct reporting relationship. This is an example of:",
+      "options": [
+        "Vertical Communication",
+        "Horizontal Communication",
+        "Diagonal Communication",
+        "Grapevine Communication"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is considered a physical barrier to effective communication?",
+      "options": [
+        "Personality conflicts between employees",
+        "An unclear organizational structure",
+        "Staff being located in different buildings",
+        "The use of difficult technical jargon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the measures to improve communication, which step ensures the message was properly understood?",
+      "options": [
+        "Clarifying ideas before communicating",
+        "Selecting the right medium",
+        "Providing feedback",
+        "Examining the purpose of communication"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which characteristic is essential for effective verbal communication?",
+      "options": [
+        "Using as many descriptive words as possible.",
+        "Ensuring the message is brief and clear.",
+        "Communicating only in written form for accuracy.",
+        "Avoiding repetition of any points."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Informal communication (the grapevine) follows the formally delegated lines of authority shown on an organization chart.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "One of the purposes of upward communication is to allow for employee input, which can help with motivation.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In the traditional problem-solving model, at which step does decision-making primarily occur?",
+      "options": [
+        "Identify the problem",
+        "Explore alternative solutions",
+        "Select the appropriate solution",
+        "Evaluate the results"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A manager dealing with a frequent, routine issue like approving weekly leave requests is most likely making which type of decision?",
+      "options": [
+        "Non-programmed decision",
+        "Crisis decision",
+        "Programmed decision",
+        "Unstructured decision"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following best describes a crisis problem?",
+      "options": [
+        "A familiar issue with a clear, standard response.",
+        "An unexpected problem that could lead to disaster if not resolved quickly.",
+        "A complex problem with ambiguous information.",
+        "A minor issue that can be ignored."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a common mistake made during the first step (identifying the problem) of the decision-making process?",
+      "options": [
+        "Gathering too much data",
+        "Focusing on symptoms instead of root causes",
+        "Implementing the solution too quickly",
+        "Evaluating too many alternatives"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A manager who likes to gather extensive data, consider many complex alternatives, and search for the optimal solution likely has which decision-making style?",
+      "options": ["Directive", "Analytical", "Conceptual", "Behavioral"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In which decision-making condition does a manager have sufficient information to know the outcome of each alternative with certainty?",
+      "options": ["Certainty", "Risk", "Uncertainty", "Ambiguity"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The ethical principle of \"Nonmaleficence\" in decision-making primarily instructs managers to:",
+      "options": [
+        "Treat all individuals fairly and uniquely.",
+        "Strive to cause as little harm as possible.",
+        "Contribute to the good of others.",
+        "Honor commitments and remain faithful."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which characteristic is NOT typically associated with a successful decision maker?",
+      "options": [
+        "Courage to take risks",
+        "Sensitivity to situations and others",
+        "Resistance to any form of change",
+        "Creativity in developing solutions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Problem-solving is considered a broader, more comprehensive process than decision-making.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a risk decision-making condition, managers can assign some probabilities to the likely outcomes of known alternatives.",
+      "options": ["True", "False"],
+      "correctIndex": 0
     }
   ]
 }
