@@ -680,6 +680,206 @@
       "question": "In a risk decision-making condition, managers can assign some probabilities to the likely outcomes of known alternatives.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is the correct definition of 'Controlling'?",
+      "options": [
+        "The process of matching jobs with individuals for the right fit.",
+        "The process of monitoring performance, comparing it with standards, and taking corrective action.",
+        "The process of instructing, guiding, and motivating staff to achieve goals.",
+        "The process of arranging tasks, people, and resources to achieve objectives."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following defines 'Planning'?",
+      "options": [
+        "The process of issuing orders and guiding subordinates.",
+        "The process of setting objectives and determining how to achieve them.",
+        "The process of grouping activities and delegating authority.",
+        "The process of selecting and training individuals for specific jobs."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following defines 'Organizing'?",
+      "options": [
+        "The process of deciding in advance what to do in the future.",
+        "The process of motivating employees to improve performance.",
+        "The process of identifying work, grouping activities, and delegating authority.",
+        "The process of measuring performance against standards."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following defines 'Staffing'?",
+      "options": [
+        "The process of giving instructions and guiding employees.",
+        "The process of matching jobs with individuals to ensure the right fit.",
+        "The process of arranging resources to achieve goals.",
+        "The process of setting organizational objectives."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following defines 'Directing'?",
+      "options": [
+        "The process of monitoring and correcting performance.",
+        "The process of setting goals and policies.",
+        "The process of instructing, guiding, and motivating staff.",
+        "The process of recruiting and selecting employees."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following defines 'Decision Making'?",
+      "options": [
+        "The process of comparing performance with standards.",
+        "The process of choosing a course of action from alternatives.",
+        "The process of arranging tasks and resources systematically.",
+        "The process of communicating information within an organization."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following defines 'Communication'?",
+      "options": [
+        "The process of selecting the best candidate for a job.",
+        "The process of transferring information from one person to another.",
+        "The process of grouping activities within an organization.",
+        "The process of setting long-term organizational goals."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following defines 'Leadership'?",
+      "options": [
+        "The ability to inspire and influence others to achieve goals.",
+        "The process of measuring and correcting performance.",
+        "The process of arranging tasks and delegating authority.",
+        "The process of forecasting future organizational needs."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following defines 'Motivation'?",
+      "options": [
+        "The process of arranging organizational structure.",
+        "The force that starts and keeps a person at work.",
+        "The process of comparing actual vs. planned performance.",
+        "The process of issuing orders to subordinates."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following defines 'Supervision'?",
+      "options": [
+        "The process of planning organizational goals.",
+        "The process of guiding and directing the work of subordinates.",
+        "The process of matching jobs with individuals.",
+        "The process of analyzing market trends."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Henri Fayol, which principle states that' an employee should receive orders from only one superior'?",
+      "options": [
+        "Unity of Direction",
+        "Scalar Chain",
+        "Unity of Command",
+        "Discipline"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which level of management is primarily responsible for developing strategic plans?",
+      "options": [
+        "Lower-level management",
+        "Middle-level management",
+        "Top-level management",
+        "Operational management"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of control is applied during an activity to ensure standards are being met?",
+      "options": [
+        "Feed-Forward Control",
+        "Feedback Control",
+        "Steering (Concurrent) Control",
+        "Preliminary Control"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The informal organization is best described as:",
+      "options": [
+        "The official structure shown on organizational charts.",
+        "A system of relationships based on social interactions among employees.",
+        "The chain of command from top to bottom.",
+        "The process of delegating authority formally."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a characteristic of a successful decision maker?",
+      "options": [
+        "Avoids taking any risks",
+        "Relies solely on past experiences without creativity",
+        "Has courage and willingness to take risks",
+        "Prefers to delay decisions indefinitely"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which communication flow occurs between people at the same organizational level?",
+      "options": [
+        "Downward Communication",
+        "Upward Communication",
+        "Horizontal Communication",
+        "Diagonal Communication"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The patient classification system in staffing is used to:",
+      "options": [
+        "Schedule shifts based on seniority",
+        "Group patients according to acuity and nursing care needs",
+        "Determine salaries based on performance",
+        "Recruit nurses from different specialties"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which principle of management emphasizes that 'the interests of the group should prevail over individual interests'?",
+      "options": [
+        "Division of Work",
+        "Subordination of Individual Interest to General Interest",
+        "Equity",
+        "Initiative"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a limitation of planning?",
+      "options": [
+        "It improves coordination",
+        "It is time-consuming",
+        "It provides direction",
+        "It reduces guesswork"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The grapevine in communication refers to:",
+      "options": [
+        "Formal downward communication",
+        "Written official memos",
+        "Informal communication network among employees",
+        "Electronic communication systems"
+      ],
+      "correctIndex": 2
     }
   ]
 }
