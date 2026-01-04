@@ -1,0 +1,255 @@
+{
+  "title": "Comprehensive Management Principles",
+  "questions": [
+    {
+      "question": "According to Koontz and O'Donnel, why is management considered a crucial human activity?",
+      "options": [
+        "It focuses on maximizing profits.",
+        "Its task is getting things done through others.",
+        "It is only about financial resource allocation.",
+        "It replaces the need for skilled employees."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a direct consequence of having all necessary resources but no management in an organization?",
+      "options": [
+        "Rapid goal achievement",
+        "Efficient self-organization",
+        "Wastage of resources and confusion",
+        "Increased employee autonomy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A head nurse ensuring daily tasks are completed as assigned is most likely part of which management level?",
+      "options": [
+        "Top-level management",
+        "Middle-level management",
+        "Lower-level management",
+        "Strategic management"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which management skill is MOST critical for top-level managers when analyzing complex situations?",
+      "options": [
+        "Technical skills",
+        "Human skills",
+        "Conceptual skills",
+        "Operational skills"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "If a manager is involved in \"monitoring performance, comparing it to standards, and taking corrective action,\" which management function are they performing?",
+      "options": ["Planning", "Organizing", "Directing", "Controlling"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of Henri Fayol's principles emphasizes that employees should receive orders from only one superior?",
+      "options": [
+        "Unity of direction",
+        "Scalar chain",
+        "Unity of command",
+        "Discipline"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Why is management considered both an art and a science?",
+      "options": [
+        "It requires no formal knowledge, only creativity.",
+        "It is based purely on theoretical principles.",
+        "It combines structured knowledge (science) with personal skill application (art).",
+        "It is only an intuitive process with no systematic approach."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is NOT listed as a common cause of management failure?",
+      "options": [
+        "Poor leadership skills",
+        "Excessive employee autonomy",
+        "Slow decision making",
+        "Resource misallocation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Human skills are only important for lower-level managers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The principle of \"Subordination of Individual Interest to General Interest\" means that group goals should take priority over personal goals in an organization.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following best defines planning in management?",
+      "options": [
+        "Assigning tasks to employees",
+        "Monitoring daily operations",
+        "Deciding in advance what to do and how to do it",
+        "Resolving conflicts among team members"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which level of management is primarily responsible for developing strategic plans?",
+      "options": [
+        "Lower-level management",
+        "Middle-level management",
+        "Top-level management",
+        "Operational management"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A hospital's statement: \"We aim to be the leading healthcare provider in the region by 2030\" is an example of a:",
+      "options": ["Mission", "Objective", "Vision", "Policy"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of plan is most suitable when the environment is uncertain and flexibility is needed?",
+      "options": [
+        "Specific plan",
+        "Standing plan",
+        "Operational plan",
+        "Directional plan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "In the planning hierarchy, what comes immediately after setting the organization's vision?",
+      "options": ["Goals", "Mission", "Policies", "Objectives"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a limitation of planning?",
+      "options": [
+        "It improves coordination",
+        "It reduces guesswork",
+        "It is time-consuming",
+        "It provides direction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A detailed step-by-step guide for admitting a new patient is best described as a:",
+      "options": ["Rule", "Policy", "Procedure", "Goal"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which step in the planning process involves evaluating different ways to achieve objectives?",
+      "options": [
+        "Setting objectives",
+        "Discovering alternatives",
+        "Implementing the plan",
+        "Defining subsidiary plans"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Planning is considered a pervasive function because it is required only at the top management level.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A standing plan is designed for a one-time, unique situation.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the primary purpose of the organizing function in management?",
+      "options": [
+        "To establish the organization's vision and mission.",
+        "To arrange and allocate people and resources to achieve goals.",
+        "To monitor performance against standards.",
+        "To motivate employees through incentives."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to the principle of unity of command, which of the following should be true?",
+      "options": [
+        "An employee reports to multiple supervisors for different tasks.",
+        "Authority flows horizontally across departments.",
+        "An employee receives orders from only one superior.",
+        "Supervisors should have an unlimited number of subordinates."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which element of organizing is described as a \"visual picture\" showing lines of authority and communication?",
+      "options": [
+        "Job description",
+        "Scheduling",
+        "Organization chart",
+        "Staffing pattern"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key characteristic that distinguishes an informal organization from a formal organization?",
+      "options": [
+        "It is created by top management.",
+        "It is shown on official charts and graphs.",
+        "It arises from the social needs of employees.",
+        "It is permanent and stable over time."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "If a manager is deciding \"how many subordinates one supervisor can effectively manage,\" which principle are they applying?",
+      "options": [
+        "Principle of specialization",
+        "Principle of span of control",
+        "Principle of chain of command",
+        "Principle of unity of direction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a direct benefit of a well-defined organizational structure?",
+      "options": [
+        "It eliminates the need for planning.",
+        "It improves employee understanding of job duties.",
+        "It guarantees equal pay for all employees.",
+        "It reduces the need for communication."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the context of organizing, what does \"accountability\" mean?",
+      "options": [
+        "The power to direct the work of others.",
+        "The duty to perform a specific task.",
+        "Moral responsibility for the consequences of one's actions.",
+        "The number of people one supervises."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of organizational chart shows high-level management at the center with authority flowing outward?",
+      "options": [
+        "Vertical chart",
+        "Horizontal chart",
+        "Circular chart",
+        "Skeleton chart"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A formal organization can function effectively without the presence of any informal organization.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "The span of control is wider when subordinates' jobs are highly complex and require constant supervision.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
