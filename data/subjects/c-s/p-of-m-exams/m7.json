@@ -27,7 +27,7 @@
         "Top-level management",
         "Middle-level management",
         "Lower-level management",
-        "Strategic management"
+        "All management levels"
       ],
       "correctIndex": 2
     },
@@ -42,26 +42,26 @@
       "correctIndex": 2
     },
     {
-      "question": "If a manager is involved in \"monitoring performance, comparing it to standards, and taking corrective action,\" which management function are they performing?",
-      "options": ["Planning", "Organizing", "Directing", "Controlling"],
-      "correctIndex": 3
-    },
-    {
-      "question": "Which of Henri Fayol's principles emphasizes that employees should receive orders from only one superior?",
+      "question": "Which type of control is mentioned as the most popular and widely used?",
       "options": [
-        "Unity of direction",
-        "Scalar chain",
-        "Unity of command",
-        "Discipline"
+        "Preliminary (Feed Forward) Controls",
+        "Concurrent (Steering) Controls",
+        "Post-action (Feedback) Controls",
+        "All are equally popular"
       ],
       "correctIndex": 2
+    },
+    {
+      "question": "Management by objectives is considered a part of internal control?",
+      "options": ["True", "False"],
+      "correctIndex": 1
     },
     {
       "question": "Why is management considered both an art and a science?",
       "options": [
         "It requires no formal knowledge, only creativity.",
         "It is based purely on theoretical principles.",
-        "It combines structured knowledge (science) with personal skill application (art).",
+        "It combines structured knowledge with personal skill application.",
         "It is only an intuitive process with no systematic approach."
       ],
       "correctIndex": 2
@@ -264,7 +264,7 @@
     {
       "question": "Which method of determining staffing focuses directly on patient needs by classifying them according to acuity and dependency?",
       "options": [
-        "Traditional system (based on beds)",
+        "Traditional system",
         "Task quantification system",
         "Patient classification system",
         "Decentralized scheduling"
@@ -306,7 +306,7 @@
       "options": [
         "Conducting final job interviews.",
         "Checking an applicant's references.",
-        "Orienting new employees to the hospital's policies and culture.",
+        "Orienting to policies and culture.",
         "Determining the staffing pattern for a unit."
       ],
       "correctIndex": 2
@@ -426,7 +426,7 @@
       "options": [
         "To create detailed operational plans for each department.",
         "To set the organization's long-term vision and mission.",
-        "To check errors, take corrective action, and ensure goals are achieved as planned.",
+        "To check errors and take corrective action.",
         "To recruit and select the most qualified employees."
       ],
       "correctIndex": 2
@@ -452,7 +452,7 @@
       "correctIndex": 2
     },
     {
-      "question": "Which type of control is designed to prevent anticipated problems before they occur, such as thorough pre-employment training?",
+      "question": "Which type of control is designed to prevent anticipated problems before they occur?",
       "options": [
         "Concurrent (Steering) Control",
         "Feedback Control",
@@ -486,7 +486,7 @@
       "options": [
         "Feed-Forward Control",
         "Feedback Control",
-        "Steering (Concurrent) Control",
+        "Steering Control",
         "External Financial Control"
       ],
       "correctIndex": 2
@@ -525,7 +525,7 @@
       "question": "An \"intelligent manager\" can make effective use of the informal communication network (grapevine) by:",
       "options": [
         "Ignoring it completely, as it only spreads rumors.",
-        "Using it to spread information informally and prevent false rumors with correct facts.",
+        "Using it to spread information informally.",
         "Formally reprimanding employees who participate in it.",
         "Restructuring the organization to eliminate social relationships."
       ],
@@ -625,7 +625,7 @@
       "question": "Which of the following best describes a crisis problem?",
       "options": [
         "A familiar issue with a clear, standard response.",
-        "An unexpected problem that could lead to disaster if not resolved quickly.",
+        "Can lead to disaster if not resolved quickly.",
         "A complex problem with ambiguous information.",
         "A minor issue that can be ignored."
       ],
@@ -682,10 +682,15 @@
       "correctIndex": 0
     },
     {
+      "question": "The principle of equity means that supervisors and subordinates are equal in human rights and authority.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
       "question": "Which of the following is the correct definition of 'Controlling'?",
       "options": [
         "The process of matching jobs with individuals for the right fit.",
-        "The process of monitoring performance, comparing it with standards, and taking corrective action.",
+        "The process of monitoring performance and comparing it with standards.",
         "The process of instructing, guiding, and motivating staff to achieve goals.",
         "The process of arranging tasks, people, and resources to achieve objectives."
       ],
@@ -755,29 +760,29 @@
       "question": "Which of the following defines 'Leadership'?",
       "options": [
         "The ability to inspire and influence others to achieve goals.",
-        "The process of measuring and correcting performance.",
-        "The process of arranging tasks and delegating authority.",
-        "The process of forecasting future organizational needs."
+        "The official power given by the organization to direct the work of others.",
+        "A duty or assignment that must be carried out as part of a job.",
+        "The complex force that starts and keeps a person at work in an organization."
       ],
       "correctIndex": 0
     },
     {
       "question": "Which of the following defines 'Motivation'?",
       "options": [
-        "The process of arranging organizational structure.",
-        "The force that starts and keeps a person at work.",
-        "The process of comparing actual vs. planned performance.",
-        "The process of issuing orders to subordinates."
+        "The ability to inspire and influence others to achieve organizational goals.",
+        "The complex force that starts and keeps a person at work in an organization.",
+        "The official power given by the organization to direct the work of others.",
+        "A duty or assignment that must be carried out as part of a job."
       ],
       "correctIndex": 1
     },
     {
       "question": "Which of the following defines 'Supervision'?",
       "options": [
-        "The process of planning organizational goals.",
+        "The ability to inspire and influence others to achieve organizational goals.",
         "The process of guiding and directing the work of subordinates.",
-        "The process of matching jobs with individuals.",
-        "The process of analyzing market trends."
+        "The official power given by the organization to direct the work of others.",
+        "The complex force that starts and keeps a person at work in an organization."
       ],
       "correctIndex": 1
     },
@@ -806,8 +811,8 @@
       "options": [
         "Feed-Forward Control",
         "Feedback Control",
-        "Steering (Concurrent) Control",
-        "Preliminary Control"
+        "Steering Control",
+        "Programmed Control"
       ],
       "correctIndex": 2
     },
@@ -862,22 +867,12 @@
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is a limitation of planning?",
-      "options": [
-        "It improves coordination",
-        "It is time-consuming",
-        "It provides direction",
-        "It reduces guesswork"
-      ],
-      "correctIndex": 1
-    },
-    {
       "question": "The grapevine in communication refers to:",
       "options": [
         "Formal downward communication",
         "Written official memos",
-        "Informal communication network among employees",
-        "Electronic communication systems"
+        "Informal communication",
+        "Formal upward communication"
       ],
       "correctIndex": 2
     }
