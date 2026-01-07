@@ -9,22 +9,57 @@
       "summary": null
     },
     {
-      "title": "Teaching Methods 1",
-      "video": "https://fnurbuedu-my.sharepoint.com/:v:/g/personal/walaa_kamel_fnur_bu_edu_eg/EeiBL6PVrNNCsDMP5a0fzFEBznaW5JLabF4Ernx9i2GNYw?e=vbc1ma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
-      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/tm1.json",
-      "file": null,
-      "summary": null
-    },
-    {
-      "title": "Teaching and learning",
+      "title": "Teaching Methods",
       "video": null,
       "quiz": null,
       "file": null,
       "summary": null
     },
     {
-      "title": "Teaching Methods 2",
-      "video": "https://fnurbuedu-my.sharepoint.com/:v:/g/personal/walaa_kamel_fnur_bu_edu_eg/EUHqMokdiItMlcgcoP3t3pEBv4LCdIVY48GucLPxVr3lkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LZAVnk",
+      "title": "Teaching material (media)",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Active Learning",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Case-Based Learning",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Case-Based Learning",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Simulation-Based Learning",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Future Trends",
+      "video": null,
+      "quiz": null,
+      "file": null,
+      "summary": null
+    },
+    {
+      "title": "Role of Nursing",
+      "video": null,
       "quiz": null,
       "file": null,
       "summary": null
