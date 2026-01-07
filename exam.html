@@ -1604,14 +1604,13 @@
           // Set result message based on score
           let message = "";
           if (percentage >= 90) {
-            message = "Excellent! You have achieved an outstanding result.";
+            message = "Excellent!";
           } else if (percentage >= 70) {
-            message = "Very good! Your performance is excellent.";
+            message = "Very good!";
           } else if (percentage >= 50) {
-            message = "Good. You can improve with more practice.";
+            message = "Good.";
           } else {
-            message =
-              "Needs improvement. Review the study material and try again.";
+            message = "Needs improvement.";
           }
 
           resultMessage.textContent = message;
