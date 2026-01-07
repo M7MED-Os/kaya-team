@@ -72,7 +72,7 @@
       "correctIndex": 0
     },
     {
-      "question": "Which core principle emphasizes giving students prompt, constructive feedback?",
+      "question": "Which core principle emphasizes self-assessment and peer review?",
       "options": [
         "Feedback and evaluation",
         "Motivation and relevance",
@@ -129,7 +129,7 @@
         "Resource availability",
         "All of the above"
       ],
-      "correctIndex": 1
+      "correctIndex": 3
     },
     {
       "question": "Which historical shift marks modern nursing education?",
@@ -155,7 +155,7 @@
       "question": "The main aim of feedback and evaluation in nursing education is to:",
       "options": [
         "Judge student failure",
-        "Guide improvement and reflection",
+        "Guide improvement",
         "Delay assessment",
         "Replace self-assessment"
       ],
@@ -287,9 +287,9 @@
       "correctIndex": 0
     },
     {
-      "question": "Feedback that is timely and constructive enhances student improvement.",
+      "question": "Providing destructive feedback and evaluation improves the learning process.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Ethical and professional modeling includes respecting patient confidentiality.",
@@ -297,9 +297,9 @@
       "correctIndex": 0
     },
     {
-      "question": "Active learning involves solving problems and reflecting on experiences.",
+      "question": "Passive learning involves solving problems and reflecting on experiences.",
       "options": ["True", "False"],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
       "question": "Creativity and innovation are discouraged in clinical decision-making.",
