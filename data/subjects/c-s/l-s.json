@@ -2,9 +2,9 @@
   "subject": "استراتيجيات تعلم",
   "lectures": [
     {
-      "title": "Introduction of teaching and learning",
+      "title": "Introduction",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/intro.json",
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l1.json",
       "file": "https://t.me/M7KAYA290/8780",
       "summary": null
     },
@@ -37,16 +37,9 @@
       "summary": null
     },
     {
-      "title": "Case-Based Learning",
-      "video": null,
-      "quiz": null,
-      "file": null,
-      "summary": null
-    },
-    {
       "title": "Simulation-Based Learning",
       "video": null,
-      "quiz": null,
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l7.json",
       "file": null,
       "summary": null
     },
