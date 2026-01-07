@@ -1,5 +1,5 @@
 {
-  "title": "Management 2",
+  "title": "Management 2 (",
   "questions": [
     {
       "question": "The managerial function described as 'the heart of the management process' is:",
@@ -32,7 +32,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Written directions are preferred over oral directions because they",
+      "question": "Written directions are preferred over oral directions because they:",
       "options": [
         "Eliminate all forms of misunderstanding.",
         "Are faster to deliver in all situations.",
@@ -114,7 +114,7 @@
     {
       "question": "When giving orders, a manager should ensure the order is:",
       "options": [
-        "Complex to demonstrate expertise.",
+        "Complex to demonstrate expertise",
         "Based on obvious demands of the situation and given with an appropriate tone.",
         "Delivered exclusively in written form.",
         "Issued without explanation to test subordinate initiative."
@@ -196,7 +196,7 @@
       "options": [
         "Only top management.",
         "Only external auditors.",
-        "Managers at all levels.",
+        "Managers at all levels",
         "Only the human resources department."
       ],
       "correctIndex": 2
@@ -322,7 +322,7 @@
       "correctIndex": 2
     },
     {
-      "question": "The employee discipline system component of organizational control aims to",
+      "question": "The employee discipline system component of organizational control aims to:",
       "options": [
         "Punish all infractions equally severely.",
         "Achieve compliance using the least extreme reprimand possible.",
@@ -377,392 +377,7 @@
         "Avoidance of all risks.",
         "Sensitivity to situations and others.",
         "Reliance solely on historical data.",
-        "Resistance to creative thinking."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The first step in the decision-making process is to:",
-      "options": [
-        "Implement a solution.",
-        "Identify, define, and structure the problem or opportunity.",
-        "Evaluate results.",
-        "Choose a preferred course of action."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "A common mistake when defining a problem is:",
-      "options": [
-        "Gathering too much data.",
-        "Focusing on the root causes instead of symptoms.",
-        "Defining the problem too broadly or too narrowly.",
-        "Involving too many stakeholders."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "When evaluating alternative courses of action, a typical criterion is:",
-      "options": [
-        "The manager's personal preference alone.",
-        "Ethical soundness.",
-        "Speed of implementation, regardless of cost.",
-        "Popularity among subordinates."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The condition of decision-making characterized by sufficient information to know the results of each alternative is:",
-      "options": ["Uncertainty", "Risk", "Certainty", "Ambiguity"],
-      "correctIndex": 2
-    },
-    {
-      "question": "In a condition of risk, the decision maker:",
-      "options": [
-        "Has complete information on all outcomes.",
-        "Lacks complete information but has some probabilities for outcomes.",
-        "Has no information to assign any probabilities.",
-        "Relies solely on intuition."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The directive decision style is marked by managers who:",
-      "options": [
-        "Gather extensive data and consider many alternatives.",
-        "Make quick decisions with limited information and few alternatives.",
-        "Seek broad social input and creative solutions.",
-        "Focus primarily on the personal goals of their employees."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "A manager who likes to consider complex solutions based on extensive data gathering likely has a(n) _________ decision style.",
-      "options": ["Directive", "Analytical", "Conceptual", "Behavioral"],
-      "correctIndex": 1
-    },
-    {
-      "question": "The ethical principle of Autonomy in decision-making emphasizes:",
-      "options": [
-        "Doing no harm.",
-        "The freedom of choice and action for individuals.",
-        "Treating everyone exactly the same.",
-        "Honoring commitments."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The principle of Nonmaleficence dictates that an ethical decision should:",
-      "options": [
-        "Strive to cause as little harm as possible.",
-        "Maximize benefits for the majority.",
-        "Ensure strict adherence to rules.",
-        "Prioritize organizational goals over individual needs."
-      ],
-      "correctIndex": 0
-    },
-    {
-      "question": "The primary goal of communication is NOT to:",
-      "options": [
-        "Change behavior.",
-        "Eliminate all feedback.",
-        "Ensure understanding.",
-        "Persuade others."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "In the communication process, encoding refers to:",
-      "options": [
-        "The channel used to transmit the message.",
-        "The receiver's interpretation of the message.",
-        "Translating the message into verbal/non-verbal symbols.",
-        "The physical barriers to transmission."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "The component that completes the communication process by allowing the sender to adjust the message is:",
-      "options": ["The Channel", "Feedback", "Noise", "Decoding"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Intrapersonal communication is best described as:",
-      "options": [
-        "Communication between two people.",
-        "The basis for feelings and biases, involving self-talk.",
-        "Interaction within a formal team.",
-        "Mass media transmission."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Small group communication is specifically important for:",
-      "options": [
-        "Dream analysis.",
-        "Maintaining purely social relationships.",
-        "Resulting in decision-making and problem-solving within organizations.",
-        "One-way transmission of instructions."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Formal communication is characterized by:",
-      "options": [
-        "Following social relationships and grapevines.",
-        "Being established by management and pictured in organizational charts.",
-        "Always being verbal and informal.",
-        "Bypassing official hierarchies."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "An intelligent manager can use the informal grapevine to:",
-      "options": [
-        "Replace all formal communication channels.",
-        "Spread information informally and prevent false rumors by providing correct facts.",
-        "Eliminate the need for upward communication.",
-        "Enforce strict disciplinary actions."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "A characteristic of effective verbal communication is being:",
-      "options": [
-        "Lengthy and detailed.",
-        "Brief, clear, and well-timed.",
-        "Always delivered in a monotone.",
-        "Focused on complex jargon."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Non-verbal communication includes all EXCEPT:",
-      "options": [
-        "Eye contact and facial expressions.",
-        "The use of written reports.",
-        "Body language and personal appearance.",
-        "Attending behavior and touch."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "A primary barrier to effective communication caused by unclear organizational structure is classified as:",
-      "options": [
-        "A Physical Barrier",
-        "A System Design Fault",
-        "An Attitudinal Barrier",
-        "A Physiological Barrier"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Attitudinal barriers to communication can arise from:",
-      "options": [
-        "Poor lighting in the workspace.",
-        "Personality conflicts and resistance to change.",
-        "The use of different languages.",
-        "Faulty video conferencing equipment."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "A recommended measure to improve communication is to:",
-      "options": [
-        "Use the most complex medium available.",
-        "Assume the message is understood without follow-up.",
-        "Examine the purpose and objective of the communication.",
-        "Ensure actions contradict spoken messages to test comprehension."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "The directing function is initiated in an organization's hierarchy from:",
-      "options": [
-        "The middle management level.",
-        "The supervisory level only.",
-        "The top-most level.",
-        "External consultants."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Which element of directing is described as \"guiding and directing efforts of employees and other resources to accomplish stated work outputs\"?",
-      "options": ["Motivation", "Leadership", "Supervision", "Communication"],
-      "correctIndex": 2
-    },
-    {
-      "question": "The principle of \"Comprehension\" in directing insists that communication must ensure the receiver:",
-      "options": [
-        "Agrees with the message.",
-        "Actually understands the information.",
-        "Responds immediately.",
-        "Passes the information upward."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Directing is considered related to the human factor because:",
-      "options": [
-        "It deals only with financial incentives.",
-        "Human behavior is complex and unpredictable, making direction important.",
-        "It eliminates the need for staffing.",
-        "It is a purely technical process."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The element of direction that involves \"the transfer of information from one person to another\" is:",
-      "options": [
-        "Giving Orders",
-        "Supervision",
-        "Motivation",
-        "Communication"
-      ],
-      "correctIndex": 3
-    },
-    {
-      "question": "A control that measures performance results in terms of quantity, quality, cost, or time is a(n):",
-      "options": [
-        "Input Standard",
-        "Output Standard",
-        "Concurrent Control",
-        "Preliminary Control"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The comparison step in the control process can utilize methods such as:",
-      "options": [
-        "Eliminating standards.",
-        "Historical, relative, or engineering comparisons and benchmarking.",
-        "Ignoring past performance.",
-        "Solely relying on employee self-reports."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "External controls in an organization are exemplified by:",
-      "options": [
-        "Clear personal performance objectives.",
-        "Personal supervision and formal administrative systems like performance appraisal.",
-        "Employee self-motivation.",
-        "Unstructured work environments."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "A structured managerial problem is one that is:",
-      "options": [
-        "New, unexpected, and information-deficient.",
-        "Familiar, straightforward, and clear regarding information needed.",
-        "Always a crisis.",
-        "Only solvable by non-programmed decisions."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The conceptual decision style is marked by a preference for:",
-      "options": [
-        "Quick decisions with minimal data.",
-        "Extensive data analysis in isolation.",
-        "Broad information and creative, socially-oriented problem solving.",
-        "Decisions focused solely on individual employee feelings."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "The ethical principle of Fidelity requires decision-makers to:",
-      "options": [
-        "Distribute benefits equally.",
-        "Honor commitments and remain faithful to those affected.",
-        "Maximize overall good regardless of commitments.",
-        "Avoid all forms of harm."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "In communication, diagonal flow occurs between persons:",
-      "options": [
-        "At the same organizational level.",
-        "From superior to subordinate.",
-        "At different levels with no direct reporting relationship.",
-        "Only within the same department."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "A physiological barrier to communication could be:",
-      "options": [
-        "Organizational structure.",
-        "Poor management attitudes.",
-        "An individual's poor eyesight or hearing difficulty.",
-        "The use of technical jargon."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Which level of communication is described as occurring within your own mind, forming the basis of feelings and beliefs?",
-      "options": ["Interpersonal", "Small Group", "Intrapersonal", "Mass"],
-      "correctIndex": 2
-    },
-    {
-      "question": "The \"grapevine\" in organizational communication is:",
-      "options": [
-        "The official, formal communication channel.",
-        "A powerful tool for understanding public opinion and morale, built around social relationships.",
-        "Always detrimental and must be eliminated.",
-        "Used only for downward communication."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Effective non-verbal communication techniques include all of the following EXCEPT:",
-      "options": [
-        "Personal appearance",
-        "Body language",
-        "Sending lengthy written reports",
-        "Attending behavior"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "An example of an electronic communication tool is:",
-      "options": [
-        "A face-to-face staff meeting.",
-        "An instant messaging application like WhatsApp.",
-        "A suggestion box.",
-        "A policy handbook."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "The primary purpose of upward communication is to:",
-      "options": [
-        "Issue commands and instructions.",
-        "Provide a means for employee input, motivation, and satisfaction.",
-        "Coordinate activities between peers.",
-        "Communicate with external stakeholders."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "A nurse engaging in internal dialogue, such as positive or negative self-talk, is utilizing which form of communication?",
-      "options": [
-        "Oral Communication",
-        "Written Communication",
-        "Self-Reflection",
-        "Telemedicine"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "To overcome barriers related to the presentation of information, a manager should ensure information is:",
-      "options": [
-        "Presented in a single, complex format.",
-        "Presented clearly to aid understanding.",
-        "Communicated only through non-verbal means.",
-        "Delivered without considering the receiver's background."
+        "Resistance to creative thinking"
       ],
       "correctIndex": 1
     }
