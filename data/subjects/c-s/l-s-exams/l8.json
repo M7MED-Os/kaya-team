@@ -1,5 +1,5 @@
 {
-  "title": "Future Trends...",
+  "title": "Future Trends",
   "questions": [
     {
       "question": "Which of the following is NOT listed as a primary driver of change in nursing education?",
@@ -14,8 +14,8 @@
     {
       "question": "What is a key application of Artificial Intelligence (AI) in nursing education?",
       "options": [
-        "Replacing human educators entirely",
-        "Personalizing learning paths and providing instant feedback",
+        "Providing delayed feedback",
+        "Personalizing learning paths",
         "Conducting physical patient assessments",
         "Eliminating the need for clinical practice"
       ],
@@ -25,9 +25,9 @@
       "question": "How does Virtual Reality (VR) primarily benefit nursing students?",
       "options": [
         "By reducing tuition costs",
-        "By allowing practice in a fully immersive, risk-free environment",
-        "By shortening the duration of degree programs",
-        "By eliminating the need for textbooks"
+        "By allowing practice in a fully immersive",
+        "By high risk environment",
+        "By providing overlays digital information onto real-world settings"
       ],
       "correctIndex": 1
     },
@@ -55,9 +55,9 @@
       "question": "What is a major benefit of gamification in nursing education?",
       "options": [
         "It makes learning less structured.",
-        "It increases student engagement through game-like elements.",
+        "It increases student engagement.",
         "It replaces simulation labs.",
-        "It focuses only on memorization."
+        "It focuses on memorization."
       ],
       "correctIndex": 1
     },
@@ -65,7 +65,7 @@
       "question": "What is a key characteristic of microlearning?",
       "options": [
         "It involves lengthy, comprehensive lectures.",
-        "It consists of short, focused modules accessible on mobile devices.",
+        "It consists of short, focused modules.",
         "It is only used for advanced specialization topics.",
         "It requires in-person attendance."
       ],
@@ -76,7 +76,7 @@
       "options": [
         "For delivering traditional lectures",
         "For independent study of new theory",
-        "For discussion and application of pre-studied material",
+        "For discussion and application",
         "For taking final exams"
       ],
       "correctIndex": 2
@@ -125,7 +125,7 @@
       "question": "What is the simplified definition of Green Nursing?",
       "options": [
         "Using only digital records to save paper.",
-        "Caring for people and the planet simultaneously through eco-friendly practices.",
+        "Follow eco-friendly practices.",
         "Focusing exclusively on patient health outcomes.",
         "A nursing specialty for outdoor emergency care."
       ],
@@ -135,7 +135,7 @@
       "question": "Why is Green Nursing considered important?",
       "options": [
         "It increases the use of single-use plastics for hygiene.",
-        "It helps reduce pollution, protect public health, and save resources.",
+        "It helps reduce pollution and save resources.",
         "It makes nursing care more expensive.",
         "It simplifies nursing duties by eliminating waste sorting."
       ],
@@ -152,21 +152,11 @@
       "correctIndex": 2
     },
     {
-      "question": "Which educational philosophy shift is highlighted in the notes?",
-      "options": [
-        "From learner-centered to teacher-centered models",
-        "From competency-based to time-based progression",
-        "From teacher-centered to learner-centered models",
-        "From practical focus to purely theoretical focus"
-      ],
-      "correctIndex": 2
-    },
-    {
       "question": "What does Augmented Reality (AR) do in a clinical training context?",
       "options": [
         "Replaces the need for real-world settings entirely.",
-        "Overlays digital information onto real-world settings to enhance learning.",
-        "Is used only for entertainment purposes.",
+        "Overlays digital information onto real-world settings.",
+        "Allowing practice in a fully immersive settings.",
         "Creates a completely fictional environment for students."
       ],
       "correctIndex": 1
@@ -185,9 +175,9 @@
       "question": "What ethical concern is associated with over-reliance on technology in education?",
       "options": [
         "Increased cost",
-        "Loss of human connection in teaching",
+        "Loss of human connection",
         "Faster internet requirements",
-        "More difficult curriculum"
+        "Loss of data and privacy"
       ],
       "correctIndex": 1
     },
@@ -204,10 +194,10 @@
     {
       "question": "What is a primary function of a nurse educator as a \"Facilitator of Innovation\"?",
       "options": [
-        "Resisting new technological changes.",
+        "Using analytics to track student progress and personalize support.",
         "Adopting and integrating new technologies into teaching.",
-        "Focusing solely on historical nursing practices.",
-        "Managing the institution's budget."
+        "Engaging in international partnerships and virtual exchanges.",
+        "Ensuring that tech-enhanced learning remains humane and inclusive."
       ],
       "correctIndex": 1
     },
@@ -237,7 +227,7 @@
         "Digital Divide",
         "AI Bias",
         "Over-reliance on Tech",
-        "Privacy and Data Security"
+        "Privacy"
       ],
       "correctIndex": 3
     },
@@ -252,27 +242,27 @@
       "correctIndex": 1
     },
     {
-      "question": "True or False: The traditional methods of nursing education are considered sufficient to prepare nurses for modern clinical environments.",
+      "question": "The traditional methods of nursing education are considered sufficient to prepare nurses for modern clinical environments.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "True or False: In Competency-Based Education (CBE), a student's progress is based on the amount of time they have spent in the program.",
+      "question": "In Competency-Based Education (CBE), a student's progress is based on the amount of time they have spent in the program.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "True or False: Green Nursing aims to make healthcare more environmentally friendly while still providing excellent patient care.",
+      "question": "Green Nursing aims to make healthcare more environmentally friendly while still providing excellent patient care.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
     {
-      "question": "True or False: A key recommendation for educators is to avoid piloting new technologies and instead implement them across the entire program immediately.",
+      "question": "A key recommendation for educators is to avoid piloting new technologies and instead implement them across the entire program immediately.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "True or False: One of the future roles of the nurse educator is to act as an \"Ethical Guardian\" to ensure tech-enhanced learning remains humane and inclusive.",
+      "question": "One of the future roles of the nurse educator is to act as an \"Ethical Guardian\" to ensure tech-enhanced learning remains humane and inclusive.",
       "options": ["True", "False"],
       "correctIndex": 0
     }
