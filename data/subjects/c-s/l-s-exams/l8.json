@@ -1,280 +1,280 @@
 {
-  "title": "Future Trends",
+  "title": "Future Trends (Testing)",
   "questions": [
     {
-      "question": "What is the primary purpose of pre-briefing in a simulation session?",
+      "question": "Which of the following is NOT listed as a primary driver of change in nursing education?",
       "options": [
-        "To evaluate the final performance of students.",
-        "To provide orientation, set expectations, and establish psychological safety.",
-        "To execute the clinical scenario with high fidelity.",
-        "To conduct a final reflection on learning outcomes."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which of the following is a key component of the \"Scenario Execution\" phase?",
-      "options": [
-        "Defining learning objectives",
-        "Students making independent decisions and responding to patient cues",
-        "Grading with structured rubrics",
-        "Providing workshops for faculty"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "What is the final step in the step-by-step guide for designing simulation activities?",
-      "options": [
-        "Define Learning Objectives",
-        "Develop the Scenario",
-        "Evaluate Performance",
-        "Conduct Debriefing"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "According to the notes, what is a suggested solution for addressing the \"Assessment Complexity\" challenge in simulation?",
-      "options": [
-        "Use only instructor grading.",
-        "Use structured rubrics and multi-source feedback.",
-        "Eliminate all formal assessments.",
-        "Focus solely on self-assessment."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "In the sample scenario \"Managing a Patient with Acute Respiratory Distress,\" what is one of the listed objectives?",
-      "options": [
-        "Perform surgery.",
-        "Assess respiratory status.",
-        "Discharge the patient.",
-        "Order a CT scan."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which of the following is an ethical consideration specifically mentioned for simulation design?",
-      "options": [
-        "Using the most expensive equipment.",
-        "Ensuring simulations reflect diverse patient populations.",
-        "Limiting scenarios to common diseases only.",
-        "Avoiding all team-based activities."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which driver of change in nursing education is described as transforming how students interact with content through AI, VR, and AR?",
-      "options": [
-        "Shifts in Educational Philosophy",
-        "Global Health Challenges",
         "Technological Advancements",
+        "Global Health Challenges",
+        "Decreasing patient numbers",
         "Evolving Patient Needs"
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is a core characteristic of Competency-Based Education (CBE)?",
+      "question": "What is a key application of Artificial Intelligence (AI) in nursing education?",
       "options": [
-        "Students progress based on time spent in class.",
-        "Students progress upon demonstrating mastery of skills.",
-        "It relies exclusively on traditional lectures.",
-        "It eliminates all clinical practice requirements."
+        "Replacing human educators entirely",
+        "Personalizing learning paths and providing instant feedback",
+        "Conducting physical patient assessments",
+        "Eliminating the need for clinical practice"
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which future teaching strategy involves incorporating game elements like points and levels to boost engagement?",
+      "question": "How does Virtual Reality (VR) primarily benefit nursing students?",
       "options": [
-        "Microlearning",
-        "Flipped Classroom",
-        "Gamification",
-        "Virtual Reality"
+        "By reducing tuition costs",
+        "By allowing practice in a fully immersive, risk-free environment",
+        "By shortening the duration of degree programs",
+        "By eliminating the need for textbooks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the core principle of Competency-Based Education (CBE) in nursing?",
+      "options": [
+        "Progress is based on time spent in the program.",
+        "Progress is based on demonstrating mastery of skills.",
+        "It focuses solely on theoretical knowledge.",
+        "It eliminates all standardized testing."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which future role of a nurse educator involves using analytics to track student progress?",
+      "options": [
+        "Global Collaborator",
+        "Ethical Guardian",
+        "Data-Informed Mentor",
+        "Facilitator of Innovation"
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is a primary role of the future nurse educator described as a \"Data-Informed Mentor\"?",
+      "question": "What is a major benefit of gamification in nursing education?",
       "options": [
-        "Using analytics to track student progress and personalize support.",
-        "Conducting all lessons via virtual reality.",
-        "Eliminating the use of all digital tools.",
-        "Focusing solely on theoretical knowledge."
+        "It makes learning less structured.",
+        "It increases student engagement through game-like elements.",
+        "It replaces simulation labs.",
+        "It focuses only on memorization."
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     },
     {
-      "question": "Which benefit of future-oriented strategies is described as \"AI and analytics tailor content to individual needs\"?",
+      "question": "What is a key characteristic of microlearning?",
       "options": [
-        "Enhanced Engagement",
-        "Global Competence",
-        "Personalized Learning",
-        "Skill Mastery"
+        "It involves lengthy, comprehensive lectures.",
+        "It consists of short, focused modules accessible on mobile devices.",
+        "It is only used for advanced specialization topics.",
+        "It requires in-person attendance."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a flipped classroom model, how is class time primarily used?",
+      "options": [
+        "For delivering traditional lectures",
+        "For independent study of new theory",
+        "For discussion and application of pre-studied material",
+        "For taking final exams"
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is the ethical concern paired with the challenge of the \"Digital Divide\"?",
+      "question": "Which challenge refers to the potential inequality in access to educational technology?",
       "options": [
-        "Loss of human connection in teaching.",
-        "Unequal access to technology.",
-        "Algorithms reinforcing stereotypes.",
-        "Student data exposure."
+        "AI Bias",
+        "Over-reliance on Tech",
+        "Digital Divide",
+        "Privacy Concerns"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a suggested solution to address the ethical concern of AI bias in educational algorithms?",
+      "options": [
+        "Use only human graders.",
+        "Use transparent and inclusive data sets.",
+        "Avoid using AI altogether.",
+        "Limit AI use to administrative tasks."
       ],
       "correctIndex": 1
     },
     {
-      "question": "What is a recommended action for educators to prepare for the future, according to the text?",
+      "question": "What is one recommendation for educators preparing for the future?",
       "options": [
-        "Avoid all new technologies.",
-        "Engage in continuous professional development on emerging tools.",
-        "Use only traditional assessment methods.",
-        "Limit collaboration to local institutions."
+        "Rely exclusively on traditional methods.",
+        "Avoid collaborating internationally to maintain curriculum control.",
+        "Pilot innovations with small groups before full implementation.",
+        "Limit student access to digital tools to prevent over-reliance."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to the vision, the future of nursing education should be:",
+      "options": [
+        "Solely technology-driven",
+        "Human-centered, globally connected, and ethically grounded",
+        "Focused only on local healthcare practices",
+        "Centered on competitive examinations"
       ],
       "correctIndex": 1
     },
     {
-      "question": "What is the simplified definition of \"Green Nursing\" provided in the notes?",
+      "question": "What is the simplified definition of Green Nursing?",
       "options": [
-        "Nursing that uses only digital records.",
-        "Caring for people and the planet by using eco-friendly practices in healthcare.",
-        "A nursing specialty focused on outdoor emergency care.",
-        "The exclusive use of green-colored medical supplies."
+        "Using only digital records to save paper.",
+        "Caring for people and the planet simultaneously through eco-friendly practices.",
+        "Focusing exclusively on patient health outcomes.",
+        "A nursing specialty for outdoor emergency care."
       ],
       "correctIndex": 1
     },
     {
       "question": "Why is Green Nursing considered important?",
       "options": [
-        "It increases the use of single-use plastics.",
-        "Healthcare creates a lot of waste, and Green Nursing helps reduce pollution and save money.",
-        "It focuses only on saving money, not the environment.",
-        "It is a mandatory legal requirement in all countries."
+        "It increases the use of single-use plastics for hygiene.",
+        "It helps reduce pollution, protect public health, and save resources.",
+        "It makes nursing care more expensive.",
+        "It simplifies nursing duties by eliminating waste sorting."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which of the following is an example role of a nurse in promoting Green Nursing?",
+      "question": "Which action is an example of a nurse's role in Green Nursing?",
       "options": [
-        "Always using disposable items for convenience.",
-        "Recycling properly by separating medical waste from regular trash.",
-        "Leaving lights and equipment on for quick access.",
-        "Using the strongest chemical cleaners available."
+        "Always using new, disposable equipment for every patient.",
+        "Leaving lights and equipment on for convenience.",
+        "Using reusable items when possible and recycling properly.",
+        "Prioritizing speed over sustainable practices."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which educational philosophy shift is highlighted in the notes?",
+      "options": [
+        "From learner-centered to teacher-centered models",
+        "From competency-based to time-based progression",
+        "From teacher-centered to learner-centered models",
+        "From practical focus to purely theoretical focus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does Augmented Reality (AR) do in a clinical training context?",
+      "options": [
+        "Replaces the need for real-world settings entirely.",
+        "Overlays digital information onto real-world settings to enhance learning.",
+        "Is used only for entertainment purposes.",
+        "Creates a completely fictional environment for students."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which emerging strategy involves \"short, focused learning modules accessible via smartphones\"?",
+      "question": "Which benefit of future-oriented strategies is described as tailoring content to individual needs?",
       "options": [
+        "Global Competence",
+        "Enhanced Engagement",
+        "Personalized Learning",
+        "Skill Mastery"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What ethical concern is associated with over-reliance on technology in education?",
+      "options": [
+        "Increased cost",
+        "Loss of human connection in teaching",
+        "Faster internet requirements",
+        "More difficult curriculum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which driver specifically highlights the need for culturally competent nurses?",
+      "options": [
+        "Technological Advancements",
+        "Evolving Patient Needs",
+        "Global Health Challenges",
+        "Shifts in Educational Philosophy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a primary function of a nurse educator as a \"Facilitator of Innovation\"?",
+      "options": [
+        "Resisting new technological changes.",
+        "Adopting and integrating new technologies into teaching.",
+        "Focusing solely on historical nursing practices.",
+        "Managing the institution's budget."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which strategy combines online and face-to-face learning for flexibility?",
+      "options": [
+        "Microlearning",
         "Gamification",
-        "Virtual Reality",
-        "Microlearning and Mobile Learning",
+        "Hybrid Classrooms",
         "Competency-Based Education"
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is the vision for the future of nursing education described as, beyond being digital?",
+      "question": "What is a student example given to illustrate Green Nursing?",
       "options": [
-        "Technologically isolated and locally focused.",
-        "Human-centered, globally connected, and ethically grounded.",
-        "Solely based on artificial intelligence.",
-        "Focused on reducing the number of nursing students."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which challenge is associated with the ethical concern of \"AI Bias\"?",
-      "options": [
-        "Unequal access to technology.",
-        "Algorithms may reinforce stereotypes.",
-        "Loss of human connection.",
-        "Privacy and data security issues."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "In a Flipped Classroom model, what do students typically do during class time?",
-      "options": [
-        "Listen to lectures for new theory.",
-        "Study theory independently at home.",
-        "Engage in discussion, application, and interactive activities.",
-        "Take final exams only."
+        "Using more single-use syringes for safety.",
+        "Printing all patient records daily.",
+        "Using reusable plastic trays instead of single-use ones.",
+        "Recommending longer hot showers for patients."
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is a benefit of using Virtual Reality (VR) in nursing education?",
+      "question": "Which challenge involves the risk of student data being exposed or misused?",
       "options": [
-        "It eliminates the need for any physical practice.",
-        "It allows students to practice procedures in a fully immersive environment.",
-        "It is the cheapest available technology.",
-        "It replaces all human teachers."
+        "Digital Divide",
+        "AI Bias",
+        "Over-reliance on Tech",
+        "Privacy and Data Security"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the recommended way for educators to \"Empower Students\" for the future?",
+      "options": [
+        "By limiting their access to information.",
+        "By teaching digital literacy, ethical reasoning, and adaptability.",
+        "By discouraging self-directed study.",
+        "By focusing assessment solely on memorization."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which global issue has highlighted the need for culturally competent, globally aware nurses?",
-      "options": [
-        "Decrease in chronic diseases.",
-        "Pandemics, climate change, and migration.",
-        "Overabundance of healthcare workers.",
-        "Standardization of all medical practices worldwide."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "What is the suggested solution for the ethical challenge of \"Over-reliance on Tech\"?",
-      "options": [
-        "Use transparent, inclusive data sets.",
-        "Balance digital tools with interpersonal engagement.",
-        "Provide offline alternatives.",
-        "Use secure platforms."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "According to the text, what is shifting in educational philosophy?",
-      "options": [
-        "From learner-centered to teacher-centered models.",
-        "From competency-based to time-based progression.",
-        "From teacher-centered to learner-centered models.",
-        "From practical focus to theoretical focus only."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "What does the \"Facilitator of Innovation\" role for a nurse educator involve?",
-      "options": [
-        "Resisting all technological changes.",
-        "Adopting and integrating new technologies into teaching.",
-        "Teaching only historical nursing practices.",
-        "Managing hospital budgets."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "In simulation-based learning, debriefing occurs before the scenario execution to prepare students.",
+      "question": "True or False: The traditional methods of nursing education are considered sufficient to prepare nurses for modern clinical environments.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "Augmented Reality (AR) overlays digital information onto real-world settings to enhance training.",
+      "question": "True or False: In Competency-Based Education (CBE), a student's progress is based on the amount of time they have spent in the program.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: Green Nursing aims to make healthcare more environmentally friendly while still providing excellent patient care.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
     {
-      "question": "The primary goal of Green Nursing is to increase the use of single-use plastic items in hospitals.",
+      "question": "True or False: A key recommendation for educators is to avoid piloting new technologies and instead implement them across the entire program immediately.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "A key driver of change in nursing education is the evolving need to care for aging populations and manage chronic diseases.",
+      "question": "True or False: One of the future roles of the nurse educator is to act as an \"Ethical Guardian\" to ensure tech-enhanced learning remains humane and inclusive.",
       "options": ["True", "False"],
       "correctIndex": 0
-    },
-    {
-      "question": "In Competency-Based Education (CBE), student progression is based solely on the number of hours spent in clinical practice.",
-      "options": ["True", "False"],
-      "correctIndex": 1
     }
   ]
 }
