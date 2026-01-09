@@ -1,0 +1,345 @@
+{
+  "title": "Case-Based Learning",
+  "questions": [
+    {
+      "question": "What is the primary goal of Case-Based Learning (CBL) in nursing education?",
+      "options": [
+        "To replace clinical practice",
+        "To simulate real patient care and encourage critical thinking",
+        "To memorize medical terminology",
+        "To reduce classroom time"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which educational philosophy emphasizes that learners actively construct knowledge through experience?",
+      "options": ["Behaviorism", "Constructivism", "Humanism", "Cognitivism"],
+      "correctIndex": 1
+    },
+    {
+      "question": "According to Situated Learning Theory, learning is most effective when:",
+      "options": [
+        "It is theoretical",
+        "It is isolated from real contexts",
+        "It is embedded in authentic contexts",
+        "It is lecture-based"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which level of Bloom’s Taxonomy involves “breaking down information into components”?",
+      "options": ["Application", "Analysis", "Evaluation", "Creation"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the first component of a well-designed CBL activity?",
+      "options": [
+        "Learning Objectives",
+        "Case Scenario",
+        "Problem Identification",
+        "Analysis and Discussion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an example of a learning objective in CBL?",
+      "options": [
+        "Students will read a textbook chapter.",
+        "Students will assess respiratory distress and formulate a nursing care plan.",
+        "Students will listen to a lecture on sepsis.",
+        "Students will complete a multiple-choice test."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In CBL, the “Problem Identification” step encourages students to:",
+      "options": [
+        "Skip to the solution",
+        "Identify key issues such as diagnosis and risk factors",
+        "Avoid collaboration",
+        "Focus only on ethical dilemmas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of case focuses on moral dilemmas and professional responsibilities?",
+      "options": [
+        "Clinical Case",
+        "Psychosocial Case",
+        "Ethical Case",
+        "Interdisciplinary Case"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An example of a Psychosocial Case is:",
+      "options": [
+        "Postoperative patient with sepsis",
+        "Elderly patient refusing medication",
+        "Stroke patient requiring rehab",
+        "Patient with chest pain"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How can CBL be integrated into the classroom?",
+      "options": [
+        "By using only lectures",
+        "By dividing students into small groups for case analysis",
+        "By avoiding discussion",
+        "By using only individual assignments"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a clinical setting, how can CBL be used?",
+      "options": [
+        "Only in simulations",
+        "By using real patient cases during rotations",
+        "By avoiding patient interaction",
+        "By focusing only on theory"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which platform can be used for delivering CBL in online learning?",
+      "options": [
+        "Printed textbooks only",
+        "Interactive platforms with branching scenarios",
+        "Audio lectures only",
+        "Non-interactive PDFs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a benefit of CBL?",
+      "options": [
+        "Reduces student engagement",
+        "Enhances critical thinking",
+        "Limits communication skills",
+        "Decreases confidence"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does CBL help develop in terms of clinical skills?",
+      "options": [
+        "Only theoretical knowledge",
+        "Clinical judgment and reasoning",
+        "Memorization of procedures",
+        "Avoidance of decision-making"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a common challenge in CBL implementation?",
+      "options": [
+        "Too much student engagement",
+        "Poorly written or unrealistic cases",
+        "Excessive simplicity of cases",
+        "Lack of available technology"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How can the challenge of “Student Readiness” be addressed?",
+      "options": [
+        "By giving no prior materials",
+        "By providing pre-reading materials and guided questions",
+        "By making cases more difficult",
+        "By avoiding scaffolding"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which assessment method can help reduce subjectivity in evaluating CBL?",
+      "options": [
+        "Only instructor’s opinion",
+        "Rubrics, peer evaluation, and reflective writing",
+        "No assessment",
+        "Single multiple-choice test"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the first step in designing a CBL session?",
+      "options": [
+        "Develop the case scenario",
+        "Define learning objectives",
+        "Prepare supporting materials",
+        "Facilitate group discussion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What should a case scenario include?",
+      "options": [
+        "Only patient name",
+        "Patient history, clinical data, psychosocial context, and complications",
+        "Only lab results",
+        "Only ethical dilemmas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a probing question for group discussion?",
+      "options": [
+        "What is the patient’s name?",
+        "What is the most urgent issue?",
+        "How old is the patient?",
+        "What is the diagnosis?"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What task can be assigned to students during a CBL session?",
+      "options": [
+        "Only listening",
+        "Develop a care plan",
+        "Avoid interaction",
+        "Memorize medications"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How can reflection be incorporated into CBL?",
+      "options": [
+        "By skipping debriefing",
+        "Using journals, feedback forms, and group debriefing",
+        "Only through tests",
+        "By avoiding feedback"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Why is it important to include culturally diverse cases in CBL?",
+      "options": [
+        "To make cases longer",
+        "To promote inclusivity and relevance",
+        "To avoid ethical issues",
+        "To simplify the cases"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which ethical dilemma should be addressed in CBL cases?",
+      "options": [
+        "Only legal issues",
+        "Autonomy, consent, and confidentiality",
+        "Only financial aspects",
+        "Only medical procedures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the sample case “Acute Chest Pain in a 58-Year-Old Male,” what is one learning objective?",
+      "options": [
+        "To learn hospital administration",
+        "To assess cardiovascular status",
+        "To study anatomy only",
+        "To avoid emergency situations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which activity is suggested for the sample chest pain case?",
+      "options": [
+        "Only individual reading",
+        "Group analysis of the case",
+        "Avoid simulation",
+        "Skip reflection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which principle of adult learning does CBL align with?",
+      "options": [
+        "Adults prefer passive learning",
+        "Adults are self-directed and motivated by relevance",
+        "Adults avoid real-world challenges",
+        "Adults learn best in isolation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does CBL promote according to Bloom’s Taxonomy?",
+      "options": [
+        "Only remembering facts",
+        "Higher-order thinking like application and evaluation",
+        "Only listening skills",
+        "Avoidance of analysis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is a key element of the “Analysis and Discussion” phase?",
+      "options": [
+        "Individual silent work",
+        "Group-based exploration of interventions",
+        "Avoiding questions",
+        "Only lecturer talking"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the role of the facilitator during CBL discussion?",
+      "options": [
+        "To give all answers",
+        "To guide using open-ended questions",
+        "To avoid interaction",
+        "To focus only on one student"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Case-Based Learning (CBL) is identical to traditional lecture-based methods.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Constructivist philosophy suggests that learners passively receive knowledge.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Situated Learning Theory states that learning is most effective in authentic contexts.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "CBL only focuses on clinical cases and ignores ethical dilemmas.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Interdisciplinary cases involve collaboration across different healthcare roles.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "CBL cannot be implemented in online or hybrid learning formats.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "One benefit of CBL is the improvement of communication skills.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A challenge of CBL is that it requires less time than traditional lectures.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Reflection is not an important component of CBL.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Including culturally diverse cases in CBL helps promote inclusivity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}
