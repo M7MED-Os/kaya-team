@@ -1,0 +1,399 @@
+{
+  "title": "Teaching Methods",
+  "questions": [
+    {
+      "question": "Which teaching method is MOST appropriate when the primary goal is developing higher-order thinking skills such as analysis and problem-solving?",
+      "options": [
+        "Lecture method",
+        "Discussion method",
+        "Demonstration",
+        "Teacher-centered approach"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In learner-centered teaching, the role of the teacher is BEST described as:",
+      "options": [
+        "Sole source of knowledge",
+        "Controller of information",
+        "Facilitator and guide",
+        "Passive observer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which characteristic distinguishes discussion method from lecture method?",
+      "options": [
+        "One-way communication",
+        "Focus on transmitting information",
+        "Emphasis on dialogue and interaction",
+        "Suitable for very large groups"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which step in the lecture method aims to gain students’ attention and state objectives?",
+      "options": ["Presentation", "Evaluation", "Introduction", "Summary"],
+      "correctIndex": 2
+    },
+    {
+      "question": "A major limitation of the lecture method is:",
+      "options": [
+        "Difficult to organize",
+        "Requires advanced technology",
+        "Limited development of critical thinking",
+        "Not suitable for theoretical subjects"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is an example of assessment-driven methods?",
+      "options": ["Simulation", "OSCE", "Group discussion", "Brainstorming"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Flipped classroom is classified under:",
+      "options": [
+        "Experiential learning",
+        "Collaborative learning",
+        "Technology-enhanced learning",
+        "Assessment-driven methods"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which factor MOST influences the selection of a teaching method?",
+      "options": [
+        "Teacher’s preference only",
+        "Level of the learner",
+        "Classroom decoration",
+        "Time of the lecture"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In discussion method, the teacher:",
+      "options": [
+        "Dominates the discussion",
+        "Acts as the only speaker",
+        "Facilitates and keeps discussion focused",
+        "Avoids asking questions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of discussion involves selected students presenting views while others listen and ask questions?",
+      "options": [
+        "Whole-class discussion",
+        "Small group discussion",
+        "Panel discussion",
+        "Brainstorming"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Brainstorming sessions are characterized by:",
+      "options": [
+        "Immediate criticism of ideas",
+        "Structured opposing arguments",
+        "Free generation of ideas",
+        "Teacher evaluation during discussion"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which step in discussion method may include assigning pre-reading?",
+      "options": ["Preparation", "Introduction", "Discussion", "Evaluation"],
+      "correctIndex": 0
+    },
+    {
+      "question": "One advantage of lecture method is that it:",
+      "options": [
+        "Encourages deep interaction",
+        "Covers large content in less time",
+        "Develops psychomotor skills"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which disadvantage of the discussion method may occur if facilitation is poor?",
+      "options": [
+        "Reduced student confidence",
+        "Off-topic conversations",
+        "Lack of visual learning",
+        "Excessive teacher control"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A key principle for effective use of discussion method is to:",
+      "options": [
+        "Focus on outspoken students only",
+        "Encourage participation from all students",
+        "Avoid summarizing to save time",
+        "Limit discussion to one viewpoint"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Demonstration method mainly follows the principle of:",
+      "options": [
+        "Learning by listening",
+        "Learning by memorization",
+        "Learning by seeing and doing",
+        "Learning by reading"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the demonstration method, student participation usually occurs during:",
+      "options": [
+        "Preparation",
+        "Introduction",
+        "Demonstration only",
+        "Practice under supervision"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which step in demonstration method ensures students understand difficult steps?",
+      "options": [
+        "Evaluation",
+        "Follow-up",
+        "Discussion / clarification",
+        "Preparation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A major disadvantage of demonstration method is that it:",
+      "options": [
+        "Cannot be used in clinical settings",
+        "Requires minimal preparation",
+        "Is time-consuming in large classes",
+        "Prevents student participation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which action improves effectiveness of demonstration method for large groups?",
+      "options": [
+        "Eliminating student practice",
+        "Using camera or projector",
+        "Shortening the procedure",
+        "Avoiding stepwise explanation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which situation BEST justifies using lecture method over discussion method?",
+      "options": [
+        "Developing critical thinking",
+        "Teaching psychomotor skills",
+        "Delivering large amounts of information to a large group",
+        "Encouraging student interaction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A major limitation of learner-centered teaching is that it:",
+      "options": [
+        "Eliminates teacher guidance",
+        "Requires more preparation and time",
+        "Reduces student motivation",
+        "Is unsuitable for higher education"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which teaching method is MOST effective for teaching clinical procedures step by step?",
+      "options": ["Lecture", "Discussion", "Demonstration", "Brainstorming"],
+      "correctIndex": 2
+    },
+    {
+      "question": "One reason discussion method may fail is:",
+      "options": [
+        "Presence of learning objectives",
+        "Clear ground rules",
+        "Poor time management",
+        "Student preparation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which statement BEST describes learner-centered teaching?",
+      "options": [
+        "Students passively receive information",
+        "Teacher controls all learning activities",
+        "Learning focuses on students’ needs and active participation",
+        "Emphasis is on memorization"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In demonstration method, the MOST important preparatory step is to:",
+      "options": [
+        "Evaluate students before teaching",
+        "Arrange and check equipment",
+        "Ask students to practice immediately",
+        "Divide students into groups"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which teaching method is LEAST suitable for very large classes?",
+      "options": [
+        "Lecture method",
+        "Demonstration method",
+        "Discussion method",
+        "Lecture with audiovisual aids"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "One limitation of lecture method is that it:",
+      "options": [
+        "Cannot be used in large classes",
+        "Discourages active student participation",
+        "Requires extensive equipment",
+        "Is unsuitable for theoretical content"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "An advantage of lecture method is its ability to:",
+      "options": [
+        "Teach psychomotor skills",
+        "Encourage group interaction",
+        "Cover large content in limited time",
+        "Individualize learning"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which step of lecture method includes stating objectives and motivating students?",
+      "options": ["Presentation", "Summary", "Introduction", "Evaluation"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Learner-centered teaching emphasizes:",
+      "options": [
+        "Teacher control",
+        "Passive listening",
+        "Students’ needs and active role",
+        "Memorization"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Selection of a teaching method mainly depends on:",
+      "options": [
+        "Availability of chalkboard",
+        "Teacher’s experience only",
+        "Nature of content and learner level",
+        "Time of day"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Technology-enhanced learning is best exemplified by:",
+      "options": [
+        "Bedside teaching",
+        "Flipped classroom",
+        "Panel discussion",
+        "Demonstration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Assessment-driven teaching focuses primarily on:",
+      "options": [
+        "Content delivery",
+        "Skill demonstration only",
+        "Evaluating learning outcomes",
+        "Student motivation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of this methods combines traditional and online learning activities?",
+      "options": ["Lecture", "Discussion", "Demonstration", "Blended"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Blended learning is BEST defined as:",
+      "options": [
+        "Learning based only on face-to-face teaching",
+        "Learning conducted entirely online",
+        "Combination of traditional classroom and online learning",
+        "Learning through clinical exposure only"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "One advantage of blended learning is that it:",
+      "options": [
+        "Eliminates the role of the teacher",
+        "Reduces student responsibility",
+        "Provides flexibility in time and place",
+        "Is unsuitable for higher education"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "OSCE is primarily designed to assess:",
+      "options": [
+        "Theoretical knowledge only",
+        "Communication skills only",
+        "Clinical competence through structured stations",
+        "Student attendance"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A key feature that distinguishes OSCE from traditional clinical exams is:",
+      "options": [
+        "Subjective evaluation",
+        "Unstructured assessment",
+        "Standardization and objectivity",
+        "Long essay questions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In OSCE, students rotate through stations to:",
+      "options": [
+        "Observe procedures only",
+        "Answer theoretical questions",
+        "Perform specific tasks within a fixed time",
+        "Discuss cases with peers"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A nursing instructor wants to assess students’ ability to perform wound dressing in a standardized and objective manner. Which method is MOST appropriate?",
+      "options": ["Lecture", "Discussion", "Demonstration", "OSCE"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The BEST teaching method to cover a large amount of theoretical content for a very large class in a limited time is:",
+      "options": ["Discussion", "Demonstration", "Lecture", "Brainstorming"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Students are asked to watch recorded lectures at home and participate in classroom activities and discussions during class time. This approach is an example of:",
+      "options": [
+        "Lecture method",
+        "Blended learning",
+        "Assessment-driven learning",
+        "Demonstration"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A teacher wants students to exchange ideas, analyze problems, and develop critical thinking skills during class. Which method should be selected?",
+      "options": ["Lecture", "Discussion", "OSCE", "Demonstration"],
+      "correctIndex": 1
+    }
+  ]
+}
