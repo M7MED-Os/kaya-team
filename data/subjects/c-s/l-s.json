@@ -11,49 +11,49 @@
     {
       "title": "Teaching Methods",
       "video": null,
-      "quiz": null,
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l2.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Teaching material (media)",
       "video": null,
-      "quiz": null,
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l3.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Active Learning",
       "video": null,
-      "quiz": null,
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l4.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Case-Based Learning",
       "video": null,
-      "quiz": null,
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l5.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Simulation-Based Learning",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l7.json",
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l6.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Future Trends",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l8.json",
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l7.json",
       "file": null,
       "summary": null
     },
     {
       "title": "Role of Nursing Educator",
       "video": null,
-      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l9.json",
+      "quiz": "exam.html?file=data/subjects/c-s/l-s-exams/l8.json",
       "file": null,
       "summary": null
     }

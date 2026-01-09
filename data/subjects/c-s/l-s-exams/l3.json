@@ -1,0 +1,340 @@
+{
+  "title": "Teaching material",
+  "questions": [
+    {
+      "question": "What is the primary benefit of combining audio and visual media in instruction?",
+      "options": [
+        "It reduces preparation time",
+        "It significantly increases long-term retention",
+        "It is less expensive",
+        "It requires no interaction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following best defines educational media?",
+      "options": [
+        "Only digital tools like computers and tablets",
+        "Materials and physical means used to implement instructions and facilitate learning",
+        "Printed textbooks only",
+        "Visual aids like charts and models"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is NOT listed as an importance of using media in education?",
+      "options": [
+        "Makes learning difficult",
+        "Provides information to many students in less time",
+        "Brings the entire world to students",
+        "Makes lessons interesting"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which characteristic should effective media NOT have?",
+      "options": [
+        "Be expensive",
+        "Be well prepared",
+        "Be according to learner types",
+        "Have an intellectual message"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Podcasts and cassettes are examples of which type of instructional media?",
+      "options": ["Print", "Visual", "Audio", "Audiovisual"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is an example of electronic interactive media?",
+      "options": ["Textbook", "Chart", "Tablet", "Pamphlet"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the main purpose of a textbook?",
+      "options": [
+        "To market a product inexpensively",
+        "To provide practical step-by-step instructions",
+        "To transmit knowledge, skills, attitudes, and values",
+        "To show increasing or decreasing patterns"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "When is a model most appropriately used?",
+      "options": [
+        "When teaching historical events",
+        "When the real object is unavailable, too large, or cannot be brought to class",
+        "When only audio instruction is needed",
+        "When explaining climate patterns"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A teacher uses a graph primarily to show:",
+      "options": [
+        "Geographical places",
+        "Historical timelines",
+        "Increasing or decreasing patterns",
+        "Practical nursing procedures"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key disadvantage of visual media?",
+      "options": [
+        "It is inexpensive",
+        "It is easy to remember",
+        "It relies only on the sense of seeing",
+        "It is widely available"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which audio medium is listed as the most commonly used?",
+      "options": ["Music", "Spoken-word talks", "Nature sounds", "Podcasts"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is an advantage of audio media for specific learner groups?",
+      "options": [
+        "It is good for large rooms",
+        "It is beneficial for visually-impaired learners",
+        "It allows reference back to previous slides",
+        "It provides a strong visual stimulus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Television and films are categorized as:",
+      "options": [
+        "Print Materials",
+        "Audio Materials",
+        "Audiovisual Materials",
+        "Electronic Interactive Materials"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "A flip chart is best defined as:",
+      "options": [
+        "A single poster with one idea",
+        "A series of large papers attached at the top, presented sequentially",
+        "A digital slideshow",
+        "A collection of real objects"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main difference between a poster and a display?",
+      "options": [
+        "A display is only digital",
+        "A poster has many ideas, a display has one",
+        "A poster has one idea, a display has many ideas",
+        "A display is only for audio information"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which is a listed disadvantage of audiovisual media?",
+      "options": [
+        "It is inexpensive",
+        "It is only for small audiences",
+        "Some forms are expensive",
+        "It lacks visual stimulus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which media type is described as 'good for large rooms and audiences'?",
+      "options": [
+        "Audio media",
+        "Visual media",
+        "Audiovisual media",
+        "Print media"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What should media consider according to its characteristics for effectiveness?",
+      "options": [
+        "Only the instructor's preference",
+        "The class size",
+        "The latest technological trends only",
+        "Being highly entertaining"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is an example of a print material?",
+      "options": ["Radio", "Manual", "Video", "Chart"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A pamphlet is characterized as:",
+      "options": [
+        "A thick, hardcover reference book",
+        "A very thin book with a paper cover, inexpensive to distribute",
+        "An interactive digital document",
+        "A large wall poster"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "When explaining the development and growth of a child, which visual aid would be most comprehensive?",
+      "options": [
+        "A single poster",
+        "A sketch on a whiteboard",
+        "A display with multiple items and ideas",
+        "An audio recording"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which sense is primarily engaged by audio media?",
+      "options": ["Sight", "Hearing", "Touch", "Smell"],
+      "correctIndex": 1
+    },
+    {
+      "question": "The combination of printed materials with recorded sound falls under which category?",
+      "options": ["Print", "Audio", "Visual", "Audiovisual"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which of the following is NOT listed under visual media in the provided table?",
+      "options": ["Charts", "Real objects", "Podcasts", "Photographs"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Effective media should achieve which of the following?",
+      "options": [
+        "Be the most expensive option",
+        "The required objective",
+        "Eliminate the need for an instructor",
+        "Be used in every single lesson"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "For teaching historical events and geographical places, a teacher would most likely use a:",
+      "options": ["Model", "Graph", "Map", "Tape recording"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a listed advantage of visual media?",
+      "options": [
+        "Relies on multiple senses",
+        "Participants feel more engaged",
+        "Allows for direct interaction",
+        "Provides auditory stimulus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What does a manual typically provide?",
+      "options": [
+        "Historical narratives",
+        "Marketing information",
+        "Practical instructions on how to do or use something",
+        "Theoretical philosophies"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which media type is described as 'easy to duplicate, cheap, small, and portable'?",
+      "options": [
+        "Audiovisual media",
+        "Visual media",
+        "Audio media",
+        "Electronic media"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In the context of the 'New To Of Prioritization' note, what theoretical framework is mentioned in relation to nursing care?",
+      "options": [
+        "Bloom's Taxonomy",
+        "Maslow's Hierarchy of Needs",
+        "Piaget's Stages of Development",
+        "Kolb's Learning Cycle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: Teaching materials are defined as only digital resources used in teaching.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: Media can help make lessons interesting and learning easy.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: One characteristic of effective media is that it should ignore the types and characteristics of learners.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: Print materials include items like textbooks, pamphlets, and manuals.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: A sketch is used when a teacher has a real object, model, and map available.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: A chart can be used in subjects like Medicine, Nursing, Geography, and History.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: A display contains only one central idea, similar to a poster.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: A key advantage of visual media is that it is often inexpensive and available.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: Audio media, such as radio, provides a strong visual stimulus for learners.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: A significant disadvantage of audio media is the lack of opportunity for interaction between instructor and learner.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: Television and video tapes are classified as audio media only.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: Audiovisual media is considered very effective for introducing, summarizing, and reviewing concepts.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: One advantage of audiovisual media is that it is only suitable for very small audiences.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True Or False: Media brings the entire world to the students.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: The primary purpose of using a model is to teach students about historical events.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}

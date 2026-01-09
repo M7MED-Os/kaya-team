@@ -1,270 +1,259 @@
 {
-  "title": "Future Trends",
+  "title": "Role of Nursing Educator",
   "questions": [
     {
-      "question": "Which of the following is NOT listed as a primary driver of change in nursing education?",
+      "question": "Which of the following is NOT a core role of the nurse educator?",
       "options": [
-        "Technological Advancements",
-        "Global Health Challenges",
-        "Decreasing patient numbers",
-        "Evolving Patient Needs"
+        "Curriculum Developer",
+        "Financial Manager",
+        "Facilitator of Learning",
+        "Mentor and Role Model"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse educator is best defined as:",
+      "options": [
+        "A registered nurse who works in universities.",
+        "A registered nurse with advanced education in teaching and curriculum development.",
+        "A nursing assistant who teaches basic skills.",
+        "A physician who trains nurses."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which core role involves designing and updating educational content?",
+      "options": [
+        "Evaluator",
+        "Innovator",
+        "Curriculum Developer",
+        "Facilitator of Learning"
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is a key application of Artificial Intelligence (AI) in nursing education?",
+      "question": "Which responsibility involves modifying teaching strategies based on feedback?",
+      "options": ["Planning", "Execution", "Adaptation", "Evaluation"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The responsibility of aligning teaching strategies with learning objectives is part of:",
+      "options": ["Support", "Planning", "Evaluation", "Execution"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a method used in the Evaluation responsibility?",
       "options": [
-        "Providing delayed feedback",
-        "Personalizing learning paths",
-        "Conducting physical patient assessments",
-        "Eliminating the need for clinical practice"
+        "Pre-briefing",
+        "Rubrics",
+        "Group organization",
+        "Case selection"
       ],
       "correctIndex": 1
     },
     {
-      "question": "How does Virtual Reality (VR) primarily benefit nursing students?",
+      "question": "Which skill involves understanding learning theories and instructional design?",
       "options": [
-        "By reducing tuition costs",
-        "By allowing practice in a fully immersive",
-        "By high risk environment",
-        "By providing overlays digital information onto real-world settings"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "What is the core principle of Competency-Based Education (CBE) in nursing?",
-      "options": [
-        "Progress is based on time spent in the program.",
-        "Progress is based on demonstrating mastery of skills.",
-        "It focuses solely on theoretical knowledge.",
-        "It eliminates all standardized testing."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which future role of a nurse educator involves using analytics to track student progress?",
-      "options": [
-        "Global Collaborator",
-        "Ethical Guardian",
-        "Data-Informed Mentor",
-        "Facilitator of Innovation"
+        "Clinical Expertise",
+        "Technological Proficiency",
+        "Pedagogical Skills",
+        "Ethical Leadership"
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is a major benefit of gamification in nursing education?",
+      "question": "What skill is essential for integrating theory with clinical realities?",
       "options": [
-        "It makes learning less structured.",
-        "It increases student engagement.",
-        "It replaces simulation labs.",
-        "It focuses on memorization."
+        "Communication Skills",
+        "Clinical Expertise",
+        "Technological Proficiency",
+        "Ethical Leadership"
       ],
       "correctIndex": 1
     },
     {
-      "question": "What is a key characteristic of microlearning?",
+      "question": "Which skill ensures clear, respectful, and empathetic interaction with students?",
       "options": [
-        "It involves lengthy, comprehensive lectures.",
-        "It consists of short, focused modules.",
-        "It is only used for advanced specialization topics.",
-        "It requires in-person attendance."
+        "Pedagogical Skills",
+        "Communication Skills",
+        "Clinical Expertise",
+        "Ethical Leadership"
       ],
       "correctIndex": 1
     },
     {
-      "question": "In a flipped classroom model, how is class time primarily used?",
+      "question": "In e-learning, the educator does NOT:",
       "options": [
-        "For delivering traditional lectures",
-        "For independent study of new theory",
-        "For discussion and application",
-        "For taking final exams"
+        "Curate digital content",
+        "Monitor student engagement",
+        "Provide face-to-face surgery training",
+        "Give timely feedback"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Which challenge refers to the potential inequality in access to educational technology?",
+      "question": "What is a common challenge for nurse educators?",
       "options": [
-        "AI Bias",
-        "Over-reliance on Tech",
-        "Digital Divide",
-        "Privacy Concerns"
+        "Too many resources",
+        "Student uniformity",
+        "Resistance to change",
+        "Lack of job opportunities"
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is a suggested solution to address the ethical concern of AI bias in educational algorithms?",
+      "question": "Effective nurse educators positively impact students':",
       "options": [
-        "Use only human graders.",
-        "Use transparent and inclusive data sets.",
-        "Avoid using AI altogether.",
-        "Limit AI use to administrative tasks."
+        "Academic success only",
+        "Professional identity",
+        "Financial savings",
+        "Physical strength"
       ],
       "correctIndex": 1
     },
     {
-      "question": "What is one recommendation for educators preparing for the future?",
+      "question": "Which of the following is an outcome of supportive educators?",
       "options": [
-        "Rely exclusively on traditional methods.",
-        "Avoid collaborating internationally to maintain curriculum control.",
-        "Pilot innovations with small groups before full implementation.",
-        "Limit student access to digital tools to prevent over-reliance."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "According to the vision, the future of nursing education should be:",
-      "options": [
-        "Solely technology-driven",
-        "Human-centered, globally connected, and ethically grounded",
-        "Focused only on local healthcare practices",
-        "Centered on competitive examinations"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "What is the simplified definition of Green Nursing?",
-      "options": [
-        "Using only digital records to save paper.",
-        "Follow eco-friendly practices.",
-        "Focusing exclusively on patient health outcomes.",
-        "A nursing specialty for outdoor emergency care."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Why is Green Nursing considered important?",
-      "options": [
-        "It increases the use of single-use plastics for hygiene.",
-        "It helps reduce pollution and save resources.",
-        "It makes nursing care more expensive.",
-        "It simplifies nursing duties by eliminating waste sorting."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which action is an example of a nurse's role in Green Nursing?",
-      "options": [
-        "Always using new, disposable equipment for every patient.",
-        "Leaving lights and equipment on for convenience.",
-        "Using reusable items when possible and recycling properly.",
-        "Prioritizing speed over sustainable practices."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "What does Augmented Reality (AR) do in a clinical training context?",
-      "options": [
-        "Replaces the need for real-world settings entirely.",
-        "Overlays digital information onto real-world settings.",
-        "Allowing practice in a fully immersive settings.",
-        "Creates a completely fictional environment for students."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which benefit of future-oriented strategies is described as tailoring content to individual needs?",
-      "options": [
-        "Global Competence",
-        "Enhanced Engagement",
-        "Personalized Learning",
-        "Skill Mastery"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "What ethical concern is associated with over-reliance on technology in education?",
-      "options": [
-        "Increased cost",
-        "Loss of human connection",
-        "Faster internet requirements",
-        "Loss of data and privacy"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which driver specifically highlights the need for culturally competent nurses?",
-      "options": [
-        "Technological Advancements",
-        "Evolving Patient Needs",
-        "Global Health Challenges",
-        "Shifts in Educational Philosophy"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "What is a primary function of a nurse educator as a \"Facilitator of Innovation\"?",
-      "options": [
-        "Using analytics to track student progress and personalize support.",
-        "Adopting and integrating new technologies into teaching.",
-        "Engaging in international partnerships and virtual exchanges.",
-        "Ensuring that tech-enhanced learning remains humane and inclusive."
-      ],
-      "correctIndex": 1
-    },
-    {
-      "question": "Which strategy combines online and face-to-face learning for flexibility?",
-      "options": [
-        "Microlearning",
-        "Gamification",
-        "Hybrid Classrooms",
-        "Competency-Based Education"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "What is a student example given to illustrate Green Nursing?",
-      "options": [
-        "Using more single-use syringes for safety.",
-        "Printing all patient records daily.",
-        "Using reusable plastic trays instead of single-use ones.",
-        "Recommending longer hot showers for patients."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Which challenge involves the risk of student data being exposed or misused?",
-      "options": [
-        "Digital Divide",
-        "AI Bias",
-        "Over-reliance on Tech",
-        "Privacy"
+        "Increased dropout rates",
+        "Reduced student motivation",
+        "Decreased clinical readiness",
+        "Higher retention and engagement"
       ],
       "correctIndex": 3
     },
     {
-      "question": "What is the recommended way for educators to \"Empower Students\" for the future?",
+      "question": "Nurse educators should continuously improve through:",
       "options": [
-        "By limiting their access to information.",
-        "By teaching digital literacy, ethical reasoning, and adaptability.",
-        "By discouraging self-directed study.",
-        "By focusing assessment solely on memorization."
+        "Reflective teaching",
+        "Avoiding feedback",
+        "Sticking to outdated research",
+        "Working in isolation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Best practices include aligning strategies with:",
+      "options": [
+        "Educator’s preferences",
+        "Objectives and needs",
+        "Financial constraints",
+        "Hospital policies"
       ],
       "correctIndex": 1
     },
     {
-      "question": "The traditional methods of nursing education are considered sufficient to prepare nurses for modern clinical environments.",
+      "question": "In simulation-based learning, the nurse educator’s role includes:",
+      "options": [
+        "Selecting relevant and diverse clinical cases for discussion.",
+        "Organizing group dynamics and mediating conflicts among students.",
+        "Designing realistic scenarios.",
+        "Curating digital content and monitoring online student engagement."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In case-based learning, the educator:",
+      "options": [
+        "Ensures psychological safety during high-fidelity scenarios.",
+        "Provides technical support for e-learning platforms.",
+        "Selects relevant cases and guides discussion.",
+        "Aligns teaching strategies with institutional financial objectives."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In collaborative learning, the educator:",
+      "options": [
+        "Uses rubrics and reflective tools to assess individual performance.",
+        "Modifies teaching strategies based on real-time classroom feedback.",
+        "Organizes group roles and promotes teamwork and peer learning.",
+        "Designs and updates the curriculum to include latest research."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ethical Leadership in teaching promotes:",
+      "options": [
+        "The exclusive use of simulation-based learning for all topics.",
+        "Integrity, fairness, and professionalism in all aspects of teaching.",
+        "Rapid adoption of every new technological tool without evaluation.",
+        "Standardized teaching methods regardless of student diversity."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a best practice for nurse educators?",
+      "options": [
+        "Applying the same lecture-based method to all courses for consistency.",
+        "Using differentiated instruction and fostering an inclusive learning environment.",
+        "Prioritizing research duties over student mentoring and support.",
+        "Avoiding collaboration with peers to maintain independent teaching style."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "How can educators address Student Diversity?",
+      "options": [
+        "By applying the same teaching strategy to ensure equal treatment for all.",
+        "By using only simulation-based learning, as it suits everyone.",
+        "By applying differentiated instruction and inclusive teaching strategies.",
+        "By focusing only on students with the highest academic preparedness."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Technological Proficiency for nurse educators includes:",
+      "options": [
+        "The ability to perform advanced clinical procedures independently.",
+        "Expertise in hospital financial budgeting and resource allocation.",
+        "Use of e-learning platforms, simulation tools, and digital resources."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which responsibility involves using rubrics and reflective tools?",
+      "options": ["Planning", "Execution", "Adaptation", "Evaluation"],
+      "correctIndex": 3
+    },
+    {
+      "question": "The role of a \"Curriculum Developer\" primarily involves:",
+      "options": [
+        "Assessing student performance with standardized tests.",
+        "Designing, updating, and structuring educational content.",
+        "Providing emotional support to struggling students.",
+        "Mediating conflicts during group work activities."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse educator may work in universities not in hospitals or community health programs.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "In Competency-Based Education (CBE), a student's progress is based on the amount of time they have spent in the program.",
+      "question": "The \"Innovator\" role of a nurse educator involves strictly adhering to traditional teaching methods and resisting new technologies.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "Green Nursing aims to make healthcare more environmentally friendly while still providing excellent patient care.",
+      "question": "A suggested response to the challenge of \"Resource Limitations\" is to advocate for funding and utilize low-cost alternative teaching methods.",
       "options": ["True", "False"],
       "correctIndex": 0
     },
     {
-      "question": "A key recommendation for educators is to avoid piloting new technologies and instead implement them across the entire program immediately.",
+      "question": "The primary impact of an effective educator on \"Professional Identity Formation\" is to shape students' clinical skills only.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "One of the future roles of the nurse educator is to act as an \"Ethical Guardian\" to ensure tech-enhanced learning remains humane and inclusive.",
+      "question": "In e-learning, the nurse educator's role includes curating digital content and providing technical support.",
       "options": ["True", "False"],
       "correctIndex": 0
+    },
+    {
+      "question": "\"Pedagogical Skills\" for a nurse educator include the ability to integrate current nursing practice standards with theoretical teaching.",
+      "options": ["True", "False"],
+      "correctIndex": 1
     }
   ]
 }

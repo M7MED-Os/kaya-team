@@ -1,0 +1,270 @@
+{
+  "title": "Simulation-Based",
+  "questions": [
+    {
+      "question": "What is the primary goal of Simulation-Based Learning (SBL) in nursing education?",
+      "options": [
+        "To replace all clinical hours with simulated practice.",
+        "To replicate real-life clinical situations.",
+        "To reduce the cost of nursing education.",
+        "To eliminate the need for theoretical instruction."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following best describes \"high-fidelity simulation\"?",
+      "options": [
+        "Role-playing without any equipment.",
+        "Basic mannequins with limited features.",
+        "Advanced mannequins with integrated software.",
+        "Computer-based scenarios with no physical interaction."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "According to Kolb’s Experiential Learning theory, simulation follows which cycle?",
+      "options": [
+        "Theory → Practice → Assessment → Reflection",
+        "Experience → Reflection → Conceptualization → Application",
+        "Application → Reflection → Conceptualization → Experience",
+        "Application → Conceptualization → Reflection → Experience"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which learning theory emphasizes that adults prefer practical, problem-solving learning?",
+      "options": [
+        "Experiential Learning Theory",
+        "Adult Learning Theory",
+        "Constructivism Theory",
+        "Situated Cognition Theory"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the purpose of \"debriefing\" in a simulation session?",
+      "options": [
+        "To evaluate student performance.",
+        "To provide orientation to objectives.",
+        "To execute the clinical scenario.",
+        "To conduct structured reflection after the simulation."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which component of a simulation session involves structured reflection led by the instructor?",
+      "options": [
+        "Pre-briefing",
+        "Scenario Execution",
+        "Debriefing",
+        "Evaluation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key benefit of Simulation-Based Learning related to error management?",
+      "options": [
+        "It prevents all errors in real clinical settings.",
+        "It allows learners to make mistakes safely.",
+        "Students feel more prepared for real patient care.",
+        "Promotes rapid decision-making under pressure."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which type of simulation uses actors trained to portray patients consistently?",
+      "options": [
+        "Low-Fidelity Simulation",
+        "Virtual Simulation",
+        "Standardized Patients",
+        "Medium-Fidelity Simulation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a major challenge of implementing simulation in nursing education?",
+      "options": [
+        "Lack of educational theories to support it.",
+        "High cost and resource requirements.",
+        "It is less effective than traditional lectures.",
+        "Students prefer not to participate."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which step in designing effective simulation activities involves creating patient data, vital signs, and evolving complications?",
+      "options": [
+        "Define Learning Objectives",
+        "Develop the Scenario",
+        "Prepare Equipment and Roles",
+        "Facilitate the Simulation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which characteristic is NOT a key feature of Simulation-Based Learning?",
+      "options": [
+        "Safe and controlled",
+        "Experiential",
+        "Theoretical and lecture-based",
+        "Reflective"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which type of simulation is best for practicing hand hygiene or vital signs?",
+      "options": [
+        "High-Fidelity Simulation",
+        "Medium-Fidelity Simulation",
+        "Low-Fidelity Simulation",
+        "Virtual Simulation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The theory that \"knowledge is best acquired in context\" underpinning simulation is known as:",
+      "options": [
+        "Adult Learning Theory",
+        "Experiential Learning Theory",
+        "Situated Cognition",
+        "Cognitive Load Theory"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the primary focus during the \"Scenario Execution\" phase?",
+      "options": [
+        "Setting learning objectives and roles",
+        "Decision making, communication",
+        "Providing final grades",
+        "Discusses what happened and why"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which benefit of SBL is described as \"improves psychomotor and cognitive skills through repeated practice\"?",
+      "options": [
+        "Clinical Confidence",
+        "Error Management",
+        "Skill Mastery",
+        "Critical Thinking"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "To address the challenge of \"Faculty Training\" in simulation, what solution is suggested?",
+      "options": [
+        "Use only low-fidelity simulations.",
+        "Provide workshops and peer mentoring.",
+        "Eliminate debriefing sessions.",
+        "Reduce the number of simulation sessions."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In the sample scenario \"Managing a Patient with Acute Respiratory Distress,\" which item is listed as a required material?",
+      "options": [
+        "Standardized patient actor",
+        "Low-fidelity mannequin",
+        "High-fidelity mannequin",
+        "Virtual reality headset"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which benefit of SBL is described as \"makes learners feel more prepared for real patient care\"?",
+      "options": [
+        "Error Management",
+        "Clinical Confidence",
+        "Critical Thinking",
+        "Teamwork and Communication"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which benefit of SBL is described as \"enhances collaboration and leadership among learners\"?",
+      "options": [
+        "Skill Mastery",
+        "Emotional Preparedness",
+        "Teamwork and Communication",
+        "Clinical Confidence"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The evaluation component of a simulation session can include:",
+      "options": [
+        "Only instructor grading",
+        "Self-assessment, peer feedback, and instructor grading",
+        "Only peer feedback",
+        "Only reflective writing without grading"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which phase of simulation directly helps in reducing student anxiety?",
+      "options": [
+        "Evaluation",
+        "Scenario Execution",
+        "Pre-briefing",
+        "Debriefing"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "An example of a skill practiced in medium-fidelity simulation is:",
+      "options": [
+        "Managing cardiac arrest",
+        "Diagnosing a virtual patient",
+        "Administering injections",
+        "Conducting a mental health assessment with an actor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The final step in the step-by-step guide for designing simulation activities is:",
+      "options": [
+        "Define Learning Objectives",
+        "Develop the Scenario",
+        "Evaluate Performance",
+        "Conduct Debriefing"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a benefit related to the emotional aspect of nursing education through simulation?",
+      "options": [
+        "Teamwork and Communication",
+        "Error Management",
+        "Emotional Preparedness",
+        "Skill Mastery"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Simulation-Based Learning can only be conducted using high-fidelity mannequins.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pre-briefing is a structured reflection session that occurs after the simulation scenario to discuss performance and improvement.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Adult Learning Theory suggests that adults learn best through passive listening to lectures.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "A key characteristic of Simulation-Based Learning is that it involves real patient risk for the sake of authenticity.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Including diverse patient populations and ethical dilemmas in scenarios is an important ethical and cultural consideration in simulation design.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    }
+  ]
+}

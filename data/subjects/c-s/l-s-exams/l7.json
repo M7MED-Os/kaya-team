@@ -1,268 +1,268 @@
 {
-  "title": "Simulation-Based",
+  "title": "Future Trends",
   "questions": [
     {
-      "question": "What is the primary goal of Simulation-Based Learning (SBL) in nursing education?",
+      "question": "Which of the following is NOT listed as a primary driver of change in nursing education?",
       "options": [
-        "To replace all clinical hours with simulated practice.",
-        "To replicate real-life clinical situations.",
-        "To reduce the cost of nursing education.",
-        "To eliminate the need for theoretical instruction."
+        "Technological Advancements",
+        "Global Health Challenges",
+        "Decreasing patient numbers",
+        "Evolving Patient Needs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a key application of Artificial Intelligence (AI) in nursing education?",
+      "options": [
+        "Providing delayed feedback",
+        "Personalizing learning paths",
+        "Conducting physical patient assessments",
+        "Eliminating the need for clinical practice"
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which of the following best describes \"high-fidelity simulation\"?",
+      "question": "How does Virtual Reality (VR) primarily benefit nursing students?",
       "options": [
-        "Role-playing without any equipment.",
-        "Basic mannequins with limited features.",
-        "Advanced mannequins with integrated software.",
-        "Computer-based scenarios with no physical interaction."
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "According to Kolb’s Experiential Learning theory, simulation follows which cycle?",
-      "options": [
-        "Theory → Practice → Assessment → Reflection",
-        "Experience → Reflection → Conceptualization → Application",
-        "Application → Reflection → Conceptualization → Experience",
-        "Application → Conceptualization → Reflection → Experience"
+        "By reducing tuition costs",
+        "By allowing practice in a fully immersive",
+        "By high risk environment",
+        "By providing overlays digital information onto real-world settings"
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which learning theory emphasizes that adults prefer practical, problem-solving learning?",
+      "question": "What is the core principle of Competency-Based Education (CBE) in nursing?",
       "options": [
-        "Experiential Learning Theory",
-        "Adult Learning Theory",
-        "Constructivism Theory",
-        "Situated Cognition Theory"
+        "Progress is based on time spent in the program.",
+        "Progress is based on demonstrating mastery of skills.",
+        "It focuses solely on theoretical knowledge.",
+        "It eliminates all standardized testing."
       ],
       "correctIndex": 1
     },
     {
-      "question": "What is the purpose of \"debriefing\" in a simulation session?",
+      "question": "Which future role of a nurse educator involves using analytics to track student progress?",
       "options": [
-        "To evaluate student performance.",
-        "To provide orientation to objectives.",
-        "To execute the clinical scenario.",
-        "To conduct structured reflection after the simulation."
-      ],
-      "correctIndex": 3
-    },
-    {
-      "question": "Which component of a simulation session involves structured reflection led by the instructor?",
-      "options": [
-        "Pre-briefing",
-        "Scenario Execution",
-        "Debriefing",
-        "Evaluation"
+        "Global Collaborator",
+        "Ethical Guardian",
+        "Data-Informed Mentor",
+        "Facilitator of Innovation"
       ],
       "correctIndex": 2
     },
     {
-      "question": "What is a key benefit of Simulation-Based Learning related to error management?",
+      "question": "What is a major benefit of gamification in nursing education?",
       "options": [
-        "It prevents all errors in real clinical settings.",
-        "It allows learners to make mistakes safely.",
-        "Students feel more prepared for real patient care.",
-        "Promotes rapid decision-making under pressure."
+        "It makes learning less structured.",
+        "It increases student engagement.",
+        "It replaces simulation labs.",
+        "It focuses on memorization."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which type of simulation uses actors trained to portray patients consistently?",
+      "question": "What is a key characteristic of microlearning?",
       "options": [
-        "Low-Fidelity Simulation",
-        "Virtual Simulation",
-        "Standardized Patients",
-        "Medium-Fidelity Simulation"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "What is a major challenge of implementing simulation in nursing education?",
-      "options": [
-        "Lack of educational theories to support it.",
-        "High cost and resource requirements.",
-        "It is less effective than traditional lectures.",
-        "Students prefer not to participate."
+        "It involves lengthy, comprehensive lectures.",
+        "It consists of short, focused modules.",
+        "It is only used for advanced specialization topics.",
+        "It requires in-person attendance."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which step in designing effective simulation activities involves creating patient data, vital signs, and evolving complications?",
+      "question": "In a flipped classroom model, how is class time primarily used?",
       "options": [
-        "Define Learning Objectives",
-        "Develop the Scenario",
-        "Prepare Equipment and Roles",
-        "Facilitate the Simulation"
+        "For delivering traditional lectures",
+        "For independent study of new theory",
+        "For discussion and application",
+        "For taking final exams"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which challenge refers to the potential inequality in access to educational technology?",
+      "options": [
+        "AI Bias",
+        "Over-reliance on Tech",
+        "Digital Divide",
+        "Privacy Concerns"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a suggested solution to address the ethical concern of AI bias in educational algorithms?",
+      "options": [
+        "Use only human graders.",
+        "Use transparent and inclusive data sets.",
+        "Avoid using AI altogether.",
+        "Limit AI use to administrative tasks."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which characteristic is NOT a key feature of Simulation-Based Learning?",
+      "question": "What is one recommendation for educators preparing for the future?",
       "options": [
-        "Safe and controlled",
-        "Experiential",
-        "Theoretical and lecture-based",
-        "Reflective"
+        "Rely exclusively on traditional methods.",
+        "Avoid collaborating internationally to maintain curriculum control.",
+        "Pilot innovations with small groups before full implementation.",
+        "Limit student access to digital tools to prevent over-reliance."
       ],
       "correctIndex": 2
     },
     {
-      "question": "Which type of simulation is best for practicing hand hygiene or vital signs?",
+      "question": "According to the vision, the future of nursing education should be:",
       "options": [
-        "High-Fidelity Simulation",
-        "Medium-Fidelity Simulation",
-        "Low-Fidelity Simulation",
-        "Virtual Simulation"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "The theory that \"knowledge is best acquired in context\" underpinning simulation is known as:",
-      "options": [
-        "Adult Learning Theory",
-        "Experiential Learning Theory",
-        "Situated Cognition",
-        "Cognitive Load Theory"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "What is the primary focus during the \"Scenario Execution\" phase?",
-      "options": [
-        "Setting learning objectives and roles",
-        "Decision making, communication",
-        "Providing final grades",
-        "Discusses what happened and why"
+        "Solely technology-driven",
+        "Human-centered, globally connected, and ethically grounded",
+        "Focused only on local healthcare practices",
+        "Centered on competitive examinations"
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which benefit of SBL is described as \"improves psychomotor and cognitive skills through repeated practice\"?",
+      "question": "What is the simplified definition of Green Nursing?",
       "options": [
-        "Clinical Confidence",
-        "Error Management",
-        "Skill Mastery",
-        "Critical Thinking"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "To address the challenge of \"Faculty Training\" in simulation, what solution is suggested?",
-      "options": [
-        "Use only low-fidelity simulations.",
-        "Provide workshops and peer mentoring.",
-        "Eliminate debriefing sessions.",
-        "Reduce the number of simulation sessions."
+        "Using only digital records to save paper.",
+        "Follow eco-friendly practices.",
+        "Focusing exclusively on patient health outcomes.",
+        "A nursing specialty for outdoor emergency care."
       ],
       "correctIndex": 1
     },
     {
-      "question": "In the sample scenario \"Managing a Patient with Acute Respiratory Distress,\" which item is listed as a required material?",
+      "question": "Why is Green Nursing considered important?",
       "options": [
-        "Standardized patient actor",
-        "Low-fidelity mannequin",
-        "High-fidelity mannequin",
-        "Virtual reality headset"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Which benefit of SBL is described as \"makes learners feel more prepared for real patient care\"?",
-      "options": [
-        "Error Management",
-        "Clinical Confidence",
-        "Critical Thinking",
-        "Teamwork and Communication"
+        "It increases the use of single-use plastics for hygiene.",
+        "It helps reduce pollution and save resources.",
+        "It makes nursing care more expensive.",
+        "It simplifies nursing duties by eliminating waste sorting."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which benefit of SBL is described as \"enhances collaboration and leadership among learners\"?",
+      "question": "Which action is an example of a nurse's role in Green Nursing?",
       "options": [
-        "Skill Mastery",
-        "Emotional Preparedness",
-        "Teamwork and Communication",
-        "Clinical Confidence"
+        "Always using new, disposable equipment for every patient.",
+        "Leaving lights and equipment on for convenience.",
+        "Using reusable items when possible and recycling properly.",
+        "Prioritizing speed over sustainable practices."
       ],
       "correctIndex": 2
     },
     {
-      "question": "The evaluation component of a simulation session can include:",
+      "question": "What does Augmented Reality (AR) do in a clinical training context?",
       "options": [
-        "Only instructor grading",
-        "Self-assessment, peer feedback, and instructor grading",
-        "Only peer feedback",
-        "Only reflective writing without grading"
+        "Replaces the need for real-world settings entirely.",
+        "Overlays digital information onto real-world settings.",
+        "Allowing practice in a fully immersive settings.",
+        "Creates a completely fictional environment for students."
       ],
       "correctIndex": 1
     },
     {
-      "question": "Which phase of simulation directly helps in reducing student anxiety?",
+      "question": "Which benefit of future-oriented strategies is described as tailoring content to individual needs?",
       "options": [
-        "Evaluation",
-        "Scenario Execution",
-        "Pre-briefing",
-        "Debriefing"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "An example of a skill practiced in medium-fidelity simulation is:",
-      "options": [
-        "Managing cardiac arrest",
-        "Diagnosing a virtual patient",
-        "Administering injections",
-        "Conducting a mental health assessment with an actor"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "The final step in the step-by-step guide for designing simulation activities is:",
-      "options": [
-        "Define Learning Objectives",
-        "Develop the Scenario",
-        "Evaluate Performance",
-        "Conduct Debriefing"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "question": "Which of the following is a benefit related to the emotional aspect of nursing education through simulation?",
-      "options": [
-        "Teamwork and Communication",
-        "Error Management",
-        "Emotional Preparedness",
+        "Global Competence",
+        "Enhanced Engagement",
+        "Personalized Learning",
         "Skill Mastery"
       ],
       "correctIndex": 2
     },
     {
-      "question": "Simulation-Based Learning can only be conducted using high-fidelity mannequins.",
+      "question": "What ethical concern is associated with over-reliance on technology in education?",
+      "options": [
+        "Increased cost",
+        "Loss of human connection",
+        "Faster internet requirements",
+        "Loss of data and privacy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which driver specifically highlights the need for culturally competent nurses?",
+      "options": [
+        "Technological Advancements",
+        "Evolving Patient Needs",
+        "Global Health Challenges",
+        "Shifts in Educational Philosophy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a primary function of a nurse educator as a \"Facilitator of Innovation\"?",
+      "options": [
+        "Using analytics to track student progress and personalize support.",
+        "Adopting and integrating new technologies into teaching.",
+        "Engaging in international partnerships and virtual exchanges.",
+        "Ensuring that tech-enhanced learning remains humane and inclusive."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which strategy combines online and face-to-face learning for flexibility?",
+      "options": [
+        "Microlearning",
+        "Gamification",
+        "Hybrid Classrooms",
+        "Competency-Based Education"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a student example given to illustrate Green Nursing?",
+      "options": [
+        "Using more single-use syringes for safety.",
+        "Printing all patient records daily.",
+        "Using reusable plastic trays instead of single-use ones.",
+        "Recommending longer hot showers for patients."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which challenge involves the risk of student data being exposed or misused?",
+      "options": [
+        "Digital Divide",
+        "AI Bias",
+        "Over-reliance on Tech",
+        "Privacy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "What is the recommended way for educators to \"Empower Students\" for the future?",
+      "options": [
+        "By limiting their access to information.",
+        "By teaching digital literacy, ethical reasoning, and adaptability.",
+        "By discouraging self-directed study.",
+        "By focusing assessment solely on memorization."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "The traditional methods of nursing education are considered sufficient to prepare nurses for modern clinical environments.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "Pre-briefing is a structured reflection session that occurs after the simulation scenario to discuss performance and improvement.",
+      "question": "In Competency-Based Education (CBE), a student's progress is based on the amount of time they have spent in the program.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "Adult Learning Theory suggests that adults learn best through passive listening to lectures.",
+      "question": "Green Nursing aims to make healthcare more environmentally friendly while still providing excellent patient care.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "A key recommendation for educators is to avoid piloting new technologies and instead implement them across the entire program immediately.",
       "options": ["True", "False"],
       "correctIndex": 1
     },
     {
-      "question": "A key characteristic of Simulation-Based Learning is that it involves real patient risk for the sake of authenticity.",
-      "options": ["True", "False"],
-      "correctIndex": 1
-    },
-    {
-      "question": "Including diverse patient populations and ethical dilemmas in scenarios is an important ethical and cultural consideration in simulation design.",
+      "question": "One of the future roles of the nurse educator is to act as an \"Ethical Guardian\" to ensure tech-enhanced learning remains humane and inclusive.",
       "options": ["True", "False"],
       "correctIndex": 0
     }
