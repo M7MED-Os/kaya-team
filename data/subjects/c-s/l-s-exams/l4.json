@@ -1,0 +1,350 @@
+{
+  "title": "Active Learning",
+  "questions": [
+    {
+      "question": "What is the primary focus of active learning in nursing education?",
+      "options": [
+        "Memorization of facts",
+        "Passive listening to lectures",
+        "Active engagement and reflection",
+        "Strict adherence to textbooks"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "In active learning, the teacher’s role shifts to:",
+      "options": [
+        "Knowledge transmitter",
+        "Facilitator",
+        "Examiner",
+        "Disciplinarian"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a traditional teaching strategy?",
+      "options": [
+        "Case-based learning",
+        "Role-playing",
+        "Rote memorization",
+        "Simulation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Active learning is best described as:",
+      "options": [
+        "Teacher-centered",
+        "Student-centered",
+        "Exam-focused",
+        "Content-heavy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which theory emphasizes that learners build knowledge through experience and social interaction?",
+      "options": ["Behaviorism", "Constructivism", "Cognitivism", "Humanism"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Experiential Learning Theory (Kolb) describes learning as a cycle that includes:",
+      "options": [
+        "Lecture → Exam → Feedback",
+        "Experience → Reflection → Conceptualization → Experimentation",
+        "Reading → Writing → Testing",
+        "Listening → Memorizing → Reciting"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which active learning strategy uses mannequins or virtual reality?",
+      "options": [
+        "Case-Based Learning",
+        "Peer Teaching",
+        "Simulation-Based Learning",
+        "Think-Pair-Share"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Problem-Based Learning (PBL) primarily encourages:",
+      "options": [
+        "Memorization",
+        "Inquiry and self-directed learning",
+        "Passive listening",
+        "Individual competition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which strategy involves students acting out clinical or ethical situations?",
+      "options": [
+        "Concept Mapping",
+        "Role-Playing",
+        "Debates",
+        "Peer Teaching"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Think-Pair-Share involves:",
+      "options": [
+        "Lecturing then testing",
+        "Individual reflection → peer discussion → group sharing",
+        "Watching a video alone",
+        "Writing an essay independently"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Concept mapping helps students to:",
+      "options": [
+        "Memorize terms quickly",
+        "Organize and connect ideas visually",
+        "Practice public speaking",
+        "Take multiple-choice tests"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In a flipped classroom, students:",
+      "options": [
+        "Only listen to lectures in class",
+        "Review content at home and apply it in class",
+        "Take exams every week",
+        "Learn only from textbooks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a benefit of active learning?",
+      "options": [
+        "Reduced student engagement",
+        "Lower retention of knowledge",
+        "Improved critical thinking",
+        "Increased teacher talking time"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Active learning aligns well with Adult Learning Theory because:",
+      "options": [
+        "Adults prefer passive learning",
+        "Adults are self-directed and motivated by relevance",
+        "Adults dislike group work",
+        "Adults learn only from lectures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Bloom’s Taxonomy is used in active learning to encourage:",
+      "options": [
+        "Rote memorization",
+        "Higher-order thinking (analysis, synthesis, evaluation)",
+        "Simple recall of facts",
+        "Repetition of tasks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a challenge of implementing active learning?",
+      "options": [
+        "Increased student motivation",
+        "Faculty resistance",
+        "Reduced need for resources",
+        "Simpler assessment methods"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "To address student anxiety in active learning, educators should:",
+      "options": [
+        "Avoid group activities",
+        "Create a safe and supportive environment",
+        "Increase lecture time",
+        "Focus only on exams"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which active learning strategy involves students teaching each other under supervision?",
+      "options": [
+        "Simulation",
+        "Peer Teaching",
+        "Debates",
+        "Case-Based Learning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Active learning in clinical training can include:",
+      "options": [
+        "Only watching procedures",
+        "Real-time reflection during clinical rounds",
+        "Avoiding patient interaction",
+        "Memorizing protocols only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a low-cost alternative to high-fidelity simulation?",
+      "options": [
+        "Virtual reality only",
+        "Role-playing",
+        "Expensive mannequins",
+        "Online lectures only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In active learning, assessment often includes:",
+      "options": [
+        "Only multiple-choice exams",
+        "Rubrics, reflective journals, and peer evaluations",
+        "Only final exams",
+        "Only teacher-centered evaluations"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which strategy is useful for exploring ethical issues in nursing?",
+      "options": [
+        "Rote memorization",
+        "Debates and structured discussions",
+        "Passive listening",
+        "Textbook worksheets"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Active learning encourages students to be:",
+      "options": [
+        "Passive recipients",
+        "Active participants",
+        "Isolated learners",
+        "Dependent on the teacher"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which characteristic is NOT typical of active learning?",
+      "options": [
+        "Interactive",
+        "Reflective",
+        "Teacher-centered",
+        "Experiential"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "The theoretical foundation of active learning does NOT include:",
+      "options": [
+        "Constructivism",
+        "Behaviorism",
+        "Experiential Learning",
+        "Adult Learning Theory"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which activity is an example of Case-Based Learning?",
+      "options": [
+        "Simulating a resuscitation scenario",
+        "Analyzing a patient with multi-organ failure",
+        "Debating the use of restraints",
+        "Memorizing drug names"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Peer teaching helps to:",
+      "options": [
+        "Reinforce understanding and build leadership",
+        "Increase teacher workload",
+        "Reduce student interaction",
+        "Focus only on exams"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which is a key step in designing active learning activities?",
+      "options": [
+        "Avoid planning",
+        "Define objectives first",
+        "Use only lectures",
+        "Avoid student feedback"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Active learning in online education can include:",
+      "options": [
+        "Only reading materials",
+        "Discussion forums and virtual simulations",
+        "No interaction",
+        "Only recorded lectures"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a benefit of active learning related to clinical preparedness?",
+      "options": [
+        "Students feel less prepared",
+        "Simulations mimic real-life scenarios",
+        "Students avoid clinical practice",
+        "Theory is separated from practice"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Active learning strategies focus only on memorization.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In traditional learning, the student’s role is passive recipient.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Simulation-based learning can include the use of standardized patients.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Active learning is not suitable for adult learners.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Concept mapping is a visual tool to organize ideas.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Faculty resistance is not a challenge in implementing active learning.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Active learning requires less classroom time than traditional lectures.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Debates and structured discussions can help develop reasoning skills.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Active learning assessment is always objective and easy to measure.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Peer teaching can only be done by teachers, not students.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
