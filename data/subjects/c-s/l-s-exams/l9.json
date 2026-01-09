@@ -1,0 +1,270 @@
+{
+  "title": "Role of Nursing Educator",
+  "questions": [
+    {
+      "question": "Which of the following is NOT listed as a core role of the nurse educator?",
+      "options": [
+        "Curriculum Developer",
+        "Financial Manager",
+        "Facilitator of Learning",
+        "Mentor and Role Model"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "A nurse educator is best defined as:",
+      "options": [
+        "A registered nurse who only works in hospitals.",
+        "A registered nurse with advanced education in teaching and curriculum development.",
+        "A nursing assistant who teaches basic skills.",
+        "A physician who trains nurses."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which core role involves designing and updating educational content?",
+      "options": [
+        "Evaluator",
+        "Innovator",
+        "Curriculum Developer",
+        "Facilitator of Learning"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which responsibility involves modifying teaching strategies based on feedback?",
+      "options": ["Planning", "Execution", "Adaptation", "Evaluation"],
+      "correctIndex": 2
+    },
+    {
+      "question": "The responsibility of aligning teaching strategies with learning objectives is part of:",
+      "options": ["Support", "Planning", "Evaluation", "Execution"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is a method used in the Evaluation responsibility?",
+      "options": [
+        "Pre-briefing",
+        "Rubrics",
+        "Group organization",
+        "Case selection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which skill involves understanding learning theories and instructional design?",
+      "options": [
+        "Clinical Expertise",
+        "Technological Proficiency",
+        "Pedagogical Skills",
+        "Ethical Leadership"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What skill is essential for integrating theory with clinical realities?",
+      "options": [
+        "Communication Skills",
+        "Clinical Expertise",
+        "Technological Proficiency",
+        "Ethical Leadership"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which skill ensures clear, respectful, and empathetic interaction with students?",
+      "options": [
+        "Pedagogical Skills",
+        "Communication Skills",
+        "Clinical Expertise",
+        "Ethical Leadership"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Technological Proficiency for nurse educators includes:",
+      "options": [
+        "Performing advanced surgery",
+        "Using e-learning platforms and simulation tools",
+        "Financial budgeting",
+        "Architectural drafting"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ethical Leadership in teaching promotes:",
+      "options": [
+        "Speed and efficiency",
+        "Integrity, fairness, and professionalism",
+        "Strict discipline only",
+        "Use of traditional methods only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In simulation-based learning, the nurse educator’s role includes:",
+      "options": [
+        "Selecting financial cases",
+        "Designing realistic scenarios and facilitating debriefing",
+        "Grading written exams only",
+        "Avoiding student interaction"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In case-based learning, the educator:",
+      "options": [
+        "Avoids discussion",
+        "Selects relevant cases and guides critical thinking",
+        "Only lectures",
+        "Does not encourage ethical reflection"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In collaborative learning, the educator:",
+      "options": [
+        "Prevents group work",
+        "Organizes group dynamics and mediates conflicts",
+        "Teaches only individually",
+        "Avoids peer learning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "In e-learning, the educator does NOT:",
+      "options": [
+        "Curate digital content",
+        "Monitor student engagement",
+        "Provide face-to-face surgery training",
+        "Give timely feedback"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is a common challenge for nurse educators?",
+      "options": [
+        "Too many resources",
+        "Student uniformity",
+        "Resistance to change",
+        "Lack of job opportunities"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which response is suggested for Resource Limitations?",
+      "options": [
+        "Ignore the issue",
+        "Use only expensive tools",
+        "Use low-cost alternatives and advocate for funding",
+        "Stop teaching"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How can educators address Student Diversity?",
+      "options": [
+        "Apply the same method to all",
+        "Use differentiated instruction and inclusive strategies",
+        "Exclude unprepared students",
+        "Teach only one learning style"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "To prevent Workload and Burnout, educators should:",
+      "options": [
+        "Avoid all responsibilities",
+        "Work alone without delegation",
+        "Use time management and seek institutional support",
+        "Only teach and avoid clinical duties"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Effective nurse educators positively impact students':",
+      "options": [
+        "Academic success only",
+        "Professional identity formation and clinical readiness",
+        "Financial savings",
+        "Physical strength only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is an outcome of supportive educators?",
+      "options": [
+        "Increased dropout rates",
+        "Reduced student motivation",
+        "Decreased clinical readiness",
+        "Higher retention and engagement"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "question": "Educator effectiveness helps shape students':",
+      "options": [
+        "Hobbies only",
+        "Values and attitudes (professional identity)",
+        "Family background",
+        "Dietary preferences"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is a best practice for nurse educators?",
+      "options": [
+        "Use only one teaching strategy",
+        "Avoid collaboration with peers",
+        "Foster an inclusive and interactive learning environment",
+        "Never update teaching methods"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Nurse educators should continuously improve through:",
+      "options": [
+        "Reflective teaching",
+        "Avoiding feedback",
+        "Sticking to outdated research",
+        "Working in isolation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "question": "Best practices include aligning strategies with:",
+      "options": [
+        "Only the educator’s preferences",
+        "Course objectives and student needs",
+        "Financial constraints only",
+        "Hospital policies only"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: The nurse educator’s role is limited to transmitting knowledge in a classroom setting.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: A nurse educator may work in universities, hospitals, or community health programs.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: Pedagogical skills include the ability to perform advanced surgical procedures.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    },
+    {
+      "question": "True or False: In simulation-based learning, the educator ensures psychological safety and ethical sensitivity.",
+      "options": ["True", "False"],
+      "correctIndex": 0
+    },
+    {
+      "question": "True or False: Best practices for nurse educators include avoiding collaboration with peers.",
+      "options": ["True", "False"],
+      "correctIndex": 1
+    }
+  ]
+}
