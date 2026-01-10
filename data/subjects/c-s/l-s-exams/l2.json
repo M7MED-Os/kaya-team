@@ -157,12 +157,7 @@
     },
     {
       "question": "Which step in demonstration method ensures students understand difficult steps?",
-      "options": [
-        "Evaluation",
-        "Follow-up",
-        "Discussion / clarification",
-        "Preparation"
-      ],
+      "options": ["Evaluation", "Follow-up", "Clarification", "Preparation"],
       "correctIndex": 2
     },
     {
@@ -190,7 +185,7 @@
       "options": [
         "Developing critical thinking",
         "Teaching psychomotor skills",
-        "Delivering large amounts of information to a large group",
+        "Large group and content",
         "Encouraging student interaction"
       ],
       "correctIndex": 2
@@ -225,7 +220,7 @@
       "options": [
         "Students passively receive information",
         "Teacher controls all learning activities",
-        "Learning focuses on students’ needs and active participation",
+        "Focuses on students’ needs",
         "Emphasis is on memorization"
       ],
       "correctIndex": 2
@@ -345,7 +340,7 @@
       "options": [
         "Theoretical knowledge only",
         "Communication skills only",
-        "Clinical competence through structured stations",
+        "Clinical competence",
         "Student attendance"
       ],
       "correctIndex": 2
