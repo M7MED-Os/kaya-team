@@ -65,7 +65,7 @@
       "question": "When is a model most appropriately used?",
       "options": [
         "When teaching historical events",
-        "When the real object is unavailable, too large, or cannot be brought to class",
+        "When the real object is unavailable",
         "When only audio instruction is needed",
         "When explaining climate patterns"
       ],
@@ -120,7 +120,7 @@
       "question": "A flip chart is best defined as:",
       "options": [
         "A single poster with one idea",
-        "A series of large papers attached at the top, presented sequentially",
+        "A series of large papers attached at the top",
         "A digital slideshow",
         "A collection of real objects"
       ],
@@ -175,7 +175,7 @@
       "question": "A pamphlet is characterized as:",
       "options": [
         "A thick, hardcover reference book",
-        "A very thin book with a paper cover, inexpensive to distribute",
+        "A very thin book with a paper cover",
         "An interactive digital document",
         "A large wall poster"
       ],
@@ -184,9 +184,9 @@
     {
       "question": "When explaining the development and growth of a child, which visual aid would be most comprehensive?",
       "options": [
-        "A single poster",
+        "A poster",
         "A sketch on a whiteboard",
-        "A display with multiple items and ideas",
+        "A display",
         "An audio recording"
       ],
       "correctIndex": 2
@@ -236,7 +236,7 @@
       "options": [
         "Historical narratives",
         "Marketing information",
-        "Practical instructions on how to do or use something",
+        "Practical instructions",
         "Theoretical philosophies"
       ],
       "correctIndex": 2
@@ -250,16 +250,6 @@
         "Electronic media"
       ],
       "correctIndex": 2
-    },
-    {
-      "question": "In the context of the 'New To Of Prioritization' note, what theoretical framework is mentioned in relation to nursing care?",
-      "options": [
-        "Bloom's Taxonomy",
-        "Maslow's Hierarchy of Needs",
-        "Piaget's Stages of Development",
-        "Kolb's Learning Cycle"
-      ],
-      "correctIndex": 1
     },
     {
       "question": "True or False: Teaching materials are defined as only digital resources used in teaching.",
